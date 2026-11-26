@@ -279,7 +279,7 @@ footer nav a:hover{color:var(--accent)}
       <b id="temp">--°</b>
       <select id="ciudad" aria-label="Ciudad para ver el clima"></select>
     </label>
-    <button class="radio" id="radio" type="button" aria-pressed="false" title="Escuchar música en vivo (Ibiza Global Radio)">
+    <button class="radio" id="radio" type="button" aria-pressed="false" title="Escuchar música de los 80 en vivo (181.FM Awesome 80's)">
       <span class="radio-ico" id="radioIco" aria-hidden="true"></span>
       <span class="radio-txt" id="radioTxt">Música en vivo</span>
       <span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>
@@ -511,9 +511,9 @@ async function cargarClima(){
 selCiudad.addEventListener("change",()=>{try{localStorage.setItem("enlace-ciudad",selCiudad.value)}catch(e){}pintarClima()});
 cargarClima(); setInterval(cargarClima,15*60*1000);
 
-/* ---------- Radio house en vivo (Ibiza Global Radio) ---------- */
+/* ---------- Música en vivo: radio de los 80 (181.FM Awesome 80's) ---------- */
 (function(){
-  const RADIO_URL="https://listenssl.ibizaglobalradio.com:8024/ibizaglobalradio.mp3";
+  const RADIO_URL="https://listen.181fm.com/181-awesome80s_128k.mp3";
   const btn=document.getElementById("radio"), audio=document.getElementById("radioAudio");
   const ico=document.getElementById("radioIco"), txt=document.getElementById("radioTxt");
   const PLAY='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 4.5v15l13-7.5z"/></svg>';
@@ -534,7 +534,7 @@ cargarClima(); setInterval(cargarClima,15*60*1000);
   audio.addEventListener("playing",()=>estado("sonando"));
   audio.addEventListener("error",()=>{ if(audio.getAttribute("src")){ estado("error"); setTimeout(()=>estado("parado"),3000); } });
   if("mediaSession" in navigator){
-    try{ navigator.mediaSession.metadata=new MediaMetadata({title:"Música en vivo",artist:"Ibiza Global Radio",album:"Enlace Chubut"}); }catch(e){}
+    try{ navigator.mediaSession.metadata=new MediaMetadata({title:"Música de los 80 en vivo",artist:"181.FM Awesome 80's",album:"Enlace Chubut"}); }catch(e){}
   }
   estado("parado");
 })();
