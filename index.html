@@ -1,0 +1,552 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Enlace Chubut, portal de noticias: la actualidad de la provincia del Chubut, de la cordillera al mar.">
+<meta property="og:title" content="Enlace Chubut &middot; Portal de noticias">
+<meta property="og:description" content="Noticias de la provincia del Chubut, de la cordillera al mar.">
+<meta property="og:image" content="https://enlacechubut.com.ar/logo/enlace-chubut-compartir.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="apple-touch-icon" href="logo/enlace-chubut-icono.png">
+<style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style><title>Enlace Chubut</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Barlow:wght@300;500;600&family=Montserrat:wght@600;700;800&display=swap">
+<style>
+/* Portal de noticias: barra superior fija, cabecera con logo centrado, agenda provincial en tarjetas, portada 2+1, grillas de 4 columnas y lector de notas a pantalla completa */
+:root{
+  --bg:#ffffff; --fg:#1f1f1f; --muted:#5c6570; --line:#e2e6ea; --soft:#f3f5f7;
+  --accent:#0b6e99; --accent-soft:#e3f0f6; --special:#eef5f9; --alert:#c2410c; --up:#15803d;
+  --mark-line:#ffffff; --beat:#f97316; --logo-sub:#5c6f7a; --logo-linea:#d3dde3;
+  --font-body:"Roboto",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+  --font-logo:"Barlow","Roboto",system-ui,sans-serif;
+  --wrap:1180px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#121417; --fg:#eceef1; --muted:#a3acb6; --line:#2a2f36; --soft:#1b1f24;
+    --accent:#5bb8e0; --accent-soft:#16303d; --special:#16232b; --alert:#fb923c; --up:#4ade80;
+    --mark-line:#0d1a21; --beat:#fb923c; --logo-sub:#dce8ed; --logo-linea:#edf5f8;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#121417; --fg:#eceef1; --muted:#a3acb6; --line:#2a2f36; --soft:#1b1f24;
+  --accent:#5bb8e0; --accent-soft:#16303d; --special:#16232b; --alert:#fb923c; --up:#4ade80;
+  --mark-line:#0d1a21; --beat:#fb923c; --logo-sub:#dce8ed; --logo-linea:#edf5f8;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--font-body);font-size:16px;line-height:1.35}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:60;background:var(--bg)}
+body.leyendo{overflow:hidden}
+a{color:inherit;text-decoration:none}
+a:hover h2,a:hover h3{color:var(--accent)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+.wrap{max-width:var(--wrap);margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2,h3{margin:0;font-weight:700;text-wrap:balance}
+
+/* Barra superior */
+.topbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:50;background:var(--bg);border-bottom:1px solid var(--line)}
+.topbar .wrap{display:flex;align-items:center;gap:20px;height:52px}
+.burger{background:none;border:0;color:var(--fg);cursor:pointer;padding:6px;display:grid;place-items:center}
+.minilogo{display:none;flex:none}
+.topbar.compact .minilogo{display:block}
+.today{font-size:14px;color:var(--fg);white-space:nowrap}
+/* Hora y clima */
+.hora{font-size:14px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
+.clima{display:inline-flex;align-items:center;gap:6px;font-size:14px;white-space:nowrap;padding-left:14px;border-left:1px solid var(--line)}
+.clima b{font-weight:700;font-variant-numeric:tabular-nums;font-size:15px}
+.clima-ico{display:inline-flex;color:var(--beat)}
+.clima-ico svg{width:20px;height:20px}
+.clima select{border:0;background:transparent;color:var(--fg);font:700 13px var(--font-body);text-transform:uppercase;letter-spacing:.3px;cursor:pointer;padding:2px 0;max-width:140px;field-sizing:content}
+.clima select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+/* Botón de radio house */
+.radio{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:999px;padding:6px 12px 6px 8px;font:700 12px var(--font-body);text-transform:uppercase;letter-spacing:.4px;cursor:pointer;white-space:nowrap;flex:none}
+.radio:hover{border-color:var(--beat)}
+.radio-ico{display:grid;place-items:center;width:22px;height:22px;border-radius:50%;background:var(--beat);color:#fff}
+.radio-ico svg{width:11px;height:11px}
+.radio .eq{display:none;align-items:flex-end;gap:2px;height:12px}
+.radio .eq i{display:block;width:3px;height:4px;background:var(--beat);border-radius:1px}
+.radio.sonando{border-color:var(--beat)}
+.radio.sonando .eq{display:inline-flex}
+.radio.cargando .radio-ico{opacity:.6}
+@media (prefers-reduced-motion:no-preference){
+  .radio.sonando .eq i{animation:eq .9s ease-in-out infinite alternate}
+  .radio.sonando .eq i:nth-child(2){animation-delay:-.3s}
+  .radio.sonando .eq i:nth-child(3){animation-delay:-.6s}
+}
+@keyframes eq{from{height:3px}to{height:12px}}
+.radio.sonando .eq i{height:9px}
+@media (max-width:620px){.radio .radio-txt{display:none}.radio{padding:5px}}
+@media (max-width:1100px){.topbar .toplinks{display:none}}
+.topbar .wrap{gap:16px}
+.toplinks{min-width:0;overflow:hidden}
+.toplinks{display:flex;gap:18px;font-size:14px;white-space:nowrap}
+.toplinks a:hover{color:var(--accent)}
+.spacer{flex:1}
+.btn{font:500 13px var(--font-body);text-transform:uppercase;letter-spacing:.4px;border-radius:999px;padding:8px 16px;border:1px solid var(--line);background:var(--bg);color:var(--fg);cursor:pointer;white-space:nowrap}
+.btn.primary{background:var(--accent-soft);border-color:transparent;color:var(--fg)}
+
+/* Logo Enlace Chubut: ícono con dos eslabones entrelazados + nombre */
+.masthead{text-align:center;padding-block:22px 10px}
+.brand{display:inline-flex;align-items:center;gap:.2em;color:var(--fg);line-height:1}
+.brand .mark{width:1.08em;height:1.08em;flex:none}
+.brand .word{display:flex;flex-direction:column;align-items:center}
+.brand .w1{font-family:var(--font-logo);font-weight:600;font-size:1em;letter-spacing:-.035em;line-height:.95}
+.brand .w2{font-family:var(--font-body);font-weight:700;font-size:.2em;letter-spacing:1.1em;padding-left:1.1em;color:var(--accent);text-transform:uppercase;margin-top:.55em;text-align:center}
+.brand.inline .word{flex-direction:row;align-items:baseline;gap:.25em}
+.brand.inline .w1{line-height:1}
+.brand.inline .w2{font-size:.42em;letter-spacing:.18em;margin:0;padding:0}
+@media (max-width:520px){.topbar .wrap{gap:12px}.topbar .btn.primary{display:none}.clima{padding-left:10px}}
+/* Logo Enlace Chubut · Portal de noticias */
+.ec{display:block;width:auto;aspect-ratio:1130/440;max-width:100%}
+.logo{margin:0}
+.logo .ec{height:clamp(96px,14vw,150px);margin:0 auto}
+.minilogo .ec{height:40px}
+.ec-pie{height:80px}
+.ec-menu{height:56px;margin-top:8px}
+.ec-mini{height:44px}
+.tagline{font-size:13px;color:var(--muted);margin-top:6px}
+.trends{display:flex;justify-content:center;flex-wrap:wrap;gap:6px 20px;font-size:13px;padding-block:10px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:14px}
+.trends b{color:var(--alert);display:inline-flex;gap:4px;align-items:center}
+.trends a:hover{color:var(--accent)}
+
+/* Agenda provincial (franja de datos) */
+.agenda{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;margin-top:16px}
+.dato{border:1px solid var(--line);border-radius:6px;padding:10px 8px;text-align:center;background:var(--bg);display:block}
+.dato:hover{border-color:var(--accent)}
+.dato .k{font-size:12px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)}
+.dato .v{font-size:22px;font-weight:700;margin-top:4px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.dato .n{font-size:11px;color:var(--muted);margin-top:4px}
+.dato .n i{font-style:normal;color:var(--alert);font-weight:700}
+
+/* Portada */
+.portada{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:28px;margin-top:22px;padding-bottom:26px;border-bottom:1px solid var(--line)}
+.lead h2{font-size:clamp(28px,3.6vw,42px);line-height:1.12;letter-spacing:-.3px}
+.lead p{font-size:17px;color:var(--muted);margin:14px 0 12px;line-height:1.45;max-width:68ch}
+.side{display:flex;flex-direction:column;gap:22px;min-width:0}
+.side h2{font-size:22px;line-height:1.2}
+.side .sep{border-top:1px solid var(--line)}
+.side p{font-size:15px;color:var(--muted);line-height:1.4;margin:8px 0 0}
+.meta{font-size:12px;color:var(--muted);margin:8px 0}
+.meta .city{color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:.4px;font-size:11px}
+.pic{display:block;aspect-ratio:16/9;width:100%;max-width:100%;overflow:hidden;border-radius:4px;background:var(--soft)}
+.pic svg,.pic img{width:100%;height:100%;display:block}
+.pic img{object-fit:cover}
+
+/* Módulo especial (estilo "en vivo") */
+.especial{background:var(--special);border:1px solid var(--line);border-radius:10px;margin-top:26px;display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);overflow:hidden}
+.especial .pic{border-radius:0;height:100%;aspect-ratio:auto;min-height:240px}
+.especial .txt{padding:24px;display:flex;flex-direction:column;justify-content:center;gap:12px;min-width:0}
+.tag{display:inline-flex;align-items:center;gap:8px;font:600 15px var(--font-logo);color:var(--accent);text-transform:uppercase;letter-spacing:1px}
+.tag .dot{width:9px;height:9px;border-radius:50%;background:var(--alert);box-shadow:0 0 0 4px color-mix(in srgb,var(--alert) 25%,transparent)}
+.especial h2{font-size:26px;line-height:1.18}
+.especial p{margin:0;color:var(--muted);line-height:1.45}
+.cuenta{display:flex;gap:10px;align-items:baseline}
+.cuenta strong{font-size:40px;font-weight:900;color:var(--fg);font-variant-numeric:tabular-nums}
+.cuenta span{font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+
+/* Secciones y grillas */
+.seccion{margin-top:34px}
+.seccion-head{display:flex;align-items:baseline;gap:14px;border-bottom:2px solid var(--fg);padding-bottom:6px;margin-bottom:18px}
+.seccion-head h2{font-size:15px;text-transform:uppercase;letter-spacing:1.2px}
+.seccion-head span{font-size:13px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 20px}
+.grid.cols3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.card{min-width:0}
+.card a{display:flex;flex-direction:column;height:100%}
+.card h3{font-size:19px;line-height:1.22;order:1}
+.card .meta{order:2}
+.card .pic{order:3}
+.card.wide{grid-column:span 2}
+.card.wide h3{font-size:24px}
+
+/* Lector de notas */
+.lector{position:fixed;inset:0;z-index:90;background:var(--bg);overflow-y:auto;overscroll-behavior:contain}
+.lector-bar{position:sticky;top:0;z-index:2;background:var(--bg);border-bottom:1px solid var(--line);padding-top:env(safe-area-inset-top,0px)}
+.lector-bar .wrap{display:flex;align-items:center;gap:16px;height:52px}
+.nota{max-width:780px;margin:0 auto;padding-block:30px 70px}
+.nota .kicker{font-size:13px;font-weight:700;color:var(--accent);text-transform:uppercase;letter-spacing:1px}
+.nota h1{font-size:clamp(28px,4.6vw,42px);line-height:1.12;letter-spacing:-.3px;margin:10px 0 14px}
+.nota .bajada{font-size:clamp(18px,2.4vw,21px);line-height:1.45;color:var(--muted);margin:0}
+.nota .firma{font-size:13px;color:var(--muted);margin:16px 0 0;padding-top:14px;border-top:1px solid var(--line)}
+.nota figure{margin:20px 0 26px}
+.nota figure .pic{border-radius:6px}
+.nota figcaption{font-size:12px;color:var(--muted);margin-top:6px}
+.nota .cuerpo p{font-size:18px;line-height:1.65;margin:0 0 18px;max-width:68ch}
+.nota .cuerpo p:first-child::first-letter{font-size:3.1em;float:left;line-height:.85;margin:.06em .08em 0 0;font-weight:900;color:var(--accent)}
+.mas{margin-top:44px}
+
+/* Menú lateral */
+.overlay{position:fixed;inset:0;background:rgb(0 0 0 / .45);z-index:70}
+.drawer{position:fixed;top:0;bottom:0;left:0;width:min(320px,86vw);background:var(--bg);z-index:80;padding:calc(env(safe-area-inset-top,0px) + 18px) 20px 24px max(20px,env(safe-area-inset-left,0px));overflow-y:auto;border-right:1px solid var(--line)}
+.drawer h4{margin:20px 0 8px;font-size:12px;text-transform:uppercase;letter-spacing:1px;color:var(--muted)}
+.drawer a{display:block;padding:8px 0;border-bottom:1px solid var(--line);font-size:16px}
+.drawer a:hover{color:var(--accent)}
+.drawer .close{float:right}
+
+footer{margin-top:48px;border-top:1px solid var(--line);background:var(--soft)}
+footer .wrap{padding-block:28px;display:grid;gap:12px;font-size:13px;color:var(--muted)}
+footer nav{display:flex;flex-wrap:wrap;gap:8px 18px}
+footer nav a:hover{color:var(--accent)}
+
+@media (max-width:1000px){
+  .agenda{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .grid,.grid.cols3{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toplinks{display:none}
+}
+@media (max-width:720px){
+  .portada,.especial{grid-template-columns:minmax(0,1fr)}
+  .especial .pic{min-height:0;aspect-ratio:16/9}
+  .today,.btn:not(.primary){display:none}
+  .card.wide{grid-column:span 2}
+}
+@media (max-width:480px){
+  .agenda{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .grid,.grid.cols3{grid-template-columns:minmax(0,1fr)}
+  .card.wide{grid-column:auto}
+  .card.wide h3{font-size:20px}
+  .dato .v{font-size:19px}
+  .nota .cuerpo p{font-size:17px}
+}
+@media (prefers-reduced-motion:no-preference){
+  .pic svg,.pic img{transition:transform .4s ease}
+  a:hover .pic svg,a:hover .pic img{transform:scale(1.03)}
+}
+</style>
+</head>
+<body>
+
+
+<!-- Logo de Enlace Chubut (diseño del usuario). "PORTAL DE NOTICIAS" y la línea toman el color del tema para leerse en claro y oscuro. -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <linearGradient id="ec-linkBlue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4ed8f2"/><stop offset=".48" stop-color="#138cc5"/><stop offset="1" stop-color="#075082"/></linearGradient>
+    <linearGradient id="ec-linkCyan" x1="0" y1="0" x2=".9" y2="1"><stop offset="0" stop-color="#b7f7ff"/><stop offset=".42" stop-color="#36d2d8"/><stop offset="1" stop-color="#11929e"/></linearGradient>
+    <linearGradient id="ec-play" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd36c"/><stop offset="1" stop-color="#f28b32"/></linearGradient>
+    <filter id="ec-shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="12" result="blur"/>
+      <feOffset dy="18" result="offset"/>
+      <feColorMatrix in="offset" type="matrix" values="0 0 0 0 0.02 0 0 0 0 0.15 0 0 0 0 0.24 0 0 0 .26 0" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <symbol id="ec-icono" viewBox="140 110 380 440">
+    <g filter="url(#ec-shadow)" transform="translate(54 16)">
+      <g transform="rotate(-38 270 300)">
+        <rect x="154" y="190" width="232" height="188" rx="88" fill="#073c64" opacity=".42" transform="translate(0 16)"/>
+        <rect x="154" y="190" width="232" height="188" rx="88" fill="none" stroke="url(#ec-linkBlue)" stroke-width="48"/>
+        <path d="M194 216c16-15 35-22 57-22h61" fill="none" stroke="#a7f4ff" stroke-width="10" stroke-linecap="round" opacity=".74"/>
+      </g>
+      <g transform="rotate(38 270 300)">
+        <rect x="154" y="222" width="232" height="188" rx="88" fill="#05616a" opacity=".38" transform="translate(0 16)"/>
+        <rect x="154" y="222" width="232" height="188" rx="88" fill="none" stroke="url(#ec-linkCyan)" stroke-width="48"/>
+        <path d="M194 249c16-15 35-22 57-22h61" fill="none" stroke="#efffff" stroke-width="9" stroke-linecap="round" opacity=".8"/>
+      </g>
+      <path d="M254 252 350 300 254 348Z" fill="#a95220" opacity=".48" transform="translate(5 11)"/>
+      <path d="M254 252 350 300 254 348Z" fill="url(#ec-play)" stroke="#fff4d5" stroke-width="5" stroke-linejoin="round"/>
+    </g>
+  </symbol>
+  <symbol id="ec-logo" viewBox="120 110 1130 440">
+    <use href="#ec-icono" x="140" y="110" width="380" height="440"/>
+    <g font-family="Montserrat, Arial, sans-serif">
+      <text x="880" y="296" text-anchor="middle" font-size="128" font-weight="800" letter-spacing="5" fill="url(#ec-play)">ENLACE</text>
+      <path d="M558 333h660" style="stroke:var(--logo-linea)" stroke-width="4"/>
+      <text x="880" y="414" text-anchor="middle" font-size="70" font-weight="700" letter-spacing="15" fill="#1399aa">CHUBUT</text>
+      <text x="880" y="468" text-anchor="middle" font-size="25" font-weight="600" letter-spacing="6" style="fill:var(--logo-sub)">PORTAL DE NOTICIAS</text>
+    </g>
+  </symbol>
+</svg>
+
+<header class="topbar" id="topbar">
+  <div class="wrap">
+    <button class="burger" id="burger" aria-label="Abrir menú de secciones" aria-expanded="false" aria-controls="drawer">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h12M3 18h18"/><circle cx="18" cy="13" r="3"/><path d="M20.2 15.2 22 17"/></svg>
+    </button>
+    <a class="minilogo" href="#top" aria-label="Enlace Chubut, volver arriba"><svg class="ec" aria-hidden="true"><use href="#ec-logo"/></svg></a>
+    <span class="hora" id="hora" title="Hora en Chubut">--:--</span>
+    <label class="clima" id="clima" hidden>
+      <span class="clima-ico" id="climaIco" aria-hidden="true"></span>
+      <b id="temp">--°</b>
+      <select id="ciudad" aria-label="Ciudad para ver el clima"></select>
+    </label>
+    <button class="radio" id="radio" type="button" aria-pressed="false" title="Escuchar música en vivo (Ibiza Global Radio)">
+      <span class="radio-ico" id="radioIco" aria-hidden="true"></span>
+      <span class="radio-txt" id="radioTxt">Música en vivo</span>
+      <span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>
+    </button>
+    <audio id="radioAudio" preload="none"></audio>
+    <nav class="toplinks" aria-label="Secciones" id="toplinks"></nav>
+    <span class="spacer"></span>
+    <button class="btn primary" type="button">Newsletter</button>
+  </div>
+</header>
+
+<div class="wrap" id="top">
+  <div class="masthead" id="masthead">
+    <h1 class="logo"><svg class="ec" role="img" aria-label="Enlace Chubut, portal de noticias"><use href="#ec-logo"/></svg></h1>
+    <div class="tagline"><span id="today"></span> · Noticias de la provincia, de la cordillera al mar</div>
+  </div>
+  <nav class="trends" aria-label="Temas del día" id="temas">
+    <b><svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M13 2 4 14h7l-1 8 9-12h-7z"/></svg>Temas</b>
+  </nav>
+
+  <section class="agenda" aria-label="Agenda provincial" id="agenda"></section>
+
+  <section class="portada" id="portada"></section>
+
+  <section class="especial" id="especial"></section>
+
+  <div id="secciones"></div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <svg class="ec ec-pie" role="img" aria-label="Enlace Chubut, portal de noticias"><use href="#ec-logo"/></svg>
+    <nav aria-label="Secciones" id="footlinks"></nav>
+    <p>Enlace Chubut · Noticias de la provincia del Chubut · Rawson, Trelew, Puerto Madryn, Comodoro Rivadavia, Esquel y toda la provincia.</p>
+  </div>
+</footer>
+
+<div class="overlay" id="overlay" hidden></div>
+<aside class="drawer" id="drawer" hidden aria-label="Secciones">
+  <button class="btn close" id="closeDrawer" type="button">Cerrar</button>
+  <svg class="ec ec-menu" role="img" aria-label="Enlace Chubut, portal de noticias"><use href="#ec-logo"/></svg>
+  <h4>Secciones</h4>
+  <div id="drawerLinks"></div>
+</aside>
+
+<div class="lector" id="lector" hidden role="dialog" aria-modal="true" aria-label="Nota"></div>
+
+<script src="js/ilustraciones.js"></script>
+<script>
+(async function(){
+/* ---------- Datos: data/notas.json (lo actualiza la tarea automática cada hora) ---------- */
+let DATA;
+try{ DATA=await fetch("data/notas.json",{cache:"no-store"}).then(r=>r.json()); }
+catch(e){ document.getElementById("secciones").innerHTML='<p style="padding:40px 0;color:var(--muted)">No se pudieron cargar las noticias. Probá recargar la página.</p>'; return; }
+const SECCIONES=DATA.secciones, AGENDA=DATA.agenda;
+const porFecha=(a,b)=>(b.fecha||"").localeCompare(a.fecha||"");
+const NOTAS=DATA.notas.slice().sort(porFecha);
+
+/* ---------- Utilidades ---------- */
+const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;");
+const semilla=id=>[...id].reduce((h,c)=>(h*31+c.charCodeAt(0))%100000,7);
+const byId={}; NOTAS.forEach(n=>{n.seed=semilla(n.id); byId[n.id]=n});
+const secNombre=id=>(SECCIONES.find(s=>s.id===id)||{}).nombre||"";
+const href=n=>`#nota-${n.id}`;
+function hace(f){
+  const m=Math.round((Date.now()-new Date(f))/60000);
+  if(!(m>=0)) return "";
+  if(m<60) return m<=1?"Recién":`Hace ${m} min`;
+  const h=Math.round(m/60); if(h<24) return `Hace ${h} h`;
+  const d=Math.round(h/24); return d===1?"Ayer":`Hace ${d} días`;
+}
+const meta=n=>`<div class="meta"><span class="city">${esc(n.ciudad||secNombre(n.sec))}</span>${n.fecha?` · ${hace(n.fecha)}`:""}</div>`;
+function pic(n,ya){
+  if(n.sinFoto) return `<span class="pic">${art(n.arte,n.seed,n.titulo)}</span>`;
+  return `<span class="pic"><img src="fotos/${n.id}.jpg" alt="${esc(n.titulo)}" loading="${ya?"eager":"lazy"}" data-id="${n.id}" onerror="usarIlustracion(this)"></span>`;
+}
+function usarIlustracion(img){
+  const n=byId[img.dataset.id]; if(!n) return;
+  const t=document.createElement("template"); t.innerHTML=art(n.arte,n.seed,n.titulo); img.replaceWith(t.content.firstChild);
+}
+window.usarIlustracion=usarIlustracion;
+const card=n=>`<article class="card${n.ancho?" wide":""}"><a href="${href(n)}"><h3>${esc(n.titulo)}</h3>${meta(n)}${pic(n)}</a></article>`;
+
+/* ---------- Portada ---------- */
+document.getElementById("agenda").innerHTML=AGENDA.map(d=>`<a class="dato" href="#nota-${d.nota}"><div class="k">${d.k}</div><div class="v">${d.v}</div><div class="n">${d.n}</div></a>`).join("");
+
+const lead=NOTAS.find(n=>n.lugar==="lead");
+const lado=NOTAS.filter(n=>n.lugar==="lado");
+document.getElementById("portada").innerHTML=`
+  <article class="lead"><a href="${href(lead)}">
+    <h2>${esc(lead.titulo)}</h2><p>${esc(lead.bajada)}</p>${meta(lead)}${pic(lead,1)}</a></article>
+  <div class="side">${lado.map((n,i)=>`${i?'<div class="sep"></div>':""}<article><a href="${href(n)}"><h2>${esc(n.titulo)}</h2>${meta(n)}${n.sinFotoEnPortada?`<p>${esc(n.bajada)}</p>`:pic(n,1)}</a></article>`).join("")}</div>`;
+
+const ecl=byId["eclipse"];
+const hoy=new Date();
+const dias=Math.max(0,Math.ceil((new Date(2027,1,6)-new Date(hoy.getFullYear(),hoy.getMonth(),hoy.getDate()))/864e5));
+document.getElementById("especial").innerHTML=`
+  <a class="pic" href="${href(ecl)}">${pic(ecl,1).replace(/^<span class="pic">|<\/span>$/g,"")}</a>
+  <div class="txt">
+    <span class="tag"><span class="dot"></span>Especial · Eclipse anular</span>
+    <h2><a href="${href(ecl)}">${esc(ecl.titulo)}</a></h2>
+    <p>${esc(ecl.bajada)}</p>
+    <div class="cuenta"><strong>${dias}</strong><span>días para el eclipse</span></div>
+  </div>`;
+
+/* Barra de Temas: primero la nota principal y las destacadas, después las más recientes; un tema por etiqueta, máximo 6 */
+(function(){
+  const orden=[lead,...lado,ecl,...NOTAS].filter(Boolean), vistos=new Set(), links=[];
+  for(const n of orden){
+    const t=(n.tema||"").trim(); if(!t) continue;
+    const k=t.toLowerCase(); if(vistos.has(k)) continue;
+    vistos.add(k); links.push(`<a href="${href(n)}">${esc(t)}</a>`);
+    if(links.length>=6) break;
+  }
+  document.getElementById("temas").insertAdjacentHTML("beforeend",links.join(""));
+})();
+
+const enPortada=new Set(["lead","lado","especial"]);
+document.getElementById("secciones").innerHTML=SECCIONES.map(s=>{
+  const items=NOTAS.filter(n=>n.sec===s.id && !enPortada.has(n.lugar)).slice(0,s.max||8);
+  return items.length?`<section class="seccion" id="${s.id}">
+    <div class="seccion-head"><h2>${s.nombre}</h2><span>${s.sub}</span></div>
+    <div class="grid${s.cols===3?" cols3":""}">${items.map(card).join("")}</div></section>`:"";
+}).join("");
+
+const secLinks=SECCIONES.map(s=>`<a href="#${s.id}">${s.nombre}</a>`).join("");
+document.getElementById("drawerLinks").innerHTML=secLinks;
+document.getElementById("footlinks").innerHTML=secLinks;
+document.getElementById("toplinks").innerHTML=SECCIONES.slice(1).map(s=>`<a href="#${s.id}">${s.nombre}</a>`).join("");
+
+try{const f=new Intl.DateTimeFormat("es-AR",{weekday:"long",day:"numeric",month:"long",year:"numeric",timeZone:"America/Argentina/Catamarca"}).format(hoy).replace(",","");document.getElementById("today").textContent=f.charAt(0).toUpperCase()+f.slice(1)}catch(e){}
+
+/* ---------- Lector de notas (se abre con #nota-<id>) ---------- */
+const lector=document.getElementById("lector");
+let scrollPrevio=0;
+function abrirNota(n){
+  if(lector.hidden) scrollPrevio=window.scrollY;
+  const otras=NOTAS.filter(x=>x.id!==n.id && x.sec===n.sec).concat(NOTAS.filter(x=>x.id!==n.id && x.sec!==n.sec)).slice(0,4);
+  lector.innerHTML=`
+    <div class="lector-bar"><div class="wrap">
+      <a class="btn" href="#portada" id="volver">← Portada</a>
+      <span class="spacer"></span>
+      <a href="#portada" aria-label="Enlace Chubut, portada"><svg class="ec ec-mini" aria-hidden="true"><use href="#ec-logo"/></svg></a>
+    </div></div>
+    <article class="nota wrap">
+      <div class="kicker">${esc(secNombre(n.sec))}${n.ciudad?" · "+esc(n.ciudad):""}</div>
+      <h1>${esc(n.titulo)}</h1>
+      <p class="bajada">${esc(n.bajada)}</p>
+      <p class="firma">Redacción Enlace Chubut</p>
+      <figure>${pic(n,1)}<figcaption>Imagen ilustrativa</figcaption></figure>
+      <div class="cuerpo">${n.cuerpo.map(p=>`<p>${esc(p)}</p>`).join("")}</div>
+      <section class="mas">
+        <div class="seccion-head"><h2>Más noticias</h2></div>
+        <div class="grid">${otras.map(card).join("")}</div>
+      </section>
+    </article>`;
+  lector.hidden=false; document.body.classList.add("leyendo");
+  lector.scrollTop=0; document.getElementById("volver").focus({preventScroll:true});
+  document.title=n.titulo+" | Enlace Chubut";
+}
+function cerrarNota(){
+  if(lector.hidden) return;
+  lector.hidden=true; lector.innerHTML=""; document.body.classList.remove("leyendo");
+  document.title="Enlace Chubut";
+}
+function ruta(){
+  const h=location.hash.slice(1);
+  if(h.startsWith("nota-") && byId[h.slice(5)]){ abrirNota(byId[h.slice(5)]); return; }
+  const volvia=!lector.hidden; cerrarNota();
+  if(volvia && (h===""||h==="portada")) window.scrollTo(0,scrollPrevio);
+}
+window.addEventListener("hashchange",ruta);
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!lector.hidden) location.hash="portada"});
+ruta();
+
+/* ---------- Hora de Chubut y clima actual (Open-Meteo, sin clave) ---------- */
+const TZ="America/Argentina/Catamarca"; // zona horaria de Chubut (UTC-3)
+const CIUDADES=[
+  {n:"Rawson",lat:-43.30,lon:-65.10},{n:"Trelew",lat:-43.25,lon:-65.31},{n:"Puerto Madryn",lat:-42.77,lon:-65.04},
+  {n:"Comodoro",lat:-45.86,lon:-67.50},{n:"Esquel",lat:-42.91,lon:-71.32}
+];
+function reloj(){try{document.getElementById("hora").textContent=new Intl.DateTimeFormat("es-AR",{hour:"2-digit",minute:"2-digit",hour12:false,timeZone:TZ}).format(new Date())}catch(e){}}
+reloj(); setInterval(reloj,10000);
+
+const svgI=d=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${d}</svg>`;
+const NUBE='<path d="M7 18h10a4 4 0 0 0 .5-7.97A6 6 0 0 0 6.1 11.5 3.3 3.3 0 0 0 7 18z"/>';
+const ICO={
+  sol:svgI('<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>'),
+  luna:svgI('<path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/>'),
+  solnube:svgI('<path d="M8 3v1.5M3.5 8H2M4.6 4.6l1 1M12.4 4.6l-1 1"/><path d="M5.3 10.6A3.5 3.5 0 1 1 11 6.6"/><path d="M9 20h8a3.5 3.5 0 0 0 .4-7 5 5 0 0 0-9.4 1.6A2.8 2.8 0 0 0 9 20z"/>'),
+  nube:svgI(NUBE),
+  niebla:svgI('<path d="M4 9h16M3 13h18M5 17h14"/>'),
+  lluvia:svgI(NUBE+'<path d="M8 21l1-2M12 21l1-2M16 21l1-2"/>'),
+  nieve:svgI(NUBE+'<path d="M9 21h.01M13 21h.01M17 21h.01"/>'),
+  tormenta:svgI(NUBE+'<path d="M12 14l-2 4h3l-2 4"/>')
+};
+function estado(code,dia){
+  if(code===0) return ["Despejado",dia?"sol":"luna"];
+  if(code<=2) return ["Algo nublado",dia?"solnube":"nube"];
+  if(code===3) return ["Nublado","nube"];
+  if(code===45||code===48) return ["Niebla","niebla"];
+  if(code>=95) return ["Tormenta","tormenta"];
+  if((code>=71&&code<=77)||code===85||code===86) return ["Nieve","nieve"];
+  return ["Lluvia","lluvia"];
+}
+const selCiudad=document.getElementById("ciudad");
+selCiudad.innerHTML=CIUDADES.map((c,i)=>`<option value="${i}">${c.n}</option>`).join("");
+try{const g=parseInt(localStorage.getItem("enlace-ciudad"),10);if(g>=0&&g<CIUDADES.length)selCiudad.value=String(g)}catch(e){}
+let CLIMA=null;
+function pintarClima(){
+  if(!CLIMA) return;
+  const i=+selCiudad.value, c=CLIMA[i]&&CLIMA[i].current; if(!c) return;
+  const [txt,ico]=estado(c.weather_code,c.is_day), t=Math.round(c.temperature_2m);
+  document.getElementById("temp").textContent=t+"°";
+  document.getElementById("climaIco").innerHTML=ICO[ico];
+  const caja=document.getElementById("clima");
+  caja.title=`${CIUDADES[i].n}: ${txt}, ${t} °C · viento ${Math.round(c.wind_speed_10m)} km/h`;
+  caja.hidden=false;
+}
+async function cargarClima(){
+  const q=new URLSearchParams({latitude:CIUDADES.map(c=>c.lat).join(","),longitude:CIUDADES.map(c=>c.lon).join(","),current:"temperature_2m,weather_code,wind_speed_10m,is_day",timezone:TZ});
+  try{
+    const r=await fetch("https://api.open-meteo.com/v1/forecast?"+q);
+    if(!r.ok) return;
+    const j=await r.json(); CLIMA=Array.isArray(j)?j:[j]; pintarClima();
+  }catch(e){/* si el servicio de clima no responde, queda solo la hora */}
+}
+selCiudad.addEventListener("change",()=>{try{localStorage.setItem("enlace-ciudad",selCiudad.value)}catch(e){}pintarClima()});
+cargarClima(); setInterval(cargarClima,15*60*1000);
+
+/* ---------- Radio house en vivo (Ibiza Global Radio) ---------- */
+(function(){
+  const RADIO_URL="https://listenssl.ibizaglobalradio.com:8024/ibizaglobalradio.mp3";
+  const btn=document.getElementById("radio"), audio=document.getElementById("radioAudio");
+  const ico=document.getElementById("radioIco"), txt=document.getElementById("radioTxt");
+  const PLAY='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 4.5v15l13-7.5z"/></svg>';
+  const PAUSA='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 4h4.5v16H6zM13.5 4H18v16h-4.5z"/></svg>';
+  function estado(e){
+    btn.classList.toggle("sonando",e==="sonando"); btn.classList.toggle("cargando",e==="cargando");
+    btn.setAttribute("aria-pressed",e==="sonando"||e==="cargando");
+    ico.innerHTML=(e==="sonando"||e==="cargando")?PAUSA:PLAY;
+    txt.textContent=e==="cargando"?"Conectando…":e==="error"?"Sin señal":"Música en vivo";
+  }
+  function detener(){ audio.pause(); audio.removeAttribute("src"); audio.load(); estado("parado"); }
+  btn.addEventListener("click",()=>{
+    if(btn.classList.contains("sonando")||btn.classList.contains("cargando")){ detener(); return; }
+    estado("cargando");
+    audio.src=RADIO_URL+"?t="+Date.now(); // siempre en vivo, sin retomar lo guardado
+    audio.play().catch(()=>{ estado("error"); setTimeout(()=>estado("parado"),3000); });
+  });
+  audio.addEventListener("playing",()=>estado("sonando"));
+  audio.addEventListener("error",()=>{ if(audio.getAttribute("src")){ estado("error"); setTimeout(()=>estado("parado"),3000); } });
+  if("mediaSession" in navigator){
+    try{ navigator.mediaSession.metadata=new MediaMetadata({title:"Música en vivo",artist:"Ibiza Global Radio",album:"Enlace Chubut"}); }catch(e){}
+  }
+  estado("parado");
+})();
+
+/* ---------- Logo chico en la barra al bajar ---------- */
+const topbar=document.getElementById("topbar");
+new IntersectionObserver(([e])=>topbar.classList.toggle("compact",!e.isIntersecting),{rootMargin:"-52px 0px 0px 0px"}).observe(document.getElementById("masthead"));
+
+/* ---------- Menú lateral ---------- */
+const burger=document.getElementById("burger"),drawer=document.getElementById("drawer"),overlay=document.getElementById("overlay");
+function menu(open){drawer.hidden=!open;overlay.hidden=!open;burger.setAttribute("aria-expanded",open);if(open)drawer.querySelector("a").focus()}
+burger.onclick=()=>menu(true);overlay.onclick=()=>menu(false);document.getElementById("closeDrawer").onclick=()=>menu(false);
+drawer.addEventListener("click",e=>{if(e.target.matches("a"))menu(false)});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!drawer.hidden)menu(false)});
+})();
+</script>
+
+</body>
+</html>

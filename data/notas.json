@@ -1,0 +1,1009 @@
+{
+ "secciones": [
+  {
+   "id": "ultimas",
+   "nombre": "Lo último",
+   "sub": "Provincia"
+  },
+  {
+   "id": "politica",
+   "nombre": "Política",
+   "sub": "Gobierno, Legislatura y gremios"
+  },
+  {
+   "id": "cuenca",
+   "nombre": "Comodoro y la Cuenca",
+   "sub": "Golfo San Jorge"
+  },
+  {
+   "id": "turismo",
+   "nombre": "Turismo",
+   "sub": "Temporada de verano"
+  },
+  {
+   "id": "policiales",
+   "nombre": "Policiales",
+   "sub": "Seguridad y Justicia"
+  },
+  {
+   "id": "deportes",
+   "nombre": "Deportes",
+   "sub": "Clubes chubutenses",
+   "cols": 3
+  }
+ ],
+ "agenda": [
+  {
+   "k": "Elecciones",
+   "v": "21 mar 2027",
+   "n": "Decreto 1.872",
+   "nota": "elecciones-esquel"
+  },
+  {
+   "k": "Eclipse anular",
+   "v": "6 feb 2027",
+   "n": "Interés turístico",
+   "nota": "eclipse"
+  },
+  {
+   "k": "Marea roja",
+   "v": "Veda",
+   "n": "<i>Vigente</i> en toda la costa",
+   "nota": "marea-roja"
+  },
+  {
+   "k": "Elefantes marinos",
+   "v": "−50%",
+   "n": "Tras la gripe aviar",
+   "nota": "elefantes-marinos"
+  },
+  {
+   "k": "Bono petrolero",
+   "v": "$500.000",
+   "n": "Sector privado",
+   "nota": "bono-petrolero"
+  },
+  {
+   "k": "Paro bancario",
+   "v": "1 y 2 dic",
+   "n": "Últimas 3 horas",
+   "nota": "paro-bancario"
+  }
+ ],
+ "notas": [
+  {
+   "id": "comodoro-abel-amaya-detenido-golpe-pareja",
+   "fecha": "2026-11-26T13:42:45-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: detuvieron a un hombre de 34 años que golpeó a su pareja en el barrio Abel Amaya",
+   "bajada": "La Policía llegó tras un llamado de emergencia y lo encontró cuando intentaba volver a entrar por la fuerza a la vivienda.",
+   "cuerpo": [
+    "Un hombre de 34 años quedó detenido en la madrugada de este jueves en el barrio Abel Amaya de Comodoro Rivadavia, acusado de golpear a su pareja durante una discusión. Pasada la una, efectivos de la Comisaría Quinta acudieron a una casa de calle Código 854 después de un llamado de emergencia y lo sorprendieron mientras intentaba ingresar por la fuerza.",
+    "Una vez que lo apartaron de la puerta, los policías hablaron con la mujer, que contó que minutos antes había recibido un golpe de puño en la cara que le dejó un hematoma cerca de la boca. Al constatar la agresión, detuvieron al hombre y lo trasladaron a la dependencia, mientras que la mujer fue acompañada a la Comisaría de la Mujer para hacer la denuncia."
+   ],
+   "arte": "noche",
+   "tema": "Violencia de género"
+  },
+  {
+   "id": "comodoro-escuela-723-ultima-corrida-egresados",
+   "fecha": "2026-11-26T13:42:44-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Último timbre y espuma: la Escuela 723 de Comodoro despidió a sus egresados con su clásica corrida",
+   "bajada": "En la escuela “Puerto Argentino”, de la zona sur, los alumnos que terminan la secundaria recorren los pasillos mientras los docentes los reciben con espuma y aplausos.",
+   "cuerpo": [
+    "La Escuela 723 “Puerto Argentino”, ubicada en avenida Lisandro de la Torre 3400, en la zona sur de Comodoro Rivadavia, volvió a cumplir con una tradición que repite cada fin de año: la última corrida de los estudiantes que terminan la secundaria.",
+    "Cuando suena el último timbre del último día de clases, los egresados salen corriendo por los pasillos y docentes y profesores los esperan con espuma, aplausos y gritos para acompañarlos. El momento quedó registrado en un video que circuló en redes sociales y mostró una despedida entre la alegría y la nostalgia de cerrar una etapa."
+   ],
+   "arte": "escuela",
+   "tema": "Egresados"
+  },
+  {
+   "id": "tarifaria-2027-trelew-modulo-30000",
+   "fecha": "2026-11-26T13:42:43-03:00",
+   "sec": "politica",
+   "ciudad": "Trelew",
+   "titulo": "Trelew vota la Tarifaria 2027: el módulo subirá de $26.000 a $30.000 en el primer semestre",
+   "bajada": "La ordenanza obtuvo despacho unánime en la Comisión de Hacienda y se tratará sobre tablas este viernes en el Concejo Deliberante. En la segunda mitad del año el módulo llegará a $32.000.",
+   "cuerpo": [
+    "El Concejo Deliberante de Trelew sesionará este viernes desde las 9 y votará sobre tablas la Ordenanza Tarifaria 2027, que salió con despacho favorable y por unanimidad de la Comisión de Hacienda después de dos semanas de análisis.",
+    "La propuesta prevé una suba escalonada del valor módulo: pasará de $26.000 a $30.000 en el primer semestre, un aumento del 15,38%, y a $32.000 en el segundo, un 6,67% más. Durante el debate en comisión, los concejales revisaron los distintos módulos y modificaron, entre otros, el de recolección de residuos.",
+    "Si se aprueba, la Tarifaria permitirá que en diciembre se apliquen los descuentos por pago anticipado de los impuestos municipales."
+   ],
+   "arte": "ciudad",
+   "tema": "Tarifaria 2027"
+  },
+  {
+   "id": "micro-esquel-trelew-incendio-ruta",
+   "fecha": "2026-11-26T13:42:42-03:00",
+   "sec": "policiales",
+   "ciudad": "Provincia",
+   "titulo": "Se prendió fuego un micro que iba de Esquel a Trelew: los 35 pasajeros salieron ilesos",
+   "bajada": "El colectivo quedó destruido por completo en la madrugada, cuando circulaba hacia la zona de El Molle. Los choferes vieron humo, frenaron y evacuaron la unidad.",
+   "cuerpo": [
+    "Un colectivo de la empresa 28 de Julio – Mar y Valle se incendió por completo entre la 1 y las 2 de la madrugada mientras viajaba hacia la zona de El Molle. La unidad había salido de Esquel a las 22 con destino a Trelew y llevaba unos 35 pasajeros, además de los choferes. Cuando advirtieron humo dentro del micro, los conductores detuvieron la marcha y todos pudieron bajar sin heridas.",
+    "“Lo importante es que están todos bien”, dijo la gerenta de la empresa, Sonia Rancho, quien explicó que todavía no se sabe qué originó el fuego y que esperan el regreso de los choferes para conocer los detalles. Los pasajeros continuaron el viaje en otra unidad enviada desde Esquel, que tenía previsto llegar cerca del mediodía.",
+    "Rancho señaló que no puede confirmar si se trató de una falla mecánica, aunque apuntó al mal estado de los caminos: “Las rutas están tan feas y son coches que no están preparados para andar en tierra. Se van aflojando las cosas y por ahí puede haber sido algún cable”. Agregó que las piedras y los pozos provocan pinchaduras frecuentes y complican sobre todo a los micros de doble piso."
+   ],
+   "arte": "ruta",
+   "tema": "Incendios"
+  },
+  {
+   "id": "caso-colihuinca-orden-captura-profugo",
+   "fecha": "2026-11-26T13:42:41-03:00",
+   "sec": "policiales",
+   "ciudad": "Trelew",
+   "titulo": "Caso Colihuinca: el juez ordenó la captura del acusado prófugo y le prohibió salir del país",
+   "bajada": "La medida se tomó en una audiencia en la que se reconstruyó cómo el imputado dejó la prisión domiciliaria antes de que le colocaran la tobillera electrónica.",
+   "cuerpo": [
+    "El juez Marcelo Nieto Di Biase pidió al Departamento de Investigaciones de la Policía del Chubut que avance con la “rápida captura” del acusado por el crimen de Rodrigo Colihuinca, ocurrido en marzo de 2012 en Trelew, que se fugó de su arresto domiciliario. También dispuso que no pueda salir del país y comunicó la decisión a la Jefatura de Policía, a Migraciones y al Registro Nacional de Reincidencia.",
+    "En la audiencia, el fiscal Mauro Quinteros detalló que el jueves 19 la Policía controló el domicilio y el propio acusado avisó que al día siguiente tenía un turno en el Hospital, una de las pocas salidas que tenía permitidas. El viernes 20 a las 10.30, cuando los efectivos volvieron para ponerle la tobillera electrónica, ya no estaba, y tampoco se presentó al turno médico. Su hermano dijo que desde ese día no tuvieron contacto con él.",
+    "La Fiscalía sostuvo que días después de la fuga fue registrado por una cámara de seguridad en otro hecho violento, por lo que pide revocar la domiciliaria y dictarle prisión preventiva en una cárcel común hasta el juicio. “El peligro de fuga ya es real”, afirmó Quinteros.",
+    "La defensora pública Flora Mollard habló de “un caso complejo” por la salud mental del imputado y pidió que el juicio se haga lo antes posible. El juez explicó que al otorgar la domiciliaria se priorizó ese tratamiento, aunque aclaró que había sido “muy claro” sobre las consecuencias de incumplirla. El padre de la víctima siguió la audiencia de manera virtual junto a su abogada, que adhirió a la postura fiscal."
+   ],
+   "arte": "ciudad",
+   "tema": "Caso Colihuinca"
+  },
+  {
+   "id": "condena-firme-matanza-pinguinos-punta-tombo",
+   "fecha": "2026-11-26T13:42:40-03:00",
+   "sec": "policiales",
+   "ciudad": "Rawson",
+   "titulo": "Quedó firme la condena por la matanza de pingüinos en Punta Clara, al norte de Punta Tombo",
+   "bajada": "El Superior Tribunal de Justicia rechazó la impugnación de la defensa y ratificó la pena de tres años de prisión en suspenso por la destrucción de nidos, huevos, pichones y pingüinos adultos.",
+   "cuerpo": [
+    "El Superior Tribunal de Justicia del Chubut confirmó la sentencia contra el hombre acusado de destruir nidos, huevos, pichones y ejemplares adultos de pingüinos de Magallanes en Punta Clara, un sector ubicado al norte de Punta Tombo, dentro del área Patagonia Azul, protegida por la UNESCO. Con ese fallo, el máximo tribunal rechazó la impugnación extraordinaria que había presentado la defensa y la condena quedó firme.",
+    "Los hechos ocurrieron entre agosto y diciembre de 2021, cuando desmontes, apertura de caminos y movimientos de suelo alcanzaron zonas con alta densidad de nidos. La investigación, iniciada por la fiscal Florencia Gómez el 26 de noviembre de 2021, fue reconocida como el primer caso de ecocidio y la primera en usar imágenes satelitales como prueba directa, junto con testimonios de especialistas de organizaciones internacionales.",
+    "En noviembre de 2024 un tribunal colegiado de Rawson condenó al acusado a tres años de prisión de ejecución condicional por tres hechos de daño agravado y uno de crueldad animal, y ordenó el decomiso de la retroexcavadora usada. En mayo de 2025 la Cámara Penal de Trelew confirmó el fallo, y en abril de 2026 se hizo la audiencia ante el Superior Tribunal, que ahora resolvió mantener lo decidido.",
+    "A partir de esta causa se triplicó la superficie del Área Natural Protegida Punta Clara - Punta Tombo y se creó la Unidad Fiscal Especializada en Ambiente y Delitos contra Animales."
+   ],
+   "arte": "mar",
+   "tema": "Ecocidio Punta Tombo",
+   "lugar": "lado"
+  },
+  {
+   "id": "ver-para-ser-libres-anteojos",
+   "fecha": "2026-11-26T07:52:21-03:00",
+   "sec": "ultimas",
+   "ciudad": "Provincia",
+   "titulo": "Ver para Ser Libres: ya entregaron más de 2.100 anteojos a chicos de Chubut",
+   "bajada": "El programa hizo 2.478 controles oftalmológicos a niños y adolescentes de 6 a 17 años y termina este viernes.",
+   "cuerpo": [
+    "El programa Ver para Ser Libres realizó en Chubut 2.478 controles oftalmológicos y entregó 2.159 anteojos a niños y adolescentes de entre 6 y 17 años.",
+    "El operativo empezó el 3 de noviembre y termina este viernes 27. Lo llevan adelante la Provincia, a través de los ministerios de Desarrollo Humano y Educación y la Secretaría de Salud, junto al Ministerio de Capital Humano de la Nación y los municipios.",
+    "Unidades móviles con oftalmólogos y laboratorios ópticos revisan a los chicos y les entregan los anteojos en el mismo día. El objetivo es detectar a tiempo problemas de visión que afectan el aprendizaje y que la distancia no sea un obstáculo para atenderse."
+   ],
+   "arte": "escuela",
+   "tema": "Salud"
+  },
+  {
+   "id": "consejo-personas-mayores-madryn",
+   "fecha": "2026-11-26T07:52:20-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn recibe el plenario provincial de Personas Mayores, con la salud como tema central",
+   "bajada": "La reunión del Consejo Provincial sigue hasta el viernes. Esperan que PAMI traiga respuestas a los reclamos.",
+   "cuerpo": [
+    "Puerto Madryn es sede, desde el miércoles y hasta el viernes, de la tercera Reunión Anual Plenaria del Consejo Provincial de Personas Mayores de Chubut.",
+    "El eje del encuentro es la salud, por los problemas que atraviesan los adultos mayores en toda la provincia. Se espera que la representante de PAMI llegue con respuestas concretas a esos reclamos.",
+    "La apertura contó con la ministra de Desarrollo Humano, Florencia Papaiani, el intendente Gustavo Sastre y el presidente del Consejo, Oscar Furci. Papaiani destacó que los planteos del Consejo “son serios, responsables” y que sus integrantes recorren la provincia pueblo por pueblo."
+   ],
+   "arte": "ciudad",
+   "tema": "Personas mayores"
+  },
+  {
+   "id": "vuelta-del-rio-perforacion-agua",
+   "fecha": "2026-11-26T07:52:19-03:00",
+   "sec": "ultimas",
+   "ciudad": "Vuelta del Río",
+   "titulo": "Vuelta del Río tendrá agua potable: empezó una perforación para las familias que tomaban agua del río",
+   "bajada": "La primera etapa abastecerá a 8 casas. Hasta ahora algunas familias consumían agua del río Chubut, contaminada por residuos.",
+   "cuerpo": [
+    "Empezaron los trabajos de una perforación en Vuelta del Río, cerca de El Maitén, para que los vecinos tengan agua potable. En una primera etapa abastecerá a 8 casas y después se espera llegar al resto.",
+    "La obra llegó después de que la enfermera del puesto sanitario, Mirtha Rojas, advirtiera que había familias que tomaban agua del río Chubut. El río arrastra residuos, incluso fecales, que dejan algunos visitantes y pescadores, con riesgo de enfermedades.",
+    "El Gobierno provincial hará la perforación y la Municipalidad de El Maitén se encargaría del sistema de bombeo. “Se resuelve el problema del agua, tan esencial para los pobladores”, dijo Rojas, que pidió a los visitantes no tirar residuos al río."
+   ],
+   "arte": "valle",
+   "tema": "Agua potable",
+   "lugar": "lado"
+  },
+  {
+   "id": "convocatoria-adopcion-trelew-nino-10",
+   "fecha": "2026-11-26T07:37:28-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Convocatoria pública: buscan una familia adoptiva para un niño de 10 años de la zona de Trelew y Madryn",
+   "bajada": "La impulsan un juzgado de Familia de Trelew y la Dirección General de Adopciones. Las postulaciones se reciben por correo hasta el 2 de febrero de 2027.",
+   "cuerpo": [
+    "El Juzgado de Familia N° 1 de Trelew, a cargo del juez Daniel Manse, y la Dirección General de Adopciones del Chubut lanzaron una convocatoria pública provincial para encontrar una familia para un niño de 10 años que vive en la zona de Trelew y Puerto Madryn.",
+    "Se busca un hogar estable, afectuoso y comprometido con sus necesidades, que acompañe su desarrollo, respete los avances que ya logró y le dé continuidad a sus terapias. El chico va a la escuela primaria con apoyo de un maestro de inclusión, es descripto como alegre y cariñoso, le gustan los animales, juega al pádel y hace natación.",
+    "Un punto central del llamado es que él quiere conservar el vínculo con su hermana, por lo que la futura familia deberá respetar y acompañar ese deseo.",
+    "Quienes quieran postularse pueden escribir a adopciones.trelew@chubut.gob.ar hasta el 2 de febrero de 2027, con sus datos personales y de contacto, para iniciar el proceso de evaluación."
+   ],
+   "arte": "ciudad",
+   "tema": "Adopción"
+  },
+  {
+   "id": "preinscripcion-nivel-superior-2027-2",
+   "fecha": "2026-11-26T07:37:27-03:00",
+   "sec": "ultimas",
+   "ciudad": "Provincia",
+   "titulo": "Abrió la preinscripción a las carreras de Nivel Superior 2027: Chubut pasa de 39 a 50 carreras",
+   "bajada": "El trámite se hace en forma virtual con el asistente DINO hasta el 12 de febrero. La oferta suma 11 carreras nuevas en 16 localidades de la provincia.",
+   "cuerpo": [
+    "El Ministerio de Educación del Chubut habilitó desde el martes 24 de noviembre la preinscripción a las carreras de Nivel Superior para el ciclo lectivo 2027. La gestión es virtual y se hace a través de DINO, el asistente digital de la provincia, donde cada aspirante puede ver las propuestas disponibles según el instituto y la localidad en la que quiera estudiar.",
+    "Para el año próximo la oferta crece de 39 a 50 carreras, con 11 alternativas nuevas, y en total habrá 140 opciones de preinscripción repartidas en las seis regiones educativas. Incluye profesorados, tecnicaturas superiores y formación artística, con orientaciones ligadas a la educación, la industria, la tecnología, la energía, el turismo, la administración, la comunicación y el deporte.",
+    "Las carreras se dictarán en institutos, sedes, anexos y extensiones áulicas de localidades como Comodoro Rivadavia, Trelew, Rawson, Puerto Madryn, Esquel, Trevelin, Gaiman, Dolavon, Sarmiento, Río Mayo, Paso de Indios, José de San Martín y varias de la Comarca Andina, entre ellas Cholila, Epuyén, El Hoyo, El Maitén y Lago Puelo.",
+    "Para anotarse hay que entrar a DINO, elegir la gestión \"Inscripción Superior\" y seleccionar la carrera, el instituto y el lugar de cursado. Después, entre el 18 y el 26 de febrero de 2027, cada aspirante deberá presentar la documentación en forma presencial en la institución elegida.",
+    "La apertura de cada carrera quedará sujeta a la matrícula efectiva, con un piso general de 25 estudiantes por propuesta. Los casos particulares los evaluará la Dirección General de Educación Superior."
+   ],
+   "arte": "escuela",
+   "tema": "Educación",
+   "lugar": "lead"
+  },
+  {
+   "id": "cai-escorpion-chiquichano-vuelta-gallegos",
+   "fecha": "2026-11-26T00:57:48-03:00",
+   "sec": "deportes",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Regional Amateur: la CAI perdió 2 a 1 con Escorpión y Chiquichano confía en dar vuelta la serie en Río Gallegos",
+   "bajada": "El volante trelewense reconoció que la derrota en la semifinal de ida sorprendió al plantel y aseguró que irán \"por todo\" en la revancha.",
+   "cuerpo": [
+    "La Comisión de Actividades Infantiles de Comodoro Rivadavia cayó 2 a 1 como local ante Escorpión de Río Gallegos en la ida de la semifinal de la Región Patagonia del Regional Amateur. Oscar Benjamín Chiquichano, volante de 31 años nacido en Trelew, admitió que el resultado \"nos sorprendió a todos\" y que el equipo se fue encerrando después de que el rival convirtió dos goles rápidos en el segundo tiempo.",
+    "El jugador señaló que la lesión de Manchot fue una baja importante por la experiencia que aporta, aunque no le quitó mérito al rival. \"Estamos a un gol, pudimos descontar y sabemos que un gol nos pone en partido nuevamente\", dijo de cara a la vuelta en Río Gallegos, para la que el plantel tiene una semana de trabajo.",
+    "Chiquichano jugó cuatro temporadas en San Martín de Formosa, que acaba de ascender a la Primera Nacional, y llegó a la CAI en agosto. Contó que se fue de ese club por una cuestión personal, que su idea era pasar a Cipolletti pero no lo dejaron por ser un equipo de la misma categoría, y que su llegada a Comodoro se dio tras hablar con el \"Mumo\" Peralta."
+   ],
+   "arte": "cancha",
+   "tema": "Regional Amateur"
+  },
+  {
+   "id": "clinica-futbol-mr-madryn-2027",
+   "fecha": "2026-11-26T00:57:47-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn tendrá en enero la cuarta Clínica de Fútbol MR, con captadores de Primera División",
+   "bajada": "Será del 14 al 17 de enero de 2027 en el Estadio Raúl Conti, para chicos de 10 a 16 años de Chubut y la Patagonia, con un cupo de unos 160 jugadores.",
+   "cuerpo": [
+    "La cuarta edición de la Clínica de Fútbol MR, que encabeza el exfutbolista y entrenador Martín Rolle, se presentó este miércoles en el Parador Riviera de Puerto Madryn. La propuesta vuelve a contar con el acompañamiento de Chubut Deportes, cuya directora, Alejandra Ibrahim, estuvo en el lanzamiento junto al coordinador de Deportes de la ciudad, Andrés Calabró.",
+    "La clínica se hará del 14 al 17 de enero de 2027 en el Estadio Raúl Conti. Está pensada para jugadores de 10 a 16 años de clubes de Chubut y del resto de la Patagonia, con un cupo estimado de 160 participantes. Habrá entrenamientos por puesto, trabajos de técnica, videoanálisis y la presencia de captadores de clubes de Primera División.",
+    "Las jornadas se completarán con charlas y talleres sobre salud deportiva, nutrición, reglamento, prevención de lesiones y recuperación. El equipo de profesionales lo integran el médico Lucas Escobar, el kinesiólogo Matías Nudelman y la nutricionista Romina Blanes. Escobar explicó que el primer día estará dedicado a evaluaciones físicas, fisiológicas, técnicas y deportivas para tener un diagnóstico de cada chico.",
+    "Calabró calificó al equipo interdisciplinario como \"espectacular\" y dijo que es \"una gran oportunidad para todos los chicos de la zona\". Las inscripciones ya están abiertas en inscripciones.martinrolle.com y las consultas se reciben al 280 506 8393."
+   ],
+   "arte": "cancha",
+   "tema": "Fútbol formativo"
+  },
+  {
+   "id": "trelew-tennis-torneo-por-equipos",
+   "fecha": "2026-11-26T00:05:22-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "El Trelew Tennis Club arranca el viernes un torneo por equipos abierto a todas las edades",
+   "bajada": "El certamen empieza este viernes a las 19 y la inscripción cierra el jueves al mediodía.",
+   "cuerpo": [
+    "El Trelew Tennis Club pone en marcha este viernes, a las 19, un torneo por equipos abierto a tenistas de todas las edades. Cada equipo tendrá seis integrantes, tres damas y tres varones, de las categorías tercera y cuarta en damas y tercera, cuarta y quinta en varones, y deberá armar un doble de damas, uno de caballeros y uno mixto.",
+    "La inscripción está abierta hasta el jueves a las 12 e incluye premios, sorteos, pelotas, agua y pizza libre. También habrá distinciones especiales para el equipo mejor combinado, los jugadores revelación en damas y varones, y el fair play."
+   ],
+   "arte": "cancha",
+   "tema": "Tenis",
+   "sinFoto": true
+  },
+  {
+   "id": "madryn-gimnasia-revancha-terna-arbitral",
+   "fecha": "2026-11-26T00:05:21-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Madryn-Gimnasia de Jujuy: Joaquín Gil dirigirá la revancha y Camilo Machado no estará",
+   "bajada": "El Aurinegro recibe al Lobo el sábado a las 20 en el Abel Sastre por la vuelta de los cuartos del Reducido; necesita ganar para dar vuelta el 0-1 de la ida.",
+   "cuerpo": [
+    "La AFA designó a Joaquín Gil como árbitro de la revancha entre Deportivo Madryn y Gimnasia de Jujuy, que se jugará este sábado a las 20 en el estadio Abel Sastre por los cuartos de final del Reducido de la Primera Nacional. Lo acompañarán Cristian Navarro y Diego Martín como asistentes, y Lucas Cavallero será el cuarto árbitro.",
+    "Gil ya dirigió tres partidos de Madryn en la temporada, con dos triunfos y un empate para el Aurinegro. También arbitró cuatro encuentros de Gimnasia en la Primera Nacional 2025, con dos victorias y dos empates del equipo jujeño.",
+    "El plantel de Luis García volvió a entrenarse el miércoles en el Abel Sastre y el técnico cuenta con casi todos sus jugadores: la única baja confirmada es la de Camilo Machado. En Gimnasia, en cambio, hay dudas por Nicolás Dematei, que arrastra una lesión muscular, y siguen en recuperación Francisco Molina y Federico Paradela. La delegación jujeña viajará el viernes por la mañana, con escala en Buenos Aires.",
+    "En la ida, Gimnasia ganó 1 a 0 con gol de Joaquín Varela, así que el empate le alcanza para avanzar. Madryn necesita ganar: si iguala la serie en el global, pasa a semifinales por haber terminado mejor ubicado en la fase regular."
+   ],
+   "arte": "cancha",
+   "tema": "Deportivo Madryn"
+  },
+  {
+   "id": "final-abech-brown-madryn-dos-suplementarios",
+   "fecha": "2026-11-26T00:05:20-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Final del Clausura de ABECh: Brown le ganó a Madryn en doble suplementario y la serie está 1 a 1",
+   "bajada": "Guillermo Brown se impuso 101 a 91 tras igualar 80-80 en el tiempo regular y 90-90 en el primer alargue. El tercer juego será el domingo en el Juan Barrientos.",
+   "cuerpo": [
+    "Guillermo Brown venció a Deportivo Madryn por 101 a 91 en un partido que necesitó dos tiempos suplementarios y empató la serie final del Torneo Clausura de la ABECh. El tiempo reglamentario terminó 80 a 80 y el primer alargue, 90 a 90; recién en el segundo la Banda logró sacar ventaja.",
+    "En el ganador se destacaron Joaquín Otier, con 23 puntos, Augusto Rossi, con 20, y Lautaro García, con 18. En el Aurinegro, Catriel Aredes fue el goleador del partido con 28 puntos y metió 7 de sus 8 triples, mientras que Carlos “Pocho” Pérez y César Laboratorio aportaron 22 cada uno.",
+    "La definición sigue en el estadio Juan Barrientos, donde Deportivo Madryn será local en el tercer juego, previsto para el próximo domingo."
+   ],
+   "arte": "cancha",
+   "tema": "Básquet ABECh"
+  },
+  {
+   "id": "caso-colihuinca-profugo-asalto-trelew",
+   "fecha": "2026-11-26T00:05:19-03:00",
+   "sec": "policiales",
+   "ciudad": "Trelew",
+   "titulo": "Caso Colihuinca: el acusado se fugó de la domiciliaria y lo señalan por un asalto en el centro de Trelew",
+   "bajada": "El ministro de Seguridad, Héctor Iturrioz, cuestionó a la jueza Mirta Moreno por negar la orden de captura y los allanamientos que pidió la Policía.",
+   "cuerpo": [
+    "El hombre señalado como autor del crimen de Rodrigo Colihuinca, ocurrido hace 14 años, está prófugo desde el viernes 20 de noviembre. Dos días antes, el juez Marcelo Nieto Di Biase había elevado la causa a juicio y le había dictado prisión domiciliaria con tobillera electrónica a la espera del debate.",
+    "Según contó el ministro de Seguridad, Héctor Iturrioz, cuando el técnico fue a colocarle la tobillera, la madre del acusado dijo que había salido a una consulta con el psiquiatra, una salida que tenía autorizada. Nunca regresó, y ese mismo día fue declarado prófugo con pedido de búsqueda y detención.",
+    "En la madrugada del sábado 21, las cámaras de seguridad de una casa del centro de Trelew lo registraron durante un violento asalto al dueño de la vivienda, a quien le robaron 7 millones de pesos. Con esas imágenes, la Policía pidió a la jueza Mirta Moreno una orden de detención y allanamientos en los lugares donde podría estar escondido, pero la magistrada los rechazó.",
+    "“Nos dijeron que no; que faltaba hacer reconocimiento en ruedas, y después nos exigió una petición de comparación de voz. Eso tarda meses y en el país lo hace solamente Gendarmería”, se quejó Iturrioz. Mientras tanto, la Policía lo sigue buscando por la causa del homicidio."
+   ],
+   "arte": "noche",
+   "tema": "Caso Colihuinca"
+  },
+  {
+   "id": "madryn-terminal-demorado-caja-ropa",
+   "fecha": "2026-11-25T23:05:13-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Terminal de Madryn: demoraron a un hombre que rompió una caja con ropa en un depósito de encomiendas",
+   "bajada": "Un testigo alertó a los empleados, que lo retuvieron hasta que llegó la Policía. No faltó mercadería.",
+   "cuerpo": [
+    "Un hombre quedó demorado el lunes a la noche en la terminal de ómnibus de Puerto Madryn después de romper una caja de cartón con prendas de vestir en el depósito de la empresa Vía Cargo.",
+    "Cerca de las 20.20, un testigo vio cómo la persona se acercaba al depósito y dañaba la caja. Después intentó irse, pero sin llevarse nada. El testigo avisó a los empleados, que lo retuvieron hasta la llegada de la Policía.",
+    "Los efectivos revisaron el contenido y confirmaron que no faltaba ninguna prenda. El procedimiento quedó a cargo de la Comisaría Seccional Primera de Puerto Madryn."
+   ],
+   "arte": "ciudad",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "comodoro-incendio-camioneta-canadon-las-lenas",
+   "fecha": "2026-11-25T23:05:12-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: una camioneta se prendió fuego mientras circulaba por Cañadón Las Leñas",
+   "bajada": "La conductora sintió olor a humo, frenó y al abrir el capot se iniciaron las llamas. Salió ilesa y los Bomberos Voluntarios apagaron el fuego.",
+   "cuerpo": [
+    "Una Land Rover Freelander se incendió el lunes cerca de las 23.30 en la calle Alcoleas al 2.500, en el barrio Cañadón Las Leñas de Comodoro Rivadavia. La mujer que la manejaba no sufrió heridas.",
+    "De acuerdo con lo informado, la conductora empezó a sentir un fuerte olor a humo mientras circulaba. Cuando detuvo la marcha y levantó el capot para revisar el motor, el fuego se inició de golpe en la parte delantera.",
+    "Una dotación de Bomberos Voluntarios llegó al lugar y controló las llamas antes de que el incendio se agravara. La Policía encuadró el hecho como un incendio vehicular por una falla mecánica."
+   ],
+   "arte": "humo",
+   "tema": "Incendios"
+  },
+  {
+   "id": "madryn-cuatro-detenidos-robo-celular",
+   "fecha": "2026-11-25T23:05:11-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn: cuatro detenidos por golpear a un hombre para robarle el celular",
+   "bajada": "El hecho ocurrió el lunes a la noche detrás de un supermercado de Fuerte San José y Domecq García. Uno de los aprehendidos tenía tres pedidos de captura.",
+   "cuerpo": [
+    "Cuatro hombres quedaron detenidos el lunes a la noche en Puerto Madryn acusados de un robo en banda. La víctima denunció que lo golpearon para quitarle un iPhone 11 de carcasa azul, pasadas las 21, en la calle que da a la parte trasera de un supermercado sobre avenida Fuerte San José y Domecq García.",
+    "El aviso llegó por el 101 al policía que hacía un servicio adicional en el comercio. El hombre le contó que tres personas lo abordaron y lo golpearon, y que un cuarto escapó hacia la calle Dr. Ávila.",
+    "Con esos datos se armó un operativo que permitió aprehender a tres sospechosos de 44 y 39 años en Fuerte San José y Domecq García, y a un cuarto, de 33, en Dr. Ávila y Pasaje Brunni. Este último tenía tres pedidos de captura vigentes de distintos juzgados, por causas de octubre de 2025 y abril de 2026.",
+    "El teléfono no apareció entre las pertenencias de los detenidos."
+   ],
+   "arte": "ciudad",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "trelew-robo-calle-tecka-dos-veces",
+   "fecha": "2026-11-25T23:05:10-03:00",
+   "sec": "policiales",
+   "ciudad": "Trelew",
+   "titulo": "Trelew: le robaron dos veces en la misma madrugada y la segunda vez la redujeron mientras dormía",
+   "bajada": "Dos hombres forzaron la puerta de una casa de calle Tecka, cerca de Charly García, se llevaron objetos y horas después volvieron para exigirle dinero a la dueña.",
+   "cuerpo": [
+    "Una mujer sufrió dos robos en la misma madrugada del fin de semana en su casa de calle Tecka, casi Charly García, en Trelew. En el primero, dos hombres forzaron la puerta de entrada y se llevaron un anafe de dos hornallas, una balanza digital y un parlante negro.",
+    "La dueña de casa se encontró con la puerta dañada y la vivienda revuelta cerca de las 3, cuando volvió. Ordenó, no hizo la denuncia en ese momento y se fue a dormir.",
+    "Alrededor de las 6, los mismos delincuentes habrían regresado. La sorprendieron dormida, la tiraron al piso y la amenazaron con un objeto que no llegó a identificar mientras le pedían plata. Se llevaron unos 200.000 pesos de una venta reciente y otra suma de efectivo que no pudo precisar.",
+    "La mujer describió a los autores como dos hombres jóvenes, delgados, de alrededor de 1,75 metros, con la cara tapada; uno de ellos tenía una capucha marrón."
+   ],
+   "arte": "noche",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "madryn-allanamiento-amenazas-revolver",
+   "fecha": "2026-11-25T22:04:53-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn: secuestran un revólver y un auto en un allanamiento por amenazas",
+   "bajada": "La Policía allanó una casa de la calle Gallastegui en el marco de una causa por amenazas ocurridas en la madrugada del lunes.",
+   "cuerpo": [
+    "Efectivos policiales, junto con la Brigada de Investigaciones, hicieron el martes por la tarde un allanamiento en una vivienda de la calle Gallastegui, en Puerto Madryn. El procedimiento forma parte de la investigación por un hecho de amenazas registrado en la madrugada del lunes.",
+    "En el domicilio los investigadores secuestraron un revólver, ocho municiones calibre .22, un teléfono celular y un Volkswagen Gol. La orden judicial se obtuvo a partir de los datos que reunieron los pesquisas después de la denuncia."
+   ],
+   "arte": "noche",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "comodoro-cambio-infraestructura",
+   "fecha": "2026-11-25T21:52:54-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: renunció el secretario de Infraestructura y asume Marcelo Solohaga",
+   "bajada": "El intendente Othar Macharashvili aceptó la salida de Fernando Ostoich, que dejó el cargo por motivos personales.",
+   "cuerpo": [
+    "El intendente de Comodoro Rivadavia, Othar Macharashvili, confirmó cambios en la Secretaría de Infraestructura, Obras y Servicios Públicos: aceptó la renuncia del arquitecto Fernando Ostoich, que dejó el cargo por razones personales.",
+    "En su lugar asumirá Marcelo Solohaga, que hasta ahora era subsecretario de Obras de la misma área. La idea es sostener el ritmo de los trabajos que se hacen en la ciudad.",
+    "La asunción del nuevo secretario será en los próximos días, y en ese acto se darán a conocer los principales lineamientos de su gestión."
+   ],
+   "arte": "ciudad",
+   "tema": "Municipio de Comodoro"
+  },
+  {
+   "id": "clausura-madryn-moreno-germinal",
+   "fecha": "2026-11-25T21:07:57-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "Madryn empató con Moreno y Germinal puede ser campeón del Clausura el sábado",
+   "bajada": "El 1 a 1 en el Hernán Egurza dejó al Aurinegro sin chances de pelear el título.",
+   "cuerpo": [
+    "Deportivo Madryn igualó 1 a 1 como visitante ante JJ Moreno, en el estadio Hernán Egurza, en uno de los partidos pendientes de la fecha 16 del Torneo Clausura. Con ese resultado quedó sin posibilidades de alcanzar el campeonato.",
+    "El empate le dejó el camino servido a Germinal, que el sábado podrá consagrarse si le gana a Guillermo Brown en El Fortín, desde las 16. CEC, en tanto, necesita un milagro para seguir en carrera.",
+    "La programación del sábado: a las 15, La Ribera vs. Deportivo Roca en El Tehuelche; a las 16, Gaiman FC vs. Independiente y CEC vs. Racing Club, ambos en la Villa Deportiva, y Germinal vs. Guillermo Brown; a las 17, Dolavon vs. Alianza FO en Dolavon y Alumni vs. JM de Rosas en cancha de Alumni."
+   ],
+   "arte": "cancha",
+   "tema": "Deportivo Madryn"
+  },
+  {
+   "id": "marcha-25n-trelew",
+   "fecha": "2026-11-25T21:07:56-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Trelew marchó por el 25N contra la violencia de género",
+   "bajada": "Algo más de 100 personas se juntaron en la Plaza Independencia y recorrieron el centro reclamando políticas de asistencia.",
+   "cuerpo": [
+    "Este miércoles, en el Día Internacional de la Eliminación de la Violencia contra la Mujer, organizaciones sociales y feministas se concentraron en la Plaza Independencia de Trelew. Participaron, entre otros espacios, el MTE Trelew y la agrupación Pan y Rosas.",
+    "Se leyó un documento que recordó el asesinato de las hermanas Mirabal, ocurrido el 25 de noviembre de 1960 en República Dominicana durante la dictadura de Rafael Trujillo, origen de la fecha.",
+    "Los reclamos se centraron en la prevención y erradicación de la violencia de género y machista, la falta de políticas públicas de asistencia integral y acompañamiento, y el sostenimiento de la ayuda social y alimentaria en los barrios frente a la crisis económica.",
+    "Después de la lectura, los manifestantes bajaron a la calle San Martín y marcharon por el centro de la ciudad."
+   ],
+   "arte": "ciudad",
+   "tema": "25N"
+  },
+  {
+   "id": "tecka-imputacion-cabo-esquel",
+   "fecha": "2026-11-25T21:07:55-03:00",
+   "sec": "policiales",
+   "ciudad": "Esquel",
+   "titulo": "Caso Tecka: imputaron al cabo por homicidio agravado y abuso de la función policial",
+   "bajada": "La Fiscalía sostiene que disparó con postas de goma a corta distancia y directo al cuerpo, en contra de los protocolos.",
+   "cuerpo": [
+    "La fiscal María Bottini formalizó en los Tribunales de Esquel la apertura de la investigación contra el cabo de la Policía del Chubut acusado por la muerte de Eduardo Victorio López, de 30 años, y por las lesiones de otro hombre durante un procedimiento en Tecka, en la madrugada del 22 de noviembre.",
+    "Según la reconstrucción presentada en la audiencia, una patrulla quiso detener un Renault Logan con cuatro ocupantes que esquivó el control y frenó en la casa del conductor, sobre la Ruta 40. Allí dos de los hombres bajaron y discutieron con los policías. La Fiscalía afirma que el cabo disparó su escopeta antitumulto con postas de goma a corta distancia y directo al cuerpo: uno de ellos sufrió heridas leves en el tórax y López recibió un impacto mortal en el cuello.",
+    "La acusación principal es por homicidio agravado y lesiones leves agravadas por abuso de la función policial, porque los protocolos exigen una distancia mínima de 10 metros y prohíben apuntar al cuerpo con ese tipo de armas. Como calificación alternativa, la fiscal planteó homicidio y lesiones en exceso de la legítima defensa, por si se comprobara que los civiles mostraron armas blancas.",
+    "La audiencia la presidió el juez Carlos Richeri, quien aclaró que había sido docente del acusado en 2016, sin objeciones de las partes. El defensor Daniel Sandoval cuestionó la formulación de cargos al sostener que existen tres versiones distintas de lo ocurrido."
+   ],
+   "arte": "ruta",
+   "tema": "Caso Tecka"
+  },
+  {
+   "id": "fiesta-tren-a-vapor-2027",
+   "fecha": "2026-11-25T20:58:29-03:00",
+   "sec": "turismo",
+   "ciudad": "El Maitén",
+   "titulo": "El Maitén ya tiene fecha para la Fiesta Nacional del Tren a Vapor 2027",
+   "bajada": "La 31.ª edición será el 12, 13 y 14 de febrero, con música en vivo y propuestas ligadas a la tradición ferroviaria.",
+   "cuerpo": [
+    "El Maitén confirmó que la 31.ª Fiesta Nacional del Tren a Vapor se hará el 12, 13 y 14 de febrero de 2027.",
+    "Es una de las celebraciones populares más importantes de la localidad de la Comarca Andina y cada año reúne a vecinos y turistas de toda la Patagonia, con música, cultura y actividades para toda la familia.",
+    "La organización ya anunció los primeros nombres de la grilla, con artistas reconocidos de la música nacional y de distintos géneros."
+   ],
+   "arte": "tren",
+   "tema": "Tren a Vapor"
+  },
+  {
+   "id": "vacantes-secundaria-comodoro",
+   "fecha": "2026-11-25T20:58:28-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro",
+   "titulo": "Familias hacen vigilia en Comodoro para conseguir lugar en primer año de la secundaria",
+   "bajada": "Esperan afuera de la Escuela 743 la reubicación de los chicos que no entraron por sorteo en las escuelas más pedidas.",
+   "cuerpo": [
+    "La falta de vacantes en algunas escuelas secundarias de Comodoro Rivadavia llevó a varias familias a hacer guardia afuera de la Escuela 743, en el barrio Pueyrredón, a la espera de la reubicación de los chicos que no consiguieron lugar por sorteo.",
+    "El martes fue el turno de quienes se habían anotado en las escuelas 707, 704, 742, 757, 770 y 749, de la zona norte. El miércoles le toca a la zona sur, con quienes eligieron las escuelas 743, 7715 y 760.",
+    "Algunos padres llegaron desde el domingo. “Dicen que solo hay 10 vacantes en el Perito Moreno”, contó una vecina, preocupada porque los lugares no alcancen para todos."
+   ],
+   "arte": "escuela",
+   "tema": "Educación"
+  },
+  {
+   "id": "justicia-por-dylan-rojas",
+   "fecha": "2026-11-25T20:58:27-03:00",
+   "sec": "policiales",
+   "ciudad": "Trelew",
+   "titulo": "Trelew: la mamá de Dylan Rojas colgó banderas para pedir justicia a ocho meses del crimen",
+   "bajada": "La audiencia preliminar se pasó al 22 de diciembre. La Fiscalía y la querella pedirán prisión perpetua para el único acusado.",
+   "cuerpo": [
+    "Jessica Argüello, mamá de Dylan Rojas, recorrió Trelew y colocó banderas con el pedido de justicia en pasarelas como la del barrio Constitución y la de avenida Perón. Es la segunda vez que lo hace: contó que las anteriores las sacaron y no sabe quién.",
+    "Dylan era boxeador, tenía 19 años y murió de tres disparos el 24 de marzo en el barrio Planta de Gas, después de una discusión en la calle.",
+    "La audiencia preliminar estaba prevista para este martes, cuando se cumplieron ocho meses del crimen, pero pasó al 22 de diciembre. El Ministerio Público Fiscal y la querella pedirán que, en un juicio por jurados, el único acusado sea condenado a prisión perpetua.",
+    "“Detrás de esas banderas está mi sufrimiento”, dijo su mamá."
+   ],
+   "arte": "ciudad",
+   "tema": "Caso Dylan Rojas"
+  },
+  {
+   "id": "detenidos-ataque-madryn",
+   "fecha": "2026-11-25T20:58:26-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Dos detenidos por el ataque a puñaladas contra un trabajador en Puerto Madryn",
+   "bajada": "La Policía hizo tres allanamientos en los barrios Presidente Perón y Las Bardas y en calle Colón al 1000.",
+   "cuerpo": [
+    "La investigación por el ataque con arma blanca que sufrió un hombre el fin de semana en Puerto Madryn tuvo avances: ya hay dos personas detenidas.",
+    "Los investigadores allanaron tres domicilios, en los barrios Presidente Perón y Las Bardas y en calle Colón al 1000. En esos procedimientos detuvieron a la primera persona y secuestraron elementos que se sumarán a la causa.",
+    "Por la tarde aprehendieron a un segundo sospechoso, un hombre de 35 años, en la zona de avenida Hipólito Yrigoyen y Alejandro Maíz.",
+    "La víctima había sido encontrada tendida sobre calle Villarino, entre Urtazun y Mengolarra, con una herida de arma blanca en la espalda."
+   ],
+   "arte": "noche",
+   "tema": "Ataque en Madryn"
+  },
+  {
+   "id": "estafa-cuenta-solidaria-comodoro",
+   "fecha": "2026-11-25T20:58:25-03:00",
+   "sec": "ultimas",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Estafadores vaciaron la cuenta solidaria de una familia de Comodoro que junta fondos para su hijo",
+   "bajada": "El nene tiene 6 años y dos enfermedades genéticas poco frecuentes. Habían reunido casi $10 millones para un tratamiento de $600 millones.",
+   "cuerpo": [
+    "Una familia de Comodoro Rivadavia que recauda dinero para el tratamiento de su hijo de 6 años se quedó sin lo que había juntado: estafadores tomaron el control de la cuenta bancaria y la dejaron en cero. Había casi $10 millones.",
+    "El chico tiene al mismo tiempo síndrome de Noonan y schwannomatosis, dos afecciones genéticas sin cura cuya combinación es muy poco común. El tratamiento cuesta alrededor de $600 millones.",
+    "Su mamá contó que hace una semana le robaron el celular en la zona de Congreso, en Buenos Aires. Días después le llegó a otro teléfono un mensaje con un enlace que prometía mostrar dónde estaba el aparato; al abrirlo, el equipo se bloqueó y le vaciaron la cuenta.",
+    "La mujer hizo la denuncia en la Policía de la Ciudad, reclama a los bancos que le devuelvan el dinero y difundió nuevos datos para seguir recibiendo ayuda."
+   ],
+   "arte": "ciudad",
+   "tema": "Estafas virtuales"
+  },
+  {
+   "id": "tecka-ministro-legitima-defensa",
+   "fecha": "2026-11-25T20:58:24-03:00",
+   "sec": "politica",
+   "ciudad": "Tecka",
+   "titulo": "Caso Tecka: el ministro de Seguridad defendió al policía imputado y habló de legítima defensa",
+   "bajada": "Héctor Iturrioz reconoció que no tiene el expediente judicial completo y que se basó en el parte policial.",
+   "cuerpo": [
+    "El ministro de Seguridad y Justicia del Chubut, Héctor Iturrioz, respaldó en público al cabo primero de la Policía imputado por homicidio agravado por la muerte de Eduardo Victorio López, de 30 años, durante un procedimiento en Tecka.",
+    "Según el funcionario, el accionar del efectivo “fue ajustado a derecho; fue un caso de legítima defensa”. Admitió que no cuenta con el expediente judicial completo y que su postura se apoya en las actuaciones policiales internas.",
+    "El cabo cumple arresto domiciliario por 15 días mientras avanza la investigación penal, que quedó a cargo de una fuerza federal, como establece la normativa para hechos violentos en los que intervienen policías provinciales."
+   ],
+   "arte": "cordillera",
+   "tema": "Caso Tecka"
+  },
+  {
+   "id": "paro-bancario",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Bancarios de Comodoro paran el 1 y 2 de diciembre por despidos y cierre de sucursales",
+   "bajada": "Los empleados del Santander se suman a la medida nacional de La Bancaria: dejarán de atender al público en las últimas tres horas de cada jornada.",
+   "cuerpo": [
+    "Los trabajadores del Banco Santander en Comodoro Rivadavia cumplirán el martes 1 y el miércoles 2 de diciembre el paro nacional convocado por la Asociación Bancaria. Durante esos dos días no habrá atención al público en las últimas tres horas del horario bancario.",
+    "La medida se definió en conjunto entre la conducción nacional del gremio, las seccionales y las comisiones internas, después de que fracasaran las negociaciones en la Secretaría de Trabajo. El reclamo apunta contra los despidos, los retiros forzados y el cierre de sucursales.",
+    "El delegado Gonzalo Martínez describió la política de la empresa como un achique sistemático y denunció presiones a los empleados para que acepten desvincularse. En Comodoro ya cerraron tres sucursales y solo quedan dos abiertas. En la región también hubo despidos en Caleta Olivia y se cerró la sede de Las Heras.",
+    "Para el gremio, el recorte de personal se nota en la calle: hay clientes que esperan hasta una hora para ser atendidos, cuando antes el trámite era rápido."
+   ],
+   "arte": "ciudad",
+   "tema": "Paro bancario"
+  },
+  {
+   "id": "elecciones-esquel",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "politica",
+   "ciudad": "Esquel",
+   "titulo": "Elecciones del 21 de marzo: Esquel empieza a tratar la adhesión al cronograma provincial",
+   "bajada": "El intendente Matías Taccetta envió al Concejo Deliberante el proyecto para que la ciudad vote el mismo día que la provincia.",
+   "cuerpo": [
+    "El gobernador Ignacio Torres fijó por el Decreto 1.872 las elecciones provinciales para el domingo 21 de marzo de 2027. Esquel quiere sumarse a esa fecha para no tener que votar dos veces.",
+    "El proyecto ingresa en la sesión ordinaria del viernes y la semana próxima pasará a la comisión correspondiente. El presidente del Concejo, Rubén Álvarez, anticipó que habrá una consulta legal pero que no hay demasiado para analizar: el oficialismo tiene la mayoría simple que necesita para aprobarlo.",
+    "Los tiempos aprietan, porque el cronograma electoral arranca en diciembre."
+   ],
+   "arte": "cordillera",
+   "tema": "Elecciones 2027"
+  },
+  {
+   "id": "marea-roja",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Costa chubutense",
+   "titulo": "Sigue la veda por marea roja en toda la costa de Chubut",
+   "bajada": "Está prohibido extraer moluscos bivalvos y caracoles en toda la provincia: los análisis detectaron toxinas por encima del límite para consumo humano.",
+   "cuerpo": [
+    "La Secretaría de Pesca mantiene durante noviembre la veda para la extracción de moluscos bivalvos y gasterópodos en toda la jurisdicción provincial.",
+    "La decisión se basa en los muestreos de toxina paralizante de moluscos, que dieron valores por encima de los máximos permitidos por el Código Alimentario Argentino.",
+    "La continuidad de la medida depende de los próximos análisis, que se hacen dentro de los programas de prevención y control de marea roja de la Secretaría."
+   ],
+   "arte": "mar",
+   "tema": "Marea roja"
+  },
+  {
+   "id": "eclipse",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "turismo",
+   "ciudad": "Cordillera",
+   "titulo": "Esquel y Trevelin, los mejores lugares para ver el anillo de fuego del 6 de febrero",
+   "bajada": "La provincia declaró de Interés Turístico Provincial el eclipse solar anular de 2027 y presentó dieciséis experiencias para verlo.",
+   "cuerpo": [
+    "El Ministerio de Turismo y Áreas Protegidas declaró de Interés Turístico Provincial el eclipse solar anular del 6 de febrero de 2027 y difundió la lista oficial de dieciséis experiencias y puntos de observación en Chubut.",
+    "La propuesta se concentra en la cordillera, sobre la franja de sombra del fenómeno: Esquel, Trevelin y el Parque Nacional Los Alerces. También hay opciones en Piedra Parada, Gualjaina y la costa norte.",
+    "La declaración se suma a la de Interés Legislativo que aprobó la Legislatura en noviembre."
+   ],
+   "arte": "eclipse",
+   "lugar": "especial",
+   "tema": "Eclipse anular"
+  },
+  {
+   "id": "antigranizo",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Provincia",
+   "titulo": "Chubut y el CFI abrieron créditos para que los productores instalen sistemas antigranizo",
+   "bajada": "La línea combina financiamiento y asistencia técnica para proteger cultivos de productores agrícolas y agroindustriales.",
+   "cuerpo": [
+    "El Ministerio de Producción habilitó una nueva línea del Consejo Federal de Inversiones para comprar e instalar sistemas de protección contra el granizo.",
+    "La herramienta está pensada para productores agrícolas y agroindustriales y busca reducir los daños en los cultivos, cuidar su calidad y darle más previsibilidad al sector.",
+    "La acordaron el gobernador Ignacio Torres y el secretario general del CFI, Ignacio Lamothe, dentro del Programa Federal de Acciones Sustentables, que también incluye diagnósticos ambientales para industrias y turismo."
+   ],
+   "arte": "valle",
+   "tema": "Producción"
+  },
+  {
+   "id": "puma-trelew",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Un puma apareció cerca del Aeropuerto Viejo de Trelew",
+   "bajada": "Vecinos lo filmaron mientras recorría la zona, cerca de casas y calles transitadas.",
+   "cuerpo": [
+    "Un puma recorrió las inmediaciones del Aeropuerto Viejo de Trelew y quedó registrado en un video que circuló rápido por las redes sociales.",
+    "El animal se movía cerca de viviendas y calles con tránsito, lo que generó preocupación entre los vecinos.",
+    "En la Patagonia, los terrenos abiertos y poco urbanizados que rodean a los viejos predios aeronáuticos pueden convertirse en zonas de paso para la fauna silvestre."
+   ],
+   "arte": "puma",
+   "tema": "Fauna"
+  },
+  {
+   "id": "trochita-ferias",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Esquel · El Maitén",
+   "titulo": "La Trochita salió a promocionar Chubut en ferias de Comodoro y Brasil",
+   "bajada": "El Viejo Expreso Patagónico estuvo en la Expo Turismo de Comodoro y en Festuris, en Gramado.",
+   "cuerpo": [
+    "La Trochita participó de dos ferias turísticas para ampliar su difusión: la Expo Turismo de Comodoro Rivadavia y Festuris, que se hizo en Gramado, Brasil.",
+    "En los dos encuentros mostró sus recorridos desde Esquel y El Maitén, su historia y las propuestas ligadas al patrimonio ferroviario.",
+    "La presencia del tren, que depende del Gobierno provincial, fue parte de la estrategia de promoción del Ministerio de Turismo y Áreas Protegidas."
+   ],
+   "arte": "tren",
+   "tema": "La Trochita"
+  },
+  {
+   "id": "playa-union",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "Playa Unión, primera playa municipal y gratuita en sumarse a Bandera Azul",
+   "bajada": "Rawson puso en marcha una prueba piloto del programa internacional que certifica la calidad ambiental de las playas.",
+   "cuerpo": [
+    "Playa Unión comenzó a aplicar el programa Bandera Azul, una certificación presente en más de 50 países que reconoce la gestión sostenible de las playas.",
+    "El proyecto incluye acciones de educación ambiental y nueva cartelería para promover el cuidado de la costa.",
+    "La presentación la encabezó el intendente Damián Biss junto a funcionarios, el ente Rawson Turismo, guardavidas y prestadores. El biólogo Antonio Molina destacó que es la primera playa de gestión municipal y acceso gratuito en incorporarse."
+   ],
+   "arte": "playa",
+   "tema": "Playa Unión"
+  },
+  {
+   "id": "elefantes-marinos",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Costa chubutense",
+   "titulo": "Los elefantes marinos de Chubut cayeron a la mitad tras la gripe aviar",
+   "bajada": "La población podría tardar hasta 70 años en recuperarse. Advierten por turistas que se acercan demasiado.",
+   "cuerpo": [
+    "La población de elefantes marinos de Chubut se redujo un 50% después del brote de influenza aviar de 2023 y podría necesitar hasta 70 años para volver a sus niveles anteriores.",
+    "El consultor ambiental Víctor Fratto advirtió que en distintos puntos de la costa, dentro y fuera de las áreas protegidas, hay personas que se acercan demasiado a los animales para sacarse fotos, los molestan y hasta les tiran piedras para que se muevan."
+   ],
+   "arte": "mar",
+   "tema": "Fauna"
+  },
+  {
+   "id": "banco-naranja",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Instalaron un Banco Naranja en la Comisaría de la Mujer de Puerto Madryn",
+   "bajada": "Se inauguró el 25 de noviembre, Día Internacional de la Eliminación de la Violencia contra las Mujeres.",
+   "cuerpo": [
+    "La Comisaría de la Mujer de Puerto Madryn sumó un Banco Naranja, un símbolo para concientizar sobre la violencia contra las mujeres.",
+    "La idea es visibilizar el problema, invitar a la reflexión y reafirmar el compromiso de la comunidad y las instituciones para prevenir todas las formas de violencia de género.",
+    "Participaron fiscales y funcionarios de la Agencia de Violencia de Género y Delitos Sexuales del Ministerio Público Fiscal de Puerto Madryn."
+   ],
+   "arte": "banco",
+   "tema": "25N"
+  },
+  {
+   "id": "toki-tea",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Alumnos de una escuela técnica de Trelew crearon TOKI, un dispositivo para chicos con TEA",
+   "bajada": "Tiene nueve botones con pictogramas y avisa a los docentes cuando un chico necesita ayuda.",
+   "cuerpo": [
+    "Estudiantes de sexto año de la tecnicatura en Informática de una escuela técnica de Trelew desarrollaron TOKI, un dispositivo para que chicos con trastorno del espectro autista puedan comunicarse en el aula sin depender solo del habla.",
+    "El aparato tiene nueve botones con pictogramas y elementos sensoriales. Una aplicación avisa a los docentes cuando llega un pedido de ayuda.",
+    "La idea surgió de una investigación escolar y el proyecto se presentó en la Muestra Anual de Escuelas Técnicas."
+   ],
+   "arte": "escuela",
+   "tema": "Educación"
+  },
+  {
+   "id": "cola-de-pescado",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Sarmiento",
+   "titulo": "Hallan en Sarmiento una punta “cola de pescado”, la primera registrada en esa zona",
+   "bajada": "Es una herramienta de caza asociada a los primeros pobladores de Sudamérica.",
+   "cuerpo": [
+    "Un equipo del IDEAus-CONICET y de la Universidad Nacional de la Patagonia San Juan Bosco encontró una antigua punta de proyectil al sudeste del lago Colhué Huapi, en Sarmiento.",
+    "Por su forma se la conoce como “cola de pescado” y es el primer registro de esta tecnología en el Bajo de Sarmiento.",
+    "Este tipo de puntas se asocia a poblaciones que habitaron Sudamérica hace miles de años, en la transición entre el Pleistoceno y el Holoceno, y puede aportar nuevas pistas sobre quiénes vivieron en esa zona de Chubut."
+   ],
+   "arte": "meseta",
+   "tema": "Arqueología"
+  },
+  {
+   "id": "cannabis",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "politica",
+   "ciudad": "Rawson",
+   "titulo": "Cannabis: Salud llevará el registro de usuarios y una agencia dará las licencias comerciales",
+   "bajada": "Con el Decreto 1680 ya vigente, la provincia separó el uso medicinal del negocio del cultivo.",
+   "cuerpo": [
+    "La reglamentación de la ley de cannabis, publicada en el Boletín Oficial con el Decreto 1680, dejó definido cómo se repartirá el control de la nueva industria en Chubut.",
+    "El Ministerio de Salud será la autoridad de aplicación y manejará el Registro de Usuarios de Cannabis de Chubut, para garantizar el acceso seguro a los tratamientos.",
+    "El desarrollo comercial del cultivo a gran escala quedará en manos de una agencia descentralizada, que otorgará las licencias y se quedará con lo recaudado por multas."
+   ],
+   "arte": "valle",
+   "ancho": true,
+   "tema": "Cannabis"
+  },
+  {
+   "id": "luz-y-fuerza",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Luz y Fuerza abrió su congreso en Madryn con duras críticas al Gobierno nacional",
+   "bajada": "Héctor González llamó al movimiento obrero a involucrarse en la disputa política de 2027.",
+   "cuerpo": [
+    "El secretario general del Sindicato Regional de Luz y Fuerza de la Patagonia, Héctor Rubén González, inauguró en Puerto Madryn el 48° Congreso del Cuerpo General de Delegados, con representantes de Chubut, Santa Cruz y Tierra del Fuego.",
+    "González hizo un balance negativo de casi tres años de gestión de Javier Milei y cuestionó el retroceso en derechos laborales. También reclamó que Chubut participe de las decisiones sobre el futuro de Futaleufú.",
+    "“No podemos fingir ni amnesia, ni demencia”, dijo, y convocó a los trabajadores a ir más allá de los reclamos de cada sector."
+   ],
+   "arte": "ciudad",
+   "tema": "Gremios"
+  },
+  {
+   "id": "bono-petrolero",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "politica",
+   "ciudad": "Provincia",
+   "titulo": "Petroleros privados acordaron un bono de $500.000 y pasaron la paritaria a abril",
+   "bajada": "El sindicato de Jorge Ávila firmó tres actas con las cámaras empresarias y abrió la renegociación del convenio.",
+   "cuerpo": [
+    "El Sindicato del Petróleo y Gas Privado del Chubut, que conduce Jorge Ávila, firmó en Buenos Aires tres acuerdos con la Cámara de Exploración y Producción de Hidrocarburos (CEPH) y la Cámara de Servicios Petroleros (CASEPE).",
+    "Los acuerdos fijan una gratificación extraordinaria de $500.000 y trasladan la revisión salarial a abril de 2027.",
+    "Además, dejan abierta la renegociación del Convenio Colectivo de Trabajo 605/10."
+   ],
+   "arte": "petroleo",
+   "tema": "Petroleros"
+  },
+  {
+   "id": "ipv-comodoro",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro",
+   "titulo": "El IPV recuperó un departamento del barrio 30 de Octubre que se alquilaba desde 2015",
+   "bajada": "Los titulares no vivían allí y hasta lo habían permutado. Quedaron inhabilitados para futuros planes.",
+   "cuerpo": [
+    "Un relevamiento en el complejo 1140 Viviendas del barrio 30 de Octubre comprobó que los titulares de un departamento no vivían en él: lo alquilaban desde hacía una década e incluso habían hecho una permuta informal con un tercero.",
+    "Con la Resolución 955/26, publicada en el Boletín Oficial, el Instituto Provincial de la Vivienda declaró la caducidad de la adjudicación.",
+    "Además, los titulares quedaron inhabilitados para acceder a futuros planes habitacionales."
+   ],
+   "arte": "ciudad",
+   "sinFoto": true,
+   "tema": "Vivienda"
+  },
+  {
+   "id": "colonias-rada-tilly",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "cuenca",
+   "ciudad": "Rada Tilly",
+   "titulo": "Colonias de verano en Rada Tilly: este año suman a chicos desde los 2 años",
+   "bajada": "Las actividades van del 4 al 29 de enero y la inscripción sigue abierta hasta fin de diciembre.",
+   "cuerpo": [
+    "Las colonias de vacaciones de Rada Tilly empiezan el 4 de enero y terminan el 29.",
+    "Para la temporada 2027 el Municipio suma por primera vez una propuesta para nenas y nenes de 2 y 3 años, además de las actividades para quienes cursan hasta sexto grado.",
+    "Las inscripciones ya están abiertas y seguirán hasta fines de diciembre, según explicó Ignacio Barreto."
+   ],
+   "arte": "playa",
+   "tema": "Verano"
+  },
+  {
+   "id": "malambo-precosquin",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro",
+   "titulo": "Luca Pereira ganó el Pre-Cosquín en malambo y busca ayuda para viajar",
+   "bajada": "El bailarín de Comodoro se impuso entre 22 participantes y representará a la ciudad en el festival.",
+   "cuerpo": [
+    "Luca Pereira ganó el Pre-Cosquín en la categoría solista de malambo, frente a otros 21 participantes. Lo venía intentando desde hacía cuatro temporadas.",
+    "Baila desde los cuatro años y el 12 de enero viajará a Cosquín con su equipo, Viento Sureño.",
+    "Para cubrir el viaje necesita la colaboración de vecinos y comercios."
+   ],
+   "arte": "escenario",
+   "tema": "Cosquín"
+  },
+  {
+   "id": "egresados-camionetas",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro",
+   "titulo": "Comodoro controlará que no lleven egresados en la caja de camionetas",
+   "bajada": "Es una práctica prohibida por la Ley de Tránsito. Hubo pedidos para usar hasta un camión volcador.",
+   "cuerpo": [
+    "La Municipalidad de Comodoro Rivadavia reforzará los controles durante los festejos de fin de curso para evitar que los estudiantes viajen en la caja de camionetas o camiones.",
+    "El secretario de Control Urbano, Miguel Gómez, contó que padres y escuelas pidieron autorización para hacerlo, incluso en la caja de un camión volcador, y que la respuesta fue negativa por el riesgo que implica.",
+    "La Ley Nacional de Tránsito no permite ese tipo de traslados."
+   ],
+   "arte": "ruta",
+   "tema": "Egresados"
+  },
+  {
+   "id": "molino-andes",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "turismo",
+   "ciudad": "Trevelin",
+   "titulo": "Molino Andes: el museo que explica por qué Trevelin es el “Pueblo del Molino”",
+   "bajada": "Siete salas en tres pisos con la historia galesa y la de los pueblos originarios.",
+   "cuerpo": [
+    "El Molino Andes se construyó a comienzos del siglo XX para moler harina para todo el Valle 16 de Octubre. De ahí sale el nombre de la localidad: Trevelin significa “Pueblo del Molino”.",
+    "Con el tiempo dejó de funcionar como molino, se recuperó y hoy es el Museo Regional Trevelin.",
+    "Tiene siete salas repartidas en tres pisos que cuentan la historia de la colonización galesa y la de los pueblos originarios."
+   ],
+   "arte": "molino",
+   "tema": "Turismo"
+  },
+  {
+   "id": "faro-isla-leones",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "turismo",
+   "ciudad": "Camarones",
+   "titulo": "Faro Isla Leones: medio siglo guiando barcos frente a Camarones",
+   "bajada": "Funcionó de 1917 a 1968 y hoy es uno de los símbolos del Parque Provincial Patagonia Azul.",
+   "cuerpo": [
+    "Frente a la costa de Camarones se levanta el Faro Isla Leones, una de las obras históricas más imponentes de la provincia.",
+    "Según el jefe del Parque Provincial Patagonia Azul, Damián Guerreiro, el faro empezó a funcionar en 1917 y lo hizo sin interrupciones hasta 1968.",
+    "Hoy es Patrimonio Cultural y se puede ver de cerca en excursiones náuticas."
+   ],
+   "arte": "faro",
+   "tema": "Turismo"
+  },
+  {
+   "id": "camarones",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "turismo",
+   "ciudad": "Camarones",
+   "titulo": "Camarones se organiza para la temporada: comercios y prestadores trabajan en red",
+   "bajada": "Hoteles, restaurantes y excursiones se juntaron en invierno para mejorar los servicios del pueblo.",
+   "cuerpo": [
+    "El crecimiento de Camarones como destino turístico cambió la forma de trabajar de sus vecinos: ahora entienden que recomendar el negocio del otro también suma.",
+    "Durante el invierno, hoteles, restaurantes, cafeterías y empresas de excursiones se reunieron para conocerse, compartir herramientas y mejorar los servicios antes de la temporada alta.",
+    "Entre las propuestas para el verano están la Ruta Azul y las excursiones a Islas Blancas."
+   ],
+   "arte": "mar",
+   "tema": "Turismo"
+  },
+  {
+   "id": "sendero-cipresal",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "turismo",
+   "ciudad": "Esquel",
+   "titulo": "Sendero Cipresal: un bosque de cipreses escondido en Esquel",
+   "bajada": "Tres kilómetros de dificultad moderada, con mirador, dentro de la Reserva Laguna La Zeta.",
+   "cuerpo": [
+    "El Sendero Cipresal está en la Reserva Natural Urbana Laguna La Zeta y es una buena opción para caminar en primavera.",
+    "Tiene 3 kilómetros, dificultad moderada y un mirador para descansar. El terreno es blando y con poca pendiente.",
+    "El recorrido llega a un bosque de ciprés de la cordillera (Austrocedrus chilensis) que crece sobre un banco de arena, una de las especies típicas de los bosques andinos patagónicos."
+   ],
+   "arte": "cordillera",
+   "tema": "Turismo"
+  },
+  {
+   "id": "ataque-madryn",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn: investigan el ataque a puñaladas contra un trabajador",
+   "bajada": "El hombre fue herido en la espalda cuando iba a buscar una herramienta. Está internado con pronóstico reservado.",
+   "cuerpo": [
+    "La Comisaría Cuarta y la Brigada de Investigaciones de Puerto Madryn buscan esclarecer el ataque con arma blanca que sufrió un hombre en la vía pública.",
+    "La víctima había salido de su trabajo para ir a su casa a buscar una herramienta y no volvió. Sus compañeros lo encontraron tendido en la calle.",
+    "Recibió una puñalada en la espalda que le afectó un riñón y parte del hígado. Sigue internado con pronóstico reservado y aportó pocos datos a la investigación."
+   ],
+   "arte": "noche",
+   "tema": "Ataque en Madryn"
+  },
+  {
+   "id": "seguridad-madryn",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Comercios de Madryn y la Policía acordaron reforzar la seguridad para el verano",
+   "bajada": "Gestionarán cámaras en los accesos a la ciudad tras una serie de robos en el centro.",
+   "cuerpo": [
+    "La Cámara de Industria, Comercio, Producción y Turismo de Puerto Madryn (CAMAD) se reunió con la cúpula de la Policía del Chubut y autoridades municipales.",
+    "El encuentro se hizo después del robo con rotura de vidriera en un local recién inaugurado de la calle San Martín y de un intento de asalto a una joyería sobre 25 de Mayo.",
+    "Acordaron ajustar los protocolos de prevención para la temporada y avanzar con la instalación de cámaras de seguridad en los accesos a la ciudad."
+   ],
+   "arte": "noche",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "escuela-esquel",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "policiales",
+   "ciudad": "Esquel",
+   "titulo": "Amenazaron a personal de una escuela de Esquel y cambiaron el protocolo de salida",
+   "bajada": "Hasta fin de año, los chicos de la Escuela 179 saldrán de forma escalonada y acompañados por docentes.",
+   "cuerpo": [
+    "Un hombre amenazó con agredir a trabajadores de la Escuela 179 de Esquel. No pasó a mayores, pero se avisó enseguida a Supervisión de Escuelas y a la Policía.",
+    "Por recomendación policial, los alumnos saldrán por la puerta principal de forma escalonada, por grado y sección, acompañados todo el tiempo por sus docentes.",
+    "La escuela informó la medida a las familias con una nota. Regirá hasta el final del ciclo lectivo."
+   ],
+   "arte": "escuela",
+   "tema": "Educación"
+  },
+  {
+   "id": "incendio-guilford",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro",
+   "titulo": "Se reavivó el fuego en la ex textil Guilford de Comodoro",
+   "bajada": "Los bomberos abrieron un boquete en el techo para liberar el calor acumulado entre telas e hilos.",
+   "cuerpo": [
+    "Un nuevo foco se encendió el martes a la mañana dentro de la ex fábrica textil Guilford, después del incendio del lunes que afectó un sector de unos 60 metros del predio.",
+    "El viento y el calor acumulado entre restos de hilos, telas y nylon volvieron a encender el material.",
+    "Los Bomberos Voluntarios subieron al primer piso y abrieron un boquete para ventilar la estructura y evitar que se repita."
+   ],
+   "arte": "humo",
+   "tema": "Incendio Guilford"
+  },
+  {
+   "id": "deportivo-madryn",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Deportivo Madryn recibe a Gimnasia de Jujuy y va por la remontada",
+   "bajada": "Juegan el sábado a las 20 en el Abel Sastre. Al Aurinegro le alcanza con igualar la serie.",
+   "cuerpo": [
+    "Deportivo Madryn recibe el sábado a las 20 a Gimnasia de Jujuy en el estadio Abel Sastre, por la vuelta de los cuartos de final del Reducido.",
+    "En la ida, en el estadio 23 de Agosto, ganó el Lobo 1 a 0 con gol de Joaquín Varela.",
+    "El equipo portuario tiene ventaja deportiva: si el resultado global termina igualado, pasa a semifinales. El plantel volvió sin lesionados y ya entrena para la revancha."
+   ],
+   "arte": "cancha",
+   "ancho": true,
+   "tema": "Deportivo Madryn"
+  },
+  {
+   "id": "tehuelches-parana",
+   "fecha": "2026-11-25T19:00:00-03:00",
+   "sec": "deportes",
+   "ciudad": "Rugby",
+   "titulo": "Tehuelches viaja a Paraná para el Seven de la República",
+   "bajada": "El torneo que cierra la temporada del rugby argentino se juega el 28 y 29 de noviembre.",
+   "cuerpo": [
+    "El Seven de la República se juega el sábado 28 y el domingo 29 de noviembre en Paraná. Es la edición 42 del torneo masculino y la décima del femenino.",
+    "Los partidos se disputan en las canchas de El Plumazo, del club Estudiantes, y en el anexo La Tortuguita del Paraná Rowing Club.",
+    "Es una de las competencias más importantes del rugby argentino y la que cierra su calendario."
+   ],
+   "arte": "rugby",
+   "tema": "Rugby"
+  }
+ ]
+}
