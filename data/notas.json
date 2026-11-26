@@ -91,7 +91,12 @@
    ],
    "arte": "escuela",
    "tema": "Formación Profesional",
-   "lugar": "lado"
+   "lugar": "lado",
+   "galeria": [
+    "formacion-profesional-verano-2027-2.jpg",
+    "formacion-profesional-verano-2027-3.jpg",
+    "formacion-profesional-verano-2027-4.jpg"
+   ]
   },
   {
    "id": "comodoro-detenido-danos-hall-edificio-ameghino",
