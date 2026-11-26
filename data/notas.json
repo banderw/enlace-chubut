@@ -77,6 +77,67 @@
  ],
  "notas": [
   {
+   "id": "comodoro-pareja-detenida-robo-vivienda-dorrego",
+   "fecha": "2026-11-26T18:05:19-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: detuvieron a una pareja acusada de robar pertenencias de una casa en calle Dorrego",
+   "bajada": "Un testigo los vio entrar a la vivienda y avisó a la Policía. El hombre intentó agredir a los agentes y escapó a pie, pero lo alcanzaron. Lo robado fue recuperado.",
+   "cuerpo": [
+    "Un hombre y una mujer fueron aprehendidos el miércoles 25 de noviembre en Comodoro Rivadavia, acusados de llevarse distintos objetos de una vivienda de calle Dorrego. Todo empezó cerca de las 12:47, cuando un testigo llamó a la Comisaría Seccional Segunda para avisar que los había visto entrar a la casa y salir con pertenencias.",
+    "Un móvil policial salió a buscarlos y los ubicó. Durante la intervención, el hombre habría intentado agredir a los efectivos y huyó a pie por 13 de Diciembre hacia avenida Rivadavia, por lo que se pidió apoyo a las seccionales Primera y Tercera.",
+    "Finalmente lo detuvieron en Pastor Schneider y avenida Rivadavia, mientras que la mujer quedó aprehendida en 13 de Diciembre y Rawson. Ambos se habían deshecho de lo que llevaban durante la fuga, pero los agentes recuperaron todo: un toallón, una credencial, un bastón de madera, una campera inflable, un buzo, cintas y pulseras y una botella de vino tinto."
+   ],
+   "arte": "ciudad",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "comodoro-san-cayetano-motociclista-herido-choque",
+   "fecha": "2026-11-26T18:05:18-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: un motociclista de 29 años resultó herido al chocar con una camioneta en San Cayetano",
+   "bajada": "El choque fue en Código 555 y Héctor Cámpora. El joven sufrió lesiones en la pierna derecha y la moto circulaba sin documentación.",
+   "cuerpo": [
+    "Un motociclista de 29 años terminó hospitalizado este miércoles después de chocar contra una camioneta Ford Ranger en la esquina de Código 555 y Héctor Cámpora, en el barrio San Cayetano de Comodoro Rivadavia. Sufrió lesiones en la pierna derecha.",
+    "Efectivos de la Policía Comunitaria que recorrían el sector lo encontraron tendido en la calle, con fuertes dolores, y pidieron una ambulancia de urgencia. Tras las primeras curaciones fue trasladado a un centro de salud junto a familiares.",
+    "La conductora de la camioneta tenía toda la documentación en regla y dio negativo en el control de alcoholemia. En cambio, personal de Tránsito comprobó que la moto no tenía los papeles reglamentarios y labró el acta de infracción."
+   ],
+   "arte": "ciudad",
+   "tema": "Tránsito"
+  },
+  {
+   "id": "bajo-simpson-camioneta-incendio-ruta-3",
+   "fecha": "2026-11-26T18:05:17-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Ruta 3: una camioneta se prendió fuego en plena marcha a la altura de Bajo Simpson",
+   "bajada": "El conductor, que viajaba de Comodoro Rivadavia a Sierra Grande, alcanzó a salir de la ruta y no sufrió heridas. El vehículo quedó con daños importantes.",
+   "cuerpo": [
+    "Una camioneta Renault Master se incendió en la madrugada del jueves sobre la Ruta Nacional 3, a la altura de Bajo Simpson, en el tramo de doble vía que lleva a Puerto Madryn. El conductor salió ileso, pero el vehículo sufrió daños materiales de consideración.",
+    "El hombre contó que había salido de Comodoro Rivadavia rumbo a Sierra Grande y que, al llegar a esa zona, vio salir humo de la zona de la fusilera y después fuego dentro de la cabina. Enseguida sacó la camioneta del asfalto, la dejó en la banquina y pidió ayuda.",
+    "Cuando llegaron los bomberos voluntarios, el rodado ya estaba envuelto en llamas. La dotación trabajó hasta controlar el fuego y no encontró indicios de que el incendio hubiera sido intencional: todo apunta a una falla eléctrica."
+   ],
+   "arte": "ruta",
+   "tema": "Incendios"
+  },
+  {
+   "id": "comodoro-profugo-hospital-regional-controles",
+   "fecha": "2026-11-26T18:05:16-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: refuerzan los controles para recapturar al detenido que se fugó del Hospital Regional",
+   "bajada": "El hombre estaba preso en una causa por tentativa de homicidio y escapó después de una cirugía programada. La Justicia investiga cómo pudo burlar la custodia.",
+   "cuerpo": [
+    "La Policía del Chubut sigue buscando al detenido que se escapó del Hospital Regional de Comodoro Rivadavia, adonde había sido llevado para someterse a una cirugía programada. Una vez terminada la operación, el hombre logró huir pese a que permanecía bajo vigilancia. Estaba privado de su libertad en una causa por tentativa de homicidio.",
+    "El jefe de la Unidad Regional, comisario mayor Cristian Mulero, confirmó que por ahora no hay datos sobre su paradero y que se reforzaron los controles en distintos puntos de la ciudad. \"Tenemos un anillo de seguridad reforzado con controles en barrios y sectores específicos para tratar de recapturar a esta persona\", señaló.",
+    "En la búsqueda trabaja personal de Investigaciones y de Búsqueda de Personas, además de efectivos de las dependencias operativas.",
+    "En paralelo, la Justicia analiza las circunstancias de la fuga y si hubo responsabilidades del personal que debía custodiarlo. Mulero habló de una posible negligencia, aunque aclaró que será la investigación judicial la que determine si hubo incumplimientos, y aseguró que la Policía puso todos sus recursos a disposición de la causa."
+   ],
+   "arte": "ciudad",
+   "tema": "Seguridad"
+  },
+  {
    "id": "racing-trelew-antichipay-siete-goles",
    "fecha": "2026-11-26T17:46:20-03:00",
    "sec": "deportes",
