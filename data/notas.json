@@ -77,6 +77,23 @@
  ],
  "notas": [
   {
+   "id": "formacion-profesional-verano-2027",
+   "fecha": "2026-11-26T14:12:26-03:00",
+   "sec": "gobierno",
+   "ciudad": "Provincia",
+   "titulo": "Formación Profesional de Verano: Chubut ofrecerá más de 20 cursos gratuitos de oficios y tecnología",
+   "bajada": "La preinscripción es del 30 de noviembre al 11 de diciembre por WhatsApp, a través de DINO. Las clases empiezan el 4 de enero.",
+   "cuerpo": [
+    "El Gobierno del Chubut, a través del Ministerio de Educación y la Dirección de Formación Profesional, prepara una nueva edición de Formación Profesional de Verano: más de 23 capacitaciones gratuitas para jóvenes y adultos, pensadas para conseguir trabajo, trabajar por cuenta propia o armar un emprendimiento.",
+    "Los cursos se dictarán en los Centros de Formación Profesional de Rawson, Trelew, Comodoro Rivadavia, Sarmiento, Río Mayo, Trevelin, Epuyén y Lago Puelo, con actividades también en El Hoyo. En Rawson habrá Aulas Talleres Móviles del CFP Nº 662, y en Playa Unión se prevén cursos cortos de gastronomía pensados para la temporada turística.",
+    "La oferta incluye instalaciones eléctricas domiciliarias, construcción en seco, elaboración de alimentos, asistente administrativo, diseño de rejas metálicas, herramientas digitales para emprendedores, informática multimedial, dibujo asistido por computadora, impresoras 3D, electricidad del automotor, carpintería, corte y confección, operador de PC, instalaciones sanitarias y de gas, apicultura y primeros auxilios en ambientes agrestes. Los cursos duran entre 50 y 180 horas.",
+    "La preinscripción se hace por DINO, el asistente virtual del Gobierno, escribiendo por WhatsApp al 280 460-3466, del 30 de noviembre al 11 de diciembre. Ese mismo día se informarán los resultados y las clases comenzarán a partir del 4 de enero de 2027."
+   ],
+   "arte": "escuela",
+   "tema": "Formación Profesional",
+   "lugar": "lado"
+  },
+  {
    "id": "comodoro-detenido-danos-hall-edificio-ameghino",
    "fecha": "2026-11-26T14:05:15-03:00",
    "sec": "policiales",
@@ -274,22 +291,6 @@
    ],
    "arte": "ciudad",
    "tema": "Personas mayores"
-  },
-  {
-   "id": "vuelta-del-rio-perforacion-agua",
-   "fecha": "2026-11-26T07:52:19-03:00",
-   "sec": "ultimas",
-   "ciudad": "Vuelta del Río",
-   "titulo": "Vuelta del Río tendrá agua potable: empezó una perforación para las familias que tomaban agua del río",
-   "bajada": "La primera etapa abastecerá a 8 casas. Hasta ahora algunas familias consumían agua del río Chubut, contaminada por residuos.",
-   "cuerpo": [
-    "Empezaron los trabajos de una perforación en Vuelta del Río, cerca de El Maitén, para que los vecinos tengan agua potable. En una primera etapa abastecerá a 8 casas y después se espera llegar al resto.",
-    "La obra llegó después de que la enfermera del puesto sanitario, Mirtha Rojas, advirtiera que había familias que tomaban agua del río Chubut. El río arrastra residuos, incluso fecales, que dejan algunos visitantes y pescadores, con riesgo de enfermedades.",
-    "El Gobierno provincial hará la perforación y la Municipalidad de El Maitén se encargaría del sistema de bombeo. “Se resuelve el problema del agua, tan esencial para los pobladores”, dijo Rojas, que pidió a los visitantes no tirar residuos al río."
-   ],
-   "arte": "valle",
-   "tema": "Agua potable",
-   "lugar": "lado"
   },
   {
    "id": "convocatoria-adopcion-trelew-nino-10",
