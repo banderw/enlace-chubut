@@ -77,6 +77,70 @@
  ],
  "notas": [
   {
+   "id": "rawson-joven-quemado-traslado-buenos-aires-ayuda",
+   "fecha": "2026-11-26T16:05:18-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "Trasladaron a Buenos Aires al joven de Rawson que sufrió quemaduras en el 90 % del cuerpo",
+   "bajada": "Marcos Pérez Díaz, de 21 años, sigue grave pero estable. Su familia lo despidió en Trelew y organizó una venta de sorrentinos para costear el tratamiento.",
+   "cuerpo": [
+    "Marcos \"Paco\" Pérez Díaz, un joven de 21 años de Rawson, fue trasladado este miércoles a Buenos Aires para continuar un tratamiento más intensivo. Días atrás su casa se incendió mientras dormía: alcanzó a salir por sus propios medios, pero sufrió quemaduras en el 90 % del cuerpo.",
+    "Estuvo internado en el Hospital de Trelew, donde su familia se reunió frente a la Guardia para darle ánimo y despedirlo cuando lo subieron a la ambulancia. Desde allí fue llevado al aeropuerto Almirante Zar, donde lo esperaba un avión sanitario. Su estado es grave pero estable.",
+    "Para ayudar con los gastos, la familia organizó una venta de sorrentinos para el 7 de diciembre. Los pedidos se toman hasta el 4 de diciembre al 2804718860 (Sole), y también se puede colaborar con una transferencia al alias de su mamá, María Díaz: Todosporpacoperez."
+   ],
+   "arte": "ciudad",
+   "tema": "Solidaridad"
+  },
+  {
+   "id": "esquel-juan-peralta-candidato-intendente-pj",
+   "fecha": "2026-11-26T16:05:17-03:00",
+   "sec": "politica",
+   "ciudad": "Esquel",
+   "titulo": "Esquel: Juan Manuel Peralta confirmó que buscará otra vez la Intendencia por el PJ",
+   "bajada": "El presidente del Consejo de Localidad del justicialismo dijo que el adelantamiento de las elecciones al 21 de marzo obliga a acelerar los tiempos y pidió ir unidos.",
+   "cuerpo": [
+    "Juan Manuel Peralta, presidente del Consejo de Localidad del Partido Justicialista de Esquel, anunció que volverá a postularse como candidato a intendente de la ciudad cordillerana. \"Me debo a mi partido, me debo a mi agrupación, que se llama Amor por Esquel\", afirmó.",
+    "Peralta reconoció que la fecha de las elecciones provinciales, fijada para el 21 de marzo, obliga a apurar un proceso que hasta ahora venía más lento, y señaló que será la primera vez que le toque hacer campaña en pleno verano. Aun así, aseguró que el partido está movilizado y que logró reagruparse después de las elecciones de medio término de 2025.",
+    "El dirigente insistió en la necesidad de presentarse unidos: \"Si nos dividimos, si vamos con intereses sectarios o personales, lamentablemente eso al único que le beneficia es a los gobiernos actuales de turno\", sostuvo. Contó además que el Consejo del PJ se reunirá el viernes para definir la organización de cara a los comicios.",
+    "Sobre la candidatura a gobernador, Peralta dejó en claro su respaldo al proyecto de Juan Pablo Luque, a quien consideró \"la persona que mejor está preparada para gobernar la Provincia\"."
+   ],
+   "arte": "cordillera",
+   "tema": "Elecciones 2027"
+  },
+  {
+   "id": "caso-aonikenk-juez-richeri-fechas-juicio",
+   "fecha": "2026-11-26T16:05:16-03:00",
+   "sec": "policiales",
+   "ciudad": "Trelew",
+   "titulo": "Caso Aonikenk: el juez Carlos Richeri llevará adelante el juicio, que será en abril y mayo de 2027",
+   "bajada": "Se definió el tribunal unipersonal para juzgar a Carlos Moraga, Jorge Vernengo y Graciela Warrel por la presunta defraudación a la mutual de los trabajadores de la Cooperativa 16 de Octubre.",
+   "cuerpo": [
+    "La causa por \"defraudación por administración fraudulenta\" en perjuicio de la Mutual Aonikenk, que reúne a los trabajadores de la Cooperativa 16 de Octubre, ya tiene magistrado y calendario. En una audiencia realizada este jueves en Tribunales se designó al juez Carlos Richeri al frente del Tribunal Unipersonal.",
+    "El debate oral se hará en dos tramos: del 26 al 30 de abril y del 10 al 14 de mayo de 2027. Carlos Moraga llegará acusado como autor del delito, mientras que el contador Jorge Vernengo y la extesorera Graciela Warrel están imputados como partícipes necesarios.",
+    "La elevación a juicio había sido resuelta el 19 de noviembre por el juez Martín O'Connor, que rechazó los planteos de las defensas y admitió las pruebas de las partes, salvo una pericia contable ofrecida por el abogado de Vernengo. En esa instancia, el magistrado puso el foco en que Moraga, como responsable de hecho, emitía cheques a la Tesorería por lo recaudado en asistencias financieras a afiliados para obtener efectivo y usarlo a su criterio.",
+    "Según la acusación, entre 2019 y 2022 circularon por la entidad unos 109 millones de pesos. La querella, la fiscal jefa María Bottini, la procuradora Cecilia Bagnato y el fiscal jefe de Puerto Madryn, Alex Williams, ya fueron notificados de lo dispuesto."
+   ],
+   "arte": "ciudad",
+   "tema": "Caso Aonikenk"
+  },
+  {
+   "id": "lolo-march-campeon-nacional-neuquen-sub16",
+   "fecha": "2026-11-26T16:05:15-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "Lorenzo \"Lolo\" March, del Trelew Tennis Club, se consagró campeón Sub 16 del Nacional de Neuquén",
+   "bajada": "El tenista chubutense le ganó la final a Santino Aranda por 6-3, 4-6 y 6-4 y consiguió el título más importante de su carrera. Además jugaba la final de dobles.",
+   "cuerpo": [
+    "Lorenzo March, la joven promesa surgida del Trelew Tennis Club, se quedó con la categoría Sub 16 del sexto Nacional 2026, disputado en la ciudad de Neuquén. En la final de este jueves superó a Santino Aranda, segundo preclasificado y número 5 del ranking, en tres sets: 6-3, 4-6 y 6-4.",
+    "March llegó al torneo como cuarto preclasificado y séptimo del ranking argentino. En el camino venció a Juan Triemstra (6-2, 1-6 y 6-1), a Mateo Silvera (6-3 y 6-1), al mendocino Lisandro Gama Castro (6-2 y 6-2) y, en semifinales, a Benicio Rodríguez Capucci (6-2 y 6-3), para llegar por primera vez a la definición de un Nacional.",
+    "Se trata de un logro histórico para el tenis de la provincia: hay que volver a la época de Agustín Garizzio para encontrar un resultado de este nivel de un jugador chubutense.",
+    "El cierre de la semana podía ser todavía mejor, ya que por la tarde March jugaba la final de dobles junto al rionegrino Juan Paolini ante la pareja formada por Gama Castro y Aranda."
+   ],
+   "arte": "cancha",
+   "tema": "Tenis",
+   "sinFoto": true
+  },
+  {
    "id": "ruta-3-comodoro-garayalde-pozos",
    "fecha": "2026-11-26T15:04:59-03:00",
    "sec": "cuenca",
