@@ -77,6 +77,22 @@
  ],
  "notas": [
   {
+   "id": "ruta-3-comodoro-garayalde-pozos",
+   "fecha": "2026-11-26T15:04:59-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Ruta 3 entre Comodoro y Garayalde: decenas de pozos obligan a frenar y esquivar sobre la calzada",
+   "bajada": "Un relevamiento hecho este miércoles contó decenas de baches y deformaciones en el tramo, que forma parte de los corredores que Nación incluyó en su nueva licitación de concesiones viales.",
+   "cuerpo": [
+    "El tramo de la Ruta Nacional 3 que une Comodoro Rivadavia con Garayalde muestra un deterioro cada vez más marcado. En una recorrida realizada este miércoles, con tomas aéreas de dron, se contabilizaron decenas de pozos, además de deformaciones e irregularidades en el pavimento a lo largo del trayecto.",
+    "El estado de la calzada obliga a los conductores a bajar mucho la velocidad y, en muchos casos, a desviarse para no caer en los baches. Las complicaciones alcanzan a autos particulares, camiones y colectivos de larga distancia que usan este corredor para moverse entre las localidades de la región.",
+    "El peligro crece cuando coinciden varios vehículos en el mismo sector: una maniobra brusca para esquivar un pozo puede cruzarse con otro auto o con un transporte de gran porte. Hay además puntos donde las deformaciones son difíciles de ver a tiempo y donde las banquinas dejan poco margen para frenar o cambiar de carril.",
+    "El tramo está entre los incluidos en el nuevo esquema de concesiones viales: el 13 de noviembre, por el Decreto 1358, el Gobierno nacional oficializó el llamado a licitación pública nacional e internacional para concesionar 27 tramos de rutas nacionales en 16 provincias, entre ellos las rutas 3, 25 y 26, que cruzan Chubut."
+   ],
+   "arte": "ruta",
+   "tema": "Ruta 3"
+  },
+  {
    "id": "formacion-profesional-verano-2027",
    "fecha": "2026-11-26T14:12:26-03:00",
    "sec": "gobierno",
