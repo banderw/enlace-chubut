@@ -11,9 +11,9 @@
    "sub": "Gobierno, Legislatura y gremios"
   },
   {
-   "id": "gobierno",
-   "nombre": "Gacetillas oficiales",
-   "sub": "Prensa del Gobierno del Chubut"
+   "id": "nacionales",
+   "nombre": "Nacionales",
+   "sub": "Lo más importante del país"
   },
   {
    "id": "cuenca",
@@ -76,6 +76,39 @@
   }
  ],
  "notas": [
+  {
+   "id": "diputados-ley-reforma-carta-organica-banco-central",
+   "fecha": "2026-11-26T20:12:22-03:00",
+   "sec": "nacionales",
+   "ciudad": "Buenos Aires",
+   "titulo": "Es ley la reforma del Banco Central: Diputados aceptó los cambios del Senado",
+   "bajada": "La nueva Carta Orgánica limita la misión del organismo a cuidar el valor de la moneda y fija la emisión cero. Se aprobó con 141 votos afirmativos y 99 abstenciones.",
+   "cuerpo": [
+    "La Cámara de Diputados convirtió en ley este jueves la reforma de la Carta Orgánica del Banco Central, al convalidar las modificaciones que había introducido el Senado. Hubo 141 votos a favor y 99 abstenciones de la oposición, que eligió abstenerse en lugar de votar en contra para que el oficialismo no pudiera insistir con el texto original aprobado en agosto.",
+    "La reforma era una prioridad para el presidente Javier Milei. Su objetivo es que la entidad se dedique solo a preservar el valor de la moneda, con el principio de emisión cero, y asegurar su independencia frente a futuros gobiernos.",
+    "La Libertad Avanza buscó volver a la versión inicial, que exigía dos tercios de los votos de ambas cámaras para remover a los directores del Banco Central, pero no lo consiguió. Quedó el criterio del Senado: alcanza con mayoría absoluta y la decisión queda solo en manos de esa cámara, sin intervención de Diputados.",
+    "Desde Unión por la Patria, la diputada Julia Strada advirtió que con la reforma \"se pueden usar las reservas como garantía para endeudar al Banco Central y eso pone en riesgo a los argentinos\". Del otro lado, el radical Diógenes González defendió la ley porque \"es importante tener un Banco Central independiente\"."
+   ],
+   "arte": "banco",
+   "tema": "Banco Central"
+  },
+  {
+   "id": "senado-aprobo-suspension-paso-ficha-limpia",
+   "fecha": "2026-11-26T20:12:21-03:00",
+   "sec": "nacionales",
+   "ciudad": "Buenos Aires",
+   "titulo": "El Senado aprobó la suspensión de las PASO y Ficha Limpia: ahora decide Diputados",
+   "bajada": "La reforma electoral obtuvo 43 votos a favor y 29 en contra. Entre quienes la acompañaron estuvieron los senadores que responden a los gobernadores aliados, incluido Ignacio Torres.",
+   "cuerpo": [
+    "El Senado de la Nación dio media sanción al proyecto de reforma electoral que suspende las Primarias Abiertas, Simultáneas y Obligatorias (PASO) e incorpora Ficha Limpia, la regla que impide que se postulen dirigentes con condenas en segunda instancia por delitos dolosos. La iniciativa pasa ahora a la Cámara de Diputados.",
+    "La votación terminó 43 a 29. A favor votaron los 21 senadores de La Libertad Avanza, los 10 de la UCR, tres del PRO y legisladores de bloques provinciales, entre ellos el monobloque Despierta Chubut. También acompañaron los senadores que responden a los gobernadores de Corrientes, Mendoza, Santa Fe, Chaco, Chubut, Córdoba, Neuquén, Misiones, Salta y Santa Cruz, los de Rogelio Frigerio (PRO) y los del jefe de Gobierno porteño, Jorge Macri.",
+    "En contra se pronunció el bloque Justicialista que preside José Mayans, con 22 integrantes, junto con el Frente Cívico de Santiago del Estero, el monobloque Justicia Federal Social, la senadora tucumana Beatriz Ávila y los tres legisladores de Convicción Federal.",
+    "El oficialismo consiguió los votos después del acuerdo entre el jefe de Gabinete, Diego Santilli, y los gobernadores, y de las negociaciones encabezadas por la jefa del bloque libertario, Patricia Bullrich. Si la reforma se convierte en ley, cada partido elegirá a sus candidatos según su carta orgánica y tendrá tiempo hasta el 30 de agosto para definirlos.",
+    "Durante el debate en particular se agregó la obligación de hacer un debate presidencial en caso de segunda vuelta, con sanciones para el candidato que no se presente."
+   ],
+   "arte": "ciudad",
+   "tema": "Reforma electoral"
+  },
   {
    "id": "rawson-ima-muestra-anual-cierre-2026",
    "fecha": "2026-11-26T20:05:20-03:00",
@@ -475,7 +508,7 @@
   {
    "id": "formacion-profesional-verano-2027",
    "fecha": "2026-11-26T14:12:26-03:00",
-   "sec": "gobierno",
+   "sec": "ultimas",
    "ciudad": "Provincia",
    "titulo": "Formación Profesional de Verano: Chubut ofrecerá más de 20 cursos gratuitos de oficios y tecnología",
    "bajada": "La preinscripción es del 30 de noviembre al 11 de diciembre por WhatsApp, a través de DINO. Las clases empiezan el 4 de enero.",
@@ -492,7 +525,8 @@
     "formacion-profesional-verano-2027-2.jpg",
     "formacion-profesional-verano-2027-3.jpg",
     "formacion-profesional-verano-2027-4.jpg"
-   ]
+   ],
+   "gacetilla": true
   },
   {
    "id": "comodoro-detenido-danos-hall-edificio-ameghino",
@@ -544,7 +578,7 @@
   {
    "id": "torres-alta-data-trelew-becas-incubar-futuro",
    "fecha": "2026-11-26T14:00:03-03:00",
-   "sec": "gobierno",
+   "sec": "politica",
    "ciudad": "Trelew",
    "titulo": "Torres abrió Alta Data en Trelew y lanzó las Becas 2027 e Incubar Futuro para jóvenes emprendedores",
    "bajada": "El programa dará aportes de $2 millones a proyectos de jóvenes y las becas sumarán carreras terciarias, tecnicaturas y diplomaturas virtuales.",
@@ -555,7 +589,8 @@
     "En una entrevista abierta con los jóvenes, Torres habló de su vocación política: “Lo malo son algunos políticos: la política es una herramienta transformadora”, dijo, y destacó que hoy “hay muchos jóvenes con un rol protagónico”."
    ],
    "arte": "escuela",
-   "tema": "Gobernador Torres"
+   "tema": "Gobernador Torres",
+   "gacetilla": true
   },
   {
    "id": "comodoro-abel-amaya-detenido-golpe-pareja",
@@ -630,21 +665,6 @@
    ],
    "arte": "mar",
    "tema": "Ecocidio Punta Tombo"
-  },
-  {
-   "id": "ver-para-ser-libres-anteojos",
-   "fecha": "2026-11-26T07:52:21-03:00",
-   "sec": "ultimas",
-   "ciudad": "Provincia",
-   "titulo": "Ver para Ser Libres: ya entregaron más de 2.100 anteojos a chicos de Chubut",
-   "bajada": "El programa hizo 2.478 controles oftalmológicos a niños y adolescentes de 6 a 17 años y termina este viernes.",
-   "cuerpo": [
-    "El programa Ver para Ser Libres realizó en Chubut 2.478 controles oftalmológicos y entregó 2.159 anteojos a niños y adolescentes de entre 6 y 17 años.",
-    "El operativo empezó el 3 de noviembre y termina este viernes 27. Lo llevan adelante la Provincia, a través de los ministerios de Desarrollo Humano y Educación y la Secretaría de Salud, junto al Ministerio de Capital Humano de la Nación y los municipios.",
-    "Unidades móviles con oftalmólogos y laboratorios ópticos revisan a los chicos y les entregan los anteojos en el mismo día. El objetivo es detectar a tiempo problemas de visión que afectan el aprendizaje y que la distancia no sea un obstáculo para atenderse."
-   ],
-   "arte": "escuela",
-   "tema": "Salud"
   },
   {
    "id": "consejo-personas-mayores-madryn",
