@@ -11,6 +11,11 @@
    "sub": "Gobierno, Legislatura y gremios"
   },
   {
+   "id": "gobierno",
+   "nombre": "Gacetillas oficiales",
+   "sub": "Prensa del Gobierno del Chubut"
+  },
+  {
    "id": "cuenca",
    "nombre": "Comodoro y la Cuenca",
    "sub": "Golfo San Jorge"
@@ -71,6 +76,22 @@
   }
  ],
  "notas": [
+  {
+   "id": "torres-alta-data-trelew-becas-incubar-futuro",
+   "fecha": "2026-11-26T14:00:03-03:00",
+   "sec": "gobierno",
+   "ciudad": "Trelew",
+   "titulo": "Torres abrió Alta Data en Trelew y lanzó las Becas 2027 e Incubar Futuro para jóvenes emprendedores",
+   "bajada": "El programa dará aportes de $2 millones a proyectos de jóvenes y las becas sumarán carreras terciarias, tecnicaturas y diplomaturas virtuales.",
+   "cuerpo": [
+    "El gobernador Ignacio “Nacho” Torres encabezó en Trelew la apertura de “Alta Data: Emprendé tu futuro hoy”, un festival gratuito de capacitación para jóvenes que organizaron el Gobierno provincial y la Fundación Banco del Chubut en el Museo Paleontológico Egidio Feruglio.",
+    "Durante el encuentro se presentó la convocatoria a las Becas 2027 de la Fundación Banco del Chubut, que incorpora carreras terciarias, tecnicaturas y diplomaturas en modalidad virtual. Además, Torres lanzó una nueva edición de Incubar Futuro, que acompañará y financiará con aportes de $2 millones a jóvenes con una idea productiva o un emprendimiento en marcha.",
+    "La jornada reunió a cientos de chicos de Trelew y la región en talleres y charlas sobre inteligencia artificial, educación financiera, herramientas digitales y emprendedurismo. Acompañaron al gobernador el intendente Gerardo Merino, el ministro de Educación José Luis Punta, la secretaria general de Gobierno Macarena Acuipil y la presidenta de la Fundación, Ornella Costa.",
+    "En una entrevista abierta con los jóvenes, Torres habló de su vocación política: “Lo malo son algunos políticos: la política es una herramienta transformadora”, dijo, y destacó que hoy “hay muchos jóvenes con un rol protagónico”."
+   ],
+   "arte": "escuela",
+   "tema": "Gobernador Torres"
+  },
   {
    "id": "comodoro-abel-amaya-detenido-golpe-pareja",
    "fecha": "2026-11-26T13:42:45-03:00",
