@@ -77,6 +77,68 @@
  ],
  "notas": [
   {
+   "id": "comodoro-detenido-danos-hall-edificio-ameghino",
+   "fecha": "2026-11-26T14:05:15-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: detuvieron a un hombre de 34 años por destrozar el hall de un edificio en calle Ameghino",
+   "bajada": "El Centro de Monitoreo dio el alerta durante la madrugada. Cuando llegó la Policía, el sospechoso intentaba irse y había arrancado el timbre de la pared.",
+   "cuerpo": [
+    "Un hombre de 34 años fue detenido en la madrugada de este jueves en Comodoro Rivadavia, después de causar daños en el hall de un edificio de calle Ameghino al 1700.",
+    "El aviso llegó desde el Centro de Monitoreo. Los efectivos de la Comisaría Segunda lo encontraron cuando intentaba alejarse de la cuadra y comprobaron que había arrancado el timbre de la pared, por lo que lo detuvieron en el momento.",
+    "Se dio intervención a la guardia del Ministerio Público Fiscal y a la Oficina Judicial, que dispusieron que siga alojado en la comisaría hasta la audiencia de control de detención."
+   ],
+   "arte": "noche",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "madryn-detenido-agredio-abuela",
+   "fecha": "2026-11-26T14:05:14-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn: detuvieron a un joven de 27 años que rompió la puerta de la casa de su abuela y la agredió",
+   "bajada": "Ocurrió de madrugada en calle Rivadavia al 2500. Lo imputarán por violación de domicilio, daños y lesiones en contexto de violencia familiar.",
+   "cuerpo": [
+    "Un joven de 27 años fue detenido en Puerto Madryn después de entrar por la fuerza a la casa de su abuela, de 71 años, y agredirla. Será imputado por violación de domicilio, daños y lesiones en contexto de violencia familiar.",
+    "El hecho fue cerca de las 4 de la mañana en una vivienda de calle Rivadavia al 2500. El joven dañó la puerta para poder entrar mientras la mujer descansaba, la tomó con fuerza del brazo y luego se fue.",
+    "La mujer avisó enseguida a la Policía y describió la ropa que llevaba el agresor. Con esos datos se hizo un rastrillaje por la zona y lo encontraron en la esquina de Alem y Santa Fe. Según los efectivos, estaba alcoholizado.",
+    "La víctima fue llevada a la Comisaría de la Mujer para hacer la denuncia. La Fiscalía dispuso que el joven siga detenido hasta la audiencia de control de detención."
+   ],
+   "arte": "noche",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "comodoro-robo-comercio-san-martin-sube",
+   "fecha": "2026-11-26T14:05:13-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: detuvieron a un joven de 22 años por robar dinero y terminales de cobro en un comercio del barrio San Martín",
+   "bajada": "Dos hombres asaltaron un local de calle Los Pensamientos al 1000. Uno fue atrapado a 300 metros con un lector de tarjetas y una terminal SUBE; buscan al otro.",
+   "cuerpo": [
+    "Un joven de 22 años quedó detenido este jueves a la mañana en Comodoro Rivadavia, acusado de asaltar junto a otro hombre un comercio del barrio San Martín, de donde se llevaron dinero en efectivo y terminales de cobro.",
+    "El robo ocurrió alrededor de las 8:30 en un local de calle Los Pensamientos al 1000. Mientras las empleadas atendían al público, uno de los dos entró detrás del mostrador y vació la caja, y el otro agarró dos dispositivos de cobro electrónico. Después escaparon hacia la avenida Rivadavia.",
+    "Policías de la Comisaría Cuarta montaron un operativo cerrojo y, a unos 300 metros, cerca de la Unión Vecinal del barrio, interceptaron a uno de los sospechosos, cuya ropa coincidía con la descripción de los testigos y con las cámaras de seguridad. Entre sus cosas tenía un lector de tarjetas y la carcasa de una terminal de recarga SUBE.",
+    "El detenido quedó a disposición del Ministerio Público Fiscal, mientras sigue la búsqueda del segundo implicado."
+   ],
+   "arte": "ciudad",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "murio-ricardo-carminati-trelew",
+   "fecha": "2026-11-26T14:05:12-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Murió el médico Ricardo Carminati, fundador del área de Gastroenterología de la Clínica San Miguel",
+   "bajada": "El gastroenterólogo y cirujano de Trelew falleció este jueves, tras estar internado desde el 14 de noviembre por una descompensación. No habrá velatorio.",
+   "cuerpo": [
+    "El gastroenterólogo y cirujano Ricardo Carminati falleció este jueves 26 de noviembre. Estaba internado desde el 14 de noviembre, cuando sufrió una descompensación.",
+    "Carminati tuvo una larga trayectoria en distintos centros de salud de la zona. Fundó el área de Gastroenterología de la Clínica San Miguel, donde atendía a sus pacientes, y también trabajó en la Clínica Modelo, creada por su padre, que también era médico, en el seno de una conocida familia de Trelew.",
+    "Tras conocerse la noticia, distintos sectores vinculados a la salud expresaron su pesar. Sus restos no serán velados y recibirán sepultura el viernes 27 a las 8:30 en el cementerio Jardín del Cielo."
+   ],
+   "arte": "ciudad",
+   "tema": "Salud"
+  },
+  {
    "id": "torres-alta-data-trelew-becas-incubar-futuro",
    "fecha": "2026-11-26T14:00:03-03:00",
    "sec": "gobierno",
