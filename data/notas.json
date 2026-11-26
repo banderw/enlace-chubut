@@ -77,6 +77,69 @@
  ],
  "notas": [
   {
+   "id": "trelew-agenda-fin-de-semana-27-29-noviembre",
+   "fecha": "2026-11-26T19:05:13-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Fin de semana en Trelew: orquestas, muestras, danza, corre caminata y la Base Zar abierta al público",
+   "bajada": "Del 27 al 29 de noviembre la ciudad tiene una agenda cargada de actividades culturales, deportivas y recreativas, muchas con entrada libre.",
+   "cuerpo": [
+    "La Municipalidad de Trelew difundió la agenda de actividades para este fin de semana. Jueves 26 y viernes 27, desde las 20, el Gimnasio Municipal N° 1 recibe un encuentro educativo y musical de la Orquesta Infanto Juvenil del Barrio INTA, con coros escolares y orquestas de la ciudad y la región. Las entradas, a 8.000 pesos y solo en efectivo, se consiguen en el Hotel Touring Club.",
+    "El viernes 27, desde las 17, la Escuela Municipal de Artesanías presenta su Muestra Anual 2026 en William Davies y Pasaje Santiago del Estero Norte. A las 19, el Instituto Superior de Formación Docente Artística N° 805 hace su primera gala musical, \"Cartografía Sonora\", en su auditorio de Roque González y José Berreta, con entrada libre. A las 20, el Centro Cultural Municipal (9 de Julio 655) recibe \"Encanto Comercialero\", un espacio de baile comercial sin límite de edad, y el sábado a la misma hora habrá un espectáculo de danzas árabes.",
+    "También se hará el cierre anual de los Centros Juveniles en la Chacra de la Universidad, sobre la Ruta Provincial 7, desde las 15.30, abierto al público y sin inscripción.",
+    "El sábado 28 a las 8 sale la segunda Corre Caminata de la Escuela N° 608, desde San Martín 951 hasta la Laguna Cacique Chiquichano, con una carrera de 4 kilómetros y una caminata recreativa. Ese mismo día, de 14 a 18, la Base Aeronaval Almirante Zar abre sus puertas con muestra de aeronaves, visitas y actividades comunitarias, con entrada libre y gratuita."
+   ],
+   "arte": "escenario",
+   "tema": "Agenda Trelew"
+  },
+  {
+   "id": "comodoro-aulas-vivas-cierre-invernaderos-escolares",
+   "fecha": "2026-11-26T19:05:12-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Aulas Vivas cerró el año: cuatro primarias de Comodoro mostraron lo que cultivaron en sus invernaderos",
+   "bajada": "Las escuelas 147, 146, 91 y 2 presentaron manuales, plantines y proyectos hechos durante 2026 en el programa de educación ambiental.",
+   "cuerpo": [
+    "El programa Aulas Vivas, que propone aprender a partir del contacto con la naturaleza, la producción sustentable y el cuidado del ambiente, tuvo su jornada de cierre en Comodoro Rivadavia con una muestra abierta de los trabajos hechos en los invernaderos escolares.",
+    "Este año participaron las escuelas primarias N° 147 de Astra, N° 146 de Km 3, N° 91 de Valle C y N° 2 Francisco Pietrobelli. Cada una armó un stand con manuales de trabajo, plantines y otras producciones del ciclo lectivo, y hubo un espacio de intercambio entre estudiantes y docentes.",
+    "La iniciativa la impulsan la Fundación Enfermeros Protagonistas y BRISA Salud y Bienestar, con el acompañamiento de Pan American Energy. La presidenta de la fundación, Leila Cura, señaló que el programa acerca a los chicos al aprendizaje \"mediante la observación, la experimentación y el contacto directo con la naturaleza\".",
+    "Horacio García, gerente de Relaciones Institucionales de Pan American Energy, afirmó que la propuesta \"demuestra el enorme potencial que tiene la educación cuando se complementa con experiencias prácticas\"."
+   ],
+   "arte": "escuela",
+   "tema": "Educación"
+  },
+  {
+   "id": "trelew-night-run-5k-14-edicion",
+   "fecha": "2026-11-26T19:05:11-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "Trelew corre de noche: el sábado se larga la 14.ª edición de la Night Run 5K",
+   "bajada": "La carrera nocturna saldrá a las 22 desde Confitería Bertolucci, con una prueba competitiva de 5 kilómetros y una caminata de 2,5. Ya hay cerca de 200 inscriptos.",
+   "cuerpo": [
+    "La Night Run 5K vuelve a las calles de Trelew este sábado 28 de noviembre con su 14.ª edición. La organiza Eventos Deportivos Trelew con el acompañamiento del Municipio, y la largada y la llegada estarán en Confitería Bertolucci, a partir de las 22.",
+    "Habrá dos opciones: una carrera competitiva de 5 kilómetros y una caminata participativa de 2,5 kilómetros para quienes quieran sumarse sin competir. Gerardo Haro, de la organización, dijo que ya son alrededor de 200 los atletas anotados, de distintas localidades, entre ellos Luciano Galván, de Neuquén, y Juan Paz, de Sierra Grande.",
+    "La noche tendrá música a cargo de DJ Agus y la locución de Vanshi Thomas y Lili Méndez. Las inscripciones siguen abiertas en la plataforma de Cronometraje Instantáneo, tanto para la carrera como para la caminata."
+   ],
+   "arte": "noche",
+   "tema": "Night Run 5K"
+  },
+  {
+   "id": "gimnasia-jujuy-baja-dematei-duda-molina-madryn",
+   "fecha": "2026-11-26T19:05:10-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Gimnasia de Jujuy llega a Madryn sin Dematei y con la duda de Francisco Molina",
+   "bajada": "El defensor jujeño sufrió un desgarro en el gemelo y no jugará la revancha de cuartos de final del sábado. El Aurinegro necesita ganar para seguir en carrera.",
+   "cuerpo": [
+    "Gimnasia de Jujuy tendrá al menos una ausencia para la vuelta de los cuartos de final ante Deportivo Madryn: su entrenador, Hernán Pellerano, confirmó que el defensor Nicolás Dematei quedó descartado por un desgarro en el gemelo que sufrió en el partido de ida, jugado en el estadio 23 de Agosto.",
+    "El cuerpo técnico jujeño también sigue la evolución de Francisco Molina, que terminó el primer encuentro con una molestia en el tobillo. Según contó Pellerano, el jugador entrenó el miércoles con zapatillas y el jueves volvería a usar botines para ver si llega en condiciones al sábado.",
+    "Gimnasia ganó 1 a 0 en Jujuy, por lo que le alcanza con un empate o una victoria para pasar a semifinales. El Aurinegro está obligado a ganar: con un gol de diferencia se clasifica por ventaja deportiva y con dos o más avanza por el resultado global.",
+    "El plantel de Madryn entrenó el jueves en la cancha Walter Casado, mientras Luis García define el equipo titular, en el que se espera al menos un cambio respecto de la ida. El partido se jugará el sábado 28 de noviembre a las 20, con arbitraje de Joaquín Gil, y las entradas se venden en la sede del club, en avenida Roca 516."
+   ],
+   "arte": "cancha",
+   "tema": "Deportivo Madryn"
+  },
+  {
    "id": "comodoro-pareja-detenida-robo-vivienda-dorrego",
    "fecha": "2026-11-26T18:05:19-03:00",
    "sec": "policiales",
