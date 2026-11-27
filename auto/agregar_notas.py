@@ -33,7 +33,7 @@ def bajar_foto(url, destino):
     """Baja la foto oficial de una gacetilla, la achica a 1280 px y la guarda como JPG. Devuelve True si salió bien."""
     try:
         import io, urllib.request
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) EnlaceChubutBot/1.0"})
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36"})
         raw = urllib.request.urlopen(req, timeout=40).read()
         try:
             from PIL import Image

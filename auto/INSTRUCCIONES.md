@@ -44,7 +44,14 @@ Python: `python3 -X utf8`. No hace falta instalar nada: si Pillow no anda, `agre
    - `sec`: `ultimas` (sociedad, salud, educación, ambiente, servicios, general), `politica` (gobierno, Legislatura, gremios, economía provincial), `nacionales`, `cuenca` (Comodoro, Rada Tilly, Caleta, Sarmiento y la Cuenca del Golfo San Jorge), `turismo`, `policiales` (delitos, accidentes, incendios, Justicia) o `deportes`.
    - `ciudad`: la localidad principal (o "Provincia").
    - `tema`: etiqueta de 1 a 3 palabras para la barra de Temas (por ejemplo "Paro bancario", "Elecciones 2027"). Si sigue un tema que ya existe en `data/notas.json`, usá **exactamente la misma etiqueta**.
-   - `foto`: el **tema** del banco que mejor encaje (por ejemplo `"policia"`, `"bomberos"`, `"escuela"`, `"futbol"`, `"tenis"`); el script elige la variante menos usada. Si ningún tema encaja, `null` (se usa una ilustración). No uses fotos de diarios ni de Google.
+   - **Foto real y relacionada (`foto_url`) — pedido del usuario del 27/11/2026**: cada nota tiene que llevar, siempre que se pueda, una **foto real del lugar, la institución o el evento** del que habla, buscada en la web. Ejemplos: una nota sobre un festival en la Plaza Independencia de Trelew lleva una foto de la Plaza Independencia; una nota del Concejo de Trelew, una foto del Concejo; una nota de un club, una foto de su cancha o de un partido anterior; una obra en una ruta, una foto de esa ruta. **No uses fotos genéricas de stock** (médicos, manos, oficinas) cuando se puede mostrar el lugar real.
+     Cómo buscarla:
+     1. Usá la herramienta **WebSearch** con el lugar o el evento concreto (por ejemplo `Plaza Independencia Trelew`, `Concejo Deliberante Trelew sesión`, `estadio Raúl Conti Puerto Madryn`). Preferí sitios oficiales (`.gob.ar`, municipios, Legislatura, Gobierno del Chubut, universidades, clubes), Wikipedia, sitios de turismo y TripAdvisor.
+     2. Bajá las candidatas con `python3 -X utf8 auto/foto_web.py <url-de-página-o-de-imagen> [...]` (de cada página toma su foto principal). Probá 2 a 5 candidatas.
+     3. **Mirá cada candidata con la herramienta Read** (abre la imagen) antes de elegir. Tiene que ser horizontal o casi, de al menos 800 px de ancho, nítida y **sin logos ni marcas de agua de medios periodísticos** (diarios, radios, canales, portales), sin placas ni zócalos con títulos, sin texto encima. Los carteles de instituciones o empresas que aparecen en la foto sí se pueden. Nunca fotos con menores identificables, víctimas o detenidos de frente, ni imágenes hechas con IA o ilustraciones. Preferí **JPG** (los PNG/WEBP pueden fallar).
+     4. Poné la URL directa de la imagen elegida (la que imprime `foto_web.py` como `foto_url:`) en el campo `foto_url` de la nota.
+     No uses la foto de la misma nota del diario del que sacaste la noticia. Si después de 2 o 3 búsquedas no aparece una foto real adecuada, dejá solo `foto` (banco).
+   - `foto`: además, siempre poné el **tema** del banco que mejor encaje (por ejemplo `"policia"`, `"bomberos"`, `"escuela"`, `"futbol"`, `"tenis"`) como respaldo, por si la foto real no se puede bajar; el script elige la variante menos usada. Si ningún tema encaja, `null` (se usa una ilustración).
    - `arte`: ilustración de respaldo, una de: meseta, valle, mar, playa, cordillera, ciudad, petroleo, tren, puma, ruta, escenario, escuela, banco, molino, faro, noche, humo, cancha, rugby.
    - `lugar`: solo si corresponde. `"lead"` cuando es claramente la noticia provincial más importante del momento; como máximo una por hora y no reemplaces una principal de hace menos de 3 horas salvo que la nueva sea más importante. `"lado"` para una segunda destacada. Si no, omitilo.
    - `origen`: la URL original (no se muestra; sirve para no repetirla).
@@ -56,7 +63,7 @@ Python: `python3 -X utf8`. No hace falta instalar nada: si Pillow no anda, `agre
    ```
    Si no se publica ninguna, guardalo igual con `"notas": []` y todas las URL en `descartadas`.
 
-6. **Agregar al portal**: `python3 -X utf8 auto/agregar_notas.py`. Si da `ERROR`, corregí `auto/nuevas.json` y volvé a ejecutarlo.
+6. **Agregar al portal**: `python3 -X utf8 auto/agregar_notas.py`. Si da `ERROR`, corregí `auto/nuevas.json` y volvé a ejecutarlo. Si avisa `no se pudo bajar la foto`, la nota quedó con la del banco: está bien.
 
 7. **Publicar** (también cuando no hubo notas, para guardar las URL descartadas):
    ```
