@@ -1,117 +1,123 @@
 {
  "notas": [
   {
-   "id": "pj-cumbre-rawson-precandidatos-gobernador",
-   "sec": "politica",
+   "id": "punta-tombo-superior-tribunal-condena-pinguinos",
+   "sec": "policiales",
    "ciudad": "Rawson",
-   "tema": "Elecciones 2027",
-   "titulo": "El PJ reúne esta noche en Rawson a sus precandidatos a gobernador para buscar un acuerdo de unidad",
-   "bajada": "La reunión será desde las 19.30 en la sede provincial del partido, con Luque, Bowen y Glinski, de cara a las elecciones del 21 de marzo de 2027.",
+   "tema": "Punta Tombo",
+   "titulo": "El Superior Tribunal confirmó la condena por la destrucción de la pingüinera de Punta Tombo",
+   "bajada": "El máximo tribunal provincial rechazó la impugnación de la defensa y ratificó la sentencia contra Ricardo Adolfo La Regina por el daño a la colonia de pingüinos de Magallanes.",
    "cuerpo": [
-    "El Partido Justicialista de Chubut realizará este viernes, desde las 19.30, una reunión en su sede de Rawson con las mesas del Consejo y del Congreso partidario y los tres dirigentes que se lanzaron como precandidatos a gobernador: Juan Pablo Luque, Dante Bowen y José Glinski.",
-    "El presidente del partido, Gustavo Fita, explicó que la idea es conocer la postura de cada aspirante y continuar las conversaciones ya iniciadas para construir una estrategia y un proyecto común. También anticipó reuniones con otros dirigentes que manifestaron su intención de competir. Sobre una eventual interna, dijo que todas las alternativas están abiertas y que \"los tiempos están dados para hacer todo\".",
-    "Con las elecciones provinciales y municipales adelantadas al 21 de marzo, el calendario es cada vez más ajustado. En Trelew, además, el PJ convocará a los cuatro precandidatos a intendente (Alejandra Vázquez, Juan Aguilar, Emanuel Coliñir y Nicanor Rodríguez) para buscar una candidatura de consenso, y en Puerto Madryn sectores del peronismo pidieron conformar una lista única."
+    "El Superior Tribunal de Justicia del Chubut ratificó la condena contra Ricardo Adolfo La Regina por la destrucción de nidos, huevos, pichones y ejemplares adultos de pingüinos de Magallanes. Con esa decisión rechazó la impugnación extraordinaria presentada por la defensa, tras la sentencia de primera instancia que ya había sido confirmada por la Cámara Penal.",
+    "Los hechos ocurrieron entre agosto y diciembre de 2021 en un sector de Punta Clara, al norte de Punta Tombo, un área de Patagonia Azul con protección internacional de la UNESCO. Los desmontes, la apertura de caminos y la remoción de suelo alcanzaron zonas de alta densidad de nidos donde los pingüinos se reproducen.",
+    "La investigación fue iniciada el 26 de noviembre de 2021 por la fiscal Florencia Gómez. Por primera vez en una causa penal se utilizaron imágenes satelitales y estudios cartográficos como prueba, junto con informes técnicos, inspecciones en el lugar y testimonios de especialistas de organizaciones nacionales e internacionales.",
+    "El caso tuvo repercusión nacional e internacional y fue reconocido como el primer caso de ecocidio de la región, por la magnitud del daño sobre la colonia de pingüinos de Magallanes más importante del mundo."
    ],
-   "foto": "reunion",
-   "arte": "ciudad",
-   "origen": "https://www.elchubut.com.ar/regionales/2026-11-26-20-38-0-el-pj-reune-a-los-tres-precandidatos-a-gobernador-para-buscar-avanzar-en-un-acuerdo-de-unidad"
+   "foto": "pinguino",
+   "arte": "playa",
+   "origen": "https://www.eldiarioweb.com/2026/11/el-superior-tribunal-confirmo-la-condena-por-la-masacre-de-pinguinos-en-punta-tombo/"
   },
   {
-   "id": "avila-apoyo-reeleccion-torres",
-   "sec": "politica",
-   "ciudad": "Comodoro Rivadavia",
-   "tema": "Elecciones 2027",
-   "titulo": "Loma Ávila confirmó que apoyará la reelección de Torres: \"Lo vamos a reelegir por el coraje de haber estado\"",
-   "bajada": "El titular del Sindicato de Petroleros y diputado nacional lo anunció ante trabajadores de la Cuenca del Golfo San Jorge.",
-   "cuerpo": [
-    "Jorge \"Loma\" Ávila, secretario general del Sindicato del Petróleo y Gas Privado del Chubut y diputado nacional, anunció que respaldará la reelección del gobernador Ignacio Torres en 2027. \"Este secretario general ya tiene un candidato a gobernador, y ese candidato es el compañero Nacho Torres\", dijo ante trabajadores petroleros.",
-    "Ávila vinculó su apoyo al acompañamiento que, según planteó, tuvo el sector en la crisis más dura de la industria: \"Esta fue la peor crisis de todas y la vivimos juntos, la soportamos juntos\". También sostuvo que el desarrollo de los recursos debe incluir al sector privado y al Estado, y mencionó a las empresas que mantienen inversiones en la provincia.",
-    "Sobre su relación con el peronismo, afirmó que siempre fue peronista, pero que cuando el partido \"no me quiso, me echó\", y que no se va a identificar con quienes, a su juicio, abandonaron a los trabajadores. Cerró prometiendo defender la Cuenca y el empleo petrolero \"con uñas y dientes\"."
-   ],
-   "foto": "petroleo",
-   "arte": "petroleo",
-   "origen": "https://canal12web.com/avila-confirmo-que-acompanara-a-torres-en-2027-lo-vamos-a-reelegir-por-el-coraje-de-haber-estado/"
-  },
-  {
-   "id": "sur-en-precios-plataforma-unpsjb",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "tema": "Economía regional",
-   "titulo": "La UNPSJB presentó \"Sur en Precios\", una plataforma para seguir los precios de supermercados en la Patagonia",
-   "bajada": "Permite comparar valores en Chubut, Santa Cruz y Tierra del Fuego, armar listas de compras y ver cómo evolucionan los costos.",
-   "cuerpo": [
-    "El Observatorio de Economía de la Facultad de Ciencias Económicas de la Universidad Nacional de la Patagonia San Juan Bosco presentó este jueves \"El Sur de la Información\", un conjunto de herramientas digitales para acercar datos sobre la economía patagónica.",
-    "Una de ellas es \"Sur en Precios\", una plataforma de monitoreo, análisis y búsqueda de precios de supermercados de las tres provincias. Los usuarios pueden buscar productos por categoría, armar y compartir listas de compras y seguir la evolución de los precios a partir de actualizaciones periódicas. La presentó el ingeniero Daniel Beherns.",
-    "La otra novedad es OBSECON, el nuevo sitio del Observatorio, que reúne estudios, información e indicadores económicos de la región. El acto lo encabezó César Herrera, director del Observatorio en Comodoro, y se hizo a tres años del lanzamiento de la Web de Precios."
-   ],
-   "foto": "universidad",
-   "arte": "banco",
-   "origen": "https://www.eldiarioweb.com/2026/11/presentaron-sur-en-precios-una-plataforma-para-seguir-el-costo-de-los-productos-en-la-patagonia/"
-  },
-  {
-   "id": "tehuelches-seven-republica-parana",
-   "sec": "deportes",
+   "id": "trelew-base-aeronaval-puertas-abiertas-sabado-28",
+   "sec": "ultimas",
    "ciudad": "Trelew",
-   "tema": "Rugby",
-   "titulo": "Tehuelches viajó a Paraná al Seven de la República en busca de la permanencia y el ascenso",
-   "bajada": "El seleccionado del Valle juega la Zona Ascenso del torneo, que se disputa este fin de semana en Entre Ríos.",
+   "tema": "Agenda Trelew",
+   "titulo": "Puertas abiertas en la Base Aeronaval Almirante Zar de Trelew este sábado",
+   "bajada": "La jornada será el sábado 28 de noviembre, de 14 a 18, con entrada libre y gratuita, muestra de aeronaves y propuestas para toda la familia.",
    "cuerpo": [
-    "El seleccionado Tehuelches partió a Paraná para disputar el Seven de la República 2026, que este fin de semana tendrá su 42.ª edición masculina y la 10.ª femenina, en las canchas de Estudiantes y del Paraná Rowing Club.",
-    "El equipo chubutense integra la Zona 6 de ascenso, junto a Austral, Andina, Formosa y Entre Ríos B. El plantel reúne jugadores de Patoruzú, Trelew RC, Bigornia, Puerto Madryn RC y Draig Goch, entre otros clubes, y mantiene el cuerpo técnico del año pasado, con Mauro Pagani como entrenador.",
-    "El año pasado Tehuelches jugó también en la Zona Ascenso y logró la permanencia con dos triunfos y tres derrotas. Este año el primer objetivo es sostener la categoría y, una vez conseguido, pelear por el ascenso."
+    "La Base Aeronaval Almirante Zar de Trelew abrirá sus puertas a la comunidad este sábado 28 de noviembre, de 14 a 18, con entrada libre y gratuita. Habrá recorridos por una unidad que habitualmente no está abierta al público, con propuestas para toda la familia.",
+    "Uno de los puntos centrales será la muestra estática de aeronaves de la Aviación Naval, incluidas unidades llegadas de otras bases del país. Se podrán ver aviones de instrucción de pilotos y los P-3 que operan desde Trelew en misiones de exploración y vigilancia marítima, además de recorrer el Taller Almirante Zar, donde se mantienen las aeronaves.",
+    "La Infantería de Marina hará exhibiciones de armamento y equipamiento y demostraciones de técnicas de enmascaramiento, y los chicos tendrán una pista de obstáculos recreativa. También participarán el Instituto Aeronaval, el Aeroclub Trelew y el Club de Autos Antiguos, junto con emprendedores, artesanos, puestos de comida y una banda de música. Habrá un stand de la Oficina de Incorporación de la Armada Argentina.",
+    "El capitán de navío Maximiliano Fenley, comandante de la Fuerza Aeronaval N.º 3, dijo que la meta es superar la convocatoria de la edición anterior. Recomiendan ir con tiempo: el estacionamiento quedará fuera de la base y en el encuentro pasado la gran afluencia provocó demoras y largas caminatas hasta el acceso."
    ],
-   "foto": "rugby",
-   "arte": "rugby",
-   "origen": "https://www.diariojornada.com.ar/427827/deportes/tehuelches_partio_a_parana_en_busca_del_ascenso"
+   "foto": "avion",
+   "arte": "ciudad",
+   "origen": "https://cholilaonline.ar/2026/11/puertas-abiertas-en-trelew-aviones-y-base-naval-este-sabado.html"
   },
   {
-   "id": "kayakeada-madryn-8-diciembre",
-   "sec": "turismo",
-   "ciudad": "Puerto Madryn",
-   "tema": "Agenda Madryn",
-   "titulo": "Puerto Madryn vivirá la 11.ª Kayakeada en honor a la Virgen el 8 de diciembre",
-   "bajada": "La procesión náutica parte a las 19 desde la Bajada N.º 8; la inscripción está abierta hasta el 4 de diciembre.",
+   "id": "salma-antorena-tiradora-alto-rio-senguer-lima-2027",
+   "sec": "deportes",
+   "ciudad": "Alto Río Senguer",
+   "tema": "Tiro deportivo",
+   "titulo": "Salma Antorena, la tiradora de Alto Río Senguer que apunta a Lima 2027 y Los Ángeles 2028",
+   "bajada": "La deportista chubutense tuvo una temporada destacada: bronce en el Sudamericano y oro nacional en rifle de aire mixto.",
    "cuerpo": [
-    "La Secretaría de Turismo de Puerto Madryn invitó a la 11.ª edición de la kayakeada en honor a la Inmaculada Concepción, patrona de la ciudad. Será el martes 8 de diciembre, desde las 19, en la Bajada N.º 8, cerca del Madryn Kayak Club.",
-    "La procesión trasladará la imagen de la Virgen desde la guardería del club hasta la fuente de la ciudad, en Avenida Roca y 28 de Julio. Se puede acompañar por tierra o por mar. La concentración empieza a las 17, con entrega de ofrendas y un momento de reflexión.",
-    "Los mayores de 18 que quieran remar deben inscribirse hasta el 4 de diciembre o hasta completar el cupo, y también pueden sumarse quienes practican stand up. Es obligatorio contar con elementos de seguridad y consultar la logística con el club."
+    "La tiradora Salma Antorena, oriunda de Alto Río Senguer, tuvo una temporada de importantes resultados. Integró el seleccionado argentino en los Juegos Suramericanos de Santa Fe 2026, donde fue sexta en 50 metros rifle tres posiciones, y ganó la medalla de bronce en rifle de aire a 10 metros en el XXIII Campeonato Sudamericano de Tiro Deportivo. Además terminó sexta en carabina 3×20.",
+    "En el Campeonato Nacional de Aire, disputado en Chivilcoy, se quedó con el oro en rifle de aire 10 metros mixto junto a Marcelo Zoccali: sumaron 495 puntos y definieron por desempate, 21 a 19,3. En la final femenina individual fue quinta.",
+    "«Es un orgullo enorme representar a Argentina y a Chubut», expresó. Cuenta con el acompañamiento de Chubut Deportes a través del programa de becas deportivas y proyecta seguir creciendo para buscar la clasificación olímpica, con los Juegos Panamericanos de Lima 2027 y los de Los Ángeles 2028 en la mira."
    ],
-   "foto": "costa",
-   "arte": "mar",
-   "origen": "https://cholilaonline.ar/2026/11/puerto-madryn-vivira-la-11a-edicion-de-la-kayakeada-en-honor-a-la-virgen.html"
+   "foto": null,
+   "arte": "cancha",
+   "origen": "https://canal12web.com/salma-antorena-el-orgullo-chubutense-que-apunta-a-lima-2027-y-los-angeles-2028/"
   },
   {
-   "id": "talleres-culturales-madryn-cierre-2026",
+   "id": "trelew-pj-precandidatos-intendente-consenso",
+   "sec": "politica",
+   "ciudad": "Trelew",
+   "tema": "Elecciones 2027",
+   "titulo": "Los cuatro precandidatos del PJ a intendente de Trelew buscarán un candidato de consenso",
+   "bajada": "El partido convocará en las próximas horas a Alejandra Vázquez, Juan Aguilar, Emanuel Coliñir y Nicanor Rodríguez, con elecciones adelantadas al 21 de marzo.",
+   "cuerpo": [
+    "El Partido Justicialista convocará en las próximas horas a los cuatro precandidatos a intendente de Trelew para avanzar hacia una candidatura de consenso, en un escenario marcado por el adelantamiento de las elecciones provinciales y municipales al 21 de marzo y los escasos tiempos para organizar una interna.",
+    "Lo confirmó Nicanor Rodríguez, precandidato por «Trelew Futuro», quien anticipó que el encuentro podría concretarse en 48 o 72 horas. Participarían además Alejandra Vázquez, Juan Aguilar y Emanuel Coliñir. Según explicó, la convocatoria inicial ya se hizo con las autoridades del PJ, pero falta la reunión entre los postulantes.",
+    "Rodríguez planteó que cualquier acuerdo debe surgir del diálogo y no de una imposición: «Que sea una mesa de conversación y no una mesa de imposición». Si no hay consenso, consideró que la definición debería quedar en manos de los afiliados mediante una elección interna.",
+    "El precandidato dijo que ya tiene conformada su lista de concejales, aunque no la hará pública hasta que se resuelva el escenario, y que sigue con recorridas y reuniones con vecinos."
+   ],
+   "foto": "elecciones",
+   "arte": "ciudad",
+   "origen": "https://www.elchubut.com.ar/regionales/2026-11-26-20-36-0-los-cuatro-precandidatos-del-pj-a-intendente-de-trelew-buscaran-llegar-a-un-consenso"
+  },
+  {
+   "id": "colectivo-mar-y-valle-incendio-el-molle",
+   "sec": "policiales",
+   "ciudad": "Esquel",
+   "tema": "Ruta 25",
+   "titulo": "Se incendió un colectivo de larga distancia con 35 pasajeros cerca de El Molle: nadie resultó herido",
+   "bajada": "El micro viajaba de Esquel hacia la costa; pasajeros y choferes salieron ilesos y la unidad se perdió por completo.",
+   "cuerpo": [
+    "Un colectivo de doble piso de la empresa 28 de Julio – Mar y Valle se incendió por completo durante la madrugada de este jueves sobre la Ruta Nacional 25, a la altura de El Molle. Viajaban unos 35 pasajeros, además de los choferes, y todos lograron salir sin heridas.",
+    "La gerenta de la empresa, Sonia Rancho, explicó que el hecho ocurrió entre la 1 y las 2. El micro había partido de Esquel a las 22 del día anterior y, por causas que todavía no se establecieron, empezó a prenderse fuego durante el trayecto. «Lo importante es que están todos bien», dijo.",
+    "Las pérdidas materiales fueron totales. Los pasajeros fueron trasladados en otra unidad que salió desde Esquel, con llegada prevista alrededor del mediodía. La empresa aguarda el regreso de los conductores para conocer en detalle lo ocurrido."
+   ],
+   "foto": "colectivo",
+   "arte": "ruta",
+   "origen": "https://www.madrynahora.com/puerto-madryn/se-incendio-un-colectivo-de-mar-y-valle-que-viajaba-a-puerto-madryn-6094/"
+  },
+  {
+   "id": "unpsjb-madryn-colacion-40-egresados",
    "sec": "ultimas",
    "ciudad": "Puerto Madryn",
-   "tema": "Agenda Madryn",
-   "titulo": "Puerto Madryn cierra los Talleres Culturales 2026 con una muestra gratuita el sábado",
-   "bajada": "Será de 14 a 18 en el Gimnasio Municipal N.º 1, con música en vivo, danza y artes plásticas.",
+   "tema": "Educación superior",
+   "titulo": "La UNPSJB entregó 40 títulos en la colación de grado de Puerto Madryn",
+   "bajada": "Se graduaron profesionales de Ciencias Jurídicas, Ingeniería y Ciencias Naturales, con la presencia del rector Gustavo Fleitas.",
    "cuerpo": [
-    "La Subsecretaría de Cultura de Puerto Madryn invitó al cierre anual de los Talleres Culturales 2026, el sábado 28 de noviembre de 14 a 18 en el Gimnasio Municipal N.º 1, con entrada libre y gratuita.",
-    "Habrá música en vivo, presentaciones de danza, muestras de artes plásticas y otras propuestas de los espacios formativos. Funcionan casi dos centenares de talleres, con más de 150 profesores y entre 2.500 y 3.000 participantes de todas las edades.",
-    "La oferta incluye danzas, tango, cerámica, literatura, teatro, pintura, historieta, guitarra, canto, piano, fotografía y desarrollo audiovisual, en la Casa de la Cultura, la Biblioteca Sarmiento, el Teatro del Muelle y centros culturales barriales."
+    "La sede Puerto Madryn de la UNPSJB realizó la colación de grado, en la que 40 egresados recibieron su título. El acto se hizo en el Aula Magna y reunió a graduados, familias y autoridades académicas, con la presencia del rector Gustavo Fleitas y de decanos y vicedecanos de las facultades, tras haber encabezado el día anterior una colación similar en Trelew.",
+    "Recibieron diplomas egresados de Ciencias Jurídicas (abogados, técnicos universitarios en Criminalística y martilleros públicos), Ingeniería (analistas programadores universitarios y licenciados en Informática) y Ciencias Naturales (licenciados en Ciencias Naturales con Biología). Hubo una alta proporción de graduados de tecnicaturas que eligen seguir hacia una licenciatura.",
+    "Damián Gigliotti, de Bienestar Universitario y Prensa de la UNPSJB, destacó que muchos estudiantes son los primeros universitarios de sus familias. Por el espacio del Aula Magna, la asistencia presencial se limitó a dos familiares por egresado y el acto se transmitió por Instagram (unpsjb-madrin). Hubo presentaciones de la Orquesta Sinfónica de Comodoro Rivadavia y del Coro Universitario de Puerto Madryn."
    ],
-   "foto": "musica",
-   "arte": "escenario",
-   "origen": "https://cholilaonline.ar/2026/11/los-talleres-culturales-tendran-su-cierre-este-sabado.html"
+   "foto": "universidad",
+   "arte": "escuela",
+   "origen": "https://cholilaonline.ar/2026/11/colacion-de-grado-en-la-universidad-san-juan-bosco-madryn.html"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427828/politica/puerto_madryn_votara_autoridades_municipales_el_21_de_marzo",
-  "https://www.diariojornada.com.ar/427825/politica/a_los_92_anos_murio_el_empresario_jorge_born",
-  "https://www.diariojornada.com.ar/427824/internacional/piratas_informaticos_vulneraron_una_plataforma_de_la_fuerza_aerea_de_eeuu",
-  "https://www.elchubut.com.ar/estilo-y-vida-/2026-11-27-12-30-0-horoscopo-del-fin-de-semana-que-energias-trae-la-luna-llena-para-cada-signo-y-como-influye-marte-en-virgo",
-  "https://www.elchubut.com.ar/regionales/2026-11-26-20-33-0-el-senado-aprobo-con-43-votos-el-proyecto-de-reforma-electoral-y-lo-giro-a-diputados",
-  "https://www.eldiarioweb.com/2026/11/es-ley-la-reforma-a-la-carta-organica-del-banco-central/",
-  "https://www.eldiarioweb.com/2026/11/diputados-sesiona-para-debatir-el-presupuesto/",
-  "https://www.eldiarioweb.com/2026/11/el-presidente-javier-milei-se-reunio-hoy-con-su-par-de-la-republica-del-paraguay-pedro-alliana/",
-  "https://www.madrynahora.com/puerto-madryn/un-vecino-de-puerto-madryn-perdio-su-herramienta-de-trabajo-dejaron-sin-trabajo-a-una-familia/",
-  "https://www.madrynahora.com/puerto-madryn/robaron-una-bici-en-el-barrio-covitre-era-el-medio-de-transporte-de-un-chico-para-ir-a-la-escuela-y-entrenar/",
-  "https://www.madrynahora.com/puerto-madryn/entro-por-la-fuerza-a-la-casa-de-su-abuela-la-agredio-y-termino-detenido/",
-  "https://canal12web.com/terenzi-acompano-la-suspension-de-las-paso-pero-defendio-las-internas-y-pidio-una-reforma/",
-  "https://canal12web.com/el-senado-dio-el-primer-paso-para-suspender-las-paso-y-el-gobierno-logro-una-amplia-mayoria/",
-  "https://cholilaonline.ar/2026/11/se-brindo-un-taller-sobre-entornos-digitales-y-prevencion-del-cyberbullying.html",
-  "https://cholilaonline.ar/2026/11/atencion-vecinos-de-madryn-llega-la-limpieza-barrial-a-dos-sectores.html"
+  "https://www.diariojornada.com.ar/427826/policiales/huenchullan_suma_otros_6_meses_de_prision_por_violento_robo",
+  "https://www.diariojornada.com.ar/427830/economia/la_reactivacion_de_canadon_perdido_abre_una_nueva_etapa_para_la_produccion",
+  "https://www.diariojornada.com.ar/427815/internacional/huelga_en_el_metro_de_londres_complico_a_miles_de_usuarios",
+  "https://www.diariojornada.com.ar/427807/internacional/lula_eligio_a_un_historico_banquero_como_ministro_de_hacienda_",
+  "https://www.elchubut.com.ar/regionales/2026-11-26-20-31-0-perez-catan-anticipa-alianzas-y-plantea-un-debate-interno-en-chubut-somos-todos",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-15-45-0-sigue-abierta-hasta-el-11-de-diciembre-la-convocatoria-2026-del-fondo-editorial-permanente-de-la-legislatura-del-chubut",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-15-44-0-egresados-de-la-escuela-740-emeta-de-trevelin-tuvieron-su-ultimo-dia-de-escuela-y-lo-festejaron-con-los-padres",
+  "https://www.eldiarioweb.com/2026/11/cinco-nombres-en-danza-para-competir-por-la-candidatura-del-pj-en-chubut/",
+  "https://www.eldiarioweb.com/2026/11/glinski-el-peronismo-debe-encontrar-un-mecanismo-que-garantice-la-unidad/",
+  "https://www.eldiarioweb.com/2026/11/viajaba-de-esquel-a-trelew-y-ardio-en-llamas/",
+  "https://www.madrynahora.com/puerto-madryn/el-peronismo-de-puerto-madryn-llamo-a-la-unidad-y-pidio-avanzar-hacia-una-lista-unica/",
+  "https://www.madrynahora.com/puerto-madryn/se-incendio-una-camioneta-sobre-la-ruta-3-y-bomberos-lograron-apagar-el-fuego/",
+  "https://www.madrynahora.com/chubut/chubut-depositara-los-sueldos-de-noviembre-el-1-y-2-de-diciembre/",
+  "https://canal12web.com/hoy-gran-cumbre-peronista-en-busca-de-un-acuerdo-que-lo-consolide-como-opcion-electoral/",
+  "https://canal12web.com/la-mesa-chubutense-de-victimas-viales-presenta-en-trelew-su-plan-de-trabajo-2027-2029/",
+  "https://canal12web.com/el-banco-nacion-devolvera-a-isaias-los-casi-10-millones-robados-y-el-estafador-fue-identificado/",
+  "https://cholilaonline.ar/2026/11/puerto-madryn-campana-limpieza-barrios-peron-colonos-galeses.html",
+  "https://cholilaonline.ar/2026/11/comodoro-inauguro-un-mural-en-homenaje-a-antoine-de-saint-exupery-en-el-barrio-prospero-palazzo.html"
  ]
 }

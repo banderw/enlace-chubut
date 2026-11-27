@@ -16,12 +16,12 @@
 "futbol-2": 3,
 "universidad-1": 2,
 "chicos-1": 1,
-"universidad-2": 1,
+"universidad-2": 2,
 "chicos-2": 1,
 "agua-1": 1,
 "mayores-1": 1,
 "medico-1": 3,
-"pinguino-1": 1,
+"pinguino-1": 2,
 "colectivo-1": 1,
 "gobierno-1": 2,
 "escuela-2": 2,
@@ -29,7 +29,7 @@
 "edificio-1": 2,
 "trabajadores-1": 2,
 "ruta-1": 1,
-"elecciones-1": 5,
+"elecciones-1": 6,
 "hospital-1": 1,
 "pesca-1": 1,
 "trevelin-1": 1,
@@ -57,5 +57,7 @@
 "petroleo-1": 1,
 "rugby-1": 1,
 "costa-2": 1,
-"musica-1": 1
+"musica-1": 1,
+"avion-1": 1,
+"colectivo-2": 1
 }
