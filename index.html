@@ -393,17 +393,25 @@ document.getElementById("portada").innerHTML=`
     ${pic(lead,1)}<div class="card-txt">${meta(lead)}<h2>${esc(lead.titulo)}</h2><p>${esc(lead.bajada)}</p></div></a></article>
   <div class="side">${lado.map(n=>`<article class="caja"><a href="${href(n)}">${n.sinFotoEnPortada?"":pic(n,1)}<div class="card-txt">${meta(n)}<h2>${esc(n.titulo)}</h2>${n.sinFotoEnPortada?`<p>${esc(n.bajada)}</p>`:""}</div></a></article>`).join("")}</div>`;
 
-const ecl=byId["eclipse"];
-const hoy=new Date();
-const dias=Math.max(0,Math.ceil((new Date(2027,1,6)-new Date(hoy.getFullYear(),hoy.getMonth(),hoy.getDate()))/864e5));
-document.getElementById("especial").innerHTML=`
+/* Módulo especial: se configura en data/notas.json → "especial": {"nota": id, "etiqueta": "...", "fecha": "AAAA-MM-DD", "cuenta": "días para ..."} */
+const ESP=DATA.especial||{};
+const ecl=byId[ESP.nota]||NOTAS.find(n=>n.lugar==="especial");
+if(ecl){
+  let cuenta="";
+  if(ESP.fecha){
+    const [a,m,d]=ESP.fecha.split("-").map(Number), hoy=new Date();
+    const dias=Math.max(0,Math.ceil((new Date(a,m-1,d)-new Date(hoy.getFullYear(),hoy.getMonth(),hoy.getDate()))/864e5));
+    cuenta=`<div class="cuenta"><strong>${dias}</strong><span>${esc(ESP.cuenta||"días")}</span></div>`;
+  }
+  document.getElementById("especial").innerHTML=`
   <a class="pic" href="${href(ecl)}">${pic(ecl,1).replace(/^<span class="pic">|<\/span>$/g,"")}</a>
   <div class="txt">
-    <span class="tag"><span class="dot"></span>Especial · Eclipse anular</span>
+    <span class="tag"><span class="dot"></span>Especial · ${esc(ESP.etiqueta||ecl.tema||"Destacado")}</span>
     <h2><a href="${href(ecl)}">${esc(ecl.titulo)}</a></h2>
     <p>${esc(ecl.bajada)}</p>
-    <div class="cuenta"><strong>${dias}</strong><span>días para el eclipse</span></div>
+    ${cuenta}
   </div>`;
+} else document.getElementById("especial").hidden=true;
 
 /* Barra de Temas: primero la nota principal y las destacadas, después las más recientes; un tema por etiqueta, máximo 6 */
 (function(){

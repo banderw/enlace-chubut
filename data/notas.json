@@ -42,7 +42,7 @@
    "k": "Elecciones",
    "v": "21 mar 2027",
    "n": "Decreto 1.872",
-   "nota": "elecciones-esquel"
+   "nota": "madryn-adhiere-elecciones-21-marzo-2027"
   },
   {
    "k": "Eclipse anular",
@@ -679,7 +679,8 @@
     "Las autoridades electas asumirán el 10 de diciembre de 2027 y tendrán mandato hasta el 10 de diciembre de 2031. La decisión se da luego de que el gobernador Ignacio Torres anunciara el 21 de marzo como fecha de las elecciones generales de Chubut, con posibilidad de que los municipios adhieran para unificar calendarios."
    ],
    "arte": "mar",
-   "tema": "Elecciones 2027"
+   "tema": "Elecciones 2027",
+   "lugar": "especial"
   },
   {
    "id": "trelew-concejo-aprueba-tarifaria-2027",
@@ -1493,8 +1494,13 @@
     "La declaración se suma a la de Interés Legislativo que aprobó la Legislatura en noviembre."
    ],
    "arte": "eclipse",
-   "lugar": "especial",
    "tema": "Eclipse anular"
   }
- ]
+ ],
+ "especial": {
+  "nota": "madryn-adhiere-elecciones-21-marzo-2027",
+  "etiqueta": "Elecciones 2027",
+  "fecha": "2027-03-21",
+  "cuenta": "días para las elecciones"
+ }
 }

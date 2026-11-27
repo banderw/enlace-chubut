@@ -21,7 +21,7 @@ LUGARES_CHUBUT = re.compile(r"chubut|rawson|trelew|madryn|comodoro|esquel|trevel
                             r"puerto pirámides|puerto piramides|ignacio torres|golfo san jorge", re.I)
 
 def bajar(url):
-    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40) as r:
+    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=15) as r:
         crudo = r.read()
     try:
         return crudo.decode("utf-8")
@@ -179,14 +179,21 @@ def main():
         json.dump(sorted(vistas), open(VISTAS, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
         print(f"Sembradas {len(vistas)} URL como vistas.")
         return
-    candidatas, por_medio = [], {}
+    candidatas, por_medio, fallas = [], {}, {}
+    inicio = time.time()
     for medio, href, texto in todas:
         if href in vistas or len(candidatas) >= MAX_CANDIDATAS or por_medio.get(medio, 0) >= MAX_POR_MEDIO:
             continue
+        if fallas.get(medio, 0) >= 2:  # un sitio que se cuelga no frena toda la actualización
+            continue
+        if time.time() - inicio > 6 * 60:
+            print("[aviso] se cortó la lectura a los 6 minutos; lo que falta se revisa en la próxima hora")
+            break
         try:
             titulo, copete, cuerpo, fecha = leer_nota(href)
-            time.sleep(2)
+            time.sleep(1)
         except Exception as e:
+            fallas[medio] = fallas.get(medio, 0) + 1
             print(f"[aviso] no se pudo leer {href}: {e}")
             continue
         if fecha and datetime.now(timezone.utc) - fecha > timedelta(hours=MAX_HORAS):
