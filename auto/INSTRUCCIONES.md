@@ -3,7 +3,7 @@
 Portal: https://enlacechubut.com.ar — este repositorio (banderw/enlace-chubut) ES el sitio: GitHub Pages publica la rama `main` tal cual.
 Estás en la raíz del repositorio. Todo se escribe en español rioplatense. Al final, un informe breve en español.
 
-Python: `python3 -X utf8`. Si al agregar notas falta Pillow (`No module named 'PIL'`), instalalo con `pip install pillow` y repetí.
+Python: `python3 -X utf8`. No hace falta instalar nada: si Pillow no anda, `agregar_notas.py` guarda la foto oficial tal cual.
 
 ## Pasos
 
