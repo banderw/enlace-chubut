@@ -77,6 +77,99 @@
  ],
  "notas": [
   {
+   "id": "hospital-margara-trelew-especialidades-turnos",
+   "fecha": "2026-11-27T20:07:46-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Hospital Margara: qué especialidades atiende y cómo sacar turnos",
+   "bajada": "Funciona solo con consultorios externos, de lunes a viernes, y no tiene guardia: las urgencias se atienden en el nuevo hospital.",
+   "cuerpo": [
+    "El Hospital Zonal Adolfo Margara de Trelew sigue atendiendo con consultorios externos y 20 especialidades, además de diagnóstico y laboratorio. Según su coordinador, Raúl Hurtado, hay Cardiología, Endocrinología, Clínica Médica, Traumatología y Otorrinolaringología, entre otras, y continúan Rayos, Bacteriología y extracciones tres veces por semana.",
+    "No tiene guardia: quien necesite atención de urgencia debe ir al nuevo hospital. Atiende de lunes a viernes de 7 a 20 y los turnos se piden de forma presencial, por TeleSalud o con el sistema DINO.",
+    "Tras el traslado de servicios y equipamiento, ex sectores de internación ya se convirtieron en consultorios y se hacen refacciones para habilitar más espacios. Se analiza sumar especialidades y ampliar horarios, y aún no está definido el destino del quirófano."
+   ],
+   "arte": "ciudad",
+   "tema": "Hospital Margara"
+  },
+  {
+   "id": "canotaje-provincial-cuarta-fecha-gaiman",
+   "fecha": "2026-11-27T20:07:45-03:00",
+   "sec": "deportes",
+   "ciudad": "Gaiman",
+   "titulo": "Gaiman recibe la última fecha del Campeonato Provincial de canotaje",
+   "bajada": "La competencia, organizada por el Club Camwy Kayak, comienza a las 11 de este sábado.",
+   "cuerpo": [
+    "Este sábado desde las 11 se disputa en Gaiman la cuarta y última fecha del Campeonato Provincial de canotaje, a cargo del Club Camwy Kayak. El certamen lo organizan hace meses Regatas y Bigornia de Rawson, Náutico de Puerto Madryn y Camwy Kayak, con una fecha en cada entidad.",
+    "Tras la tercera fecha, Camwy Kayak lidera con 1.204 puntos, seguido por Regatas con 956, Náutico de Puerto Madryn con 489 y Bigornia con 128.",
+    "Un referente del Club Camwy anticipó una gran concurrencia: “En todas las fechas hemos tenido una buena concurrencia de participantes, de allí que en el cierre estimamos que nadie querrá perderse participar”."
+   ],
+   "arte": "valle",
+   "tema": "Canotaje"
+  },
+  {
+   "id": "snorkeling-lobos-marinos-decreto-1841",
+   "fecha": "2026-11-27T20:07:44-03:00",
+   "sec": "turismo",
+   "ciudad": "Provincia",
+   "titulo": "El snorkeling con lobos marinos seguirá sin cambios mientras se adecúa la nueva reglamentación",
+   "bajada": "El decreto 1841/2026 reglamenta la Ley XI Nº 64 y fija planes de gestión por sitio, pero mantiene las habilitaciones actuales.",
+   "cuerpo": [
+    "El Gobierno del Chubut, a través del Ministerio de Turismo y Áreas Protegidas, reglamentó la Ley XI Nº 64 mediante el Decreto 1841/2026, publicado en el Boletín Oficial. Fija pautas para el buceo turístico con lobos marinos de un pelo (Otaria flavescens), con el fin de compatibilizar la actividad comercial con la conservación de la especie y la seguridad de las personas.",
+    "La norma crea Planes de Gestión de Sitio que definirán modalidades, cupos, distancias de interacción, períodos habilitados y protocolos de seguridad según cada zona. También fija requisitos para los prestadores e incorpora mecanismos de fiscalización y seguimiento técnico.",
+    "Según el artículo 12, las excursiones que hoy operan no se modifican: seguirán con sus autorizaciones vigentes hasta que la Autoridad de Aplicación fije los criterios y plazos de adecuación."
+   ],
+   "arte": "mar",
+   "tema": "Lobos marinos"
+  },
+  {
+   "id": "noche-magica-deporte-comodoro-2026",
+   "fecha": "2026-11-27T20:07:43-03:00",
+   "sec": "deportes",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "La Noche Mágica del Deporte de Comodoro será el 7 de diciembre en el Club Huergo",
+   "bajada": "APreDe presentó la edición 2026, que suma nuevas distinciones y mantiene la Mara Dorada y el Choique Patagónico.",
+   "cuerpo": [
+    "La Noche Mágica del Deporte 2026 se hará el 7 de diciembre a las 21 en el Club Huergo de Comodoro Rivadavia. La presentó la Asociación de Periodistas Deportivos (APreDe) en una conferencia en el Hotel Deportivo de Kilómetro 3, con su presidente, Osvaldo Bonino, el titular de Comodoro Deportes, Hernán Martínez, y el concejal Marcos Panquilto. El evento fue declarado de interés municipal.",
+    "Este año se suman dos premios: al mejor dirigente deportivo de la ciudad y al mejor club en la atención a la prensa. Se mantienen la Mara Dorada al deportista del año y el Choique Patagónico al embajador deportivo.",
+    "Los candidatos a embajador, elegido por voto secreto de los periodistas, son el Club Gimnasia de Esgrima, campeón de la Liga Nacional de Básquetbol, Anthony Guzmán (kickboxing), Ignacio Montenegro (motociclismo), Agustina Todoroff (waterpolo), Emma Díaz París (fútbol femenino), Moira Miranda (triatlón) y Valentina Ramos Mercegué (gimnasia aeróbica).",
+    "Habrá además reconocimientos a trayectorias, entre ellos a Carlos Portas, Manuel Álvarez, Mario Amado, José Avilés, Alejandro Rementería, el periodista Alberto Dias y el plantel de Huracán del '76, a 50 años de aquel equipo."
+   ],
+   "arte": "cancha",
+   "tema": "Noche Mágica"
+  },
+  {
+   "id": "gualjaina-gano-juicio-camioneta-municipal",
+   "fecha": "2026-11-27T20:07:42-03:00",
+   "sec": "politica",
+   "ciudad": "Gualjaina",
+   "titulo": "Gualjaina ganó un juicio por $40 millones tras el choque de una camioneta municipal",
+   "bajada": "La Justicia hizo lugar a la demanda del municipio por los daños de un accidente ocurrido en 2022 sobre la Ruta A12.",
+   "cuerpo": [
+    "La Municipalidad de Gualjaina obtendrá 40 millones de pesos como reparación por los daños de un accidente de tránsito ocurrido el 15 de febrero de 2022. Ese día la secretaria de Gobierno, Claudia Taux, viajaba a Esquel por gestiones oficiales en una camioneta Ford Ranger del municipio.",
+    "El choque fue frontal, a unos 20 kilómetros de la localidad, en un tramo recto de la Ruta A12, de ripio y sin demarcación de carriles. Un Renault Clío que circulaba en sentido contrario invadió el sector por el que iba la camioneta, que quedó destruida.",
+    "No hubo testigos y ambos conductores viajaban solos, por lo que el desafío fue reconstruir la mecánica del accidente. Los abogados de Esquel Fabián Pasquini y Juan Martín Muñoz Rodríguez, contratados por el municipio, lograron acreditar que el conductor del Clío había invadido la calzada contraria.",
+    "El intendente Marcelo Limarieri sostuvo que “defender el patrimonio municipal es defender el patrimonio de todos los vecinos de Gualjaina”."
+   ],
+   "arte": "ruta",
+   "tema": "Gualjaina"
+  },
+  {
+   "id": "luz-y-fuerza-congreso-madryn-documento",
+   "fecha": "2026-11-27T20:07:41-03:00",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Luz y Fuerza cerró en Madryn su congreso de delegados con un llamado a la participación política en 2027",
+   "bajada": "El Sindicato Regional de Luz y Fuerza de la Patagonia concluyó el 48° Congreso Anual del Cuerpo de Delegados con un documento crítico del Gobierno nacional.",
+   "cuerpo": [
+    "El 48° Congreso del Cuerpo de Delegados del Sindicato Regional de Luz y Fuerza de la Patagonia terminó este viernes en Puerto Madryn. El secretario general, Héctor González, leyó el documento final junto a toda la Comisión Directiva.",
+    "El texto cuestiona con dureza la política económica del Gobierno de Javier Milei y habla de recesión y pérdida de empleo. Cita una pérdida neta de 32.429 empresas empleadoras entre noviembre de 2023 y agosto de 2026, y la caída de 87.600 puestos en el sector público y 246.300 en el privado entre diciembre de 2023 y junio de 2026.",
+    "También critica el incumplimiento de leyes sobre financiamiento universitario, la retención de fondos para la red vial y las restricciones presupuestarias en salud y discapacidad.",
+    "El gremio convocó al Movimiento Obrero Organizado a involucrarse de manera protagónica en el proceso electoral del año próximo: “Resulta necesario e ineludible comprometernos en la disputa política”."
+   ],
+   "arte": "ciudad",
+   "tema": "Luz y Fuerza"
+  },
+  {
    "id": "madryn-prepara-verano-servicios-espacios-publicos",
    "fecha": "2026-11-27T19:07:00-03:00",
    "sec": "turismo",
@@ -1351,100 +1444,6 @@
    ],
    "arte": "ciudad",
    "tema": "Seguridad"
-  },
-  {
-   "id": "comodoro-san-cayetano-motociclista-herido-choque",
-   "fecha": "2026-11-26T18:05:18-03:00",
-   "sec": "policiales",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: un motociclista de 29 años resultó herido al chocar con una camioneta en San Cayetano",
-   "bajada": "El choque fue en Código 555 y Héctor Cámpora. El joven sufrió lesiones en la pierna derecha y la moto circulaba sin documentación.",
-   "cuerpo": [
-    "Un motociclista de 29 años terminó hospitalizado este miércoles después de chocar contra una camioneta Ford Ranger en la esquina de Código 555 y Héctor Cámpora, en el barrio San Cayetano de Comodoro Rivadavia. Sufrió lesiones en la pierna derecha.",
-    "Efectivos de la Policía Comunitaria que recorrían el sector lo encontraron tendido en la calle, con fuertes dolores, y pidieron una ambulancia de urgencia. Tras las primeras curaciones fue trasladado a un centro de salud junto a familiares.",
-    "La conductora de la camioneta tenía toda la documentación en regla y dio negativo en el control de alcoholemia. En cambio, personal de Tránsito comprobó que la moto no tenía los papeles reglamentarios y labró el acta de infracción."
-   ],
-   "arte": "ciudad",
-   "tema": "Tránsito"
-  },
-  {
-   "id": "bajo-simpson-camioneta-incendio-ruta-3",
-   "fecha": "2026-11-26T18:05:17-03:00",
-   "sec": "policiales",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Ruta 3: una camioneta se prendió fuego en plena marcha a la altura de Bajo Simpson",
-   "bajada": "El conductor, que viajaba de Comodoro Rivadavia a Sierra Grande, alcanzó a salir de la ruta y no sufrió heridas. El vehículo quedó con daños importantes.",
-   "cuerpo": [
-    "Una camioneta Renault Master se incendió en la madrugada del jueves sobre la Ruta Nacional 3, a la altura de Bajo Simpson, en el tramo de doble vía que lleva a Puerto Madryn. El conductor salió ileso, pero el vehículo sufrió daños materiales de consideración.",
-    "El hombre contó que había salido de Comodoro Rivadavia rumbo a Sierra Grande y que, al llegar a esa zona, vio salir humo de la zona de la fusilera y después fuego dentro de la cabina. Enseguida sacó la camioneta del asfalto, la dejó en la banquina y pidió ayuda.",
-    "Cuando llegaron los bomberos voluntarios, el rodado ya estaba envuelto en llamas. La dotación trabajó hasta controlar el fuego y no encontró indicios de que el incendio hubiera sido intencional: todo apunta a una falla eléctrica."
-   ],
-   "arte": "ruta",
-   "tema": "Incendios"
-  },
-  {
-   "id": "comodoro-profugo-hospital-regional-controles",
-   "fecha": "2026-11-26T18:05:16-03:00",
-   "sec": "policiales",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: refuerzan los controles para recapturar al detenido que se fugó del Hospital Regional",
-   "bajada": "El hombre estaba preso en una causa por tentativa de homicidio y escapó después de una cirugía programada. La Justicia investiga cómo pudo burlar la custodia.",
-   "cuerpo": [
-    "La Policía del Chubut sigue buscando al detenido que se escapó del Hospital Regional de Comodoro Rivadavia, adonde había sido llevado para someterse a una cirugía programada. Una vez terminada la operación, el hombre logró huir pese a que permanecía bajo vigilancia. Estaba privado de su libertad en una causa por tentativa de homicidio.",
-    "El jefe de la Unidad Regional, comisario mayor Cristian Mulero, confirmó que por ahora no hay datos sobre su paradero y que se reforzaron los controles en distintos puntos de la ciudad. \"Tenemos un anillo de seguridad reforzado con controles en barrios y sectores específicos para tratar de recapturar a esta persona\", señaló.",
-    "En la búsqueda trabaja personal de Investigaciones y de Búsqueda de Personas, además de efectivos de las dependencias operativas.",
-    "En paralelo, la Justicia analiza las circunstancias de la fuga y si hubo responsabilidades del personal que debía custodiarlo. Mulero habló de una posible negligencia, aunque aclaró que será la investigación judicial la que determine si hubo incumplimientos, y aseguró que la Policía puso todos sus recursos a disposición de la causa."
-   ],
-   "arte": "ciudad",
-   "tema": "Seguridad"
-  },
-  {
-   "id": "racing-trelew-antichipay-siete-goles",
-   "fecha": "2026-11-26T17:46:20-03:00",
-   "sec": "deportes",
-   "ciudad": "Trelew",
-   "titulo": "De la liga de los barrios a Racing de Trelew: Emanuel Antichipay lleva siete goles en siete partidos",
-   "bajada": "El delantero de 25 años jugaba hace seis meses en Barrio Amaya, en la Liga Independiente, hasta que el utilero de la Academia lo invitó a sumarse.",
-   "cuerpo": [
-    "Hace apenas seis meses, Emanuel \"Ema\" Antichipay jugaba para Barrio Mario Abel Amaya en la Liga Independiente. Hoy es el goleador de Racing de Trelew en la Liga del Valle, con siete goles en la misma cantidad de partidos.",
-    "El delantero contó que llegó al club por el utilero Miguel Wodicka, que lo conocía del Mercado Concentrador, donde trabaja. \"Llevo siete partidos y siete goles, ni yo me lo creo\", dijo después del encuentro del miércoles ante Huracán. También reconoció que todavía le falta bajar de peso y afianzarse en el equipo.",
-    "Antichipay comparó las dos ligas: dijo que la del Valle es más física, pero que da más espacio para jugar y más llegadas al arco. Y agradeció a sus excompañeros, a su familia y a su padre, que le enseñó a jugar de chico.",
-    "Racing podría disputar el próximo Regional Amateur. El entrenador Andrés Price destacó el crecimiento del plantel y del club, y señaló que la nueva cancha de césped sintético mejorará las condiciones para entrenar."
-   ],
-   "arte": "cancha",
-   "tema": "Liga del Valle"
-  },
-  {
-   "id": "mariel-peralta-reeleccion-rada-tilly",
-   "fecha": "2026-11-26T17:46:19-03:00",
-   "sec": "cuenca",
-   "ciudad": "Rada Tilly",
-   "titulo": "Mariel Peralta buscará la reelección en Rada Tilly y descartó por ahora integrar la fórmula provincial",
-   "bajada": "La intendenta ratificó su alineamiento con el gobernador Ignacio Torres y dijo que quiere completar proyectos pensados a largo plazo para la villa balnearia.",
-   "cuerpo": [
-    "La intendenta de Rada Tilly, Mariel Peralta, confirmó que competirá por un segundo mandato. Con esa definición despejó las versiones que la ubicaban como posible compañera de fórmula del gobernador Ignacio Torres.",
-    "Peralta explicó que su gestión arrancó con proyectos que exceden un período de gobierno, entre ellos planes estratégicos de desarrollo económico con horizonte en 2030, el fortalecimiento del perfil turístico de la villa y obras de infraestructura y en los espacios públicos. \"Los proyectos tienen que estar planificados a largo plazo\", dijo.",
-    "Sobre su posible lugar en la fórmula provincial, aclaró que \"no hubo un no o un sí\" y que la decisión se tomó en conjunto con el gobernador dentro del mismo proyecto político. También destacó el trabajo coordinado entre la Provincia y el Municipio durante los últimos dos años y medio.",
-    "\"Veo una gestión provincial muy sólida, que pone la provincia por delante\", afirmó la intendenta, que señaló el desarrollo económico y productivo como el motor para generar oportunidades."
-   ],
-   "arte": "playa",
-   "tema": "Elecciones 2027"
-  },
-  {
-   "id": "glinski-pj-unidad-internas-gobernacion",
-   "fecha": "2026-11-26T17:46:18-03:00",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "titulo": "Glinski pidió al PJ un mecanismo de unidad y propuso que, si hay internas, sean solo para definir el candidato a gobernador",
-   "bajada": "El diputado nacional dijo que el peronismo no tiene un candidato natural para enfrentar a Ignacio Torres y planteó listas de unidad para la Legislatura y los municipios.",
-   "cuerpo": [
-    "En la previa de la reunión del Partido Justicialista prevista para este viernes, el diputado nacional José Glinski planteó que el peronismo chubutense debe acordar un consenso o un sistema de competencia interna para definir quién encabezará la fórmula a gobernador en 2027.",
-    "Glinski describió tres caminos posibles: unidad, internas o fragmentación. \"Unidad no es una lista única\", explicó, y advirtió que forzar una sola lista puede expulsar alternativas, mientras que una interna ordenada puede terminar uniendo al partido.",
-    "Su propuesta es que, si no hay acuerdo, la competencia se limite a la candidatura a gobernador y que se armen listas de unidad para diputados provinciales y para los municipios. \"Discutamos quién va a encabezar la fórmula para ganarle a Torres\", señaló. Sobre Juan Pablo Luque y Dante Bowen dijo que ambos son dirigentes valiosos para el proceso, y ratificó su intención de competir.",
-    "El legislador también cuestionó el endeudamiento provincial, las concesiones petroleras, los contratos pesqueros y el manejo de la energía de Futaleufú, además del acompañamiento del gobernador a las políticas nacionales de Javier Milei."
-   ],
-   "arte": "ciudad",
-   "tema": "Elecciones 2027"
   },
   {
    "id": "seros-nueva-sede-comodoro-albergue-derivados",
