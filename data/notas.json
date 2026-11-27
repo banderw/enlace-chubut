@@ -77,6 +77,96 @@
  ],
  "notas": [
   {
+   "id": "madryn-prepara-verano-servicios-espacios-publicos",
+   "fecha": "2026-11-27T19:07:00-03:00",
+   "sec": "turismo",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn empieza a prepararse para el verano con más servicios y cuidado de espacios públicos",
+   "bajada": "El intendente Gustavo Sastre destacó la coordinación entre áreas municipales ante el aumento de vecinos y turistas.",
+   "cuerpo": [
+    "Puerto Madryn comenzó a preparar la ciudad para la temporada de verano, con planificación y coordinación entre las distintas áreas municipales para reforzar los servicios, el mantenimiento urbano y el cuidado de los espacios públicos ante el aumento de vecinos y turistas.",
+    "El intendente Gustavo Sastre dijo que el objetivo es que tanto la comunidad como los visitantes puedan disfrutar de las playas, los espacios públicos y los servicios: «Queremos que los vecinos puedan disfrutar de nuestra ciudad y que quienes nos visitan encuentren una localidad ordenada, con servicios y espacios públicos en buenas condiciones».",
+    "Distintas dependencias municipales organizan los recursos y las tareas que deberán reforzarse en los próximos meses, para anticiparse a la mayor demanda de la temporada alta."
+   ],
+   "arte": "playa",
+   "tema": "Temporada 2027"
+  },
+  {
+   "id": "telsen-cross-virgen-del-valle-primera-edicion",
+   "fecha": "2026-11-27T19:06:59-03:00",
+   "sec": "deportes",
+   "ciudad": "Telsen",
+   "titulo": "Telsen prepara la primera edición del Cross Virgen del Valle para el 6 de diciembre",
+   "bajada": "La carrera se enmarca en los 130 años de la localidad y los 30 años de la Virgen del Valle.",
+   "cuerpo": [
+    "Telsen vivirá el 6 de diciembre la primera edición del Cross Virgen del Valle, una propuesta que une deporte, naturaleza e identidad local. Habrá pruebas de 12 y 6 kilómetros, una caminata de 2.500 metros y una corrida infantil en todas las categorías, con inscripción gratuita para los chicos.",
+    "La actividad forma parte de los festejos por el aniversario 130 de la localidad, que se cumple el 9 de diciembre, y por los 30 años de la Virgen del Valle. Habrá visitantes de toda la provincia, también para la peregrinación del 8 de diciembre.",
+    "El fin de semana incluirá además jineteadas, baile, destreza criolla y fogones. La organización está encabezada por Tamara Sandoval."
+   ],
+   "arte": "meseta",
+   "tema": "Atletismo"
+  },
+  {
+   "id": "cai-escorpion-revancha-regional-amateur",
+   "fecha": "2026-11-27T19:06:58-03:00",
+   "sec": "deportes",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "La CAI viaja a Río Gallegos obligada a revertir la serie ante Escorpión",
+   "bajada": "El equipo comodorense perdió 2-1 en la ida de las semifinales del Regional Federal Amateur y juega la revancha el sábado.",
+   "cuerpo": [
+    "La Comisión de Actividades Infantiles viaja a Río Gallegos para la revancha de las semifinales del Torneo Regional Federal Amateur ante Escorpión FC, que dio el golpe en Comodoro Rivadavia al ganar 2-1 en la ida. La CAI necesita ganar para seguir en carrera.",
+    "El plantel, dirigido por Nicolás Segura y Néstor Andrés Silvera, completó este viernes su última práctica en el club Huracán, del barrio Industrial. Las molestias físicas de algunos jugadores dejaron dudas sobre el equipo titular.",
+    "La delegación partirá a la medianoche y llegará al mediodía del sábado. El partido se jugará en la cancha sintética del club Hispano Americano. Los referentes del equipo reconocieron que el rival mostró mejor actitud y confían en revertir el resultado."
+   ],
+   "arte": "cancha",
+   "tema": "Federal Amateur"
+  },
+  {
+   "id": "madryn-gimnasia-jujuy-vuelta-cuartos-reducido",
+   "fecha": "2026-11-27T19:06:57-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Deportivo Madryn recibe a Gimnasia de Jujuy y va por el pase a semifinales",
+   "bajada": "El Aurinegro juega el sábado a las 20 en el Abel Sastre, con la obligación de ganar tras perder 1-0 en la ida.",
+   "cuerpo": [
+    "Deportivo Madryn recibirá a Gimnasia de Jujuy este sábado a las 20, en el estadio Abel Sastre, por la vuelta de los cuartos de final del Reducido de la Primera Nacional. El partido será arbitrado por Joaquín Gil y podrá verse por LPF Play.",
+    "El equipo del Golfo llega en desventaja: perdió 1-0 en la ida, jugada una semana atrás en Jujuy, con un gol de Joaquín Varela en una acción polémica, al filo del offside, a los 71 minutos.",
+    "Los dirigidos por Luis García deberán buscar la victoria sin importar la cantidad de goles: por su mejor rendimiento en la fase regular, les alcanza con ganar por la mínima para avanzar."
+   ],
+   "arte": "cancha",
+   "tema": "Fútbol Primera Nacional"
+  },
+  {
+   "id": "magistratura-archivo-denuncia-juez-richeri",
+   "fecha": "2026-11-27T19:06:56-03:00",
+   "sec": "policiales",
+   "ciudad": "Esquel",
+   "titulo": "La Magistratura archivó la denuncia por mal desempeño contra el juez Richeri",
+   "bajada": "El Consejo concluyó que no había evidencia para avanzar con un jury contra el magistrado de Esquel.",
+   "cuerpo": [
+    "El Consejo de la Magistratura del Chubut archivó la denuncia por mal desempeño contra el juez de Esquel Carlos Richeri, mediante una acordada del 19 de noviembre. La decisión se tomó después del informe final del consejero Juan Pablo Gallegos, que instruyó el sumario y concluyó que no había elementos para impulsar un jury.",
+    "Los abogados Federico Ruffa, José Heredia y Alfredo Pérez Galimberti habían denunciado al juez por presunto ejercicio del comercio por la venta de cursos de litigación por internet, uso indebido de bienes públicos, falta de decoro por expresiones en redes sociales y abuso de facultades en una causa penal.",
+    "Tras escuchar y debatir el informe, el cuerpo resolvió que la conducta del magistrado no configuraba las faltas denunciadas y cerró el expediente."
+   ],
+   "arte": "ciudad",
+   "tema": "Justicia"
+  },
+  {
+   "id": "mirabella-trabajadores-temporada-sin-convocar",
+   "fecha": "2026-11-27T19:06:55-03:00",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Unos 100 trabajadores de Mirabella siguen sin ser convocados tras el inicio de la temporada",
+   "bajada": "El STIA denunció que la pesquera no dio de alta al personal efectivo de temporada. La audiencia en Trabajo pasó a cuarto intermedio hasta el martes.",
+   "cuerpo": [
+    "Alrededor de un centenar de trabajadores efectivos de temporada de la pesquera Mirabella atraviesa una situación de incertidumbre económica: la temporada comenzó oficialmente el sábado 21, pero la empresa todavía no los convocó ni hizo las altas correspondientes, por lo que las familias no tienen ningún ingreso.",
+    "Así lo denunció el dirigente del Sindicato de Trabajadores de la Industria de la Alimentación (STIA), José Díaz. Este viernes por la mañana se realizó una audiencia en la Secretaría de Trabajo, con representantes legales y de Recursos Humanos de la firma, delegados y autoridades gremiales.",
+    "Tras varios minutos de intercambio, las partes pasaron a un cuarto intermedio hasta el próximo martes, sin resolución administrativa. La empresa sostiene que no puede iniciar la producción por falta de materia prima, en particular de langostino, mientras que el gremio cuestiona que no se registre a los empleados desde el inicio formal de la zafra."
+   ],
+   "arte": "mar",
+   "tema": "Pesca"
+  },
+  {
    "id": "clima-fin-de-semana-chubut-28-29-noviembre",
    "fecha": "2026-11-27T18:07:30-03:00",
    "sec": "ultimas",
@@ -1371,101 +1461,6 @@
    ],
    "arte": "ciudad",
    "tema": "Seros"
-  },
-  {
-   "id": "vitis-prebio-jugo-uva-criolla-dolavon",
-   "fecha": "2026-11-26T17:05:21-03:00",
-   "sec": "ultimas",
-   "ciudad": "Dolavon",
-   "titulo": "Vitis Prebio: alumnos de una técnica de Dolavon crearon un jugo prebiótico con uva criolla del valle",
-   "bajada": "El proyecto de la Escuela Técnica 781 ganó el primer puesto provincial en Desarrollo Emprendedor 2026, en la categoría Secundaria Técnica.",
-   "cuerpo": [
-    "Estudiantes de séptimo año de la Escuela Técnica Profesional 781 \"Don Eladio Zamarreño\", de Dolavon, desarrollaron Vitis Prebio, un jugo de uva con propiedades prebióticas elaborado con uva criolla del Valle Inferior del Río Chubut. La propuesta obtuvo el primer puesto provincial en la categoría Secundaria Técnica del Encuentro Empresarial de Jóvenes y Adultos: Desarrollo Emprendedor 2026.",
-    "El proyecto nació del trabajo conjunto con el INTA y de la búsqueda de un destino comercial para esa uva, que abunda en la zona pero no sirve para vinos con cuerpo y suele quedar para consumo propio. \"El proyecto nació para darle una mayor vida a la uva criolla\", contó Eunice Wildner Ross, una de las integrantes del equipo.",
-    "La bebida incorpora inulina, una fibra alimentaria con efecto prebiótico cuyo uso fue aprobado ese año en el Código Alimentario Argentino. \"Es una fibra alimentaria que alimenta a los probióticos de la microbiota intestinal\", explicó la alumna.",
-    "Los chicos contaron que uno de los mayores desafíos fue organizar los tiempos de elaboración, que exigían más dedicación y cuidado del previsto para garantizar la inocuidad, además de compartir los espacios de trabajo con otros proyectos de la escuela."
-   ],
-   "arte": "valle",
-   "tema": "Educación"
-  },
-  {
-   "id": "trevelin-rifleros-141-renta-hidrica",
-   "fecha": "2026-11-26T17:05:20-03:00",
-   "sec": "politica",
-   "ciudad": "Trevelin",
-   "titulo": "Trevelin celebró los 141 años de Los Rifleros e Ingram volvió a reclamar la renta hídrica",
-   "bajada": "En el acto por la llegada del coronel Fontana al Valle 16 de Octubre, el intendente insistió con el proyecto que impulsan junto a Esquel y Cholila.",
-   "cuerpo": [
-    "La Municipalidad de Trevelin y sus Parajes realizó el miércoles el acto y desfile cívico-militar por el 141.º aniversario de la llegada del coronel Fontana y Los Rifleros del Chubut al Valle 16 de Octubre. La ceremonia, encabezada por el intendente Héctor Ingram, reunió a autoridades provinciales y municipales, a los intendentes Dante Bowen (Dolavon) y Marcelo Limarieri (Gualjaina), instituciones, fuerzas de seguridad, vecinos y visitantes.",
-    "También estuvo John Adams Lewis, llegado desde Aberteifi (Cardigan), la ciudad galesa hermanada con Trevelin. Como novedad, estudiantes del último año de la Escuela N.º 705 condujeron la ceremonia y el desfile y colaboraron con el personal municipal en la organización.",
-    "En su discurso, Ingram habló del crecimiento demográfico de la localidad y de los desafíos que trae en infraestructura y servicios. Sobre la renta hídrica que reclaman Trevelin, Esquel y Cholila, afirmó: «No estamos pidiendo que nos regalen nada, sino que nos devuelvan un poco de todo lo que hemos generado».",
-    "El intendente además defendió el rol del Estado en el desarrollo de las comunidades y cuestionó las políticas de ajuste del gobierno nacional."
-   ],
-   "arte": "cordillera",
-   "tema": "Renta hídrica"
-  },
-  {
-   "id": "conarpesa-tres-barcos-amarrados-cautelar",
-   "fecha": "2026-11-26T17:05:19-03:00",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "titulo": "Una cautelar mantiene amarrados tres barcos de Conarpesa al inicio de la temporada de langostino",
-   "bajada": "La medida de la jueza Amorina Testino frena a los buques Diego Fernando, J. Barreiro y San Cayetano y, según la empresa, afecta a más de 425 trabajadores.",
-   "cuerpo": [
-    "Tres embarcaciones de la pesquera Conarpesa no pueden salir a pescar en pleno arranque de la temporada provincial de langostino en Chubut. Una medida cautelar de la jueza Amorina Testino, dictada a partir de demandas impulsadas por el abogado Diego Martínez Zapata, ordenó mantener amarrados a los buques Diego Fernando, J. Barreiro y San Cayetano.",
-    "De acuerdo con lo que informó la empresa, la inactividad deja en tierra a 25 marineros y pone en riesgo la continuidad de más de 400 operarios de las plantas de procesamiento, que se quedan sin materia prima en una etapa clave de la zafra.",
-    "Conarpesa, que preside Fernando Álvarez Castellano, pidió al juzgado una resolución urgente para levantar las restricciones. La firma sostuvo que ya depositó los fondos y presentó todas las garantías exigidas en el expediente, y que la flota sigue en puerto a la espera de la decisión judicial."
-   ],
-   "arte": "mar",
-   "tema": "Pesca"
-  },
-  {
-   "id": "ley-medicos-santa-cruz-rio-negro-chubut",
-   "fecha": "2026-11-26T17:05:18-03:00",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "titulo": "La Legislatura aprobó que médicos de Santa Cruz y Río Negro puedan trabajar en hospitales de Chubut",
-   "bajada": "La ley crea un régimen de excepción a la acumulación de cargos y al requisito de residencia para cubrir la falta de especialistas en el sistema público.",
-   "cuerpo": [
-    "La Legislatura del Chubut sancionó una ley que permite a profesionales que trabajan en Santa Cruz y Río Negro ejercer también en el sistema público chubutense, y a los médicos de Chubut atender en las provincias vecinas. La norma fija excepciones a la acumulación de cargos y al requisito de residencia, contempladas en el artículo 67 de la Constitución provincial.",
-    "La iniciativa se aprobó con el apoyo de la mayoría de los bloques. El diputado Juan Aquino, del Frente de Izquierda, fue el único que se abstuvo.",
-    "La diputada Sandra Willatowski (Despierta Chubut) explicó que la ley apunta a la falta de pediatras, cardiólogos, traumatólogos y ginecólogos, y que busca aprovechar la cercanía entre localidades como Lago Puelo y El Bolsón, Comodoro Rivadavia y Caleta Olivia, o Gastre e Ingeniero Jacobacci, para que un especialista pueda trabajar a contraturno del otro lado del límite.",
-    "Según detalló, la acumulación de cargos solo se permitirá si hay escasez de profesionales en la zona, si no hay superposición horaria y si el médico presenta la declaración correspondiente. Aclaró que no cambian los requisitos de matriculación, las condiciones laborales ni los convenios colectivos, y que el Poder Ejecutivo queda facultado para firmar convenios con otras provincias.",
-    "Desde Arriba Chubut, la diputada Vanesa Abril acompañó la necesidad de atender el problema, aunque planteó observaciones para resolver la cuestión de fondo."
-   ],
-   "arte": "ciudad",
-   "tema": "Salud"
-  },
-  {
-   "id": "rawson-joven-quemado-traslado-buenos-aires-ayuda",
-   "fecha": "2026-11-26T16:05:18-03:00",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "titulo": "Trasladaron a Buenos Aires al joven de Rawson que sufrió quemaduras en el 90 % del cuerpo",
-   "bajada": "Marcos Pérez Díaz, de 21 años, sigue grave pero estable. Su familia lo despidió en Trelew y organizó una venta de sorrentinos para costear el tratamiento.",
-   "cuerpo": [
-    "Marcos \"Paco\" Pérez Díaz, un joven de 21 años de Rawson, fue trasladado este miércoles a Buenos Aires para continuar un tratamiento más intensivo. Días atrás su casa se incendió mientras dormía: alcanzó a salir por sus propios medios, pero sufrió quemaduras en el 90 % del cuerpo.",
-    "Estuvo internado en el Hospital de Trelew, donde su familia se reunió frente a la Guardia para darle ánimo y despedirlo cuando lo subieron a la ambulancia. Desde allí fue llevado al aeropuerto Almirante Zar, donde lo esperaba un avión sanitario. Su estado es grave pero estable.",
-    "Para ayudar con los gastos, la familia organizó una venta de sorrentinos para el 7 de diciembre. Los pedidos se toman hasta el 4 de diciembre al 2804718860 (Sole), y también se puede colaborar con una transferencia al alias de su mamá, María Díaz: Todosporpacoperez."
-   ],
-   "arte": "ciudad",
-   "tema": "Solidaridad"
-  },
-  {
-   "id": "esquel-juan-peralta-candidato-intendente-pj",
-   "fecha": "2026-11-26T16:05:17-03:00",
-   "sec": "politica",
-   "ciudad": "Esquel",
-   "titulo": "Esquel: Juan Manuel Peralta confirmó que buscará otra vez la Intendencia por el PJ",
-   "bajada": "El presidente del Consejo de Localidad del justicialismo dijo que el adelantamiento de las elecciones al 21 de marzo obliga a acelerar los tiempos y pidió ir unidos.",
-   "cuerpo": [
-    "Juan Manuel Peralta, presidente del Consejo de Localidad del Partido Justicialista de Esquel, anunció que volverá a postularse como candidato a intendente de la ciudad cordillerana. \"Me debo a mi partido, me debo a mi agrupación, que se llama Amor por Esquel\", afirmó.",
-    "Peralta reconoció que la fecha de las elecciones provinciales, fijada para el 21 de marzo, obliga a apurar un proceso que hasta ahora venía más lento, y señaló que será la primera vez que le toque hacer campaña en pleno verano. Aun así, aseguró que el partido está movilizado y que logró reagruparse después de las elecciones de medio término de 2025.",
-    "El dirigente insistió en la necesidad de presentarse unidos: \"Si nos dividimos, si vamos con intereses sectarios o personales, lamentablemente eso al único que le beneficia es a los gobiernos actuales de turno\", sostuvo. Contó además que el Consejo del PJ se reunirá el viernes para definir la organización de cara a los comicios.",
-    "Sobre la candidatura a gobernador, Peralta dejó en claro su respaldo al proyecto de Juan Pablo Luque, a quien consideró \"la persona que mejor está preparada para gobernar la Provincia\"."
-   ],
-   "arte": "cordillera",
-   "tema": "Elecciones 2027"
   },
   {
    "id": "formacion-profesional-verano-2027",
