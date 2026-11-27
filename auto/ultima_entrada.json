@@ -1,127 +1,125 @@
 {
  "notas": [
   {
-   "id": "trelew-concejo-aprueba-tarifaria-2027",
+   "id": "medicos-santa-cruz-rio-negro-trabajar-chubut",
    "sec": "politica",
-   "ciudad": "Trelew",
-   "tema": "Tarifaria 2027",
-   "titulo": "Trelew: el Concejo Deliberante aprobó la Tarifaria 2027 con descuentos por pago adelantado",
-   "bajada": "La ordenanza salió por siete votos a favor y dos en contra. Prevé 30% de bonificación para quienes paguen todo el año por adelantado.",
+   "ciudad": "Provincia",
+   "tema": "Salud",
+   "titulo": "Ley habilita a médicos de Santa Cruz y Río Negro a trabajar en el sistema público de Chubut",
+   "bajada": "La Legislatura sancionó una norma que fija excepciones a la acumulación de cargos y al requisito de residencia para atender la falta de especialistas, sobre todo en el interior.",
    "cuerpo": [
-    "El Concejo Deliberante de Trelew aprobó en su sesión ordinaria la Tarifaria 2027, con siete votos afirmativos y dos negativos, y la ausencia de un edil. La norma fija los recursos con los que contará el Ejecutivo municipal el año próximo.",
-    "Según se explicó, el proyecto se analizó en varias reuniones de comisión con el equipo de Hacienda, y se modificaron la cantidad de módulos de algunos sectores barriales y de la recolección de residuos, tras planteos de concejales que consideraban elevados algunos valores. La presidenta del cuerpo, Claudia Solis, señaló que la ordenanza permitirá afrontar la recolección de residuos, el transporte urbano y los salarios municipales.",
-    "La normativa mantiene beneficios para quienes adelanten el pago: 30% de bonificación por el pago anual, 20% por el del primer semestre y un 10% adicional si se abona con tarjeta de débito. También incorpora la exención de tasas vinculadas al registro ambiental para facilitar la radicación de empresas.",
-    "En la misma sesión se aprobó el programa «Tu Casa, Tu Título», orientado a regularizar la situación dominial de viviendas de vecinos que esperan hace años."
+    "La Legislatura aprobó una ley que permite que profesionales que se desempeñan en Santa Cruz y Río Negro también ejerzan en el sistema público de salud de Chubut, y viceversa para los médicos de la provincia. Las excepciones a la acumulación de cargos y al requisito de residencia están contempladas en el artículo 67 de la Constitución provincial.",
+    "La norma tuvo el acompañamiento de la mayoría de los bloques. El diputado del Frente de Izquierda Juan Aquino fue el único que se abstuvo.",
+    "La diputada Sandra Willatowski (Despierta Chubut) explicó que la ley responde a la falta de especialistas como pediatras, cardiólogos, traumatólogos y ginecólogos. Planteó aprovechar la cercanía entre localidades, como Lago Puelo y El Bolsón o Caleta Olivia y Comodoro Rivadavia, para que un especialista de una provincia vecina pueda trabajar en Chubut a contraturno.",
+    "Aclaró que no cambian los requisitos para obtener la matrícula ni las condiciones laborales ni los convenios colectivos. La acumulación de cargos se permite si hay escasez de profesionales en la zona, no hay superposición horaria y el profesional presenta la declaración correspondiente. Además, la ley faculta al Poder Ejecutivo a firmar convenios con otras provincias.",
+    "Desde Arriba Chubut, la diputada Vanesa Abril acompañó la iniciativa por la necesidad de contar con especialistas de Río Negro, pero hizo observaciones para atender la cuestión de fondo del sistema de salud."
    ],
-   "foto": "edificio",
-   "arte": "ciudad",
-   "origen": "https://www.diariojornada.com.ar/427802/politica/el_concejo_deliberante_aprobo_la_tarifaria_2027"
+   "foto": "medico",
+   "arte": "escuela",
+   "origen": "https://www.eldiarioweb.com/2026/11/medicos-de-santa-cruz-y-rio-negro-podran-trabajar-en-chubut/"
   },
   {
-   "id": "madryn-adhiere-elecciones-21-marzo-2027",
+   "id": "luque-presupuesto-2027-chubut-recursos",
    "sec": "politica",
-   "ciudad": "Puerto Madryn",
-   "tema": "Elecciones 2027",
-   "titulo": "Puerto Madryn oficializó que votará el 21 de marzo de 2027, junto con la elección provincial",
-   "bajada": "El Municipio adhirió al decreto provincial y convocó a elegir intendente, viceintendente y 12 concejales titulares.",
-   "cuerpo": [
-    "La Municipalidad de Puerto Madryn formalizó mediante la Resolución 2.107/26 su adhesión al Decreto Provincial 1.872/2026, por lo que las elecciones municipales se harán el domingo 21 de marzo de 2027, en simultáneo con los comicios provinciales.",
-    "Los vecinos elegirán intendente o intendenta, viceintendente o viceintendenta, y renovarán el Concejo Deliberante con 12 concejales titulares y 12 suplentes.",
-    "Las autoridades electas asumirán el 10 de diciembre de 2027 y tendrán mandato hasta el 10 de diciembre de 2031. La decisión se da luego de que el gobernador Ignacio Torres anunciara el 21 de marzo como fecha de las elecciones generales de Chubut, con posibilidad de que los municipios adhieran para unificar calendarios."
-   ],
-   "foto": "elecciones",
-   "arte": "mar",
-   "origen": "https://canal12web.com/madryn-oficializo-convocatoria-a-elecciones-municipales-para-el-21-de-marzo-de-2027/"
-  },
-  {
-   "id": "torres-canadon-perdido-recuperacion-terciaria",
-   "sec": "politica",
-   "ciudad": "Comodoro Rivadavia",
-   "tema": "Petróleo",
-   "titulo": "Torres recorrió Cañadón Perdido, un yacimiento que no se perforaba hace más de 60 años",
-   "bajada": "PECOM puso en marcha allí un proyecto de recuperación terciaria con una inversión de 35 millones de dólares.",
-   "cuerpo": [
-    "El gobernador Ignacio Torres recorrió este viernes Campamento Central–Cañadón Perdido, cerca de Comodoro Rivadavia, donde PECOM reactivó un área madura transferida por YPF. El yacimiento no registraba perforaciones desde hacía más de seis décadas.",
-    "Con una inversión de 35 millones de dólares, la empresa inició la primera fase de un proyecto de recuperación terciaria: se perforaron 28 pozos (nueve inyectores y 19 productores) y se instaló una planta de inyección de polímeros. Se prevé elevar la producción del área de 450 a 2.500 barriles diarios, con potencial para desarrollar otros 80 pozos en etapas futuras.",
-    "«Hoy el resultado es claro y concreto: aumentó la producción, hay un compromiso de inversión que va a ser cada vez mayor y hay trabajo», expresó Torres ante cientos de trabajadores. Destacó además la mejora de 11% en El Trébol y la reanudación de perforaciones en Manantiales Behr.",
-    "Lo acompañaron el diputado nacional y titular del Sindicato de Petroleros Privados, Jorge «Loma» Ávila, el ministro de Hidrocarburos, Federico Ponce, y la presidenta de Petrominera, Irene Carrizo."
-   ],
-   "foto": "petroleo",
-   "arte": "petroleo",
-   "gacetilla": true,
-   "foto_url": "https://noticias.chubut.gob.ar/uploads/1795800067WhatsApp%20Image%202026-11-27%20at%2014.09.52.jpeg",
-   "origen": "https://noticias.chubut.gob.ar/gacetilla/5893"
-  },
-  {
-   "id": "diputados-aprobo-presupuesto-2027",
-   "sec": "nacionales",
-   "ciudad": "Nacional",
+   "ciudad": "Provincia",
    "tema": "Presupuesto 2027",
-   "titulo": "Diputados aprobó el Presupuesto 2027 por 136 votos a 112",
-   "bajada": "El oficialismo perdió las votaciones de los capítulos sobre universidades y ciencia, que quedaron con el texto de la oposición.",
+   "titulo": "Luque reclamó en Diputados que Nación destine a Chubut recursos acordes a lo que aporta",
+   "bajada": "Durante el debate del Presupuesto 2027, el diputado nacional advirtió que la provincia genera el 4% de las exportaciones del país y recibe el 1,5% de las transferencias.",
    "cuerpo": [
-    "La Cámara de Diputados aprobó el Presupuesto 2027 con 136 votos positivos, 112 negativos y 3 abstenciones, tras un debate de más de 12 horas en el que hablaron más de 70 oradores.",
-    "En la votación en particular, el oficialismo perdió dos capítulos: el II, referido a lo universitario, y el IV, sobre ciencia, que quedaron con los términos del dictamen de la oposición.",
-    "Es el segundo presupuesto de la gestión de Javier Milei, que durante sus dos primeros años gobernó con la prórroga del plan de gastos y recursos de 2023. La sesión se dio en un clima de negociaciones hasta último momento con aliados y bloques dialoguistas."
+    "En el tratamiento del Presupuesto Nacional 2027, el diputado nacional Juan Pablo Luque cuestionó la desigualdad entre lo que Chubut aporta y lo que recibe de Nación, y reclamó inversión en infraestructura. \"Una provincia que da tanto y recibe tan poco no tiene mala suerte. Está siendo tratada como una caja\", sostuvo.",
+    "Recordó que Chubut fue la sexta provincia exportadora del país en el primer semestre, con 1.760 millones de dólares provenientes del aluminio, el petróleo y la pesca, un 60% más que el año anterior. Según indicó, genera el 4% de las exportaciones argentinas pero recibe apenas el 1,5% de los recursos que Nación transfiere a las provincias.",
+    "El legislador señaló que la pobreza en Comodoro Rivadavia y Rada Tilly pasó del 26,9% al 37,2% en un año, con 98 mil personas afectadas, y que en Rawson y Trelew llegó al 35%. Mencionó además la pérdida de más de 13 mil empleos privados registrados desde diciembre de 2023 y la desaparición de 720 empleadores, con una caída de uno de cada cuatro puestos en petróleo y construcción.",
+    "Cuestionó que el proyecto prevé una baja de un tercio en términos reales de la obra pública nacional en Chubut, con más de 700 kilómetros de rutas nacionales en estado crítico. \"Cuando la Nación se retira, alguien paga la cuenta. Y ese alguien son los vecinos de mi provincia\", afirmó."
    ],
    "foto": "gobierno",
    "arte": "ciudad",
-   "origen": "https://www.eldiarioweb.com/2026/11/el-oficialismo-logro-aprobar-el-presupuesto-2027/"
+   "origen": "https://www.eldiarioweb.com/2026/11/luque-reclamo-el-presupuesto-que-le-corresponde-a-chubut/"
   },
   {
-   "id": "trelew-limpieza-profunda-laguna-chiquichano",
+   "id": "came-saladitas-feria-rawson",
    "sec": "ultimas",
-   "ciudad": "Trelew",
-   "tema": "Ambiente",
-   "titulo": "Trelew hizo una limpieza profunda en la laguna Chiquichano antes del verano",
-   "bajada": "Es la segunda intervención del año para sacar residuos del borde del espejo de agua, donde no llega la limpieza diaria.",
+   "ciudad": "Rawson",
+   "tema": "Comercio",
+   "titulo": "CAME alertó por las \"saladitas\" y citó como ejemplo una feria que se montó en Rawson",
+   "bajada": "La entidad advirtió que estas ferias temporarias compiten en desigualdad con los comercios formales, justo antes de las fiestas de fin de año.",
    "cuerpo": [
-    "Cuadrillas de Servicios Públicos de Trelew realizaron una limpieza profunda en la laguna Chiquichano, con botas de goma y guantes para trabajar sobre el borde del agua. Es la segunda de este tipo en lo que va del año.",
-    "La coordinadora de Ambiente, Erica Colombani, explicó que el operativo permite llegar a sectores inaccesibles en la rutina diaria, donde el viento y las corrientes concentran desechos. «Hace falta de vez en cuando hacer este tipo de limpiezas para mantener el espejo de agua en condiciones», dijo.",
-    "Con la cercanía del verano se espera más público en el paseo. Desde Ambiente pidieron a los visitantes depositar los residuos en los cestos diferenciados para húmedos y secos que hay en todo el perímetro y en el sector de los carritos gastronómicos."
+    "La Confederación Argentina de la Mediana Empresa (CAME) expresó su preocupación por la proliferación de ferias de venta temporaria, conocidas como \"saladitas\", que se instalan por pocos días en distintas localidades. Según la entidad, compiten en condiciones desiguales con los comercios que trabajan dentro de la formalidad.",
+    "Como ejemplo mencionó una feria de venta masiva que funcionó en Rawson entre el viernes 20 y el lunes 23 de noviembre: la estructura se montó para esos días y se retiró al terminar, sin dejar un establecimiento radicado en la localidad.",
+    "CAME remarcó que los comercios habilitados deben afrontar impuestos, tasas, alquileres, servicios, salarios, habilitaciones municipales y controles, además de contratar personal registrado. El planteo llega en un escenario de retracción del consumo: las ventas minoristas pyme cayeron 1,6% interanual en octubre.",
+    "La organización propuso sumar herramientas tecnológicas para seguir la circulación de mercaderías, identificar a los operadores, rastrear los movimientos de dinero y verificar las normas de seguridad e higiene, de modo que los controles no se limiten al lugar de la venta."
    ],
-   "foto": "limpieza",
-   "arte": "valle",
-   "origen": "https://cholilaonline.ar/2026/11/operativo-en-la-laguna-limpieza-profunda-en-chiquichano-en-trelew.html"
-  },
-  {
-   "id": "trelew-vihsibles-fest-plaza-independencia",
-   "sec": "ultimas",
-   "ciudad": "Trelew",
-   "tema": "Salud",
-   "titulo": "Trelew: el sábado habrá testeos gratuitos de VIH y sífilis en el VIHsibles Fest",
-   "bajada": "El evento será en la Plaza Independencia desde las 17, por el Día Mundial de la Respuesta al VIH.",
-   "cuerpo": [
-    "El Ministerio de Salud del Chubut, junto con el Municipio de Trelew y el Hospital Zonal «Dr. Adolfo Margara», realizará este sábado el VIHsibles Fest en la Plaza Independencia, desde las 17, en el marco del Día Mundial de la Respuesta al VIH, que se conmemora el 1 de diciembre.",
-    "Habrá danza y música en vivo, feria de emprendedores, stands de salud con charlas y asesoramiento sobre prevención de infecciones de transmisión sexual, y una carpa de testeos gratuitos.",
-    "El personal de salud hará testeos rápidos de VIH y sífilis con una pequeña punción en el dedo. Los resultados se obtienen en unos 15 minutos y se comunican de forma privada y confidencial."
-   ],
-   "foto": "medico",
+   "foto": "comercio",
    "arte": "ciudad",
-   "origen": "https://cholilaonline.ar/2026/11/dia-mundial-de-la-respuesta-al-vih-provincia-brindara-charlas-y-asesoramiento-para-fortalecer-la-prevencion.html"
+   "origen": "https://canal12web.com/came-alerto-por-la-expansion-de-las-saladitas-y-puso-de-ejemplo-un-caso-en-rawson-de-competencia-desigual/"
+  },
+  {
+   "id": "rawson-corte-energia-sabado-28-playa-union",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "tema": "Corte de luz",
+   "titulo": "Rawson: corte programado de energía el sábado en el norte de Playa Unión y el barrio 3 de Abril",
+   "bajada": "La interrupción será de 8 a 12 por mantenimiento en la Subestación Ramón Lista y dependerá del clima.",
+   "cuerpo": [
+    "La Cooperativa de Servicios Públicos, Consumo y Vivienda de Rawson informó que este sábado 28 de noviembre habrá un corte programado de energía eléctrica para realizar tareas de mantenimiento en la Subestación Ramón Lista.",
+    "La interrupción está prevista entre las 8 y las 12 y afectará a la zona norte de Playa Unión y al barrio 3 de Abril. Desde la Cooperativa aclararon que los trabajos estarán sujetos a las condiciones climáticas."
+   ],
+   "foto": "electricidad",
+   "arte": "noche",
+   "origen": "https://www.elchubut.com.ar/rawson/2026-11-27-10-31-0-la-cooperativa-de-rawson-anuncio-un-corte-programado-de-energia-para-este-sabado"
+  },
+  {
+   "id": "rawson-fiesta-hamburguesa-cuarta-edicion",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "tema": "Agenda Rawson",
+   "titulo": "Rawson prepara la 4ª Fiesta de la Hamburguesa con 200 feriantes y espectáculos",
+   "bajada": "Cerró la inscripción general y solo quedan cupos para food trucks. La jornada arranca a las 18.",
+   "cuerpo": [
+    "El secretario de Cultura de Rawson, Daniel Tamame, confirmó que cerró la inscripción general de la 4ª Fiesta de la Hamburguesa tras cumplirse las metas: se anotaron 150 personas por el formulario web y 50 miembros de la Feria de la Costa Municipal. \"Tenemos ya 200 feriantes, artesanos y emprendedores que van a decir presente\", celebró.",
+    "Para food trucks el registro seguirá abierto la semana próxima, porque quedan cupos. Se puede gestionar en la Dirección de Comercio o de manera online.",
+    "La jornada empezará a las 18 con números artísticos y la apertura a cargo de escuelas. A las 19 subirá Baldo Circo con un show para chicos, con guiños a las fiestas de fin de año y la visita de Papá Noel. Desde las 20, el escenario principal tendrá música en vivo y espectáculos.",
+    "En paralelo, Cultura abrió un formulario de registro para artistas de distintos géneros con el fin de armar un banco de datos para la programación del verano en Playa Unión."
+   ],
+   "foto": "fiesta",
+   "arte": "escenario",
+   "origen": "https://cholilaonline.ar/2026/11/explosion-de-sabores-en-rawson-llega-la-4a-fiesta-de-la-hamburguesa.html"
+  },
+  {
+   "id": "bowen-reunion-socialismo-autentico",
+   "sec": "politica",
+   "ciudad": "Dolavon",
+   "tema": "Elecciones 2027",
+   "titulo": "Bowen se reunió con el Socialismo Auténtico en su armado rumbo a la Gobernación",
+   "bajada": "El intendente de Dolavon dialogó con referentes del PSA–Unidad Socialista sobre una construcción política provincial de cara a las elecciones del 21 de marzo de 2027.",
+   "cuerpo": [
+    "El intendente de Dolavon y precandidato a gobernador, Dante Bowen, mantuvo una reunión con referentes del Partido Socialista Auténtico–Unidad Socialista, en el marco de su armado político para las elecciones.",
+    "Según indicaron desde su sector, hubo coincidencias sobre la necesidad de conformar una alternativa \"federal y con identidad chubutense\". Bowen ratificó así su voluntad de competir por la Gobernación el 21 de marzo de 2027.",
+    "En el encuentro se plantearon cuestionamientos al rumbo del Gobierno nacional de Javier Milei y a la gestión provincial de Ignacio Torres, en especial sobre el manejo de los recursos y el desarrollo de la provincia.",
+    "Ambos espacios acordaron mantener abiertas las conversaciones durante las próximas semanas, mientras avanzan las definiciones políticas."
+   ],
+   "foto": "elecciones",
+   "arte": "valle",
+   "origen": "https://canal12web.com/bowen-sumo-reuniones-politicas-y-avanzo-en-conversaciones-con-el-socialismo-autentico/"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427821/politica/presupuesto_2027_el_gobierno_evalua_modificar_el_articulo_sobre_universidades_",
-  "https://www.diariojornada.com.ar/427820/politica/el_pj_de_esquel_llama_a_la_unidad_para_ganar",
-  "https://www.diariojornada.com.ar/427817/politica/el_tribunal_del_mar_resolvera_el_pedido_para_frenar_la_explotacion_petrolera",
-  "https://www.adnsur.com.ar/sociedad/el-sueno-que-no-pudo-cumplir-rodrigo--sus-companeros-lo-recordaron-en-la-caravana-de-egresados-en-comodoro_a6b09b1470c00c3cae3cdcfc8",
-  "https://www.adnsur.com.ar/sociedad/tiene-19-anos-y-vende-budines-y-panes-dulces-en-pleno-centro-de-comodoro-para-ayudar-a-pagar-sus-estudios_a6b099f570c00c3cae3cb9501",
-  "https://www.elchubut.com.ar/regionales/2026-11-27-9-27-0-cuando-cobran-los-estatales-de-chubut-jubilados-cobran-el-miercoles-2-y-activos-el-jueves-3-de-diciembre",
-  "https://www.elchubut.com.ar/trelew/2026-11-27-13-38-0-asi-fue-el-operativo-para-recapturar-a-huenchullan-munoz-drones-termicos-y-persecucion-policial",
-  "https://www.elchubut.com.ar/trelew/2026-11-27-12-8-0-huenchullan-munoz-seguira-preso-hasta-el-juicio-por-el-crimen-de-rodrigo-colihuinca",
-  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-11-54-0-madryn-el-stj-confirmo-la-prision-perpetua-para-braian-chazarreta-por-el-femicidio-transversal-de-su-suegra",
-  "https://www.eldiarioweb.com/2026/11/logran-recapturar-a-brian-huenchullan-acusado-del-crimen-de-colihuinca/",
-  "https://www.eldiarioweb.com/2026/11/santa-cruz-aprobo-nueva-ley-electoral-y-con-paso/",
-  "https://www.eldiarioweb.com/2026/11/rechazo-a-la-emergencia-pyme/",
-  "https://www.madrynahora.com/puerto-madryn/confirmaron-la-prision-perpetua-para-braian-chazarreta-por-el-femicidio-de-su-suegra-en-madryn/",
-  "https://www.madrynahora.com/chubut/caso-colihuinca-dictaron-prision-preventiva-para-huenchullan-tras-su-recaptura/",
-  "https://www.madrynahora.com/chubut/asi-recapturaron-en-trelew-a-brian-munoz-huenchullan/",
-  "https://www.madrynahora.com/chubut/esquel-el-acusado-en-el-caso-de-la-casa-del-horror-dejo-la-prision-domiciliaria/",
-  "https://canal12web.com/chubut-confirmo-cuando-depositara-los-sueldos-de-diciembre-a-jubilados-pensionados-y-empleados-estatales/",
-  "https://canal12web.com/caso-colihuinca-revocaron-la-prision-domiciliaria-de-huenchullan-y-seguira-preso-hasta-el-juicio/",
-  "https://canal12web.com/confirmaron-la-perpetua-de-braian-chazarreta-el-hombre-que-asesino-a-su-suegra-para-hacer-sufrir-a-su-ex/",
-  "https://cholilaonline.ar/2026/11/caso-colihuinca-revocaron-prision-domiciliaria-huenchullan-ira-a-carcel.html",
-  "https://cholilaonline.ar/2026/11/tarifaria-2027-en-trelew-impuestos-descuentos-concejo-deliberante.html"
+  "https://www.diariojornada.com.ar/427818/deportes/la_posible_formacion_de_estudiantes_para_enfrentar_a_palmeiras",
+  "https://www.diariojornada.com.ar/427823/magazine/assongue_llevo_el_talento_de_chubut_al_nacional_de_baile",
+  "https://www.diariojornada.com.ar/427819/genero/espana_ataque_machista_de_feijoo_a_ada_colau_en_debate_presidencial",
+  "https://www.diariojornada.com.ar/427810/genero/confirman_condena_de_un_hijo_de_nancy_godoy_por_abuso_sexual",
+  "https://www.elchubut.com.ar/nacionales/2026-11-27-9-43-0-el-senado-convirtio-en-ley-la-prohibicion-de-apuestas-online-para-menores-y-de-publicidad-deportiva",
+  "https://www.elchubut.com.ar/trelew/2026-11-27-11-13-0-hospital-margara-como-sacar-turnos-horarios-de-atencion-y-todas-las-especialidades-disponibles",
+  "https://www.elchubut.com.ar/trelew/2026-11-27-13-10-0-el-concejo-deliberante-aprobo-la-tarifaria-2027",
+  "https://www.eldiarioweb.com/2026/11/merino-en-clave-electoral/",
+  "https://www.eldiarioweb.com/2026/11/voto-unanime-para-la-ley-de-prevencion-de-la-ludopatia-y-regulacion-de-las-apuestas-online/",
+  "https://www.madrynahora.com/puerto-madryn/quiso-salir-de-la-anonima-con-fernet-y-jamon-sin-pagar-y-lo-atraparon/",
+  "https://www.madrynahora.com/puerto-madryn/demoraron-a-un-artista-callejero-en-madryn-tras-un-episodio-de-agresividad-hacia-policias/",
+  "https://www.madrynahora.com/puerto-madryn/un-motociclista-sufrio-una-grave-lesion-tras-chocar-contra-una-camioneta-en-madryn/",
+  "https://www.madrynahora.com/argentina/desmantelan-una-banda-de-viudas-negras-hay-cuatro-detenidos-y-secuestraron-24-celulares/",
+  "https://canal12web.com/realizaron-una-limpieza-profunda-en-la-laguna-chiquichano-de-trelew/",
+  "https://canal12web.com/este-sabado-se-podra-recorrer-la-base-almirante-zar-y-conocer-de-cerca-las-aeronaves-de-la-armada/",
+  "https://cholilaonline.ar/2026/11/red-electrica-en-gregorio-mayo-obras-calle-jujuy-luces-led.html",
+  "https://cholilaonline.ar/2026/11/prevencion-en-la-costa-jardines-y-guardavidas-unieron-fuerzas-en-rawson.html",
+  "https://cholilaonline.ar/2026/11/salud-mental-y-violencias-en-rawson-balance-2026.html"
  ]
 }

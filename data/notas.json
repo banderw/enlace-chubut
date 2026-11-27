@@ -77,6 +77,101 @@
  ],
  "notas": [
   {
+   "id": "bowen-reunion-socialismo-autentico",
+   "fecha": "2026-11-27T15:08:45-03:00",
+   "sec": "politica",
+   "ciudad": "Dolavon",
+   "titulo": "Bowen se reunió con el Socialismo Auténtico en su armado rumbo a la Gobernación",
+   "bajada": "El intendente de Dolavon dialogó con referentes del PSA–Unidad Socialista sobre una construcción política provincial de cara a las elecciones del 21 de marzo de 2027.",
+   "cuerpo": [
+    "El intendente de Dolavon y precandidato a gobernador, Dante Bowen, mantuvo una reunión con referentes del Partido Socialista Auténtico–Unidad Socialista, en el marco de su armado político para las elecciones.",
+    "Según indicaron desde su sector, hubo coincidencias sobre la necesidad de conformar una alternativa \"federal y con identidad chubutense\". Bowen ratificó así su voluntad de competir por la Gobernación el 21 de marzo de 2027.",
+    "En el encuentro se plantearon cuestionamientos al rumbo del Gobierno nacional de Javier Milei y a la gestión provincial de Ignacio Torres, en especial sobre el manejo de los recursos y el desarrollo de la provincia.",
+    "Ambos espacios acordaron mantener abiertas las conversaciones durante las próximas semanas, mientras avanzan las definiciones políticas."
+   ],
+   "arte": "valle",
+   "tema": "Elecciones 2027"
+  },
+  {
+   "id": "rawson-fiesta-hamburguesa-cuarta-edicion",
+   "fecha": "2026-11-27T15:08:44-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "Rawson prepara la 4ª Fiesta de la Hamburguesa con 200 feriantes y espectáculos",
+   "bajada": "Cerró la inscripción general y solo quedan cupos para food trucks. La jornada arranca a las 18.",
+   "cuerpo": [
+    "El secretario de Cultura de Rawson, Daniel Tamame, confirmó que cerró la inscripción general de la 4ª Fiesta de la Hamburguesa tras cumplirse las metas: se anotaron 150 personas por el formulario web y 50 miembros de la Feria de la Costa Municipal. \"Tenemos ya 200 feriantes, artesanos y emprendedores que van a decir presente\", celebró.",
+    "Para food trucks el registro seguirá abierto la semana próxima, porque quedan cupos. Se puede gestionar en la Dirección de Comercio o de manera online.",
+    "La jornada empezará a las 18 con números artísticos y la apertura a cargo de escuelas. A las 19 subirá Baldo Circo con un show para chicos, con guiños a las fiestas de fin de año y la visita de Papá Noel. Desde las 20, el escenario principal tendrá música en vivo y espectáculos.",
+    "En paralelo, Cultura abrió un formulario de registro para artistas de distintos géneros con el fin de armar un banco de datos para la programación del verano en Playa Unión."
+   ],
+   "arte": "escenario",
+   "tema": "Agenda Rawson"
+  },
+  {
+   "id": "rawson-corte-energia-sabado-28-playa-union",
+   "fecha": "2026-11-27T15:08:43-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "Rawson: corte programado de energía el sábado en el norte de Playa Unión y el barrio 3 de Abril",
+   "bajada": "La interrupción será de 8 a 12 por mantenimiento en la Subestación Ramón Lista y dependerá del clima.",
+   "cuerpo": [
+    "La Cooperativa de Servicios Públicos, Consumo y Vivienda de Rawson informó que este sábado 28 de noviembre habrá un corte programado de energía eléctrica para realizar tareas de mantenimiento en la Subestación Ramón Lista.",
+    "La interrupción está prevista entre las 8 y las 12 y afectará a la zona norte de Playa Unión y al barrio 3 de Abril. Desde la Cooperativa aclararon que los trabajos estarán sujetos a las condiciones climáticas."
+   ],
+   "arte": "noche",
+   "tema": "Corte de luz"
+  },
+  {
+   "id": "came-saladitas-feria-rawson",
+   "fecha": "2026-11-27T15:08:42-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "CAME alertó por las \"saladitas\" y citó como ejemplo una feria que se montó en Rawson",
+   "bajada": "La entidad advirtió que estas ferias temporarias compiten en desigualdad con los comercios formales, justo antes de las fiestas de fin de año.",
+   "cuerpo": [
+    "La Confederación Argentina de la Mediana Empresa (CAME) expresó su preocupación por la proliferación de ferias de venta temporaria, conocidas como \"saladitas\", que se instalan por pocos días en distintas localidades. Según la entidad, compiten en condiciones desiguales con los comercios que trabajan dentro de la formalidad.",
+    "Como ejemplo mencionó una feria de venta masiva que funcionó en Rawson entre el viernes 20 y el lunes 23 de noviembre: la estructura se montó para esos días y se retiró al terminar, sin dejar un establecimiento radicado en la localidad.",
+    "CAME remarcó que los comercios habilitados deben afrontar impuestos, tasas, alquileres, servicios, salarios, habilitaciones municipales y controles, además de contratar personal registrado. El planteo llega en un escenario de retracción del consumo: las ventas minoristas pyme cayeron 1,6% interanual en octubre.",
+    "La organización propuso sumar herramientas tecnológicas para seguir la circulación de mercaderías, identificar a los operadores, rastrear los movimientos de dinero y verificar las normas de seguridad e higiene, de modo que los controles no se limiten al lugar de la venta."
+   ],
+   "arte": "ciudad",
+   "tema": "Comercio"
+  },
+  {
+   "id": "luque-presupuesto-2027-chubut-recursos",
+   "fecha": "2026-11-27T15:08:41-03:00",
+   "sec": "politica",
+   "ciudad": "Provincia",
+   "titulo": "Luque reclamó en Diputados que Nación destine a Chubut recursos acordes a lo que aporta",
+   "bajada": "Durante el debate del Presupuesto 2027, el diputado nacional advirtió que la provincia genera el 4% de las exportaciones del país y recibe el 1,5% de las transferencias.",
+   "cuerpo": [
+    "En el tratamiento del Presupuesto Nacional 2027, el diputado nacional Juan Pablo Luque cuestionó la desigualdad entre lo que Chubut aporta y lo que recibe de Nación, y reclamó inversión en infraestructura. \"Una provincia que da tanto y recibe tan poco no tiene mala suerte. Está siendo tratada como una caja\", sostuvo.",
+    "Recordó que Chubut fue la sexta provincia exportadora del país en el primer semestre, con 1.760 millones de dólares provenientes del aluminio, el petróleo y la pesca, un 60% más que el año anterior. Según indicó, genera el 4% de las exportaciones argentinas pero recibe apenas el 1,5% de los recursos que Nación transfiere a las provincias.",
+    "El legislador señaló que la pobreza en Comodoro Rivadavia y Rada Tilly pasó del 26,9% al 37,2% en un año, con 98 mil personas afectadas, y que en Rawson y Trelew llegó al 35%. Mencionó además la pérdida de más de 13 mil empleos privados registrados desde diciembre de 2023 y la desaparición de 720 empleadores, con una caída de uno de cada cuatro puestos en petróleo y construcción.",
+    "Cuestionó que el proyecto prevé una baja de un tercio en términos reales de la obra pública nacional en Chubut, con más de 700 kilómetros de rutas nacionales en estado crítico. \"Cuando la Nación se retira, alguien paga la cuenta. Y ese alguien son los vecinos de mi provincia\", afirmó."
+   ],
+   "arte": "ciudad",
+   "tema": "Presupuesto 2027"
+  },
+  {
+   "id": "medicos-santa-cruz-rio-negro-trabajar-chubut",
+   "fecha": "2026-11-27T15:08:40-03:00",
+   "sec": "politica",
+   "ciudad": "Provincia",
+   "titulo": "Ley habilita a médicos de Santa Cruz y Río Negro a trabajar en el sistema público de Chubut",
+   "bajada": "La Legislatura sancionó una norma que fija excepciones a la acumulación de cargos y al requisito de residencia para atender la falta de especialistas, sobre todo en el interior.",
+   "cuerpo": [
+    "La Legislatura aprobó una ley que permite que profesionales que se desempeñan en Santa Cruz y Río Negro también ejerzan en el sistema público de salud de Chubut, y viceversa para los médicos de la provincia. Las excepciones a la acumulación de cargos y al requisito de residencia están contempladas en el artículo 67 de la Constitución provincial.",
+    "La norma tuvo el acompañamiento de la mayoría de los bloques. El diputado del Frente de Izquierda Juan Aquino fue el único que se abstuvo.",
+    "La diputada Sandra Willatowski (Despierta Chubut) explicó que la ley responde a la falta de especialistas como pediatras, cardiólogos, traumatólogos y ginecólogos. Planteó aprovechar la cercanía entre localidades, como Lago Puelo y El Bolsón o Caleta Olivia y Comodoro Rivadavia, para que un especialista de una provincia vecina pueda trabajar en Chubut a contraturno.",
+    "Aclaró que no cambian los requisitos para obtener la matrícula ni las condiciones laborales ni los convenios colectivos. La acumulación de cargos se permite si hay escasez de profesionales en la zona, no hay superposición horaria y el profesional presenta la declaración correspondiente. Además, la ley faculta al Poder Ejecutivo a firmar convenios con otras provincias.",
+    "Desde Arriba Chubut, la diputada Vanesa Abril acompañó la iniciativa por la necesidad de contar con especialistas de Río Negro, pero hizo observaciones para atender la cuestión de fondo del sistema de salud."
+   ],
+   "arte": "escuela",
+   "tema": "Salud"
+  },
+  {
    "id": "trelew-vihsibles-fest-plaza-independencia",
    "fecha": "2026-11-27T14:42:16-03:00",
    "sec": "ultimas",
@@ -1396,95 +1491,6 @@
    ],
    "arte": "valle",
    "tema": "Producción"
-  },
-  {
-   "id": "puma-trelew",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "ultimas",
-   "ciudad": "Trelew",
-   "titulo": "Un puma apareció cerca del Aeropuerto Viejo de Trelew",
-   "bajada": "Vecinos lo filmaron mientras recorría la zona, cerca de casas y calles transitadas.",
-   "cuerpo": [
-    "Un puma recorrió las inmediaciones del Aeropuerto Viejo de Trelew y quedó registrado en un video que circuló rápido por las redes sociales.",
-    "El animal se movía cerca de viviendas y calles con tránsito, lo que generó preocupación entre los vecinos.",
-    "En la Patagonia, los terrenos abiertos y poco urbanizados que rodean a los viejos predios aeronáuticos pueden convertirse en zonas de paso para la fauna silvestre."
-   ],
-   "arte": "puma",
-   "tema": "Fauna"
-  },
-  {
-   "id": "trochita-ferias",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "ultimas",
-   "ciudad": "Esquel · El Maitén",
-   "titulo": "La Trochita salió a promocionar Chubut en ferias de Comodoro y Brasil",
-   "bajada": "El Viejo Expreso Patagónico estuvo en la Expo Turismo de Comodoro y en Festuris, en Gramado.",
-   "cuerpo": [
-    "La Trochita participó de dos ferias turísticas para ampliar su difusión: la Expo Turismo de Comodoro Rivadavia y Festuris, que se hizo en Gramado, Brasil.",
-    "En los dos encuentros mostró sus recorridos desde Esquel y El Maitén, su historia y las propuestas ligadas al patrimonio ferroviario.",
-    "La presencia del tren, que depende del Gobierno provincial, fue parte de la estrategia de promoción del Ministerio de Turismo y Áreas Protegidas."
-   ],
-   "arte": "tren",
-   "tema": "La Trochita"
-  },
-  {
-   "id": "playa-union",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "titulo": "Playa Unión, primera playa municipal y gratuita en sumarse a Bandera Azul",
-   "bajada": "Rawson puso en marcha una prueba piloto del programa internacional que certifica la calidad ambiental de las playas.",
-   "cuerpo": [
-    "Playa Unión comenzó a aplicar el programa Bandera Azul, una certificación presente en más de 50 países que reconoce la gestión sostenible de las playas.",
-    "El proyecto incluye acciones de educación ambiental y nueva cartelería para promover el cuidado de la costa.",
-    "La presentación la encabezó el intendente Damián Biss junto a funcionarios, el ente Rawson Turismo, guardavidas y prestadores. El biólogo Antonio Molina destacó que es la primera playa de gestión municipal y acceso gratuito en incorporarse."
-   ],
-   "arte": "playa",
-   "tema": "Playa Unión"
-  },
-  {
-   "id": "elefantes-marinos",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "ultimas",
-   "ciudad": "Costa chubutense",
-   "titulo": "Los elefantes marinos de Chubut cayeron a la mitad tras la gripe aviar",
-   "bajada": "La población podría tardar hasta 70 años en recuperarse. Advierten por turistas que se acercan demasiado.",
-   "cuerpo": [
-    "La población de elefantes marinos de Chubut se redujo un 50% después del brote de influenza aviar de 2023 y podría necesitar hasta 70 años para volver a sus niveles anteriores.",
-    "El consultor ambiental Víctor Fratto advirtió que en distintos puntos de la costa, dentro y fuera de las áreas protegidas, hay personas que se acercan demasiado a los animales para sacarse fotos, los molestan y hasta les tiran piedras para que se muevan."
-   ],
-   "arte": "mar",
-   "tema": "Fauna"
-  },
-  {
-   "id": "banco-naranja",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Instalaron un Banco Naranja en la Comisaría de la Mujer de Puerto Madryn",
-   "bajada": "Se inauguró el 25 de noviembre, Día Internacional de la Eliminación de la Violencia contra las Mujeres.",
-   "cuerpo": [
-    "La Comisaría de la Mujer de Puerto Madryn sumó un Banco Naranja, un símbolo para concientizar sobre la violencia contra las mujeres.",
-    "La idea es visibilizar el problema, invitar a la reflexión y reafirmar el compromiso de la comunidad y las instituciones para prevenir todas las formas de violencia de género.",
-    "Participaron fiscales y funcionarios de la Agencia de Violencia de Género y Delitos Sexuales del Ministerio Público Fiscal de Puerto Madryn."
-   ],
-   "arte": "banco",
-   "tema": "25N"
-  },
-  {
-   "id": "toki-tea",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "ultimas",
-   "ciudad": "Trelew",
-   "titulo": "Alumnos de una escuela técnica de Trelew crearon TOKI, un dispositivo para chicos con TEA",
-   "bajada": "Tiene nueve botones con pictogramas y avisa a los docentes cuando un chico necesita ayuda.",
-   "cuerpo": [
-    "Estudiantes de sexto año de la tecnicatura en Informática de una escuela técnica de Trelew desarrollaron TOKI, un dispositivo para que chicos con trastorno del espectro autista puedan comunicarse en el aula sin depender solo del habla.",
-    "El aparato tiene nueve botones con pictogramas y elementos sensoriales. Una aplicación avisa a los docentes cuando llega un pedido de ayuda.",
-    "La idea surgió de una investigación escolar y el proyecto se presentó en la Muestra Anual de Escuelas Técnicas."
-   ],
-   "arte": "escuela",
-   "tema": "Educación"
   }
  ]
 }
