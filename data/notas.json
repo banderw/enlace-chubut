@@ -77,6 +77,55 @@
  ],
  "notas": [
   {
+   "id": "gobernador-costa-jornada-igj-1-diciembre",
+   "fecha": "2026-11-26T21:05:16-03:00",
+   "sec": "ultimas",
+   "ciudad": "Gobernador Costa",
+   "titulo": "La Inspección General de Justicia atenderá en Gobernador Costa el martes 1 de diciembre",
+   "bajada": "Habrá atención y asesoramiento de 9 a 13 en el Auditorio Municipal para asociaciones civiles, fundaciones, sociedades comerciales y otras entidades.",
+   "cuerpo": [
+    "El Gobierno del Chubut, por medio del Ministerio de Gobierno y la Inspección General de Justicia (IGJ), hará una jornada de atención y asesoramiento en Gobernador Costa para acercar los servicios del organismo a los vecinos e instituciones de la zona.",
+    "La actividad será el martes 1 de diciembre, de 9 a 13, en el Auditorio Municipal. Allí, personal de la IGJ atenderá de manera personalizada a quienes necesiten hacer trámites, consultar dudas o recibir orientación sobre la normativa vigente.",
+    "La convocatoria apunta a representantes de asociaciones civiles, fundaciones, sociedades comerciales y otras entidades. La propuesta es parte del trabajo territorial del organismo para que los interesados no tengan que viajar a otras ciudades para hacer sus consultas."
+   ],
+   "arte": "meseta",
+   "tema": "Trámites"
+  },
+  {
+   "id": "comodoro-merendero-barrio-san-juan-colecta-navidad",
+   "fecha": "2026-11-26T21:05:15-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: un merendero del barrio San Juan arma una colecta navideña y pide leche, azúcar y harina",
+   "bajada": "El espacio de Kilómetro 12 ya recibe a más de 25 chicos por día y busca donaciones para sostener las meriendas y organizar una cena comunitaria de Nochebuena.",
+   "cuerpo": [
+    "El merendero y ropero comunitario del barrio San Juan, en la zona de Kilómetro 12 de Comodoro Rivadavia, lanzó una campaña abierta a la comunidad para juntar alimentos, golosinas y juguetes para las fiestas, y además pide ayuda urgente para no cortar las meriendas diarias.",
+    "Su referente, Daniela García, contó que el espacio arrancó hace tres años con entre 5 y 10 chicos y que hoy la asistencia supera los 25 por día. \"Atrás de esos nenes hay familias que se quedaron sin trabajo\", dijo, y agregó que también se acercan madres y padres a pedir alimentos.",
+    "El merendero funciona de lunes a viernes desde las 17 y le faltan insumos básicos como leche, azúcar y harina para preparar panificados. El ropero abre sábados y domingos de 14 a 18 y asiste también a familias de los barrios San Martín, Stella Maris y Máximo Abásolo.",
+    "Para Navidad planean una cena comunitaria y regalos para los chicos, por lo que reciben pan dulce, turrones, alimentos no perecederos, golosinas y juguetes en buen estado. \"Todo suma, así sea un paquete de harina, un turrón o una pelotita\", remarcó García.",
+    "Quienes quieran colaborar pueden llamar al 2975385246 para coordinar la entrega en el barrio San Juan o en un punto de encuentro, ya que el merendero no tiene vehículo para retirar donaciones."
+   ],
+   "arte": "ciudad",
+   "tema": "Solidaridad"
+  },
+  {
+   "id": "comodoro-cuenta-solidaria-estafa-banco-devolvera-dinero",
+   "fecha": "2026-11-26T21:05:14-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: el banco devolverá los casi $10 millones robados de la cuenta solidaria para el tratamiento de un nene",
+   "bajada": "El Banco Nación confirmó que reintegrará el dinero que un estafador sacó de la cuenta abierta para costear la atención médica de un chico de 6 años en Boston. El responsable ya fue identificado.",
+   "cuerpo": [
+    "La familia de un nene de 6 años de Comodoro Rivadavia que necesita viajar a Estados Unidos para tratar dos enfermedades poco frecuentes recibió una buena noticia: el Banco Nación le informó que le devolverá el monto completo que le habían sustraído de la cuenta solidaria, cerca de $10 millones.",
+    "La cuenta había sido vaciada el lunes 24 por un estafador. Según contó la madre del chico en sus redes, el responsable ya está identificado; por razones legales solo difundió sus iniciales, M.J.R., y aclaró que las actuaciones quedarán en manos de la Justicia y de la Policía de la Ciudad de Buenos Aires.",
+    "La mujer destacó que el reintegro se logró después de más de 24 horas de gestiones, en un trámite que habitualmente puede demorar de 90 días a dos años. \"Nuestro caso fue tomado con prioridad, teniendo en cuenta la urgencia de los fondos\", explicó.",
+    "El dinero está destinado a cubrir la internación del nene en el Hospital de Niños de Boston, donde podría acceder a un ensayo clínico sobre enfermedades raras. En total, la familia necesita reunir unos $600 millones.",
+    "La madre agradeció al Banco Nación, al Banco Central y al personal de las sucursales de Almagro, en Buenos Aires, y de Comodoro Rivadavia. \"Esta noticia nos devuelve un poco de tranquilidad y nos permite seguir adelante\", escribió."
+   ],
+   "arte": "banco",
+   "tema": "Solidaridad"
+  },
+  {
    "id": "diputados-ley-reforma-carta-organica-banco-central",
    "fecha": "2026-11-26T20:12:22-03:00",
    "sec": "nacionales",
