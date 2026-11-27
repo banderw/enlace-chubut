@@ -77,6 +77,81 @@
  ],
  "notas": [
   {
+   "id": "rio-mayo-feria-libro-arte-xx-edicion",
+   "fecha": "2026-11-27T16:13:00-03:00",
+   "sec": "ultimas",
+   "ciudad": "Río Mayo",
+   "titulo": "Río Mayo realizó la XX Feria del Libro y el Arte bajo el lema \"Pausa para leer, pensar y sentir\"",
+   "bajada": "Durante dos jornadas hubo presentaciones de libros, muestras fotográficas y espectáculos en el gimnasio de la Escuela N° 706.",
+   "cuerpo": [
+    "La feria se hizo en el gimnasio de la Escuela N° 706 \"Gregorio Mayo\" y forma parte del Calendario de Ferias del Libro que acompaña el Gobierno provincial para promover la lectura y visibilizar a los escritores de cada localidad.",
+    "La Subsecretaría de Cultura participó con el stand del Fondo Editorial Provincial y la propuesta \"Collage Poético\", y la Ludoteca de la Biblioteca Pública Provincial \"Vacchina\" armó una \"Caja Sensorial\".",
+    "Se presentaron \"Apuntes de un gendarme\", de Jorge Oliva Barros; \"Los siete clanes\", de Rocío A. Bustamente; y \"Mal-Vinas\", de Jorge Mesaín, que también expuso fotografías. El primer día cerró con un show acústico de Bárbara Wolf y Sergio Cashiuil y la feria terminó con el grupo Rostros del Kósten, de Sarmiento, que presentó \"Meta teatro en Verona\"."
+   ],
+   "arte": "escuela",
+   "tema": "Cultura"
+  },
+  {
+   "id": "esquel-licitacion-18-cuadras-cordon-cuneta-adoquinado",
+   "fecha": "2026-11-27T16:12:59-03:00",
+   "sec": "ultimas",
+   "ciudad": "Esquel",
+   "titulo": "Esquel licitará 18 cuadras de cordón cuneta y adoquinado en tres barrios",
+   "bajada": "Las obras llegarán a Malvinas Argentinas, Jorge Newbery y Belgrano, con un presupuesto oficial de $530,6 millones y 240 días de plazo.",
+   "cuerpo": [
+    "La Municipalidad de Esquel licitará la construcción de 18 cuadras: seis en el barrio Malvinas Argentinas, ocho en el Jorge Newbery y cuatro en el Belgrano. El proyecto incluye cordones cuneta de hormigón, badenes, estructuras complementarias y acondicionamiento del suelo.",
+    "El intendente Matías Taccetta dijo que se trata de \"un plan de infraestructura vial que tiene como objetivo mejorar la calidad de vida de los vecinos\" y que el municipio trabaja \"con planificación y recursos municipales\" para llegar a barrios que esperaban estas mejoras.",
+    "El plazo de ejecución es de 240 días corridos. El presupuesto oficial es de $530.630.866,78 y la garantía de oferta se fijó en $5.306.308,67. Los pliegos se consultan y adquieren en la Dirección de Compras municipal."
+   ],
+   "arte": "ruta",
+   "tema": "Obras en Esquel"
+  },
+  {
+   "id": "esquel-copa-voley-antonio-anselmo-2026",
+   "fecha": "2026-11-27T16:12:58-03:00",
+   "sec": "deportes",
+   "ciudad": "Esquel",
+   "titulo": "Esquel recibe la Copa de vóley \"Antonio Anselmo\" con trece equipos de siete ciudades",
+   "bajada": "El torneo se juega del viernes 27 al domingo 29 de noviembre en el Gimnasio Municipal \"León Camilo Catena\", con entrada libre.",
+   "cuerpo": [
+    "La Copa Esquel 2026 reúne a trece planteles de Esquel, Bariloche, Trelew, El Bolsón, El Maitén, Epuyén y Corcovado, en las ramas masculina y femenina. La organiza la Asociación Civil Cordillerana de Vóley y la entrada es abierta, con servicio de buffet.",
+    "El viernes a las 19 comienzan los cruces en dos canchas. El sábado habrá fase de grupos de 9 a 21 y a las 18.45 se hará el acto inaugural con autoridades. El domingo desde las 9 se juegan cuartos y semifinales.",
+    "Las finales se disputarán en cancha única: la femenina a las 16.30 y la masculina a las 18, y a las 20.30 será la entrega de premios."
+   ],
+   "arte": "cancha",
+   "tema": "Vóley"
+  },
+  {
+   "id": "trelew-night-run-5k-14-edicion-2",
+   "fecha": "2026-11-27T16:12:57-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "Trelew vive el sábado la 14ª edición de la Night Run 5K",
+   "bajada": "La largada será a las 22 en la Confitería Bertolucci y ya hay cerca de 200 atletas anotados.",
+   "cuerpo": [
+    "Este sábado 28 de noviembre se correrá la 14ª Night Run 5K, una de las pruebas clásicas del calendario deportivo de Trelew. La organiza Eventos Deportivos Trelew con el acompañamiento del Municipio, con largada y llegada en la Confitería Bertolucci a las 22.",
+    "Habrá una prueba competitiva de 5 kilómetros y una caminata participativa de 2,5 kilómetros. Gerardo Haro, de la organización, confirmó que hay cerca de 200 atletas de distintas localidades, entre ellos el neuquino Luciano Galván y Juan Paz, de Sierra Grande.",
+    "La noche tendrá música y animación, con el DJ Agus y la locución de Vanshi Thomas y Lili Méndez. Las inscripciones siguen abiertas para ambas modalidades en la plataforma Cronometraje Instantáneo."
+   ],
+   "arte": "ciudad",
+   "tema": "Atletismo"
+  },
+  {
+   "id": "formacion-profesional-cursos-verano-2027",
+   "fecha": "2026-11-27T16:12:56-03:00",
+   "sec": "ultimas",
+   "ciudad": "Provincia",
+   "titulo": "Chubut ofrecerá más de 23 cursos gratuitos de formación laboral durante el verano",
+   "bajada": "La preinscripción se hará del 30 de noviembre al 11 de diciembre por el asistente virtual DINO y las clases comenzarán el 4 de enero de 2027.",
+   "cuerpo": [
+    "El Ministerio de Educación, a través de la Dirección de Formación Profesional, abrirá una nueva convocatoria con más de 23 cursos gratuitos para jóvenes y adultos que quieran aprender un oficio o sumar herramientas para conseguir trabajo o emprender.",
+    "Las propuestas abarcan electricidad, construcción, gastronomía, carpintería, administración, informática y nuevas tecnologías. Se dictarán en Rawson, Trelew, Comodoro Rivadavia, Sarmiento, Río Mayo, Trevelin, Epuyén y Lago Puelo, además de actividades en El Hoyo y cursos cortos de gastronomía en Playa Unión, pensados para la temporada turística.",
+    "La carga horaria será de entre 50 y 180 horas según el curso. En Rawson, algunas capacitaciones se darán en las Aulas Talleres Móviles del CFP N° 662. Todavía no se difundió el detalle de qué curso se dictará en cada sede ni los cupos."
+   ],
+   "arte": "escuela",
+   "tema": "Formación laboral"
+  },
+  {
    "id": "comodoro-othar-financiamiento-maquinaria-bice",
    "fecha": "2026-11-27T16:08:49-03:00",
    "sec": "cuenca",
@@ -1400,84 +1475,6 @@
    ],
    "arte": "ciudad",
    "tema": "Adopción"
-  },
-  {
-   "id": "preinscripcion-nivel-superior-2027-2",
-   "fecha": "2026-11-26T07:37:27-03:00",
-   "sec": "ultimas",
-   "ciudad": "Provincia",
-   "titulo": "Abrió la preinscripción a las carreras de Nivel Superior 2027: Chubut pasa de 39 a 50 carreras",
-   "bajada": "El trámite se hace en forma virtual con el asistente DINO hasta el 12 de febrero. La oferta suma 11 carreras nuevas en 16 localidades de la provincia.",
-   "cuerpo": [
-    "El Ministerio de Educación del Chubut habilitó desde el martes 24 de noviembre la preinscripción a las carreras de Nivel Superior para el ciclo lectivo 2027. La gestión es virtual y se hace a través de DINO, el asistente digital de la provincia, donde cada aspirante puede ver las propuestas disponibles según el instituto y la localidad en la que quiera estudiar.",
-    "Para el año próximo la oferta crece de 39 a 50 carreras, con 11 alternativas nuevas, y en total habrá 140 opciones de preinscripción repartidas en las seis regiones educativas. Incluye profesorados, tecnicaturas superiores y formación artística, con orientaciones ligadas a la educación, la industria, la tecnología, la energía, el turismo, la administración, la comunicación y el deporte.",
-    "Las carreras se dictarán en institutos, sedes, anexos y extensiones áulicas de localidades como Comodoro Rivadavia, Trelew, Rawson, Puerto Madryn, Esquel, Trevelin, Gaiman, Dolavon, Sarmiento, Río Mayo, Paso de Indios, José de San Martín y varias de la Comarca Andina, entre ellas Cholila, Epuyén, El Hoyo, El Maitén y Lago Puelo.",
-    "Para anotarse hay que entrar a DINO, elegir la gestión \"Inscripción Superior\" y seleccionar la carrera, el instituto y el lugar de cursado. Después, entre el 18 y el 26 de febrero de 2027, cada aspirante deberá presentar la documentación en forma presencial en la institución elegida.",
-    "La apertura de cada carrera quedará sujeta a la matrícula efectiva, con un piso general de 25 estudiantes por propuesta. Los casos particulares los evaluará la Dirección General de Educación Superior."
-   ],
-   "arte": "escuela",
-   "tema": "Educación"
-  },
-  {
-   "id": "cai-escorpion-chiquichano-vuelta-gallegos",
-   "fecha": "2026-11-26T00:57:48-03:00",
-   "sec": "deportes",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Regional Amateur: la CAI perdió 2 a 1 con Escorpión y Chiquichano confía en dar vuelta la serie en Río Gallegos",
-   "bajada": "El volante trelewense reconoció que la derrota en la semifinal de ida sorprendió al plantel y aseguró que irán \"por todo\" en la revancha.",
-   "cuerpo": [
-    "La Comisión de Actividades Infantiles de Comodoro Rivadavia cayó 2 a 1 como local ante Escorpión de Río Gallegos en la ida de la semifinal de la Región Patagonia del Regional Amateur. Oscar Benjamín Chiquichano, volante de 31 años nacido en Trelew, admitió que el resultado \"nos sorprendió a todos\" y que el equipo se fue encerrando después de que el rival convirtió dos goles rápidos en el segundo tiempo.",
-    "El jugador señaló que la lesión de Manchot fue una baja importante por la experiencia que aporta, aunque no le quitó mérito al rival. \"Estamos a un gol, pudimos descontar y sabemos que un gol nos pone en partido nuevamente\", dijo de cara a la vuelta en Río Gallegos, para la que el plantel tiene una semana de trabajo.",
-    "Chiquichano jugó cuatro temporadas en San Martín de Formosa, que acaba de ascender a la Primera Nacional, y llegó a la CAI en agosto. Contó que se fue de ese club por una cuestión personal, que su idea era pasar a Cipolletti pero no lo dejaron por ser un equipo de la misma categoría, y que su llegada a Comodoro se dio tras hablar con el \"Mumo\" Peralta."
-   ],
-   "arte": "cancha",
-   "tema": "Regional Amateur"
-  },
-  {
-   "id": "clinica-futbol-mr-madryn-2027",
-   "fecha": "2026-11-26T00:57:47-03:00",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Puerto Madryn tendrá en enero la cuarta Clínica de Fútbol MR, con captadores de Primera División",
-   "bajada": "Será del 14 al 17 de enero de 2027 en el Estadio Raúl Conti, para chicos de 10 a 16 años de Chubut y la Patagonia, con un cupo de unos 160 jugadores.",
-   "cuerpo": [
-    "La cuarta edición de la Clínica de Fútbol MR, que encabeza el exfutbolista y entrenador Martín Rolle, se presentó este miércoles en el Parador Riviera de Puerto Madryn. La propuesta vuelve a contar con el acompañamiento de Chubut Deportes, cuya directora, Alejandra Ibrahim, estuvo en el lanzamiento junto al coordinador de Deportes de la ciudad, Andrés Calabró.",
-    "La clínica se hará del 14 al 17 de enero de 2027 en el Estadio Raúl Conti. Está pensada para jugadores de 10 a 16 años de clubes de Chubut y del resto de la Patagonia, con un cupo estimado de 160 participantes. Habrá entrenamientos por puesto, trabajos de técnica, videoanálisis y la presencia de captadores de clubes de Primera División.",
-    "Las jornadas se completarán con charlas y talleres sobre salud deportiva, nutrición, reglamento, prevención de lesiones y recuperación. El equipo de profesionales lo integran el médico Lucas Escobar, el kinesiólogo Matías Nudelman y la nutricionista Romina Blanes. Escobar explicó que el primer día estará dedicado a evaluaciones físicas, fisiológicas, técnicas y deportivas para tener un diagnóstico de cada chico.",
-    "Calabró calificó al equipo interdisciplinario como \"espectacular\" y dijo que es \"una gran oportunidad para todos los chicos de la zona\". Las inscripciones ya están abiertas en inscripciones.martinrolle.com y las consultas se reciben al 280 506 8393."
-   ],
-   "arte": "cancha",
-   "tema": "Fútbol formativo"
-  },
-  {
-   "id": "trelew-tennis-torneo-por-equipos",
-   "fecha": "2026-11-26T00:05:22-03:00",
-   "sec": "deportes",
-   "ciudad": "Trelew",
-   "titulo": "El Trelew Tennis Club arranca el viernes un torneo por equipos abierto a todas las edades",
-   "bajada": "El certamen empieza este viernes a las 19 y la inscripción cierra el jueves al mediodía.",
-   "cuerpo": [
-    "El Trelew Tennis Club pone en marcha este viernes, a las 19, un torneo por equipos abierto a tenistas de todas las edades. Cada equipo tendrá seis integrantes, tres damas y tres varones, de las categorías tercera y cuarta en damas y tercera, cuarta y quinta en varones, y deberá armar un doble de damas, uno de caballeros y uno mixto.",
-    "La inscripción está abierta hasta el jueves a las 12 e incluye premios, sorteos, pelotas, agua y pizza libre. También habrá distinciones especiales para el equipo mejor combinado, los jugadores revelación en damas y varones, y el fair play."
-   ],
-   "arte": "cancha",
-   "tema": "Tenis"
-  },
-  {
-   "id": "madryn-gimnasia-revancha-terna-arbitral",
-   "fecha": "2026-11-26T00:05:21-03:00",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Madryn-Gimnasia de Jujuy: Joaquín Gil dirigirá la revancha y Camilo Machado no estará",
-   "bajada": "El Aurinegro recibe al Lobo el sábado a las 20 en el Abel Sastre por la vuelta de los cuartos del Reducido; necesita ganar para dar vuelta el 0-1 de la ida.",
-   "cuerpo": [
-    "La AFA designó a Joaquín Gil como árbitro de la revancha entre Deportivo Madryn y Gimnasia de Jujuy, que se jugará este sábado a las 20 en el estadio Abel Sastre por los cuartos de final del Reducido de la Primera Nacional. Lo acompañarán Cristian Navarro y Diego Martín como asistentes, y Lucas Cavallero será el cuarto árbitro.",
-    "Gil ya dirigió tres partidos de Madryn en la temporada, con dos triunfos y un empate para el Aurinegro. También arbitró cuatro encuentros de Gimnasia en la Primera Nacional 2025, con dos victorias y dos empates del equipo jujeño.",
-    "El plantel de Luis García volvió a entrenarse el miércoles en el Abel Sastre y el técnico cuenta con casi todos sus jugadores: la única baja confirmada es la de Camilo Machado. En Gimnasia, en cambio, hay dudas por Nicolás Dematei, que arrastra una lesión muscular, y siguen en recuperación Francisco Molina y Federico Paradela. La delegación jujeña viajará el viernes por la mañana, con escala en Buenos Aires.",
-    "En la ida, Gimnasia ganó 1 a 0 con gol de Joaquín Varela, así que el empate le alcanza para avanzar. Madryn necesita ganar: si iguala la serie en el global, pasa a semifinales por haber terminado mejor ubicado en la fase regular."
-   ],
-   "arte": "cancha",
-   "tema": "Deportivo Madryn"
   },
   {
    "id": "eclipse",
