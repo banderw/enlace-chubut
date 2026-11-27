@@ -1,125 +1,117 @@
 {
  "notas": [
   {
-   "id": "medicos-santa-cruz-rio-negro-trabajar-chubut",
+   "id": "pj-cumbre-rawson-precandidatos-gobernador",
    "sec": "politica",
-   "ciudad": "Provincia",
-   "tema": "Salud",
-   "titulo": "Ley habilita a médicos de Santa Cruz y Río Negro a trabajar en el sistema público de Chubut",
-   "bajada": "La Legislatura sancionó una norma que fija excepciones a la acumulación de cargos y al requisito de residencia para atender la falta de especialistas, sobre todo en el interior.",
-   "cuerpo": [
-    "La Legislatura aprobó una ley que permite que profesionales que se desempeñan en Santa Cruz y Río Negro también ejerzan en el sistema público de salud de Chubut, y viceversa para los médicos de la provincia. Las excepciones a la acumulación de cargos y al requisito de residencia están contempladas en el artículo 67 de la Constitución provincial.",
-    "La norma tuvo el acompañamiento de la mayoría de los bloques. El diputado del Frente de Izquierda Juan Aquino fue el único que se abstuvo.",
-    "La diputada Sandra Willatowski (Despierta Chubut) explicó que la ley responde a la falta de especialistas como pediatras, cardiólogos, traumatólogos y ginecólogos. Planteó aprovechar la cercanía entre localidades, como Lago Puelo y El Bolsón o Caleta Olivia y Comodoro Rivadavia, para que un especialista de una provincia vecina pueda trabajar en Chubut a contraturno.",
-    "Aclaró que no cambian los requisitos para obtener la matrícula ni las condiciones laborales ni los convenios colectivos. La acumulación de cargos se permite si hay escasez de profesionales en la zona, no hay superposición horaria y el profesional presenta la declaración correspondiente. Además, la ley faculta al Poder Ejecutivo a firmar convenios con otras provincias.",
-    "Desde Arriba Chubut, la diputada Vanesa Abril acompañó la iniciativa por la necesidad de contar con especialistas de Río Negro, pero hizo observaciones para atender la cuestión de fondo del sistema de salud."
-   ],
-   "foto": "medico",
-   "arte": "escuela",
-   "origen": "https://www.eldiarioweb.com/2026/11/medicos-de-santa-cruz-y-rio-negro-podran-trabajar-en-chubut/"
-  },
-  {
-   "id": "luque-presupuesto-2027-chubut-recursos",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "tema": "Presupuesto 2027",
-   "titulo": "Luque reclamó en Diputados que Nación destine a Chubut recursos acordes a lo que aporta",
-   "bajada": "Durante el debate del Presupuesto 2027, el diputado nacional advirtió que la provincia genera el 4% de las exportaciones del país y recibe el 1,5% de las transferencias.",
-   "cuerpo": [
-    "En el tratamiento del Presupuesto Nacional 2027, el diputado nacional Juan Pablo Luque cuestionó la desigualdad entre lo que Chubut aporta y lo que recibe de Nación, y reclamó inversión en infraestructura. \"Una provincia que da tanto y recibe tan poco no tiene mala suerte. Está siendo tratada como una caja\", sostuvo.",
-    "Recordó que Chubut fue la sexta provincia exportadora del país en el primer semestre, con 1.760 millones de dólares provenientes del aluminio, el petróleo y la pesca, un 60% más que el año anterior. Según indicó, genera el 4% de las exportaciones argentinas pero recibe apenas el 1,5% de los recursos que Nación transfiere a las provincias.",
-    "El legislador señaló que la pobreza en Comodoro Rivadavia y Rada Tilly pasó del 26,9% al 37,2% en un año, con 98 mil personas afectadas, y que en Rawson y Trelew llegó al 35%. Mencionó además la pérdida de más de 13 mil empleos privados registrados desde diciembre de 2023 y la desaparición de 720 empleadores, con una caída de uno de cada cuatro puestos en petróleo y construcción.",
-    "Cuestionó que el proyecto prevé una baja de un tercio en términos reales de la obra pública nacional en Chubut, con más de 700 kilómetros de rutas nacionales en estado crítico. \"Cuando la Nación se retira, alguien paga la cuenta. Y ese alguien son los vecinos de mi provincia\", afirmó."
-   ],
-   "foto": "gobierno",
-   "arte": "ciudad",
-   "origen": "https://www.eldiarioweb.com/2026/11/luque-reclamo-el-presupuesto-que-le-corresponde-a-chubut/"
-  },
-  {
-   "id": "came-saladitas-feria-rawson",
-   "sec": "ultimas",
    "ciudad": "Rawson",
-   "tema": "Comercio",
-   "titulo": "CAME alertó por las \"saladitas\" y citó como ejemplo una feria que se montó en Rawson",
-   "bajada": "La entidad advirtió que estas ferias temporarias compiten en desigualdad con los comercios formales, justo antes de las fiestas de fin de año.",
-   "cuerpo": [
-    "La Confederación Argentina de la Mediana Empresa (CAME) expresó su preocupación por la proliferación de ferias de venta temporaria, conocidas como \"saladitas\", que se instalan por pocos días en distintas localidades. Según la entidad, compiten en condiciones desiguales con los comercios que trabajan dentro de la formalidad.",
-    "Como ejemplo mencionó una feria de venta masiva que funcionó en Rawson entre el viernes 20 y el lunes 23 de noviembre: la estructura se montó para esos días y se retiró al terminar, sin dejar un establecimiento radicado en la localidad.",
-    "CAME remarcó que los comercios habilitados deben afrontar impuestos, tasas, alquileres, servicios, salarios, habilitaciones municipales y controles, además de contratar personal registrado. El planteo llega en un escenario de retracción del consumo: las ventas minoristas pyme cayeron 1,6% interanual en octubre.",
-    "La organización propuso sumar herramientas tecnológicas para seguir la circulación de mercaderías, identificar a los operadores, rastrear los movimientos de dinero y verificar las normas de seguridad e higiene, de modo que los controles no se limiten al lugar de la venta."
-   ],
-   "foto": "comercio",
-   "arte": "ciudad",
-   "origen": "https://canal12web.com/came-alerto-por-la-expansion-de-las-saladitas-y-puso-de-ejemplo-un-caso-en-rawson-de-competencia-desigual/"
-  },
-  {
-   "id": "rawson-corte-energia-sabado-28-playa-union",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "tema": "Corte de luz",
-   "titulo": "Rawson: corte programado de energía el sábado en el norte de Playa Unión y el barrio 3 de Abril",
-   "bajada": "La interrupción será de 8 a 12 por mantenimiento en la Subestación Ramón Lista y dependerá del clima.",
-   "cuerpo": [
-    "La Cooperativa de Servicios Públicos, Consumo y Vivienda de Rawson informó que este sábado 28 de noviembre habrá un corte programado de energía eléctrica para realizar tareas de mantenimiento en la Subestación Ramón Lista.",
-    "La interrupción está prevista entre las 8 y las 12 y afectará a la zona norte de Playa Unión y al barrio 3 de Abril. Desde la Cooperativa aclararon que los trabajos estarán sujetos a las condiciones climáticas."
-   ],
-   "foto": "electricidad",
-   "arte": "noche",
-   "origen": "https://www.elchubut.com.ar/rawson/2026-11-27-10-31-0-la-cooperativa-de-rawson-anuncio-un-corte-programado-de-energia-para-este-sabado"
-  },
-  {
-   "id": "rawson-fiesta-hamburguesa-cuarta-edicion",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "tema": "Agenda Rawson",
-   "titulo": "Rawson prepara la 4ª Fiesta de la Hamburguesa con 200 feriantes y espectáculos",
-   "bajada": "Cerró la inscripción general y solo quedan cupos para food trucks. La jornada arranca a las 18.",
-   "cuerpo": [
-    "El secretario de Cultura de Rawson, Daniel Tamame, confirmó que cerró la inscripción general de la 4ª Fiesta de la Hamburguesa tras cumplirse las metas: se anotaron 150 personas por el formulario web y 50 miembros de la Feria de la Costa Municipal. \"Tenemos ya 200 feriantes, artesanos y emprendedores que van a decir presente\", celebró.",
-    "Para food trucks el registro seguirá abierto la semana próxima, porque quedan cupos. Se puede gestionar en la Dirección de Comercio o de manera online.",
-    "La jornada empezará a las 18 con números artísticos y la apertura a cargo de escuelas. A las 19 subirá Baldo Circo con un show para chicos, con guiños a las fiestas de fin de año y la visita de Papá Noel. Desde las 20, el escenario principal tendrá música en vivo y espectáculos.",
-    "En paralelo, Cultura abrió un formulario de registro para artistas de distintos géneros con el fin de armar un banco de datos para la programación del verano en Playa Unión."
-   ],
-   "foto": "fiesta",
-   "arte": "escenario",
-   "origen": "https://cholilaonline.ar/2026/11/explosion-de-sabores-en-rawson-llega-la-4a-fiesta-de-la-hamburguesa.html"
-  },
-  {
-   "id": "bowen-reunion-socialismo-autentico",
-   "sec": "politica",
-   "ciudad": "Dolavon",
    "tema": "Elecciones 2027",
-   "titulo": "Bowen se reunió con el Socialismo Auténtico en su armado rumbo a la Gobernación",
-   "bajada": "El intendente de Dolavon dialogó con referentes del PSA–Unidad Socialista sobre una construcción política provincial de cara a las elecciones del 21 de marzo de 2027.",
+   "titulo": "El PJ reúne esta noche en Rawson a sus precandidatos a gobernador para buscar un acuerdo de unidad",
+   "bajada": "La reunión será desde las 19.30 en la sede provincial del partido, con Luque, Bowen y Glinski, de cara a las elecciones del 21 de marzo de 2027.",
    "cuerpo": [
-    "El intendente de Dolavon y precandidato a gobernador, Dante Bowen, mantuvo una reunión con referentes del Partido Socialista Auténtico–Unidad Socialista, en el marco de su armado político para las elecciones.",
-    "Según indicaron desde su sector, hubo coincidencias sobre la necesidad de conformar una alternativa \"federal y con identidad chubutense\". Bowen ratificó así su voluntad de competir por la Gobernación el 21 de marzo de 2027.",
-    "En el encuentro se plantearon cuestionamientos al rumbo del Gobierno nacional de Javier Milei y a la gestión provincial de Ignacio Torres, en especial sobre el manejo de los recursos y el desarrollo de la provincia.",
-    "Ambos espacios acordaron mantener abiertas las conversaciones durante las próximas semanas, mientras avanzan las definiciones políticas."
+    "El Partido Justicialista de Chubut realizará este viernes, desde las 19.30, una reunión en su sede de Rawson con las mesas del Consejo y del Congreso partidario y los tres dirigentes que se lanzaron como precandidatos a gobernador: Juan Pablo Luque, Dante Bowen y José Glinski.",
+    "El presidente del partido, Gustavo Fita, explicó que la idea es conocer la postura de cada aspirante y continuar las conversaciones ya iniciadas para construir una estrategia y un proyecto común. También anticipó reuniones con otros dirigentes que manifestaron su intención de competir. Sobre una eventual interna, dijo que todas las alternativas están abiertas y que \"los tiempos están dados para hacer todo\".",
+    "Con las elecciones provinciales y municipales adelantadas al 21 de marzo, el calendario es cada vez más ajustado. En Trelew, además, el PJ convocará a los cuatro precandidatos a intendente (Alejandra Vázquez, Juan Aguilar, Emanuel Coliñir y Nicanor Rodríguez) para buscar una candidatura de consenso, y en Puerto Madryn sectores del peronismo pidieron conformar una lista única."
    ],
-   "foto": "elecciones",
-   "arte": "valle",
-   "origen": "https://canal12web.com/bowen-sumo-reuniones-politicas-y-avanzo-en-conversaciones-con-el-socialismo-autentico/"
+   "foto": "reunion",
+   "arte": "ciudad",
+   "origen": "https://www.elchubut.com.ar/regionales/2026-11-26-20-38-0-el-pj-reune-a-los-tres-precandidatos-a-gobernador-para-buscar-avanzar-en-un-acuerdo-de-unidad"
+  },
+  {
+   "id": "avila-apoyo-reeleccion-torres",
+   "sec": "politica",
+   "ciudad": "Comodoro Rivadavia",
+   "tema": "Elecciones 2027",
+   "titulo": "Loma Ávila confirmó que apoyará la reelección de Torres: \"Lo vamos a reelegir por el coraje de haber estado\"",
+   "bajada": "El titular del Sindicato de Petroleros y diputado nacional lo anunció ante trabajadores de la Cuenca del Golfo San Jorge.",
+   "cuerpo": [
+    "Jorge \"Loma\" Ávila, secretario general del Sindicato del Petróleo y Gas Privado del Chubut y diputado nacional, anunció que respaldará la reelección del gobernador Ignacio Torres en 2027. \"Este secretario general ya tiene un candidato a gobernador, y ese candidato es el compañero Nacho Torres\", dijo ante trabajadores petroleros.",
+    "Ávila vinculó su apoyo al acompañamiento que, según planteó, tuvo el sector en la crisis más dura de la industria: \"Esta fue la peor crisis de todas y la vivimos juntos, la soportamos juntos\". También sostuvo que el desarrollo de los recursos debe incluir al sector privado y al Estado, y mencionó a las empresas que mantienen inversiones en la provincia.",
+    "Sobre su relación con el peronismo, afirmó que siempre fue peronista, pero que cuando el partido \"no me quiso, me echó\", y que no se va a identificar con quienes, a su juicio, abandonaron a los trabajadores. Cerró prometiendo defender la Cuenca y el empleo petrolero \"con uñas y dientes\"."
+   ],
+   "foto": "petroleo",
+   "arte": "petroleo",
+   "origen": "https://canal12web.com/avila-confirmo-que-acompanara-a-torres-en-2027-lo-vamos-a-reelegir-por-el-coraje-de-haber-estado/"
+  },
+  {
+   "id": "sur-en-precios-plataforma-unpsjb",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "tema": "Economía regional",
+   "titulo": "La UNPSJB presentó \"Sur en Precios\", una plataforma para seguir los precios de supermercados en la Patagonia",
+   "bajada": "Permite comparar valores en Chubut, Santa Cruz y Tierra del Fuego, armar listas de compras y ver cómo evolucionan los costos.",
+   "cuerpo": [
+    "El Observatorio de Economía de la Facultad de Ciencias Económicas de la Universidad Nacional de la Patagonia San Juan Bosco presentó este jueves \"El Sur de la Información\", un conjunto de herramientas digitales para acercar datos sobre la economía patagónica.",
+    "Una de ellas es \"Sur en Precios\", una plataforma de monitoreo, análisis y búsqueda de precios de supermercados de las tres provincias. Los usuarios pueden buscar productos por categoría, armar y compartir listas de compras y seguir la evolución de los precios a partir de actualizaciones periódicas. La presentó el ingeniero Daniel Beherns.",
+    "La otra novedad es OBSECON, el nuevo sitio del Observatorio, que reúne estudios, información e indicadores económicos de la región. El acto lo encabezó César Herrera, director del Observatorio en Comodoro, y se hizo a tres años del lanzamiento de la Web de Precios."
+   ],
+   "foto": "universidad",
+   "arte": "banco",
+   "origen": "https://www.eldiarioweb.com/2026/11/presentaron-sur-en-precios-una-plataforma-para-seguir-el-costo-de-los-productos-en-la-patagonia/"
+  },
+  {
+   "id": "tehuelches-seven-republica-parana",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "tema": "Rugby",
+   "titulo": "Tehuelches viajó a Paraná al Seven de la República en busca de la permanencia y el ascenso",
+   "bajada": "El seleccionado del Valle juega la Zona Ascenso del torneo, que se disputa este fin de semana en Entre Ríos.",
+   "cuerpo": [
+    "El seleccionado Tehuelches partió a Paraná para disputar el Seven de la República 2026, que este fin de semana tendrá su 42.ª edición masculina y la 10.ª femenina, en las canchas de Estudiantes y del Paraná Rowing Club.",
+    "El equipo chubutense integra la Zona 6 de ascenso, junto a Austral, Andina, Formosa y Entre Ríos B. El plantel reúne jugadores de Patoruzú, Trelew RC, Bigornia, Puerto Madryn RC y Draig Goch, entre otros clubes, y mantiene el cuerpo técnico del año pasado, con Mauro Pagani como entrenador.",
+    "El año pasado Tehuelches jugó también en la Zona Ascenso y logró la permanencia con dos triunfos y tres derrotas. Este año el primer objetivo es sostener la categoría y, una vez conseguido, pelear por el ascenso."
+   ],
+   "foto": "rugby",
+   "arte": "rugby",
+   "origen": "https://www.diariojornada.com.ar/427827/deportes/tehuelches_partio_a_parana_en_busca_del_ascenso"
+  },
+  {
+   "id": "kayakeada-madryn-8-diciembre",
+   "sec": "turismo",
+   "ciudad": "Puerto Madryn",
+   "tema": "Agenda Madryn",
+   "titulo": "Puerto Madryn vivirá la 11.ª Kayakeada en honor a la Virgen el 8 de diciembre",
+   "bajada": "La procesión náutica parte a las 19 desde la Bajada N.º 8; la inscripción está abierta hasta el 4 de diciembre.",
+   "cuerpo": [
+    "La Secretaría de Turismo de Puerto Madryn invitó a la 11.ª edición de la kayakeada en honor a la Inmaculada Concepción, patrona de la ciudad. Será el martes 8 de diciembre, desde las 19, en la Bajada N.º 8, cerca del Madryn Kayak Club.",
+    "La procesión trasladará la imagen de la Virgen desde la guardería del club hasta la fuente de la ciudad, en Avenida Roca y 28 de Julio. Se puede acompañar por tierra o por mar. La concentración empieza a las 17, con entrega de ofrendas y un momento de reflexión.",
+    "Los mayores de 18 que quieran remar deben inscribirse hasta el 4 de diciembre o hasta completar el cupo, y también pueden sumarse quienes practican stand up. Es obligatorio contar con elementos de seguridad y consultar la logística con el club."
+   ],
+   "foto": "costa",
+   "arte": "mar",
+   "origen": "https://cholilaonline.ar/2026/11/puerto-madryn-vivira-la-11a-edicion-de-la-kayakeada-en-honor-a-la-virgen.html"
+  },
+  {
+   "id": "talleres-culturales-madryn-cierre-2026",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "tema": "Agenda Madryn",
+   "titulo": "Puerto Madryn cierra los Talleres Culturales 2026 con una muestra gratuita el sábado",
+   "bajada": "Será de 14 a 18 en el Gimnasio Municipal N.º 1, con música en vivo, danza y artes plásticas.",
+   "cuerpo": [
+    "La Subsecretaría de Cultura de Puerto Madryn invitó al cierre anual de los Talleres Culturales 2026, el sábado 28 de noviembre de 14 a 18 en el Gimnasio Municipal N.º 1, con entrada libre y gratuita.",
+    "Habrá música en vivo, presentaciones de danza, muestras de artes plásticas y otras propuestas de los espacios formativos. Funcionan casi dos centenares de talleres, con más de 150 profesores y entre 2.500 y 3.000 participantes de todas las edades.",
+    "La oferta incluye danzas, tango, cerámica, literatura, teatro, pintura, historieta, guitarra, canto, piano, fotografía y desarrollo audiovisual, en la Casa de la Cultura, la Biblioteca Sarmiento, el Teatro del Muelle y centros culturales barriales."
+   ],
+   "foto": "musica",
+   "arte": "escenario",
+   "origen": "https://cholilaonline.ar/2026/11/los-talleres-culturales-tendran-su-cierre-este-sabado.html"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427818/deportes/la_posible_formacion_de_estudiantes_para_enfrentar_a_palmeiras",
-  "https://www.diariojornada.com.ar/427823/magazine/assongue_llevo_el_talento_de_chubut_al_nacional_de_baile",
-  "https://www.diariojornada.com.ar/427819/genero/espana_ataque_machista_de_feijoo_a_ada_colau_en_debate_presidencial",
-  "https://www.diariojornada.com.ar/427810/genero/confirman_condena_de_un_hijo_de_nancy_godoy_por_abuso_sexual",
-  "https://www.elchubut.com.ar/nacionales/2026-11-27-9-43-0-el-senado-convirtio-en-ley-la-prohibicion-de-apuestas-online-para-menores-y-de-publicidad-deportiva",
-  "https://www.elchubut.com.ar/trelew/2026-11-27-11-13-0-hospital-margara-como-sacar-turnos-horarios-de-atencion-y-todas-las-especialidades-disponibles",
-  "https://www.elchubut.com.ar/trelew/2026-11-27-13-10-0-el-concejo-deliberante-aprobo-la-tarifaria-2027",
-  "https://www.eldiarioweb.com/2026/11/merino-en-clave-electoral/",
-  "https://www.eldiarioweb.com/2026/11/voto-unanime-para-la-ley-de-prevencion-de-la-ludopatia-y-regulacion-de-las-apuestas-online/",
-  "https://www.madrynahora.com/puerto-madryn/quiso-salir-de-la-anonima-con-fernet-y-jamon-sin-pagar-y-lo-atraparon/",
-  "https://www.madrynahora.com/puerto-madryn/demoraron-a-un-artista-callejero-en-madryn-tras-un-episodio-de-agresividad-hacia-policias/",
-  "https://www.madrynahora.com/puerto-madryn/un-motociclista-sufrio-una-grave-lesion-tras-chocar-contra-una-camioneta-en-madryn/",
-  "https://www.madrynahora.com/argentina/desmantelan-una-banda-de-viudas-negras-hay-cuatro-detenidos-y-secuestraron-24-celulares/",
-  "https://canal12web.com/realizaron-una-limpieza-profunda-en-la-laguna-chiquichano-de-trelew/",
-  "https://canal12web.com/este-sabado-se-podra-recorrer-la-base-almirante-zar-y-conocer-de-cerca-las-aeronaves-de-la-armada/",
-  "https://cholilaonline.ar/2026/11/red-electrica-en-gregorio-mayo-obras-calle-jujuy-luces-led.html",
-  "https://cholilaonline.ar/2026/11/prevencion-en-la-costa-jardines-y-guardavidas-unieron-fuerzas-en-rawson.html",
-  "https://cholilaonline.ar/2026/11/salud-mental-y-violencias-en-rawson-balance-2026.html"
+  "https://www.diariojornada.com.ar/427828/politica/puerto_madryn_votara_autoridades_municipales_el_21_de_marzo",
+  "https://www.diariojornada.com.ar/427825/politica/a_los_92_anos_murio_el_empresario_jorge_born",
+  "https://www.diariojornada.com.ar/427824/internacional/piratas_informaticos_vulneraron_una_plataforma_de_la_fuerza_aerea_de_eeuu",
+  "https://www.elchubut.com.ar/estilo-y-vida-/2026-11-27-12-30-0-horoscopo-del-fin-de-semana-que-energias-trae-la-luna-llena-para-cada-signo-y-como-influye-marte-en-virgo",
+  "https://www.elchubut.com.ar/regionales/2026-11-26-20-33-0-el-senado-aprobo-con-43-votos-el-proyecto-de-reforma-electoral-y-lo-giro-a-diputados",
+  "https://www.eldiarioweb.com/2026/11/es-ley-la-reforma-a-la-carta-organica-del-banco-central/",
+  "https://www.eldiarioweb.com/2026/11/diputados-sesiona-para-debatir-el-presupuesto/",
+  "https://www.eldiarioweb.com/2026/11/el-presidente-javier-milei-se-reunio-hoy-con-su-par-de-la-republica-del-paraguay-pedro-alliana/",
+  "https://www.madrynahora.com/puerto-madryn/un-vecino-de-puerto-madryn-perdio-su-herramienta-de-trabajo-dejaron-sin-trabajo-a-una-familia/",
+  "https://www.madrynahora.com/puerto-madryn/robaron-una-bici-en-el-barrio-covitre-era-el-medio-de-transporte-de-un-chico-para-ir-a-la-escuela-y-entrenar/",
+  "https://www.madrynahora.com/puerto-madryn/entro-por-la-fuerza-a-la-casa-de-su-abuela-la-agredio-y-termino-detenido/",
+  "https://canal12web.com/terenzi-acompano-la-suspension-de-las-paso-pero-defendio-las-internas-y-pidio-una-reforma/",
+  "https://canal12web.com/el-senado-dio-el-primer-paso-para-suspender-las-paso-y-el-gobierno-logro-una-amplia-mayoria/",
+  "https://cholilaonline.ar/2026/11/se-brindo-un-taller-sobre-entornos-digitales-y-prevencion-del-cyberbullying.html",
+  "https://cholilaonline.ar/2026/11/atencion-vecinos-de-madryn-llega-la-limpieza-barrial-a-dos-sectores.html"
  ]
 }

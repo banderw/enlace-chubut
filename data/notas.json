@@ -77,6 +77,96 @@
  ],
  "notas": [
   {
+   "id": "talleres-culturales-madryn-cierre-2026",
+   "fecha": "2026-11-27T15:40:45-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn cierra los Talleres Culturales 2026 con una muestra gratuita el sábado",
+   "bajada": "Será de 14 a 18 en el Gimnasio Municipal N.º 1, con música en vivo, danza y artes plásticas.",
+   "cuerpo": [
+    "La Subsecretaría de Cultura de Puerto Madryn invitó al cierre anual de los Talleres Culturales 2026, el sábado 28 de noviembre de 14 a 18 en el Gimnasio Municipal N.º 1, con entrada libre y gratuita.",
+    "Habrá música en vivo, presentaciones de danza, muestras de artes plásticas y otras propuestas de los espacios formativos. Funcionan casi dos centenares de talleres, con más de 150 profesores y entre 2.500 y 3.000 participantes de todas las edades.",
+    "La oferta incluye danzas, tango, cerámica, literatura, teatro, pintura, historieta, guitarra, canto, piano, fotografía y desarrollo audiovisual, en la Casa de la Cultura, la Biblioteca Sarmiento, el Teatro del Muelle y centros culturales barriales."
+   ],
+   "arte": "escenario",
+   "tema": "Agenda Madryn"
+  },
+  {
+   "id": "kayakeada-madryn-8-diciembre",
+   "fecha": "2026-11-27T15:40:44-03:00",
+   "sec": "turismo",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn vivirá la 11.ª Kayakeada en honor a la Virgen el 8 de diciembre",
+   "bajada": "La procesión náutica parte a las 19 desde la Bajada N.º 8; la inscripción está abierta hasta el 4 de diciembre.",
+   "cuerpo": [
+    "La Secretaría de Turismo de Puerto Madryn invitó a la 11.ª edición de la kayakeada en honor a la Inmaculada Concepción, patrona de la ciudad. Será el martes 8 de diciembre, desde las 19, en la Bajada N.º 8, cerca del Madryn Kayak Club.",
+    "La procesión trasladará la imagen de la Virgen desde la guardería del club hasta la fuente de la ciudad, en Avenida Roca y 28 de Julio. Se puede acompañar por tierra o por mar. La concentración empieza a las 17, con entrega de ofrendas y un momento de reflexión.",
+    "Los mayores de 18 que quieran remar deben inscribirse hasta el 4 de diciembre o hasta completar el cupo, y también pueden sumarse quienes practican stand up. Es obligatorio contar con elementos de seguridad y consultar la logística con el club."
+   ],
+   "arte": "mar",
+   "tema": "Agenda Madryn"
+  },
+  {
+   "id": "tehuelches-seven-republica-parana",
+   "fecha": "2026-11-27T15:40:43-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "Tehuelches viajó a Paraná al Seven de la República en busca de la permanencia y el ascenso",
+   "bajada": "El seleccionado del Valle juega la Zona Ascenso del torneo, que se disputa este fin de semana en Entre Ríos.",
+   "cuerpo": [
+    "El seleccionado Tehuelches partió a Paraná para disputar el Seven de la República 2026, que este fin de semana tendrá su 42.ª edición masculina y la 10.ª femenina, en las canchas de Estudiantes y del Paraná Rowing Club.",
+    "El equipo chubutense integra la Zona 6 de ascenso, junto a Austral, Andina, Formosa y Entre Ríos B. El plantel reúne jugadores de Patoruzú, Trelew RC, Bigornia, Puerto Madryn RC y Draig Goch, entre otros clubes, y mantiene el cuerpo técnico del año pasado, con Mauro Pagani como entrenador.",
+    "El año pasado Tehuelches jugó también en la Zona Ascenso y logró la permanencia con dos triunfos y tres derrotas. Este año el primer objetivo es sostener la categoría y, una vez conseguido, pelear por el ascenso."
+   ],
+   "arte": "rugby",
+   "tema": "Rugby"
+  },
+  {
+   "id": "sur-en-precios-plataforma-unpsjb",
+   "fecha": "2026-11-27T15:40:42-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "La UNPSJB presentó \"Sur en Precios\", una plataforma para seguir los precios de supermercados en la Patagonia",
+   "bajada": "Permite comparar valores en Chubut, Santa Cruz y Tierra del Fuego, armar listas de compras y ver cómo evolucionan los costos.",
+   "cuerpo": [
+    "El Observatorio de Economía de la Facultad de Ciencias Económicas de la Universidad Nacional de la Patagonia San Juan Bosco presentó este jueves \"El Sur de la Información\", un conjunto de herramientas digitales para acercar datos sobre la economía patagónica.",
+    "Una de ellas es \"Sur en Precios\", una plataforma de monitoreo, análisis y búsqueda de precios de supermercados de las tres provincias. Los usuarios pueden buscar productos por categoría, armar y compartir listas de compras y seguir la evolución de los precios a partir de actualizaciones periódicas. La presentó el ingeniero Daniel Beherns.",
+    "La otra novedad es OBSECON, el nuevo sitio del Observatorio, que reúne estudios, información e indicadores económicos de la región. El acto lo encabezó César Herrera, director del Observatorio en Comodoro, y se hizo a tres años del lanzamiento de la Web de Precios."
+   ],
+   "arte": "banco",
+   "tema": "Economía regional"
+  },
+  {
+   "id": "avila-apoyo-reeleccion-torres",
+   "fecha": "2026-11-27T15:40:41-03:00",
+   "sec": "politica",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Loma Ávila confirmó que apoyará la reelección de Torres: \"Lo vamos a reelegir por el coraje de haber estado\"",
+   "bajada": "El titular del Sindicato de Petroleros y diputado nacional lo anunció ante trabajadores de la Cuenca del Golfo San Jorge.",
+   "cuerpo": [
+    "Jorge \"Loma\" Ávila, secretario general del Sindicato del Petróleo y Gas Privado del Chubut y diputado nacional, anunció que respaldará la reelección del gobernador Ignacio Torres en 2027. \"Este secretario general ya tiene un candidato a gobernador, y ese candidato es el compañero Nacho Torres\", dijo ante trabajadores petroleros.",
+    "Ávila vinculó su apoyo al acompañamiento que, según planteó, tuvo el sector en la crisis más dura de la industria: \"Esta fue la peor crisis de todas y la vivimos juntos, la soportamos juntos\". También sostuvo que el desarrollo de los recursos debe incluir al sector privado y al Estado, y mencionó a las empresas que mantienen inversiones en la provincia.",
+    "Sobre su relación con el peronismo, afirmó que siempre fue peronista, pero que cuando el partido \"no me quiso, me echó\", y que no se va a identificar con quienes, a su juicio, abandonaron a los trabajadores. Cerró prometiendo defender la Cuenca y el empleo petrolero \"con uñas y dientes\"."
+   ],
+   "arte": "petroleo",
+   "tema": "Elecciones 2027"
+  },
+  {
+   "id": "pj-cumbre-rawson-precandidatos-gobernador",
+   "fecha": "2026-11-27T15:40:40-03:00",
+   "sec": "politica",
+   "ciudad": "Rawson",
+   "titulo": "El PJ reúne esta noche en Rawson a sus precandidatos a gobernador para buscar un acuerdo de unidad",
+   "bajada": "La reunión será desde las 19.30 en la sede provincial del partido, con Luque, Bowen y Glinski, de cara a las elecciones del 21 de marzo de 2027.",
+   "cuerpo": [
+    "El Partido Justicialista de Chubut realizará este viernes, desde las 19.30, una reunión en su sede de Rawson con las mesas del Consejo y del Congreso partidario y los tres dirigentes que se lanzaron como precandidatos a gobernador: Juan Pablo Luque, Dante Bowen y José Glinski.",
+    "El presidente del partido, Gustavo Fita, explicó que la idea es conocer la postura de cada aspirante y continuar las conversaciones ya iniciadas para construir una estrategia y un proyecto común. También anticipó reuniones con otros dirigentes que manifestaron su intención de competir. Sobre una eventual interna, dijo que todas las alternativas están abiertas y que \"los tiempos están dados para hacer todo\".",
+    "Con las elecciones provinciales y municipales adelantadas al 21 de marzo, el calendario es cada vez más ajustado. En Trelew, además, el PJ convocará a los cuatro precandidatos a intendente (Alejandra Vázquez, Juan Aguilar, Emanuel Coliñir y Nicanor Rodríguez) para buscar una candidatura de consenso, y en Puerto Madryn sectores del peronismo pidieron conformar una lista única."
+   ],
+   "arte": "ciudad",
+   "tema": "Elecciones 2027"
+  },
+  {
    "id": "bowen-reunion-socialismo-autentico",
    "fecha": "2026-11-27T15:08:45-03:00",
    "sec": "politica",
@@ -1384,84 +1474,6 @@
    "tema": "Educación"
   },
   {
-   "id": "detenidos-ataque-madryn",
-   "fecha": "2026-11-25T20:58:26-03:00",
-   "sec": "policiales",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Dos detenidos por el ataque a puñaladas contra un trabajador en Puerto Madryn",
-   "bajada": "La Policía hizo tres allanamientos en los barrios Presidente Perón y Las Bardas y en calle Colón al 1000.",
-   "cuerpo": [
-    "La investigación por el ataque con arma blanca que sufrió un hombre el fin de semana en Puerto Madryn tuvo avances: ya hay dos personas detenidas.",
-    "Los investigadores allanaron tres domicilios, en los barrios Presidente Perón y Las Bardas y en calle Colón al 1000. En esos procedimientos detuvieron a la primera persona y secuestraron elementos que se sumarán a la causa.",
-    "Por la tarde aprehendieron a un segundo sospechoso, un hombre de 35 años, en la zona de avenida Hipólito Yrigoyen y Alejandro Maíz.",
-    "La víctima había sido encontrada tendida sobre calle Villarino, entre Urtazun y Mengolarra, con una herida de arma blanca en la espalda."
-   ],
-   "arte": "noche",
-   "tema": "Ataque en Madryn"
-  },
-  {
-   "id": "estafa-cuenta-solidaria-comodoro",
-   "fecha": "2026-11-25T20:58:25-03:00",
-   "sec": "ultimas",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Estafadores vaciaron la cuenta solidaria de una familia de Comodoro que junta fondos para su hijo",
-   "bajada": "El nene tiene 6 años y dos enfermedades genéticas poco frecuentes. Habían reunido casi $10 millones para un tratamiento de $600 millones.",
-   "cuerpo": [
-    "Una familia de Comodoro Rivadavia que recauda dinero para el tratamiento de su hijo de 6 años se quedó sin lo que había juntado: estafadores tomaron el control de la cuenta bancaria y la dejaron en cero. Había casi $10 millones.",
-    "El chico tiene al mismo tiempo síndrome de Noonan y schwannomatosis, dos afecciones genéticas sin cura cuya combinación es muy poco común. El tratamiento cuesta alrededor de $600 millones.",
-    "Su mamá contó que hace una semana le robaron el celular en la zona de Congreso, en Buenos Aires. Días después le llegó a otro teléfono un mensaje con un enlace que prometía mostrar dónde estaba el aparato; al abrirlo, el equipo se bloqueó y le vaciaron la cuenta.",
-    "La mujer hizo la denuncia en la Policía de la Ciudad, reclama a los bancos que le devuelvan el dinero y difundió nuevos datos para seguir recibiendo ayuda."
-   ],
-   "arte": "ciudad",
-   "tema": "Estafas virtuales"
-  },
-  {
-   "id": "paro-bancario",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Bancarios de Comodoro paran el 1 y 2 de diciembre por despidos y cierre de sucursales",
-   "bajada": "Los empleados del Santander se suman a la medida nacional de La Bancaria: dejarán de atender al público en las últimas tres horas de cada jornada.",
-   "cuerpo": [
-    "Los trabajadores del Banco Santander en Comodoro Rivadavia cumplirán el martes 1 y el miércoles 2 de diciembre el paro nacional convocado por la Asociación Bancaria. Durante esos dos días no habrá atención al público en las últimas tres horas del horario bancario.",
-    "La medida se definió en conjunto entre la conducción nacional del gremio, las seccionales y las comisiones internas, después de que fracasaran las negociaciones en la Secretaría de Trabajo. El reclamo apunta contra los despidos, los retiros forzados y el cierre de sucursales.",
-    "El delegado Gonzalo Martínez describió la política de la empresa como un achique sistemático y denunció presiones a los empleados para que acepten desvincularse. En Comodoro ya cerraron tres sucursales y solo quedan dos abiertas. En la región también hubo despidos en Caleta Olivia y se cerró la sede de Las Heras.",
-    "Para el gremio, el recorte de personal se nota en la calle: hay clientes que esperan hasta una hora para ser atendidos, cuando antes el trámite era rápido."
-   ],
-   "arte": "ciudad",
-   "tema": "Paro bancario"
-  },
-  {
-   "id": "elecciones-esquel",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "politica",
-   "ciudad": "Esquel",
-   "titulo": "Elecciones del 21 de marzo: Esquel empieza a tratar la adhesión al cronograma provincial",
-   "bajada": "El intendente Matías Taccetta envió al Concejo Deliberante el proyecto para que la ciudad vote el mismo día que la provincia.",
-   "cuerpo": [
-    "El gobernador Ignacio Torres fijó por el Decreto 1.872 las elecciones provinciales para el domingo 21 de marzo de 2027. Esquel quiere sumarse a esa fecha para no tener que votar dos veces.",
-    "El proyecto ingresa en la sesión ordinaria del viernes y la semana próxima pasará a la comisión correspondiente. El presidente del Concejo, Rubén Álvarez, anticipó que habrá una consulta legal pero que no hay demasiado para analizar: el oficialismo tiene la mayoría simple que necesita para aprobarlo.",
-    "Los tiempos aprietan, porque el cronograma electoral arranca en diciembre."
-   ],
-   "arte": "cordillera",
-   "tema": "Elecciones 2027"
-  },
-  {
-   "id": "marea-roja",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "ultimas",
-   "ciudad": "Costa chubutense",
-   "titulo": "Sigue la veda por marea roja en toda la costa de Chubut",
-   "bajada": "Está prohibido extraer moluscos bivalvos y caracoles en toda la provincia: los análisis detectaron toxinas por encima del límite para consumo humano.",
-   "cuerpo": [
-    "La Secretaría de Pesca mantiene durante noviembre la veda para la extracción de moluscos bivalvos y gasterópodos en toda la jurisdicción provincial.",
-    "La decisión se basa en los muestreos de toxina paralizante de moluscos, que dieron valores por encima de los máximos permitidos por el Código Alimentario Argentino.",
-    "La continuidad de la medida depende de los próximos análisis, que se hacen dentro de los programas de prevención y control de marea roja de la Secretaría."
-   ],
-   "arte": "mar",
-   "tema": "Marea roja"
-  },
-  {
    "id": "eclipse",
    "fecha": "2026-11-25T19:00:00-03:00",
    "sec": "turismo",
@@ -1476,21 +1488,6 @@
    "arte": "eclipse",
    "lugar": "especial",
    "tema": "Eclipse anular"
-  },
-  {
-   "id": "antigranizo",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "ultimas",
-   "ciudad": "Provincia",
-   "titulo": "Chubut y el CFI abrieron créditos para que los productores instalen sistemas antigranizo",
-   "bajada": "La línea combina financiamiento y asistencia técnica para proteger cultivos de productores agrícolas y agroindustriales.",
-   "cuerpo": [
-    "El Ministerio de Producción habilitó una nueva línea del Consejo Federal de Inversiones para comprar e instalar sistemas de protección contra el granizo.",
-    "La herramienta está pensada para productores agrícolas y agroindustriales y busca reducir los daños en los cultivos, cuidar su calidad y darle más previsibilidad al sector.",
-    "La acordaron el gobernador Ignacio Torres y el secretario general del CFI, Ignacio Lamothe, dentro del Programa Federal de Acciones Sustentables, que también incluye diagnósticos ambientales para industrias y turismo."
-   ],
-   "arte": "valle",
-   "tema": "Producción"
   }
  ]
 }

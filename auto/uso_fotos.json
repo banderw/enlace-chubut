@@ -14,7 +14,7 @@
 "bomberos-1": 1,
 "basquet-1": 2,
 "futbol-2": 3,
-"universidad-1": 1,
+"universidad-1": 2,
 "chicos-1": 1,
 "universidad-2": 1,
 "chicos-2": 1,
@@ -52,5 +52,10 @@
 "comercio-1": 1,
 "limpieza-1": 1,
 "comercio-2": 1,
-"fiesta-2": 1
+"fiesta-2": 1,
+"reunion-1": 1,
+"petroleo-1": 1,
+"rugby-1": 1,
+"costa-2": 1,
+"musica-1": 1
 }
