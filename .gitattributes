@@ -1,0 +1,7 @@
+# Los scripts de la nube (Linux) escriben con LF: se guarda todo con LF para que no aparezcan cambios falsos
+*.json text eol=lf
+*.log text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.html text eol=lf
+*.js text eol=lf

@@ -7,11 +7,11 @@ Python: `python3 -X utf8`. Si al agregar notas falta Pillow (`No module named 'P
 
 ## Pasos
 
-0. **Ponerse al día**: `git fetch origin main && git checkout main && git reset --hard origin/main` (siempre se trabaja sobre la última versión de `main`).
+0. **Ponerse al día**: `git checkout main && git pull --ff-only origin main` (siempre se trabaja sobre la última versión de `main`; no uses `git reset`).
 
 1. **Buscar notas nuevas**: `python3 -X utf8 auto/buscar_nuevas.py`
    Si dice `0 candidatas nuevas`, terminá ahí: no publiques nada e informá "Sin novedades".
-   Si dice que no pudo leer los diarios por un error de red o de proxy en todas las fuentes, terminá e informá el error textual.
+   Si dice que no pudo leer los diarios por un error de red o de proxy en todas las fuentes, terminá e informá el error textual (en ese caso no hagas commit: si `git status` muestra cambios solo en `auto/vistas.json`, descartalos con `git checkout -- auto/vistas.json`).
 
 2. **Leer** `auto/candidatas.json`, los títulos y temas de las últimas 40 notas de `data/notas.json` (para no repetir) y `banco-fotos/indice.json` (temas de fotos).
 
