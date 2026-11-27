@@ -77,6 +77,85 @@
  ],
  "notas": [
   {
+   "id": "comodoro-othar-financiamiento-maquinaria-bice",
+   "fecha": "2026-11-27T16:08:49-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro gestiona en Nación un leasing para renovar la maquinaria vial",
+   "bajada": "El intendente Othar Macharashvili y el secretario de Economía, Fernando Barría, se reunieron en Buenos Aires con un subsecretario de Vicejefatura de Gabinete.",
+   "cuerpo": [
+    "El intendente Othar Macharashvili, junto al secretario de Economía, Fernando Barría, se reunió en Buenos Aires con el subsecretario de Relaciones con los Municipios, Carlos Marcelo D'Abate, para tratar herramientas de financiamiento y equipamiento.",
+    "Barría explicó que el esquema nacional no prevé transferencias directas, pero se abrió un canal con el BICE para un leasing con tasa o cuota bonificada para maquinaria vial.",
+    "También informó que la Subsecretaría confirmó que las rendiciones de programas anteriores están en orden, lo que ubicaría al Municipio en buena posición ante una eventual línea de crédito."
+   ],
+   "arte": "ciudad",
+   "tema": "Gestión municipal"
+  },
+  {
+   "id": "el-hoyo-sorteo-casa-fruta-fina-2027",
+   "fecha": "2026-11-27T16:08:48-03:00",
+   "sec": "ultimas",
+   "ciudad": "El Hoyo",
+   "titulo": "El Hoyo sorteará una casa en la Fiesta Nacional de la Fruta Fina 2027",
+   "bajada": "El Concejo Deliberante aceptó por unanimidad la donación de una vivienda modular de 28 metros cuadrados.",
+   "cuerpo": [
+    "Una casa prefabricada de 28 metros cuadrados, modelo \"Los Notros\", será el premio principal de un sorteo durante la Fiesta Nacional de la Fruta Fina 2027, en El Hoyo. La empresa VASTEK aportará materiales y mano de obra, sin costo para el Municipio, y se hará cargo de plazos y garantía.",
+    "Quien gane deberá afrontar gastos no incluidos, como la cimentación, la preparación del terreno y las conexiones de servicios.",
+    "En la misma sesión especial, con cinco ediles, el Concejo aceptó una camioneta Ford Ranger 4x4 donada por el IAC para el parque automotor municipal.",
+    "También ratificaron un aporte no reintegrable de $40.129.937 de la Secretaría de Infraestructura, Energía y Planificación del Chubut, destinado a instalar 200 luminarias en el alumbrado público."
+   ],
+   "arte": "valle",
+   "tema": "Fruta Fina"
+  },
+  {
+   "id": "las-torres-mtb-madryn-septima-edicion",
+   "fecha": "2026-11-27T16:08:47-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Las Torres MTB: 82 ciclistas correrán el domingo en Puerto Madryn",
+   "bajada": "La séptima edición de la prueba de mountain bike largará a las 9:30 desde la zona de las reservas de Servicoop.",
+   "cuerpo": [
+    "Puerto Madryn será escenario este domingo 29 de noviembre de la 7.ª edición de Las Torres MTB, con 82 ciclistas confirmados y el apoyo de Chubut Deportes. La largada es a las 9:30.",
+    "Días atrás, la directora de Chubut Deportes, Alejandra Ibrahim, se reunió con los organizadores Daniel Barchetta y Rubén Villarreal para ultimar detalles.",
+    "El circuito, al oeste de la ciudad, combina caminos rurales, senderos y rectas rápidas, con el viento patagónico como factor. La modalidad Promocional tendrá dos vueltas y la Competitiva, tres.",
+    "Habrá divisiones Promocionales, Menores, Elite, Sub 23 y Máster, en damas y caballeros."
+   ],
+   "arte": "cancha",
+   "tema": "Ciclismo"
+  },
+  {
+   "id": "rabia-murcielago-puerto-madryn-villa-padilla",
+   "fecha": "2026-11-27T16:08:46-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Rabia en Puerto Madryn: vacunan mascotas en Villa Padilla tras un caso en un murciélago",
+   "bajada": "La Municipalidad armó un anillo epidemiológico alrededor de la Escuela N.º 110 y vacunará gratis a perros y gatos desde este sábado.",
+   "cuerpo": [
+    "Tras confirmarse un caso positivo de rabia en un murciélago hallado cerca de la Escuela N.º 110, en el barrio Villa Padilla, la Dirección de Veterinaria y Zoonosis de Puerto Madryn activó un protocolo sanitario y delimitó un anillo epidemiológico.",
+    "Agentes municipales identificados recorrerán las casas ubicadas entre las calles Reconquista, Estivariz, Piedra Buena y 9 de Julio para vacunar a las mascotas. El cronograma es el sábado 28 y el lunes 30 de noviembre y el martes 1 de diciembre, de 8 a 16, y el domingo 29, de 10 a 12.",
+    "Con el mismo horario, el Quirófano Móvil estará en la avenida Gales, entre Colón y Rosales, para aplicar la vacuna antirrábica gratuita. Es obligatoria desde los tres meses de edad.",
+    "Como todo el equipo estará dedicado al operativo, las castraciones quedan suspendidas desde el sábado 28 hasta el martes 2 de diciembre inclusive. Desde Zoonosis recomiendan no tocar mamíferos silvestres y, si hay un murciélago muerto o con movimientos erráticos, cubrirlo con un recipiente y avisar al 103 de Protección Civil."
+   ],
+   "arte": "playa",
+   "tema": "Rabia"
+  },
+  {
+   "id": "seros-nueva-sede-comodoro-albergue-derivados-2",
+   "fecha": "2026-11-27T16:08:45-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Torres inauguró en Comodoro la nueva sede de Seros y un albergue para pacientes derivados",
+   "bajada": "El complejo, de unos 4.000 metros cubiertos y más de 20 millones de dólares de inversión, forma parte del Plan Galina.",
+   "cuerpo": [
+    "El gobernador Ignacio Torres encabezó este jueves en Comodoro Rivadavia la inauguración de la nueva sede de Seros y del Albergue de Derivados, junto al presidente del Instituto de Seguridad Social y Seguros, Miguel Arnaudo.",
+    "El edificio reúne en un mismo predio la gestión administrativa, la atención médica ambulatoria y el alojamiento transitorio para afiliados del interior que viajan a la ciudad por tratamientos prolongados o de alta complejidad. Tiene 25 consultorios, quirófano para cirugías ambulatorias y más de once habitaciones en la residencia para acompañantes.",
+    "El edificio central tiene siete niveles: los tres primeros concentran la atención al público y las oficinas, y los pisos superiores se dedican a consultorios médicos y odontológicos, vacunatorio y cirugía ambulatoria.",
+    "\"Los afiliados de Seros se merecían, en Comodoro Rivadavia y para toda la provincia, una sede administrativa y clínica como la que hoy estamos inaugurando\", dijo Torres, y aseguró que allí se podrán hacer todos los trámites sin cobrar coseguro."
+   ],
+   "arte": "ciudad",
+   "tema": "Seros"
+  },
+  {
    "id": "unpsjb-madryn-colacion-40-egresados",
    "fecha": "2026-11-27T16:01:26-03:00",
    "sec": "ultimas",
@@ -1399,83 +1478,6 @@
    ],
    "arte": "cancha",
    "tema": "Deportivo Madryn"
-  },
-  {
-   "id": "final-abech-brown-madryn-dos-suplementarios",
-   "fecha": "2026-11-26T00:05:20-03:00",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Final del Clausura de ABECh: Brown le ganó a Madryn en doble suplementario y la serie está 1 a 1",
-   "bajada": "Guillermo Brown se impuso 101 a 91 tras igualar 80-80 en el tiempo regular y 90-90 en el primer alargue. El tercer juego será el domingo en el Juan Barrientos.",
-   "cuerpo": [
-    "Guillermo Brown venció a Deportivo Madryn por 101 a 91 en un partido que necesitó dos tiempos suplementarios y empató la serie final del Torneo Clausura de la ABECh. El tiempo reglamentario terminó 80 a 80 y el primer alargue, 90 a 90; recién en el segundo la Banda logró sacar ventaja.",
-    "En el ganador se destacaron Joaquín Otier, con 23 puntos, Augusto Rossi, con 20, y Lautaro García, con 18. En el Aurinegro, Catriel Aredes fue el goleador del partido con 28 puntos y metió 7 de sus 8 triples, mientras que Carlos “Pocho” Pérez y César Laboratorio aportaron 22 cada uno.",
-    "La definición sigue en el estadio Juan Barrientos, donde Deportivo Madryn será local en el tercer juego, previsto para el próximo domingo."
-   ],
-   "arte": "cancha",
-   "tema": "Básquet ABECh"
-  },
-  {
-   "id": "madryn-terminal-demorado-caja-ropa",
-   "fecha": "2026-11-25T23:05:13-03:00",
-   "sec": "policiales",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Terminal de Madryn: demoraron a un hombre que rompió una caja con ropa en un depósito de encomiendas",
-   "bajada": "Un testigo alertó a los empleados, que lo retuvieron hasta que llegó la Policía. No faltó mercadería.",
-   "cuerpo": [
-    "Un hombre quedó demorado el lunes a la noche en la terminal de ómnibus de Puerto Madryn después de romper una caja de cartón con prendas de vestir en el depósito de la empresa Vía Cargo.",
-    "Cerca de las 20.20, un testigo vio cómo la persona se acercaba al depósito y dañaba la caja. Después intentó irse, pero sin llevarse nada. El testigo avisó a los empleados, que lo retuvieron hasta la llegada de la Policía.",
-    "Los efectivos revisaron el contenido y confirmaron que no faltaba ninguna prenda. El procedimiento quedó a cargo de la Comisaría Seccional Primera de Puerto Madryn."
-   ],
-   "arte": "ciudad",
-   "tema": "Seguridad"
-  },
-  {
-   "id": "comodoro-incendio-camioneta-canadon-las-lenas",
-   "fecha": "2026-11-25T23:05:12-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: una camioneta se prendió fuego mientras circulaba por Cañadón Las Leñas",
-   "bajada": "La conductora sintió olor a humo, frenó y al abrir el capot se iniciaron las llamas. Salió ilesa y los Bomberos Voluntarios apagaron el fuego.",
-   "cuerpo": [
-    "Una Land Rover Freelander se incendió el lunes cerca de las 23.30 en la calle Alcoleas al 2.500, en el barrio Cañadón Las Leñas de Comodoro Rivadavia. La mujer que la manejaba no sufrió heridas.",
-    "De acuerdo con lo informado, la conductora empezó a sentir un fuerte olor a humo mientras circulaba. Cuando detuvo la marcha y levantó el capot para revisar el motor, el fuego se inició de golpe en la parte delantera.",
-    "Una dotación de Bomberos Voluntarios llegó al lugar y controló las llamas antes de que el incendio se agravara. La Policía encuadró el hecho como un incendio vehicular por una falla mecánica."
-   ],
-   "arte": "humo",
-   "tema": "Incendios"
-  },
-  {
-   "id": "madryn-cuatro-detenidos-robo-celular",
-   "fecha": "2026-11-25T23:05:11-03:00",
-   "sec": "policiales",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Puerto Madryn: cuatro detenidos por golpear a un hombre para robarle el celular",
-   "bajada": "El hecho ocurrió el lunes a la noche detrás de un supermercado de Fuerte San José y Domecq García. Uno de los aprehendidos tenía tres pedidos de captura.",
-   "cuerpo": [
-    "Cuatro hombres quedaron detenidos el lunes a la noche en Puerto Madryn acusados de un robo en banda. La víctima denunció que lo golpearon para quitarle un iPhone 11 de carcasa azul, pasadas las 21, en la calle que da a la parte trasera de un supermercado sobre avenida Fuerte San José y Domecq García.",
-    "El aviso llegó por el 101 al policía que hacía un servicio adicional en el comercio. El hombre le contó que tres personas lo abordaron y lo golpearon, y que un cuarto escapó hacia la calle Dr. Ávila.",
-    "Con esos datos se armó un operativo que permitió aprehender a tres sospechosos de 44 y 39 años en Fuerte San José y Domecq García, y a un cuarto, de 33, en Dr. Ávila y Pasaje Brunni. Este último tenía tres pedidos de captura vigentes de distintos juzgados, por causas de octubre de 2025 y abril de 2026.",
-    "El teléfono no apareció entre las pertenencias de los detenidos."
-   ],
-   "arte": "ciudad",
-   "tema": "Seguridad"
-  },
-  {
-   "id": "trelew-robo-calle-tecka-dos-veces",
-   "fecha": "2026-11-25T23:05:10-03:00",
-   "sec": "policiales",
-   "ciudad": "Trelew",
-   "titulo": "Trelew: le robaron dos veces en la misma madrugada y la segunda vez la redujeron mientras dormía",
-   "bajada": "Dos hombres forzaron la puerta de una casa de calle Tecka, cerca de Charly García, se llevaron objetos y horas después volvieron para exigirle dinero a la dueña.",
-   "cuerpo": [
-    "Una mujer sufrió dos robos en la misma madrugada del fin de semana en su casa de calle Tecka, casi Charly García, en Trelew. En el primero, dos hombres forzaron la puerta de entrada y se llevaron un anafe de dos hornallas, una balanza digital y un parlante negro.",
-    "La dueña de casa se encontró con la puerta dañada y la vivienda revuelta cerca de las 3, cuando volvió. Ordenó, no hizo la denuncia en ese momento y se fue a dormir.",
-    "Alrededor de las 6, los mismos delincuentes habrían regresado. La sorprendieron dormida, la tiraron al piso y la amenazaron con un objeto que no llegó a identificar mientras le pedían plata. Se llevaron unos 200.000 pesos de una venta reciente y otra suma de efectivo que no pudo precisar.",
-    "La mujer describió a los autores como dos hombres jóvenes, delgados, de alrededor de 1,75 metros, con la cara tapada; uno de ellos tenía una capucha marrón."
-   ],
-   "arte": "noche",
-   "tema": "Seguridad"
   },
   {
    "id": "eclipse",
