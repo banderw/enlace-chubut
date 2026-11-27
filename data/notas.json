@@ -77,6 +77,37 @@
  ],
  "notas": [
   {
+   "id": "hantavirus-prevencion-verano-cordillera",
+   "fecha": "2026-11-26T22:05:22-03:00",
+   "sec": "ultimas",
+   "ciudad": "Provincia",
+   "titulo": "Hantavirus: Salud de Chubut repasa los cuidados antes del verano en la Cordillera",
+   "bajada": "Con la temporada estival y el aumento de las actividades al aire libre y las tareas en chacras, la Secretaría de Salud recordó cómo prevenir el contagio.",
+   "cuerpo": [
+    "La Secretaría de Salud del Chubut, a través del Departamento Provincial de Zooantroponosis, difundió una serie de recomendaciones para prevenir el hantavirus, ante la llegada del verano y el crecimiento de las actividades al aire libre y de las tareas frutihortícolas en la zona cordillerana.",
+    "Para vecinos y turistas, la cartera sanitaria aconseja ventilar galpones, cabañas, caballerizas y otros lugares que hayan estado cerrados mucho tiempo, y mojar el piso antes de barrer para no levantar polvillo. Si aparece un ratón muerto, hay que usar guantes, rociarlo con lavandina, ponerlo en doble bolsa y enterrarlo o quemarlo, y después lavarse bien las manos.",
+    "En las casas se recomienda desmalezar el patio, tapar los agujeros con materiales resistentes, guardar los alimentos en envases herméticos, tirar la basura en recipientes con tapa y proteger las fuentes de agua. Si hay rastros de roedores, antes de limpiar se debe rociar la zona con abundante agua con lavandina, y la leña conviene juntarla con guantes.",
+    "Para las tareas rurales o de jardinería se indica usar calzado cerrado, ropa que cubra todo el cuerpo, guantes y barbijo, y luego cambiarse y ventilar la ropa. Quienes salgan a acampar deben elegir lugares sin malezas, andar por senderos habilitados, tomar solo agua segura, mantener la basura cerrada y evitar juntar frutos silvestres u hongos donde haya señales de roedores."
+   ],
+   "arte": "cordillera",
+   "tema": "Hantavirus"
+  },
+  {
+   "id": "comodoro-abrasoles-rifa-alquiler-servicios",
+   "fecha": "2026-11-26T22:05:21-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: Abrasoles, el centro de formación laboral para personas con discapacidad, lanzó una rifa para pagar el alquiler",
+   "bajada": "La institución atraviesa una situación económica delicada por la suba del alquiler de su sede y de los servicios, y pide la ayuda de los vecinos.",
+   "cuerpo": [
+    "El Centro de Formación Laboral para personas con discapacidad Abrasoles, de Comodoro Rivadavia, puso en marcha una rifa solidaria abierta a toda la comunidad para juntar el dinero que necesita para cubrir el alquiler de su sede y las boletas de los servicios básicos.",
+    "Melanie Izaguirre, referente de la entidad, explicó que el aumento constante de los costos fijos complicó las cuentas de la institución y pidió la colaboración de los vecinos para que no se vea afectado el funcionamiento diario del espacio, al que concurren decenas de jóvenes y adultos junto a sus familias.",
+    "Abrasoles dicta talleres de formación, organiza actividades de integración comunitaria y brinda capacitación orientada a la inserción laboral de personas con discapacidad. Desde la organización aclararon que todo lo que se recaude con la venta de los números irá directamente al pago del alquiler y de los servicios, para garantizar que las actividades continúen."
+   ],
+   "arte": "ciudad",
+   "tema": "Solidaridad"
+  },
+  {
    "id": "gobernador-costa-jornada-igj-1-diciembre",
    "fecha": "2026-11-26T21:05:16-03:00",
    "sec": "ultimas",
@@ -1445,21 +1476,6 @@
    "arte": "cancha",
    "ancho": true,
    "tema": "Deportivo Madryn"
-  },
-  {
-   "id": "tehuelches-parana",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "deportes",
-   "ciudad": "Rugby",
-   "titulo": "Tehuelches viaja a Paraná para el Seven de la República",
-   "bajada": "El torneo que cierra la temporada del rugby argentino se juega el 28 y 29 de noviembre.",
-   "cuerpo": [
-    "El Seven de la República se juega el sábado 28 y el domingo 29 de noviembre en Paraná. Es la edición 42 del torneo masculino y la décima del femenino.",
-    "Los partidos se disputan en las canchas de El Plumazo, del club Estudiantes, y en el anexo La Tortuguita del Paraná Rowing Club.",
-    "Es una de las competencias más importantes del rugby argentino y la que cierra su calendario."
-   ],
-   "arte": "rugby",
-   "tema": "Rugby"
   }
  ]
 }
