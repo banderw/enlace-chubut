@@ -214,8 +214,23 @@ footer nav a:hover{color:var(--accent)}
   .today,.btn:not(.primary){display:none}
   .card.wide{grid-column:span 2}
 }
+/* Cabecera compacta en celular: logo más chico, temas y agenda en una sola fila que se desliza con el dedo */
+@media (max-width:720px){
+  .masthead{padding-block:12px 4px}
+  .logo .ec{height:64px}
+  .tagline{font-size:12px;margin-top:2px}
+  .tagline .lema{display:none}
+  .trends{flex-wrap:nowrap;justify-content:flex-start;overflow-x:auto;scrollbar-width:none;gap:0 16px;margin-top:10px;padding-block:8px;white-space:nowrap;mask-image:linear-gradient(90deg,#000 88%,transparent)}
+  .trends::-webkit-scrollbar,.agenda::-webkit-scrollbar{display:none}
+  .trends>*{flex:none}
+  .agenda{display:flex;overflow-x:auto;scrollbar-width:none;gap:8px;margin-top:12px;scroll-snap-type:x mandatory;mask-image:linear-gradient(90deg,#000 90%,transparent)}
+  .dato{flex:0 0 132px;padding:7px 6px;scroll-snap-align:start}
+  .dato .k{font-size:10px}
+  .dato .v{font-size:17px;margin-top:2px}
+  .dato .n{font-size:10px;margin-top:2px}
+  .portada{margin-top:14px}
+}
 @media (max-width:480px){
-  .agenda{grid-template-columns:repeat(2,minmax(0,1fr))}
   .grid,.grid.cols3{grid-template-columns:minmax(0,1fr);gap:20px}
   .card.wide{grid-column:auto}
   .card.wide h3{font-size:20px}
@@ -298,7 +313,7 @@ footer nav a:hover{color:var(--accent)}
 <div class="wrap" id="top">
   <div class="masthead" id="masthead">
     <h1 class="logo"><svg class="ec" role="img" aria-label="Enlace Chubut, portal de noticias"><use href="#ec-logo"/></svg></h1>
-    <div class="tagline"><span id="today"></span> · Noticias de la provincia, de la cordillera al mar</div>
+    <div class="tagline"><span id="today"></span><span class="lema"> · Noticias de la provincia, de la cordillera al mar</span></div>
   </div>
   <nav class="trends" aria-label="Temas del día" id="temas">
     <b><svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M13 2 4 14h7l-1 8 9-12h-7z"/></svg>Temas</b>
