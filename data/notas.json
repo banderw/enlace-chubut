@@ -77,6 +77,84 @@
  ],
  "notas": [
   {
+   "id": "comodoro-egresada-epja-se-queda-sin-trabajo",
+   "fecha": "2026-11-27T11:16:44-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: terminó el secundario a los 36 años y el mismo día le avisaron que se queda sin trabajo",
+   "bajada": "Eda, de origen paraguayo, egresó del EPJA 764 tras tres años de cursada nocturna. Durante los festejos le comunicaron que desde enero dejará su empleo en una empresa de limpieza.",
+   "cuerpo": [
+    "Eda tiene 36 años, nació en Paraguay y este año cumplió una meta que tenía pendiente desde hacía mucho: terminar la escuela secundaria en Comodoro Rivadavia. Lo logró en el EPJA 764, que funciona en el turno noche de la Escuela 723.",
+    "La alegría del egreso, sin embargo, llegó acompañada de una mala noticia. En plena celebración contó que trabaja en una empresa de limpieza y que ese mismo día le informaron que a partir de enero se quedará sin empleo.",
+    "\"Está mal la situación y bueno, es así, no es culpa de nadie, es la situación. Pero también estoy feliz porque hoy me egresé\", dijo.",
+    "Pese a todo, eligió destacar el esfuerzo de los últimos tres años y dejó un mensaje para quienes todavía tienen pendiente retomar los estudios: \"Fue duro, pero lo logramos. Ese es el mensaje: se puede\"."
+   ],
+   "arte": "escuela",
+   "tema": "Educación"
+  },
+  {
+   "id": "comodoro-mosconi-pareja-detenida-robo-almacen",
+   "fecha": "2026-11-27T11:16:43-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: vecinos ayudaron a detener a una pareja que robó hamburguesas y queso de un almacén",
+   "bajada": "Pasó el jueves a la tarde en un comercio de calle Mirco Michunovich, en el barrio General Mosconi. La mujer rompió de un piedrazo un vidrio del local al ser descubierta.",
+   "cuerpo": [
+    "Un hombre y una mujer fueron detenidos el jueves por la tarde en el barrio General Mosconi de Comodoro Rivadavia, acusados de llevarse mercadería de un almacén ubicado sobre calle Mirco Michunovich.",
+    "La pareja entró al comercio y escondió paquetes de hamburguesas y queso por un valor de poco más de 30 mil pesos. Cuando la dueña los descubrió y les pidió que devolvieran los productos, la mujer salió a la vereda y tiró una piedra contra el frente del local, que rompió un vidrio.",
+    "La comerciante avisó a los vecinos, que salieron a buscarlos. El hombre intentó escapar hacia unas casas cercanas, pero lo alcanzaron y lo retuvieron a unas dos cuadras; terminó con lesiones por el forcejeo. Al mismo tiempo, efectivos de la Comisaría Mosconi encontraron a la mujer cuando intentaba cambiarse de ropa y recuperaron toda la mercadería.",
+    "Los dos quedaron alojados en la comisaría a la espera de la audiencia de control de detención."
+   ],
+   "arte": "ciudad",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "abech-final-juego-3-reprogramado-domingo",
+   "fecha": "2026-11-27T11:16:42-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Final de la ABECH: el tercer juego entre Deportivo Madryn y Brown pasó para el domingo a las 21",
+   "bajada": "La asociación volvió a cambiar el cronograma de la serie, que está 1 a 1. El cuarto partido será el miércoles 2 de diciembre y un eventual quinto, el sábado 5.",
+   "cuerpo": [
+    "La final del Torneo Clausura de la Asociación de Básquet del Este del Chubut (ABECH) tuvo un nuevo cambio de fechas: el tercer partido entre Deportivo Madryn y Guillermo Brown, que estaba previsto para este viernes a las 21:30 en el gimnasio Luján Barrientos, se jugará el domingo desde las 21.",
+    "La serie está igualada. Madryn ganó el primer juego como visitante por 91 a 84 y Brown respondió el miércoles con un triunfo por 101 a 91, en un partido que se definió en dos suplementarios.",
+    "El Aurinegro será local en el tercer y el cuarto encuentro; este último quedó fijado para el miércoles 2 de diciembre. Si hace falta un quinto partido, se disputará el sábado 5 en el gimnasio Benito García, ya que Brown tiene la ventaja deportiva por haber ganado la fase regular.",
+    "La ABECH informó que la reprogramación se decidió de común acuerdo con los dos clubes."
+   ],
+   "arte": "cancha",
+   "tema": "Básquet ABECH"
+  },
+  {
+   "id": "comodoro-la-floresta-detenido-pistola-cuchillo",
+   "fecha": "2026-11-27T11:16:41-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: un hombre tiró una pistola mientras huía de la Policía y después los enfrentó con un cuchillo",
+   "bajada": "Ocurrió el jueves a la noche en el barrio La Floresta. El sospechoso, de 41 años, quedó imputado por portación ilegal de arma y resistencia a la autoridad.",
+   "cuerpo": [
+    "Un hombre de 41 años fue aprehendido el jueves cerca de las 21:30 en el barrio La Floresta de Comodoro Rivadavia, en inmediaciones de calle Misiones al 3100, después de que los efectivos lo vieran caminando por la calle con un arma de fuego en la mano.",
+    "Al notar la presencia policial escapó a pie y, durante la persecución, se deshizo de la pistola. Luego salió de su casa con un cuchillo para enfrentar a los agentes del Grupo de Respuesta Inmediata Motorizada (GRIM) y de la Comisaría Cuarta, que finalmente lo redujeron.",
+    "En el patio donde había arrojado el arma, los policías encontraron una pistola Bersa calibre 9 milímetros y un teléfono celular, que quedaron a disposición de la División Policía Científica para las pericias.",
+    "El detenido quedó imputado por tenencia y portación ilegal de arma de fuego, y por atentado y resistencia a la autoridad."
+   ],
+   "arte": "noche",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "chubut-pago-haberes-noviembre-2-y-3-diciembre",
+   "fecha": "2026-11-27T11:16:40-03:00",
+   "sec": "politica",
+   "ciudad": "Provincia",
+   "titulo": "Chubut paga los sueldos de noviembre: jubilados el miércoles 2 y activos el jueves 3 de diciembre",
+   "bajada": "El Ministerio de Economía de la provincia confirmó el cronograma de pago de los haberes de noviembre para la Administración Pública Provincial.",
+   "cuerpo": [
+    "El Gobierno del Chubut dio a conocer las fechas en que se depositarán los haberes correspondientes a noviembre para los empleados de la Administración Pública Provincial.",
+    "Según informó el Ministerio de Economía, los jubilados y pensionados (agentes pasivos) tendrán disponible su cobro el miércoles 2 de diciembre, mientras que los trabajadores en actividad lo recibirán al día siguiente, el jueves 3."
+   ],
+   "arte": "banco",
+   "tema": "Sueldos estatales"
+  },
+  {
    "id": "ley-apuestas-online-menores-publicidad-camisetas",
    "fecha": "2026-11-27T07:57:39-03:00",
    "sec": "nacionales",
@@ -1402,81 +1480,6 @@
    ],
    "arte": "ruta",
    "tema": "Egresados"
-  },
-  {
-   "id": "molino-andes",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "turismo",
-   "ciudad": "Trevelin",
-   "titulo": "Molino Andes: el museo que explica por qué Trevelin es el “Pueblo del Molino”",
-   "bajada": "Siete salas en tres pisos con la historia galesa y la de los pueblos originarios.",
-   "cuerpo": [
-    "El Molino Andes se construyó a comienzos del siglo XX para moler harina para todo el Valle 16 de Octubre. De ahí sale el nombre de la localidad: Trevelin significa “Pueblo del Molino”.",
-    "Con el tiempo dejó de funcionar como molino, se recuperó y hoy es el Museo Regional Trevelin.",
-    "Tiene siete salas repartidas en tres pisos que cuentan la historia de la colonización galesa y la de los pueblos originarios."
-   ],
-   "arte": "molino",
-   "tema": "Turismo"
-  },
-  {
-   "id": "faro-isla-leones",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "turismo",
-   "ciudad": "Camarones",
-   "titulo": "Faro Isla Leones: medio siglo guiando barcos frente a Camarones",
-   "bajada": "Funcionó de 1917 a 1968 y hoy es uno de los símbolos del Parque Provincial Patagonia Azul.",
-   "cuerpo": [
-    "Frente a la costa de Camarones se levanta el Faro Isla Leones, una de las obras históricas más imponentes de la provincia.",
-    "Según el jefe del Parque Provincial Patagonia Azul, Damián Guerreiro, el faro empezó a funcionar en 1917 y lo hizo sin interrupciones hasta 1968.",
-    "Hoy es Patrimonio Cultural y se puede ver de cerca en excursiones náuticas."
-   ],
-   "arte": "faro",
-   "tema": "Turismo"
-  },
-  {
-   "id": "camarones",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "turismo",
-   "ciudad": "Camarones",
-   "titulo": "Camarones se organiza para la temporada: comercios y prestadores trabajan en red",
-   "bajada": "Hoteles, restaurantes y excursiones se juntaron en invierno para mejorar los servicios del pueblo.",
-   "cuerpo": [
-    "El crecimiento de Camarones como destino turístico cambió la forma de trabajar de sus vecinos: ahora entienden que recomendar el negocio del otro también suma.",
-    "Durante el invierno, hoteles, restaurantes, cafeterías y empresas de excursiones se reunieron para conocerse, compartir herramientas y mejorar los servicios antes de la temporada alta.",
-    "Entre las propuestas para el verano están la Ruta Azul y las excursiones a Islas Blancas."
-   ],
-   "arte": "mar",
-   "tema": "Turismo"
-  },
-  {
-   "id": "sendero-cipresal",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "turismo",
-   "ciudad": "Esquel",
-   "titulo": "Sendero Cipresal: un bosque de cipreses escondido en Esquel",
-   "bajada": "Tres kilómetros de dificultad moderada, con mirador, dentro de la Reserva Laguna La Zeta.",
-   "cuerpo": [
-    "El Sendero Cipresal está en la Reserva Natural Urbana Laguna La Zeta y es una buena opción para caminar en primavera.",
-    "Tiene 3 kilómetros, dificultad moderada y un mirador para descansar. El terreno es blando y con poca pendiente.",
-    "El recorrido llega a un bosque de ciprés de la cordillera (Austrocedrus chilensis) que crece sobre un banco de arena, una de las especies típicas de los bosques andinos patagónicos."
-   ],
-   "arte": "cordillera",
-   "tema": "Turismo"
-  },
-  {
-   "id": "ataque-madryn",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "policiales",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Puerto Madryn: investigan el ataque a puñaladas contra un trabajador",
-   "bajada": "El hombre fue herido en la espalda cuando iba a buscar una herramienta. Está internado con pronóstico reservado.",
-   "cuerpo": [
-    "La Comisaría Cuarta y la Brigada de Investigaciones de Puerto Madryn buscan esclarecer el ataque con arma blanca que sufrió un hombre en la vía pública.",
-    "La víctima había salido de su trabajo para ir a su casa a buscar una herramienta y no volvió. Sus compañeros lo encontraron tendido en la calle.",
-    "Recibió una puñalada en la espalda que le afectó un riñón y parte del hígado. Sigue internado con pronóstico reservado y aportó pocos datos a la investigación."
-   ],
-   "arte": "noche",
-   "tema": "Ataque en Madryn"
   }
  ]
 }
