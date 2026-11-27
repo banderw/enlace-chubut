@@ -22,7 +22,7 @@
 :root{
   --bg:#ffffff; --fg:#1f1f1f; --muted:#5c6570; --line:#e2e6ea; --soft:#f3f5f7;
   --accent:#0b6e99; --accent-soft:#e3f0f6; --special:#eef5f9; --alert:#c2410c; --up:#15803d;
-  --mark-line:#ffffff; --beat:#f97316; --logo-sub:#5c6f7a; --logo-linea:#d3dde3;
+  --mark-line:#ffffff; --beat:#f97316; --caja:#ffffff; --logo-sub:#5c6f7a; --logo-linea:#d3dde3;
   --font-body:"Roboto",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
   --font-logo:"Barlow","Roboto",system-ui,sans-serif;
   --wrap:1180px;
@@ -31,14 +31,14 @@
   :root:not([data-theme="light"]){
     --bg:#121417; --fg:#eceef1; --muted:#a3acb6; --line:#2a2f36; --soft:#1b1f24;
     --accent:#5bb8e0; --accent-soft:#16303d; --special:#16232b; --alert:#fb923c; --up:#4ade80;
-    --mark-line:#0d1a21; --beat:#fb923c; --logo-sub:#dce8ed; --logo-linea:#edf5f8;
+    --mark-line:#0d1a21; --beat:#fb923c; --caja:#1a1e23; --logo-sub:#dce8ed; --logo-linea:#edf5f8;
     color-scheme:dark;
   }
 }
 :root[data-theme="dark"]{
   --bg:#121417; --fg:#eceef1; --muted:#a3acb6; --line:#2a2f36; --soft:#1b1f24;
   --accent:#5bb8e0; --accent-soft:#16303d; --special:#16232b; --alert:#fb923c; --up:#4ade80;
-  --mark-line:#0d1a21; --beat:#fb923c; --logo-sub:#dce8ed; --logo-linea:#edf5f8;
+  --mark-line:#0d1a21; --beat:#fb923c; --caja:#1a1e23; --logo-sub:#dce8ed; --logo-linea:#edf5f8;
   color-scheme:dark;
 }
 *{box-sizing:border-box}
@@ -128,11 +128,11 @@ h1,h2,h3{margin:0;font-weight:700;text-wrap:balance}
 
 /* Portada */
 .portada{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:28px;margin-top:22px;padding-bottom:26px;border-bottom:1px solid var(--line)}
-.lead h2{font-size:clamp(28px,3.6vw,42px);line-height:1.12;letter-spacing:-.3px}
-.lead p{font-size:17px;color:var(--muted);margin:14px 0 12px;line-height:1.45;max-width:68ch}
-.side{display:flex;flex-direction:column;gap:22px;min-width:0}
-.side h2{font-size:22px;line-height:1.2}
-.side .sep{border-top:1px solid var(--line)}
+.lead h2{font-size:clamp(26px,3.4vw,40px);line-height:1.12;letter-spacing:-.3px}
+.lead p{font-size:17px;color:var(--muted);margin:12px 0 0;line-height:1.45;max-width:68ch}
+.lead .card-txt{padding:16px 20px 22px}
+.side{display:flex;flex-direction:column;gap:20px;min-width:0}
+.side h2{font-size:20px;line-height:1.2}
 .side p{font-size:15px;color:var(--muted);line-height:1.4;margin:8px 0 0}
 .meta{font-size:12px;color:var(--muted);margin:8px 0}
 .meta .city{color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:.4px;font-size:11px}
@@ -157,13 +157,17 @@ h1,h2,h3{margin:0;font-weight:700;text-wrap:balance}
 .seccion-head{display:flex;align-items:baseline;gap:14px;border-bottom:2px solid var(--fg);padding-bottom:6px;margin-bottom:18px}
 .seccion-head h2{font-size:15px;text-transform:uppercase;letter-spacing:1.2px}
 .seccion-head span{font-size:13px;color:var(--muted)}
-.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 20px}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px 20px}
 .grid.cols3{grid-template-columns:repeat(3,minmax(0,1fr))}
 .card{min-width:0}
-.card a{display:flex;flex-direction:column;height:100%}
-.card h3{font-size:19px;line-height:1.22;order:1}
-.card .meta{order:2}
-.card .pic{order:3}
+/* Cada nota va en su propia caja: foto arriba y, debajo, la ciudad y el título, para que se vea de qué nota es cada imagen */
+.card a,.caja a{display:flex;flex-direction:column;height:100%;background:var(--caja);border:1px solid var(--line);border-radius:10px;overflow:hidden;box-shadow:0 1px 2px rgb(0 0 0 / .05),0 4px 14px rgb(0 0 0 / .06);transition:border-color .2s,box-shadow .2s}
+.card a:hover,.caja a:hover{border-color:var(--accent);box-shadow:0 2px 4px rgb(0 0 0 / .06),0 10px 24px rgb(0 0 0 / .1)}
+.card .pic,.caja .pic{border-radius:0;flex:none}
+.card-txt{padding:12px 16px 18px;border-top:3px solid var(--accent);flex:1}
+.card-txt .meta{margin:0 0 6px}
+.card h3{font-size:19px;line-height:1.22}
+.caja{min-width:0}
 .card.wide{grid-column:span 2}
 .card.wide h3{font-size:24px}
 
@@ -212,7 +216,7 @@ footer nav a:hover{color:var(--accent)}
 }
 @media (max-width:480px){
   .agenda{grid-template-columns:repeat(2,minmax(0,1fr))}
-  .grid,.grid.cols3{grid-template-columns:minmax(0,1fr)}
+  .grid,.grid.cols3{grid-template-columns:minmax(0,1fr);gap:20px}
   .card.wide{grid-column:auto}
   .card.wide h3{font-size:20px}
   .dato .v{font-size:19px}
@@ -362,7 +366,7 @@ function usarIlustracion(img){
   const t=document.createElement("template"); t.innerHTML=art(n.arte,n.seed,n.titulo); img.replaceWith(t.content.firstChild);
 }
 window.usarIlustracion=usarIlustracion;
-const card=n=>`<article class="card${n.ancho?" wide":""}"><a href="${href(n)}"><h3>${esc(n.titulo)}</h3>${meta(n)}${pic(n)}</a></article>`;
+const card=n=>`<article class="card${n.ancho?" wide":""}"><a href="${href(n)}">${pic(n)}<div class="card-txt">${meta(n)}<h3>${esc(n.titulo)}</h3></div></a></article>`;
 
 /* ---------- Portada ---------- */
 document.getElementById("agenda").innerHTML=AGENDA.map(d=>`<a class="dato" href="#nota-${d.nota}"><div class="k">${d.k}</div><div class="v">${d.v}</div><div class="n">${d.n}</div></a>`).join("");
@@ -370,9 +374,9 @@ document.getElementById("agenda").innerHTML=AGENDA.map(d=>`<a class="dato" href=
 const lead=NOTAS.find(n=>n.lugar==="lead");
 const lado=NOTAS.filter(n=>n.lugar==="lado");
 document.getElementById("portada").innerHTML=`
-  <article class="lead"><a href="${href(lead)}">
-    <h2>${esc(lead.titulo)}</h2><p>${esc(lead.bajada)}</p>${meta(lead)}${pic(lead,1)}</a></article>
-  <div class="side">${lado.map((n,i)=>`${i?'<div class="sep"></div>':""}<article><a href="${href(n)}"><h2>${esc(n.titulo)}</h2>${meta(n)}${n.sinFotoEnPortada?`<p>${esc(n.bajada)}</p>`:pic(n,1)}</a></article>`).join("")}</div>`;
+  <article class="lead caja"><a href="${href(lead)}">
+    ${pic(lead,1)}<div class="card-txt">${meta(lead)}<h2>${esc(lead.titulo)}</h2><p>${esc(lead.bajada)}</p></div></a></article>
+  <div class="side">${lado.map(n=>`<article class="caja"><a href="${href(n)}">${n.sinFotoEnPortada?"":pic(n,1)}<div class="card-txt">${meta(n)}<h2>${esc(n.titulo)}</h2>${n.sinFotoEnPortada?`<p>${esc(n.bajada)}</p>`:""}</div></a></article>`).join("")}</div>`;
 
 const ecl=byId["eclipse"];
 const hoy=new Date();
