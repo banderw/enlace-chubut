@@ -35,6 +35,8 @@ def bajar_foto(url, destino):
         import io, urllib.request
         ua = ("EnlaceChubutBot/1.0 (https://enlacechubut.com.ar; EnlaceChubut@protonmail.com)" if "wikimedia.org" in url else
               "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36")
+        import urllib.parse
+        url = urllib.parse.quote(url, safe=":/?&=%#+,;@~!$'()*[]")  # direcciones con tildes o "°"
         req = urllib.request.Request(url, headers={"User-Agent": ua})
         raw = urllib.request.urlopen(req, timeout=40).read()
         try:

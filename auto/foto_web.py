@@ -15,6 +15,7 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
       "Accept-Language": "es-AR,es;q=0.9"}
 
 def bajar(url, limite=8_000_000):
+    url = urllib.parse.quote(url, safe=":/?&=%#+,;@~!$'()*[]")  # direcciones con tildes o "°"
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
         return r.read(limite), r.headers.get("Content-Type", "")
 
