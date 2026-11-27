@@ -77,6 +77,21 @@
  ],
  "notas": [
   {
+   "id": "madryn-juro-nuevo-camarista-penal",
+   "fecha": "2026-11-27T16:19:42-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Francisco Orlando juró como nuevo integrante de la Cámara Penal de Puerto Madryn",
+   "bajada": "El hasta ahora juez penal fue puesto en funciones en un acto encabezado por el vicepresidente del Superior Tribunal de Justicia, Javier Raidan.",
+   "cuerpo": [
+    "El doctor Francisco Marcelo Orlando prestó juramento y quedó formalmente a cargo de un cargo en la Cámara Penal de la Circunscripción Judicial de Puerto Madryn. Hasta ahora se desempeñaba como juez penal en la ciudad.",
+    "El acto estuvo encabezado por el vicepresidente del Superior Tribunal de Justicia, ministro Javier Gastón Raidan, acompañado por la ministra Camila Lucía Banfi Saavedra. Orlando accedió al cargo mediante la Acordada N° 2749/26 del Consejo de la Magistratura, tras imponerse en el concurso público para cubrir la vacante.",
+    "Participaron el administrador general del STJ, Mariano Pardini; los camaristas penales Javier Allende y Diego Trad; las juezas penales Patricia Reyes, Alejandra Hernández y Marcela Pérez Bogado; el juez Horacio Daniel Yangüela y la directora de la Oficina Judicial, además de otros funcionarios judiciales."
+   ],
+   "arte": "ciudad",
+   "tema": "Justicia"
+  },
+  {
    "id": "rio-mayo-feria-libro-arte-xx-edicion",
    "fecha": "2026-11-27T16:13:00-03:00",
    "sec": "ultimas",
@@ -1459,22 +1474,6 @@
    ],
    "arte": "ciudad",
    "tema": "Personas mayores"
-  },
-  {
-   "id": "convocatoria-adopcion-trelew-nino-10",
-   "fecha": "2026-11-26T07:37:28-03:00",
-   "sec": "ultimas",
-   "ciudad": "Trelew",
-   "titulo": "Convocatoria pública: buscan una familia adoptiva para un niño de 10 años de la zona de Trelew y Madryn",
-   "bajada": "La impulsan un juzgado de Familia de Trelew y la Dirección General de Adopciones. Las postulaciones se reciben por correo hasta el 2 de febrero de 2027.",
-   "cuerpo": [
-    "El Juzgado de Familia N° 1 de Trelew, a cargo del juez Daniel Manse, y la Dirección General de Adopciones del Chubut lanzaron una convocatoria pública provincial para encontrar una familia para un niño de 10 años que vive en la zona de Trelew y Puerto Madryn.",
-    "Se busca un hogar estable, afectuoso y comprometido con sus necesidades, que acompañe su desarrollo, respete los avances que ya logró y le dé continuidad a sus terapias. El chico va a la escuela primaria con apoyo de un maestro de inclusión, es descripto como alegre y cariñoso, le gustan los animales, juega al pádel y hace natación.",
-    "Un punto central del llamado es que él quiere conservar el vínculo con su hermana, por lo que la futura familia deberá respetar y acompañar ese deseo.",
-    "Quienes quieran postularse pueden escribir a adopciones.trelew@chubut.gob.ar hasta el 2 de febrero de 2027, con sus datos personales y de contacto, para iniciar el proceso de evaluación."
-   ],
-   "arte": "ciudad",
-   "tema": "Adopción"
   },
   {
    "id": "eclipse",

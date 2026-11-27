@@ -1,99 +1,38 @@
 {
  "notas": [
   {
-   "id": "formacion-profesional-cursos-verano-2027",
-   "sec": "ultimas",
-   "ciudad": "Provincia",
-   "tema": "Formación laboral",
-   "titulo": "Chubut ofrecerá más de 23 cursos gratuitos de formación laboral durante el verano",
-   "bajada": "La preinscripción se hará del 30 de noviembre al 11 de diciembre por el asistente virtual DINO y las clases comenzarán el 4 de enero de 2027.",
+   "id": "madryn-juro-nuevo-camarista-penal",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "tema": "Justicia",
+   "titulo": "Francisco Orlando juró como nuevo integrante de la Cámara Penal de Puerto Madryn",
+   "bajada": "El hasta ahora juez penal fue puesto en funciones en un acto encabezado por el vicepresidente del Superior Tribunal de Justicia, Javier Raidan.",
    "cuerpo": [
-    "El Ministerio de Educación, a través de la Dirección de Formación Profesional, abrirá una nueva convocatoria con más de 23 cursos gratuitos para jóvenes y adultos que quieran aprender un oficio o sumar herramientas para conseguir trabajo o emprender.",
-    "Las propuestas abarcan electricidad, construcción, gastronomía, carpintería, administración, informática y nuevas tecnologías. Se dictarán en Rawson, Trelew, Comodoro Rivadavia, Sarmiento, Río Mayo, Trevelin, Epuyén y Lago Puelo, además de actividades en El Hoyo y cursos cortos de gastronomía en Playa Unión, pensados para la temporada turística.",
-    "La carga horaria será de entre 50 y 180 horas según el curso. En Rawson, algunas capacitaciones se darán en las Aulas Talleres Móviles del CFP N° 662. Todavía no se difundió el detalle de qué curso se dictará en cada sede ni los cupos."
+    "El doctor Francisco Marcelo Orlando prestó juramento y quedó formalmente a cargo de un cargo en la Cámara Penal de la Circunscripción Judicial de Puerto Madryn. Hasta ahora se desempeñaba como juez penal en la ciudad.",
+    "El acto estuvo encabezado por el vicepresidente del Superior Tribunal de Justicia, ministro Javier Gastón Raidan, acompañado por la ministra Camila Lucía Banfi Saavedra. Orlando accedió al cargo mediante la Acordada N° 2749/26 del Consejo de la Magistratura, tras imponerse en el concurso público para cubrir la vacante.",
+    "Participaron el administrador general del STJ, Mariano Pardini; los camaristas penales Javier Allende y Diego Trad; las juezas penales Patricia Reyes, Alejandra Hernández y Marcela Pérez Bogado; el juez Horacio Daniel Yangüela y la directora de la Oficina Judicial, además de otros funcionarios judiciales."
    ],
-   "foto": "escuela",
-   "arte": "escuela",
-   "origen": "https://canal12web.com/chubut-ofrecera-mas-de-23-cursos-gratuitos-durante-el-verano-donde-anotarse-y-cuando-comienzan/"
-  },
-  {
-   "id": "trelew-night-run-5k-14-edicion",
-   "sec": "deportes",
-   "ciudad": "Trelew",
-   "tema": "Atletismo",
-   "titulo": "Trelew vive el sábado la 14ª edición de la Night Run 5K",
-   "bajada": "La largada será a las 22 en la Confitería Bertolucci y ya hay cerca de 200 atletas anotados.",
-   "cuerpo": [
-    "Este sábado 28 de noviembre se correrá la 14ª Night Run 5K, una de las pruebas clásicas del calendario deportivo de Trelew. La organiza Eventos Deportivos Trelew con el acompañamiento del Municipio, con largada y llegada en la Confitería Bertolucci a las 22.",
-    "Habrá una prueba competitiva de 5 kilómetros y una caminata participativa de 2,5 kilómetros. Gerardo Haro, de la organización, confirmó que hay cerca de 200 atletas de distintas localidades, entre ellos el neuquino Luciano Galván y Juan Paz, de Sierra Grande.",
-    "La noche tendrá música y animación, con el DJ Agus y la locución de Vanshi Thomas y Lili Méndez. Las inscripciones siguen abiertas para ambas modalidades en la plataforma Cronometraje Instantáneo."
-   ],
-   "foto": "corredores",
+   "foto": "justicia",
    "arte": "ciudad",
-   "origen": "https://canal12web.com/trelew-se-prepara-para-vivir-la-14a-edicion-de-la-night-run-5k/"
-  },
-  {
-   "id": "esquel-copa-voley-antonio-anselmo-2026",
-   "sec": "deportes",
-   "ciudad": "Esquel",
-   "tema": "Vóley",
-   "titulo": "Esquel recibe la Copa de vóley \"Antonio Anselmo\" con trece equipos de siete ciudades",
-   "bajada": "El torneo se juega del viernes 27 al domingo 29 de noviembre en el Gimnasio Municipal \"León Camilo Catena\", con entrada libre.",
-   "cuerpo": [
-    "La Copa Esquel 2026 reúne a trece planteles de Esquel, Bariloche, Trelew, El Bolsón, El Maitén, Epuyén y Corcovado, en las ramas masculina y femenina. La organiza la Asociación Civil Cordillerana de Vóley y la entrada es abierta, con servicio de buffet.",
-    "El viernes a las 19 comienzan los cruces en dos canchas. El sábado habrá fase de grupos de 9 a 21 y a las 18.45 se hará el acto inaugural con autoridades. El domingo desde las 9 se juegan cuartos y semifinales.",
-    "Las finales se disputarán en cancha única: la femenina a las 16.30 y la masculina a las 18, y a las 20.30 será la entrega de premios."
-   ],
-   "foto": "basquet",
-   "arte": "cancha",
-   "origen": "https://cholilaonline.ar/2026/11/copa-esquel-2026-voley-antonio-anselmo-equipos-cronograma.html"
-  },
-  {
-   "id": "esquel-licitacion-18-cuadras-cordon-cuneta-adoquinado",
-   "sec": "ultimas",
-   "ciudad": "Esquel",
-   "tema": "Obras en Esquel",
-   "titulo": "Esquel licitará 18 cuadras de cordón cuneta y adoquinado en tres barrios",
-   "bajada": "Las obras llegarán a Malvinas Argentinas, Jorge Newbery y Belgrano, con un presupuesto oficial de $530,6 millones y 240 días de plazo.",
-   "cuerpo": [
-    "La Municipalidad de Esquel licitará la construcción de 18 cuadras: seis en el barrio Malvinas Argentinas, ocho en el Jorge Newbery y cuatro en el Belgrano. El proyecto incluye cordones cuneta de hormigón, badenes, estructuras complementarias y acondicionamiento del suelo.",
-    "El intendente Matías Taccetta dijo que se trata de \"un plan de infraestructura vial que tiene como objetivo mejorar la calidad de vida de los vecinos\" y que el municipio trabaja \"con planificación y recursos municipales\" para llegar a barrios que esperaban estas mejoras.",
-    "El plazo de ejecución es de 240 días corridos. El presupuesto oficial es de $530.630.866,78 y la garantía de oferta se fijó en $5.306.308,67. Los pliegos se consultan y adquieren en la Dirección de Compras municipal."
-   ],
-   "foto": "obra",
-   "arte": "ruta",
-   "origen": "https://cholilaonline.ar/2026/11/esquel-el-municipio-licitara-la-construccion-de-18-cuadras-de-cordon-cuneta-y-adoquinado.html"
-  },
-  {
-   "id": "rio-mayo-feria-libro-arte-xx-edicion",
-   "sec": "ultimas",
-   "ciudad": "Río Mayo",
-   "tema": "Cultura",
-   "titulo": "Río Mayo realizó la XX Feria del Libro y el Arte bajo el lema \"Pausa para leer, pensar y sentir\"",
-   "bajada": "Durante dos jornadas hubo presentaciones de libros, muestras fotográficas y espectáculos en el gimnasio de la Escuela N° 706.",
-   "cuerpo": [
-    "La feria se hizo en el gimnasio de la Escuela N° 706 \"Gregorio Mayo\" y forma parte del Calendario de Ferias del Libro que acompaña el Gobierno provincial para promover la lectura y visibilizar a los escritores de cada localidad.",
-    "La Subsecretaría de Cultura participó con el stand del Fondo Editorial Provincial y la propuesta \"Collage Poético\", y la Ludoteca de la Biblioteca Pública Provincial \"Vacchina\" armó una \"Caja Sensorial\".",
-    "Se presentaron \"Apuntes de un gendarme\", de Jorge Oliva Barros; \"Los siete clanes\", de Rocío A. Bustamente; y \"Mal-Vinas\", de Jorge Mesaín, que también expuso fotografías. El primer día cerró con un show acústico de Bárbara Wolf y Sergio Cashiuil y la feria terminó con el grupo Rostros del Kósten, de Sarmiento, que presentó \"Meta teatro en Verona\"."
-   ],
-   "foto": "museo",
-   "arte": "escuela",
-   "origen": "https://www.eldiarioweb.com/2026/11/exitosa-feria-del-libro-y-el-arte-en-rio-mayo/"
+   "foto_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Madryn_001.JPG/3840px-Madryn_001.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "origen": "https://cholilaonline.ar/2026/11/camara-penal-de-puerto-madryn-juro-nuevo-juez-francisco-orlando.html"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427600/internacional/el_papa_francisco_vio_al_diablo_en_tres_ocasiones",
-  "https://www.diariojornada.com.ar/427621/internacional/protestas_antibelicas_generan_incidentes_en_japon",
-  "https://www.diariojornada.com.ar/427609/internacional/una_tormentatornado_dejo_muertos_y_heridos_en_brasil",
-  "https://www.diariojornada.com.ar/427582/internacional/la_captura_del_capo_narco_chapo_isidro_dejo_20_muertos",
-  "https://www.elchubut.com.ar/nota/2026-11-27-15-42-0-velez-e-independiente-definen-al-primer-semifinalista-del-clausura",
-  "https://www.elchubut.com.ar/nota/2026-11-27-15-38-0-colapinto-termino-15-en-la-segunda-practica-del-gp-de-qatar",
-  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-13-28-0-habra-vacunacion-de-animales-en-caso-positivo-de-rabia",
-  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-13-18-0-se-realizo-un-taller-sobre-entornos-digitales-y-prevencion-del-cyberbullying",
-  "https://www.madrynahora.com/argentina/alerta-por-la-crecida-de-los-rios-en-cuatro-provincias-continuan-las-evacuaciones/",
-  "https://canal12web.com/esquel-liberaron-al-bioquimico-acusado-de-mantener-cautiva-a-su-familia/",
-  "https://canal12web.com/el-concejo-deliberante-de-trelew-aprobo-la-tarifaria-2027/",
-  "https://cholilaonline.ar/2026/11/esquel-el-municipio-fortalece-el-trabajo-conjunto-con-rotary-club-para-impulsar-acciones-de-desarrollo-comunitario.html",
-  "https://cholilaonline.ar/2026/11/carrera-solidaria-en-esquel-juntos-por-la-salud-laguna-la-zeta.html"
+  "https://www.diariojornada.com.ar/427833/magazine/la_cantidad_de_accidentes_viales_en_chubut_esta_en_la_media_del_pais",
+  "https://www.diariojornada.com.ar/427579/internacional/zelenski_reivindica_ataques_contra_dos_barcos_rusos_frente_a_la_costa_libia",
+  "https://www.diariojornada.com.ar/427578/internacional/la_mayoria_de_las_encuestas_anticipa_triunfo_de_la_derecha",
+  "https://www.diariojornada.com.ar/427822/economia/puma_cierra_una_fabrica_y_despide_a_decenas_de_trabajadores",
+  "https://www.elchubut.com.ar/espectaculos/2026-11-27-11-58-0-quienes-son-los-invitados-de-andy-en-ph-podemos-hablar-este-sabado-28-de-noviembre",
+  "https://www.elchubut.com.ar/espectaculos/2026-11-27-11-24-0-felipe-fort-mostro-como-cambio-su-fisico-al-modificar-sus-habitos-alimentarios",
+  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-11-24-0-puerto-madryn-se-prepara-para-vivir-la-7-edicion-de-las-torres-mtb",
+  "https://www.elchubut.com.ar/espectaculos/2026-11-27-10-49-0-netflix-sumo-tres-peliculas-para-disfrutar-durante-el-fin-de-semana",
+  "https://canal12web.com/el-tribunal-del-mar-resolvera-el-pedido-argentino-de-frenar-la-explotacion-petrolera-en-malvinas/",
+  "https://canal12web.com/a-una-decada-de-la-historica-consagracion-argentina-conquistaba-su-primera-copa-davis/",
+  "https://canal12web.com/rawson-se-prepara-la-cuarta-fiesta-de-la-hamburguesa-con-200-feriantes/",
+  "https://canal12web.com/pato-sardelli-de-airbag-y-jimmy-page-de-led-zeppelin-protagonizaron-un-encuentro-unico/",
+  "https://cholilaonline.ar/2026/11/el-bolson-cortes-transito-avenida-san-martin-mil-millas.html",
+  "https://cholilaonline.ar/2026/11/lali-esposito-en-encuentro-de-lideres-opositores-uba.html",
+  "https://cholilaonline.ar/2026/11/el-gobierno-definio-las-sesiones-extraordinarias-de-diciembre-con-el-presupuesto-2027-suspension-de-las-paso-y-defensa-de-la-soberania-nacional-como-ejes.html"
  ]
 }
