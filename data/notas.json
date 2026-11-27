@@ -77,6 +77,22 @@
  ],
  "notas": [
   {
+   "id": "luz-y-fuerza-congreso-madryn-mercado-electrico-provincial",
+   "fecha": "2026-11-27T11:21:27-03:00",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Luz y Fuerza discute en Madryn un Mercado Eléctrico Mayorista Provincial y un Observatorio de Tarifas",
+   "bajada": "La Fundación Patagonia Tercer Milenio presentó sus propuestas energéticas, educativas y culturales en el congreso de delegados del Sindicato Regional de Luz y Fuerza de la Patagonia, que sesiona hasta este viernes.",
+   "cuerpo": [
+    "El Sindicato Regional de Luz y Fuerza de la Patagonia realiza en Puerto Madryn su 48.º Congreso General Ordinario de Delegados, que termina este viernes. En ese marco, la Fundación Patagonia Tercer Milenio, encabezada por Gustavo Monesterolo, expuso sus líneas de trabajo para los próximos años.",
+    "El eje central fue la energía. Eugenio Krämer y Fernando Carmona plantearon discutir un modelo energético federal que tenga en cuenta las diferencias entre regiones en costos e infraestructura. Para Chubut propusieron una reforma estructural del servicio público de electricidad: un diagnóstico de los distintos sistemas de prestación, un plan de acción regulatorio y técnico, la creación de un Mercado Eléctrico Mayorista Provincial y un nuevo marco regulatorio.",
+    "También se presentó la creación de un Observatorio de Tarifas para seguir la situación de los servicios públicos, y propuestas de capacitación y formación superior para los trabajadores del sector. Otro punto fue la ampliación de los sistemas de interconexión eléctrica en la Patagonia.",
+    "En lo cultural, Leonardo Mezzetti y Gastón Siriczman repasaron la actividad del Multi Espacio Cultural (MEC) que la Fundación tiene en Trelew, con muestras de artes visuales y fotografía, presentaciones de libros, charlas, proyecciones y talleres."
+   ],
+   "arte": "molino",
+   "tema": "Energía"
+  },
+  {
    "id": "comodoro-egresada-epja-se-queda-sin-trabajo",
    "fecha": "2026-11-27T11:16:44-03:00",
    "sec": "cuenca",
@@ -1465,21 +1481,6 @@
    ],
    "arte": "escenario",
    "tema": "Cosquín"
-  },
-  {
-   "id": "egresados-camionetas",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro",
-   "titulo": "Comodoro controlará que no lleven egresados en la caja de camionetas",
-   "bajada": "Es una práctica prohibida por la Ley de Tránsito. Hubo pedidos para usar hasta un camión volcador.",
-   "cuerpo": [
-    "La Municipalidad de Comodoro Rivadavia reforzará los controles durante los festejos de fin de curso para evitar que los estudiantes viajen en la caja de camionetas o camiones.",
-    "El secretario de Control Urbano, Miguel Gómez, contó que padres y escuelas pidieron autorización para hacerlo, incluso en la caja de un camión volcador, y que la respuesta fue negativa por el riesgo que implica.",
-    "La Ley Nacional de Tránsito no permite ese tipo de traslados."
-   ],
-   "arte": "ruta",
-   "tema": "Egresados"
   }
  ]
 }
