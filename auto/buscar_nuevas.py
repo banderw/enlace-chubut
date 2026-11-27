@@ -79,7 +79,8 @@ def leer_nota(url):
                 fecha = fecha.replace(tzinfo=timezone(timedelta(hours=-3)))
         except ValueError:
             fecha = None
-    return (titulo, copete, " ".join(parrafos)[:2600], fecha)
+    foto = meta_tag(crudo, "og:image") or meta_tag(crudo, "twitter:image")
+    return (titulo, copete, " ".join(parrafos)[:2600], fecha, foto)
 
 FUENTES = [
     ("Diario Jornada", "https://www.diariojornada.com.ar/home", "https://www.diariojornada.com.ar", r"diariojornada\.com\.ar/\d{6}/[a-z]+/"),
@@ -190,7 +191,7 @@ def main():
             print("[aviso] se cortó la lectura a los 6 minutos; lo que falta se revisa en la próxima hora")
             break
         try:
-            titulo, copete, cuerpo, fecha = leer_nota(href)
+            titulo, copete, cuerpo, fecha, foto_nota = leer_nota(href)
             time.sleep(1)
         except Exception as e:
             fallas[medio] = fallas.get(medio, 0) + 1
@@ -208,7 +209,8 @@ def main():
             continue
         por_medio[medio] = por_medio.get(medio, 0) + 1
         candidatas.append({"url": href, "medio": medio, "titulo": titulo or texto, "copete": copete,
-                           "publicada": fecha.isoformat() if fecha else None, "texto": cuerpo, "menciona_chubut": chubut})
+                           "publicada": fecha.isoformat() if fecha else None, "texto": cuerpo, "menciona_chubut": chubut,
+                           "foto_nota": foto_nota})  # foto real de la noticia (la revisa Claude antes de usarla)
     candidatas += gacetillas(vistas)
     json.dump(sorted(vistas), open(VISTAS, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     ahora = datetime.now(timezone(timedelta(hours=-3))).isoformat(timespec="seconds")
