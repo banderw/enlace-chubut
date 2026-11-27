@@ -1,23 +1,127 @@
-{"notas": [
- {"id": "trevelin-bioquimico-libertad-prohibicion-acercamiento",
-  "sec": "policiales",
-  "ciudad": "Trevelin",
-  "tema": "Justicia",
-  "titulo": "Trevelin: liberaron al bioquímico acusado de privar de la libertad a su esposa y sus hijos",
-  "bajada": "El juez José Luis Ennis le levantó la prisión domiciliaria al hombre de 71 años, pero durante 45 días no podrá acercarse ni contactar a su familia.",
-  "cuerpo": [
-   "Un bioquímico de 71 años de Trevelin, denunciado por sus vecinos por la presunta privación ilegítima de la libertad de su esposa y sus tres hijos, recuperó la libertad tras una audiencia de una hora realizada este viernes en los Tribunales de Esquel.",
-   "El hombre había pasado diez días detenido en la Comisaría de Trevelin y luego cumplió 30 días de prisión domiciliaria en esa localidad. Al vencer ese plazo, el juez José Luis Ennis decidió atenuar la medida: por 45 días tendrá prohibido acercarse y comunicarse con las víctimas y, desde el 30 de noviembre, deberá presentarse todos los lunes en la comisaría. Podrá moverse libremente dentro de su chacra.",
-   "La defensa pidió la libertad con el argumento de que el acusado necesita trabajar, y el juez lo tuvo en cuenta junto con su edad y con la pena que podría recibir, que sería en suspenso.",
-   "La fiscal jefe María Bottini explicó que esperan las pericias del cuerpo forense interdisciplinario para definir cómo seguirá la investigación. \"Para nosotras hubo cosas nuevas\", dijo, aunque el juez consideró que no alcanzaban para mantenerlo detenido."
-  ],
-  "foto": "justicia",
-  "arte": "cordillera",
-  "origen": "https://www.diariojornada.com.ar/427816/policiales/quedo_libre_el_bioquimico_acusado_de_secuestrar_a_su_familia"}
-],
+{
+ "notas": [
+  {
+   "id": "trelew-concejo-aprueba-tarifaria-2027",
+   "sec": "politica",
+   "ciudad": "Trelew",
+   "tema": "Tarifaria 2027",
+   "titulo": "Trelew: el Concejo Deliberante aprobó la Tarifaria 2027 con descuentos por pago adelantado",
+   "bajada": "La ordenanza salió por siete votos a favor y dos en contra. Prevé 30% de bonificación para quienes paguen todo el año por adelantado.",
+   "cuerpo": [
+    "El Concejo Deliberante de Trelew aprobó en su sesión ordinaria la Tarifaria 2027, con siete votos afirmativos y dos negativos, y la ausencia de un edil. La norma fija los recursos con los que contará el Ejecutivo municipal el año próximo.",
+    "Según se explicó, el proyecto se analizó en varias reuniones de comisión con el equipo de Hacienda, y se modificaron la cantidad de módulos de algunos sectores barriales y de la recolección de residuos, tras planteos de concejales que consideraban elevados algunos valores. La presidenta del cuerpo, Claudia Solis, señaló que la ordenanza permitirá afrontar la recolección de residuos, el transporte urbano y los salarios municipales.",
+    "La normativa mantiene beneficios para quienes adelanten el pago: 30% de bonificación por el pago anual, 20% por el del primer semestre y un 10% adicional si se abona con tarjeta de débito. También incorpora la exención de tasas vinculadas al registro ambiental para facilitar la radicación de empresas.",
+    "En la misma sesión se aprobó el programa «Tu Casa, Tu Título», orientado a regularizar la situación dominial de viviendas de vecinos que esperan hace años."
+   ],
+   "foto": "edificio",
+   "arte": "ciudad",
+   "origen": "https://www.diariojornada.com.ar/427802/politica/el_concejo_deliberante_aprobo_la_tarifaria_2027"
+  },
+  {
+   "id": "madryn-adhiere-elecciones-21-marzo-2027",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "tema": "Elecciones 2027",
+   "titulo": "Puerto Madryn oficializó que votará el 21 de marzo de 2027, junto con la elección provincial",
+   "bajada": "El Municipio adhirió al decreto provincial y convocó a elegir intendente, viceintendente y 12 concejales titulares.",
+   "cuerpo": [
+    "La Municipalidad de Puerto Madryn formalizó mediante la Resolución 2.107/26 su adhesión al Decreto Provincial 1.872/2026, por lo que las elecciones municipales se harán el domingo 21 de marzo de 2027, en simultáneo con los comicios provinciales.",
+    "Los vecinos elegirán intendente o intendenta, viceintendente o viceintendenta, y renovarán el Concejo Deliberante con 12 concejales titulares y 12 suplentes.",
+    "Las autoridades electas asumirán el 10 de diciembre de 2027 y tendrán mandato hasta el 10 de diciembre de 2031. La decisión se da luego de que el gobernador Ignacio Torres anunciara el 21 de marzo como fecha de las elecciones generales de Chubut, con posibilidad de que los municipios adhieran para unificar calendarios."
+   ],
+   "foto": "elecciones",
+   "arte": "mar",
+   "origen": "https://canal12web.com/madryn-oficializo-convocatoria-a-elecciones-municipales-para-el-21-de-marzo-de-2027/"
+  },
+  {
+   "id": "torres-canadon-perdido-recuperacion-terciaria",
+   "sec": "politica",
+   "ciudad": "Comodoro Rivadavia",
+   "tema": "Petróleo",
+   "titulo": "Torres recorrió Cañadón Perdido, un yacimiento que no se perforaba hace más de 60 años",
+   "bajada": "PECOM puso en marcha allí un proyecto de recuperación terciaria con una inversión de 35 millones de dólares.",
+   "cuerpo": [
+    "El gobernador Ignacio Torres recorrió este viernes Campamento Central–Cañadón Perdido, cerca de Comodoro Rivadavia, donde PECOM reactivó un área madura transferida por YPF. El yacimiento no registraba perforaciones desde hacía más de seis décadas.",
+    "Con una inversión de 35 millones de dólares, la empresa inició la primera fase de un proyecto de recuperación terciaria: se perforaron 28 pozos (nueve inyectores y 19 productores) y se instaló una planta de inyección de polímeros. Se prevé elevar la producción del área de 450 a 2.500 barriles diarios, con potencial para desarrollar otros 80 pozos en etapas futuras.",
+    "«Hoy el resultado es claro y concreto: aumentó la producción, hay un compromiso de inversión que va a ser cada vez mayor y hay trabajo», expresó Torres ante cientos de trabajadores. Destacó además la mejora de 11% en El Trébol y la reanudación de perforaciones en Manantiales Behr.",
+    "Lo acompañaron el diputado nacional y titular del Sindicato de Petroleros Privados, Jorge «Loma» Ávila, el ministro de Hidrocarburos, Federico Ponce, y la presidenta de Petrominera, Irene Carrizo."
+   ],
+   "foto": "petroleo",
+   "arte": "petroleo",
+   "gacetilla": true,
+   "foto_url": "https://noticias.chubut.gob.ar/uploads/1795800067WhatsApp%20Image%202026-11-27%20at%2014.09.52.jpeg",
+   "origen": "https://noticias.chubut.gob.ar/gacetilla/5893"
+  },
+  {
+   "id": "diputados-aprobo-presupuesto-2027",
+   "sec": "nacionales",
+   "ciudad": "Nacional",
+   "tema": "Presupuesto 2027",
+   "titulo": "Diputados aprobó el Presupuesto 2027 por 136 votos a 112",
+   "bajada": "El oficialismo perdió las votaciones de los capítulos sobre universidades y ciencia, que quedaron con el texto de la oposición.",
+   "cuerpo": [
+    "La Cámara de Diputados aprobó el Presupuesto 2027 con 136 votos positivos, 112 negativos y 3 abstenciones, tras un debate de más de 12 horas en el que hablaron más de 70 oradores.",
+    "En la votación en particular, el oficialismo perdió dos capítulos: el II, referido a lo universitario, y el IV, sobre ciencia, que quedaron con los términos del dictamen de la oposición.",
+    "Es el segundo presupuesto de la gestión de Javier Milei, que durante sus dos primeros años gobernó con la prórroga del plan de gastos y recursos de 2023. La sesión se dio en un clima de negociaciones hasta último momento con aliados y bloques dialoguistas."
+   ],
+   "foto": "gobierno",
+   "arte": "ciudad",
+   "origen": "https://www.eldiarioweb.com/2026/11/el-oficialismo-logro-aprobar-el-presupuesto-2027/"
+  },
+  {
+   "id": "trelew-limpieza-profunda-laguna-chiquichano",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "tema": "Ambiente",
+   "titulo": "Trelew hizo una limpieza profunda en la laguna Chiquichano antes del verano",
+   "bajada": "Es la segunda intervención del año para sacar residuos del borde del espejo de agua, donde no llega la limpieza diaria.",
+   "cuerpo": [
+    "Cuadrillas de Servicios Públicos de Trelew realizaron una limpieza profunda en la laguna Chiquichano, con botas de goma y guantes para trabajar sobre el borde del agua. Es la segunda de este tipo en lo que va del año.",
+    "La coordinadora de Ambiente, Erica Colombani, explicó que el operativo permite llegar a sectores inaccesibles en la rutina diaria, donde el viento y las corrientes concentran desechos. «Hace falta de vez en cuando hacer este tipo de limpiezas para mantener el espejo de agua en condiciones», dijo.",
+    "Con la cercanía del verano se espera más público en el paseo. Desde Ambiente pidieron a los visitantes depositar los residuos en los cestos diferenciados para húmedos y secos que hay en todo el perímetro y en el sector de los carritos gastronómicos."
+   ],
+   "foto": "limpieza",
+   "arte": "valle",
+   "origen": "https://cholilaonline.ar/2026/11/operativo-en-la-laguna-limpieza-profunda-en-chiquichano-en-trelew.html"
+  },
+  {
+   "id": "trelew-vihsibles-fest-plaza-independencia",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "tema": "Salud",
+   "titulo": "Trelew: el sábado habrá testeos gratuitos de VIH y sífilis en el VIHsibles Fest",
+   "bajada": "El evento será en la Plaza Independencia desde las 17, por el Día Mundial de la Respuesta al VIH.",
+   "cuerpo": [
+    "El Ministerio de Salud del Chubut, junto con el Municipio de Trelew y el Hospital Zonal «Dr. Adolfo Margara», realizará este sábado el VIHsibles Fest en la Plaza Independencia, desde las 17, en el marco del Día Mundial de la Respuesta al VIH, que se conmemora el 1 de diciembre.",
+    "Habrá danza y música en vivo, feria de emprendedores, stands de salud con charlas y asesoramiento sobre prevención de infecciones de transmisión sexual, y una carpa de testeos gratuitos.",
+    "El personal de salud hará testeos rápidos de VIH y sífilis con una pequeña punción en el dedo. Los resultados se obtienen en unos 15 minutos y se comunican de forma privada y confidencial."
+   ],
+   "foto": "medico",
+   "arte": "ciudad",
+   "origen": "https://cholilaonline.ar/2026/11/dia-mundial-de-la-respuesta-al-vih-provincia-brindara-charlas-y-asesoramiento-para-fortalecer-la-prevencion.html"
+  }
+ ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427811/policiales/caso_colihuinca_huenchullan_ira_a_una_carcel_comun",
-  "https://www.diariojornada.com.ar/427806/economia/chubut_cuando_cobran_los_empleados_publicos_",
-  "https://www.diariojornada.com.ar/427814/deportes/colapinto_termino_12do_en_el_primer_entrenamiento_en_lusail",
-  "https://www.diariojornada.com.ar/427812/policiales/prision_perpetua_por_femicidio_transversal_de_su_suegra"
- ]}
+  "https://www.diariojornada.com.ar/427821/politica/presupuesto_2027_el_gobierno_evalua_modificar_el_articulo_sobre_universidades_",
+  "https://www.diariojornada.com.ar/427820/politica/el_pj_de_esquel_llama_a_la_unidad_para_ganar",
+  "https://www.diariojornada.com.ar/427817/politica/el_tribunal_del_mar_resolvera_el_pedido_para_frenar_la_explotacion_petrolera",
+  "https://www.adnsur.com.ar/sociedad/el-sueno-que-no-pudo-cumplir-rodrigo--sus-companeros-lo-recordaron-en-la-caravana-de-egresados-en-comodoro_a6b09b1470c00c3cae3cdcfc8",
+  "https://www.adnsur.com.ar/sociedad/tiene-19-anos-y-vende-budines-y-panes-dulces-en-pleno-centro-de-comodoro-para-ayudar-a-pagar-sus-estudios_a6b099f570c00c3cae3cb9501",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-9-27-0-cuando-cobran-los-estatales-de-chubut-jubilados-cobran-el-miercoles-2-y-activos-el-jueves-3-de-diciembre",
+  "https://www.elchubut.com.ar/trelew/2026-11-27-13-38-0-asi-fue-el-operativo-para-recapturar-a-huenchullan-munoz-drones-termicos-y-persecucion-policial",
+  "https://www.elchubut.com.ar/trelew/2026-11-27-12-8-0-huenchullan-munoz-seguira-preso-hasta-el-juicio-por-el-crimen-de-rodrigo-colihuinca",
+  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-11-54-0-madryn-el-stj-confirmo-la-prision-perpetua-para-braian-chazarreta-por-el-femicidio-transversal-de-su-suegra",
+  "https://www.eldiarioweb.com/2026/11/logran-recapturar-a-brian-huenchullan-acusado-del-crimen-de-colihuinca/",
+  "https://www.eldiarioweb.com/2026/11/santa-cruz-aprobo-nueva-ley-electoral-y-con-paso/",
+  "https://www.eldiarioweb.com/2026/11/rechazo-a-la-emergencia-pyme/",
+  "https://www.madrynahora.com/puerto-madryn/confirmaron-la-prision-perpetua-para-braian-chazarreta-por-el-femicidio-de-su-suegra-en-madryn/",
+  "https://www.madrynahora.com/chubut/caso-colihuinca-dictaron-prision-preventiva-para-huenchullan-tras-su-recaptura/",
+  "https://www.madrynahora.com/chubut/asi-recapturaron-en-trelew-a-brian-munoz-huenchullan/",
+  "https://www.madrynahora.com/chubut/esquel-el-acusado-en-el-caso-de-la-casa-del-horror-dejo-la-prision-domiciliaria/",
+  "https://canal12web.com/chubut-confirmo-cuando-depositara-los-sueldos-de-diciembre-a-jubilados-pensionados-y-empleados-estatales/",
+  "https://canal12web.com/caso-colihuinca-revocaron-la-prision-domiciliaria-de-huenchullan-y-seguira-preso-hasta-el-juicio/",
+  "https://canal12web.com/confirmaron-la-perpetua-de-braian-chazarreta-el-hombre-que-asesino-a-su-suegra-para-hacer-sufrir-a-su-ex/",
+  "https://cholilaonline.ar/2026/11/caso-colihuinca-revocaron-prision-domiciliaria-huenchullan-ira-a-carcel.html",
+  "https://cholilaonline.ar/2026/11/tarifaria-2027-en-trelew-impuestos-descuentos-concejo-deliberante.html"
+ ]
+}

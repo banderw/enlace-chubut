@@ -77,6 +77,99 @@
  ],
  "notas": [
   {
+   "id": "trelew-vihsibles-fest-plaza-independencia",
+   "fecha": "2026-11-27T14:42:16-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Trelew: el sábado habrá testeos gratuitos de VIH y sífilis en el VIHsibles Fest",
+   "bajada": "El evento será en la Plaza Independencia desde las 17, por el Día Mundial de la Respuesta al VIH.",
+   "cuerpo": [
+    "El Ministerio de Salud del Chubut, junto con el Municipio de Trelew y el Hospital Zonal «Dr. Adolfo Margara», realizará este sábado el VIHsibles Fest en la Plaza Independencia, desde las 17, en el marco del Día Mundial de la Respuesta al VIH, que se conmemora el 1 de diciembre.",
+    "Habrá danza y música en vivo, feria de emprendedores, stands de salud con charlas y asesoramiento sobre prevención de infecciones de transmisión sexual, y una carpa de testeos gratuitos.",
+    "El personal de salud hará testeos rápidos de VIH y sífilis con una pequeña punción en el dedo. Los resultados se obtienen en unos 15 minutos y se comunican de forma privada y confidencial."
+   ],
+   "arte": "ciudad",
+   "tema": "Salud"
+  },
+  {
+   "id": "trelew-limpieza-profunda-laguna-chiquichano",
+   "fecha": "2026-11-27T14:42:15-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Trelew hizo una limpieza profunda en la laguna Chiquichano antes del verano",
+   "bajada": "Es la segunda intervención del año para sacar residuos del borde del espejo de agua, donde no llega la limpieza diaria.",
+   "cuerpo": [
+    "Cuadrillas de Servicios Públicos de Trelew realizaron una limpieza profunda en la laguna Chiquichano, con botas de goma y guantes para trabajar sobre el borde del agua. Es la segunda de este tipo en lo que va del año.",
+    "La coordinadora de Ambiente, Erica Colombani, explicó que el operativo permite llegar a sectores inaccesibles en la rutina diaria, donde el viento y las corrientes concentran desechos. «Hace falta de vez en cuando hacer este tipo de limpiezas para mantener el espejo de agua en condiciones», dijo.",
+    "Con la cercanía del verano se espera más público en el paseo. Desde Ambiente pidieron a los visitantes depositar los residuos en los cestos diferenciados para húmedos y secos que hay en todo el perímetro y en el sector de los carritos gastronómicos."
+   ],
+   "arte": "valle",
+   "tema": "Ambiente"
+  },
+  {
+   "id": "diputados-aprobo-presupuesto-2027",
+   "fecha": "2026-11-27T14:42:14-03:00",
+   "sec": "nacionales",
+   "ciudad": "Nacional",
+   "titulo": "Diputados aprobó el Presupuesto 2027 por 136 votos a 112",
+   "bajada": "El oficialismo perdió las votaciones de los capítulos sobre universidades y ciencia, que quedaron con el texto de la oposición.",
+   "cuerpo": [
+    "La Cámara de Diputados aprobó el Presupuesto 2027 con 136 votos positivos, 112 negativos y 3 abstenciones, tras un debate de más de 12 horas en el que hablaron más de 70 oradores.",
+    "En la votación en particular, el oficialismo perdió dos capítulos: el II, referido a lo universitario, y el IV, sobre ciencia, que quedaron con los términos del dictamen de la oposición.",
+    "Es el segundo presupuesto de la gestión de Javier Milei, que durante sus dos primeros años gobernó con la prórroga del plan de gastos y recursos de 2023. La sesión se dio en un clima de negociaciones hasta último momento con aliados y bloques dialoguistas."
+   ],
+   "arte": "ciudad",
+   "tema": "Presupuesto 2027"
+  },
+  {
+   "id": "torres-canadon-perdido-recuperacion-terciaria",
+   "fecha": "2026-11-27T14:42:13-03:00",
+   "sec": "politica",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Torres recorrió Cañadón Perdido, un yacimiento que no se perforaba hace más de 60 años",
+   "bajada": "PECOM puso en marcha allí un proyecto de recuperación terciaria con una inversión de 35 millones de dólares.",
+   "cuerpo": [
+    "El gobernador Ignacio Torres recorrió este viernes Campamento Central–Cañadón Perdido, cerca de Comodoro Rivadavia, donde PECOM reactivó un área madura transferida por YPF. El yacimiento no registraba perforaciones desde hacía más de seis décadas.",
+    "Con una inversión de 35 millones de dólares, la empresa inició la primera fase de un proyecto de recuperación terciaria: se perforaron 28 pozos (nueve inyectores y 19 productores) y se instaló una planta de inyección de polímeros. Se prevé elevar la producción del área de 450 a 2.500 barriles diarios, con potencial para desarrollar otros 80 pozos en etapas futuras.",
+    "«Hoy el resultado es claro y concreto: aumentó la producción, hay un compromiso de inversión que va a ser cada vez mayor y hay trabajo», expresó Torres ante cientos de trabajadores. Destacó además la mejora de 11% en El Trébol y la reanudación de perforaciones en Manantiales Behr.",
+    "Lo acompañaron el diputado nacional y titular del Sindicato de Petroleros Privados, Jorge «Loma» Ávila, el ministro de Hidrocarburos, Federico Ponce, y la presidenta de Petrominera, Irene Carrizo."
+   ],
+   "arte": "petroleo",
+   "gacetilla": true,
+   "tema": "Petróleo"
+  },
+  {
+   "id": "madryn-adhiere-elecciones-21-marzo-2027",
+   "fecha": "2026-11-27T14:42:12-03:00",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn oficializó que votará el 21 de marzo de 2027, junto con la elección provincial",
+   "bajada": "El Municipio adhirió al decreto provincial y convocó a elegir intendente, viceintendente y 12 concejales titulares.",
+   "cuerpo": [
+    "La Municipalidad de Puerto Madryn formalizó mediante la Resolución 2.107/26 su adhesión al Decreto Provincial 1.872/2026, por lo que las elecciones municipales se harán el domingo 21 de marzo de 2027, en simultáneo con los comicios provinciales.",
+    "Los vecinos elegirán intendente o intendenta, viceintendente o viceintendenta, y renovarán el Concejo Deliberante con 12 concejales titulares y 12 suplentes.",
+    "Las autoridades electas asumirán el 10 de diciembre de 2027 y tendrán mandato hasta el 10 de diciembre de 2031. La decisión se da luego de que el gobernador Ignacio Torres anunciara el 21 de marzo como fecha de las elecciones generales de Chubut, con posibilidad de que los municipios adhieran para unificar calendarios."
+   ],
+   "arte": "mar",
+   "tema": "Elecciones 2027"
+  },
+  {
+   "id": "trelew-concejo-aprueba-tarifaria-2027",
+   "fecha": "2026-11-27T14:42:11-03:00",
+   "sec": "politica",
+   "ciudad": "Trelew",
+   "titulo": "Trelew: el Concejo Deliberante aprobó la Tarifaria 2027 con descuentos por pago adelantado",
+   "bajada": "La ordenanza salió por siete votos a favor y dos en contra. Prevé 30% de bonificación para quienes paguen todo el año por adelantado.",
+   "cuerpo": [
+    "El Concejo Deliberante de Trelew aprobó en su sesión ordinaria la Tarifaria 2027, con siete votos afirmativos y dos negativos, y la ausencia de un edil. La norma fija los recursos con los que contará el Ejecutivo municipal el año próximo.",
+    "Según se explicó, el proyecto se analizó en varias reuniones de comisión con el equipo de Hacienda, y se modificaron la cantidad de módulos de algunos sectores barriales y de la recolección de residuos, tras planteos de concejales que consideraban elevados algunos valores. La presidenta del cuerpo, Claudia Solis, señaló que la ordenanza permitirá afrontar la recolección de residuos, el transporte urbano y los salarios municipales.",
+    "La normativa mantiene beneficios para quienes adelanten el pago: 30% de bonificación por el pago anual, 20% por el del primer semestre y un 10% adicional si se abona con tarjeta de débito. También incorpora la exención de tasas vinculadas al registro ambiental para facilitar la radicación de empresas.",
+    "En la misma sesión se aprobó el programa «Tu Casa, Tu Título», orientado a regularizar la situación dominial de viviendas de vecinos que esperan hace años."
+   ],
+   "arte": "ciudad",
+   "tema": "Tarifaria 2027"
+  },
+  {
    "id": "trevelin-bioquimico-libertad-prohibicion-acercamiento",
    "fecha": "2026-11-27T13:05:00-03:00",
    "sec": "policiales",
@@ -1392,98 +1485,6 @@
    ],
    "arte": "escuela",
    "tema": "Educación"
-  },
-  {
-   "id": "cola-de-pescado",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "ultimas",
-   "ciudad": "Sarmiento",
-   "titulo": "Hallan en Sarmiento una punta “cola de pescado”, la primera registrada en esa zona",
-   "bajada": "Es una herramienta de caza asociada a los primeros pobladores de Sudamérica.",
-   "cuerpo": [
-    "Un equipo del IDEAus-CONICET y de la Universidad Nacional de la Patagonia San Juan Bosco encontró una antigua punta de proyectil al sudeste del lago Colhué Huapi, en Sarmiento.",
-    "Por su forma se la conoce como “cola de pescado” y es el primer registro de esta tecnología en el Bajo de Sarmiento.",
-    "Este tipo de puntas se asocia a poblaciones que habitaron Sudamérica hace miles de años, en la transición entre el Pleistoceno y el Holoceno, y puede aportar nuevas pistas sobre quiénes vivieron en esa zona de Chubut."
-   ],
-   "arte": "meseta",
-   "tema": "Arqueología"
-  },
-  {
-   "id": "cannabis",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "politica",
-   "ciudad": "Rawson",
-   "titulo": "Cannabis: Salud llevará el registro de usuarios y una agencia dará las licencias comerciales",
-   "bajada": "Con el Decreto 1680 ya vigente, la provincia separó el uso medicinal del negocio del cultivo.",
-   "cuerpo": [
-    "La reglamentación de la ley de cannabis, publicada en el Boletín Oficial con el Decreto 1680, dejó definido cómo se repartirá el control de la nueva industria en Chubut.",
-    "El Ministerio de Salud será la autoridad de aplicación y manejará el Registro de Usuarios de Cannabis de Chubut, para garantizar el acceso seguro a los tratamientos.",
-    "El desarrollo comercial del cultivo a gran escala quedará en manos de una agencia descentralizada, que otorgará las licencias y se quedará con lo recaudado por multas."
-   ],
-   "arte": "valle",
-   "ancho": true,
-   "tema": "Cannabis"
-  },
-  {
-   "id": "luz-y-fuerza",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "politica",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Luz y Fuerza abrió su congreso en Madryn con duras críticas al Gobierno nacional",
-   "bajada": "Héctor González llamó al movimiento obrero a involucrarse en la disputa política de 2027.",
-   "cuerpo": [
-    "El secretario general del Sindicato Regional de Luz y Fuerza de la Patagonia, Héctor Rubén González, inauguró en Puerto Madryn el 48° Congreso del Cuerpo General de Delegados, con representantes de Chubut, Santa Cruz y Tierra del Fuego.",
-    "González hizo un balance negativo de casi tres años de gestión de Javier Milei y cuestionó el retroceso en derechos laborales. También reclamó que Chubut participe de las decisiones sobre el futuro de Futaleufú.",
-    "“No podemos fingir ni amnesia, ni demencia”, dijo, y convocó a los trabajadores a ir más allá de los reclamos de cada sector."
-   ],
-   "arte": "ciudad",
-   "tema": "Gremios"
-  },
-  {
-   "id": "bono-petrolero",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "titulo": "Petroleros privados acordaron un bono de $500.000 y pasaron la paritaria a abril",
-   "bajada": "El sindicato de Jorge Ávila firmó tres actas con las cámaras empresarias y abrió la renegociación del convenio.",
-   "cuerpo": [
-    "El Sindicato del Petróleo y Gas Privado del Chubut, que conduce Jorge Ávila, firmó en Buenos Aires tres acuerdos con la Cámara de Exploración y Producción de Hidrocarburos (CEPH) y la Cámara de Servicios Petroleros (CASEPE).",
-    "Los acuerdos fijan una gratificación extraordinaria de $500.000 y trasladan la revisión salarial a abril de 2027.",
-    "Además, dejan abierta la renegociación del Convenio Colectivo de Trabajo 605/10."
-   ],
-   "arte": "petroleo",
-   "tema": "Petroleros"
-  },
-  {
-   "id": "ipv-comodoro",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro",
-   "titulo": "El IPV recuperó un departamento del barrio 30 de Octubre que se alquilaba desde 2015",
-   "bajada": "Los titulares no vivían allí y hasta lo habían permutado. Quedaron inhabilitados para futuros planes.",
-   "cuerpo": [
-    "Un relevamiento en el complejo 1140 Viviendas del barrio 30 de Octubre comprobó que los titulares de un departamento no vivían en él: lo alquilaban desde hacía una década e incluso habían hecho una permuta informal con un tercero.",
-    "Con la Resolución 955/26, publicada en el Boletín Oficial, el Instituto Provincial de la Vivienda declaró la caducidad de la adjudicación.",
-    "Además, los titulares quedaron inhabilitados para acceder a futuros planes habitacionales."
-   ],
-   "arte": "ciudad",
-   "sinFoto": true,
-   "tema": "Vivienda"
-  },
-  {
-   "id": "colonias-rada-tilly",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "cuenca",
-   "ciudad": "Rada Tilly",
-   "titulo": "Colonias de verano en Rada Tilly: este año suman a chicos desde los 2 años",
-   "bajada": "Las actividades van del 4 al 29 de enero y la inscripción sigue abierta hasta fin de diciembre.",
-   "cuerpo": [
-    "Las colonias de vacaciones de Rada Tilly empiezan el 4 de enero y terminan el 29.",
-    "Para la temporada 2027 el Municipio suma por primera vez una propuesta para nenas y nenes de 2 y 3 años, además de las actividades para quienes cursan hasta sexto grado.",
-    "Las inscripciones ya están abiertas y seguirán hasta fines de diciembre, según explicó Ignacio Barreto."
-   ],
-   "arte": "playa",
-   "tema": "Verano"
   }
  ]
 }
