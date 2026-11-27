@@ -77,6 +77,39 @@
  ],
  "notas": [
   {
+   "id": "trevelin-bioquimico-libertad-prohibicion-acercamiento",
+   "fecha": "2026-11-27T13:05:00-03:00",
+   "sec": "policiales",
+   "ciudad": "Trevelin",
+   "titulo": "Trevelin: liberaron al bioquímico acusado de privar de la libertad a su esposa y sus hijos",
+   "bajada": "El juez José Luis Ennis le levantó la prisión domiciliaria al hombre de 71 años, pero durante 45 días no podrá acercarse ni contactar a su familia.",
+   "cuerpo": [
+    "Un bioquímico de 71 años de Trevelin, denunciado por sus vecinos por la presunta privación ilegítima de la libertad de su esposa y sus tres hijos, recuperó la libertad tras una audiencia de una hora realizada este viernes en los Tribunales de Esquel.",
+    "El hombre había pasado diez días detenido en la Comisaría de Trevelin y luego cumplió 30 días de prisión domiciliaria en esa localidad. Al vencer ese plazo, el juez José Luis Ennis decidió atenuar la medida: por 45 días tendrá prohibido acercarse y comunicarse con las víctimas y, desde el 30 de noviembre, deberá presentarse todos los lunes en la comisaría. Podrá moverse libremente dentro de su chacra.",
+    "La defensa pidió la libertad con el argumento de que el acusado necesita trabajar, y el juez lo tuvo en cuenta junto con su edad y con la pena que podría recibir, que sería en suspenso.",
+    "La fiscal jefe María Bottini explicó que esperan las pericias del cuerpo forense interdisciplinario para definir cómo seguirá la investigación. \"Para nosotras hubo cosas nuevas\", dijo, aunque el juez consideró que no alcanzaban para mantenerlo detenido."
+   ],
+   "arte": "cordillera",
+   "tema": "Justicia"
+  },
+  {
+   "id": "chubut-pago-haberes-noviembre-2-y-3-diciembre",
+   "fecha": "2026-11-27T11:25:00-03:00",
+   "sec": "politica",
+   "ciudad": "Provincia",
+   "titulo": "Chubut deposita los sueldos de noviembre: el martes 1 a jubilados y el miércoles 2 a los estatales en actividad",
+   "bajada": "Los jubilados podrán cobrar desde el miércoles 2 y los trabajadores activos desde el jueves 3 de diciembre, por cajeros, ventanillas del Banco del Chubut y canales digitales.",
+   "cuerpo": [
+    "El Gobierno del Chubut, a través del Ministerio de Economía, confirmó el cronograma de pago de los haberes de noviembre para la Administración Pública Provincial.",
+    "El martes 1 de diciembre se hará el depósito para los jubilados y pensionados de la provincia, que tendrán el dinero disponible al día siguiente, el miércoles 2.",
+    "El miércoles 2 será el turno de los trabajadores en actividad, que podrán cobrar desde el jueves 3 de diciembre.",
+    "En los dos casos, los fondos se podrán retirar por cajeros automáticos, en las ventanillas habilitadas del Banco del Chubut y a través de los canales digitales del banco."
+   ],
+   "arte": "banco",
+   "tema": "Sueldos estatales",
+   "lugar": "lead"
+  },
+  {
    "id": "luz-y-fuerza-congreso-madryn-mercado-electrico-provincial",
    "fecha": "2026-11-27T11:21:27-03:00",
    "sec": "politica",
@@ -155,23 +188,6 @@
    ],
    "arte": "noche",
    "tema": "Seguridad"
-  },
-  {
-   "id": "chubut-pago-haberes-noviembre-2-y-3-diciembre",
-   "fecha": "2026-11-27T11:25:00-03:00",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "titulo": "Chubut deposita los sueldos de noviembre: el martes 1 a jubilados y el miércoles 2 a los estatales en actividad",
-   "bajada": "Los jubilados podrán cobrar desde el miércoles 2 y los trabajadores activos desde el jueves 3 de diciembre, por cajeros, ventanillas del Banco del Chubut y canales digitales.",
-   "cuerpo": [
-    "El Gobierno del Chubut, a través del Ministerio de Economía, confirmó el cronograma de pago de los haberes de noviembre para la Administración Pública Provincial.",
-    "El martes 1 de diciembre se hará el depósito para los jubilados y pensionados de la provincia, que tendrán el dinero disponible al día siguiente, el miércoles 2.",
-    "El miércoles 2 será el turno de los trabajadores en actividad, que podrán cobrar desde el jueves 3 de diciembre.",
-    "En los dos casos, los fondos se podrán retirar por cajeros automáticos, en las ventanillas habilitadas del Banco del Chubut y a través de los canales digitales del banco."
-   ],
-   "arte": "banco",
-   "tema": "Sueldos estatales",
-   "lugar": "lead"
   },
   {
    "id": "ley-apuestas-online-menores-publicidad-camisetas",
@@ -1468,21 +1484,6 @@
    ],
    "arte": "playa",
    "tema": "Verano"
-  },
-  {
-   "id": "malambo-precosquin",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro",
-   "titulo": "Luca Pereira ganó el Pre-Cosquín en malambo y busca ayuda para viajar",
-   "bajada": "El bailarín de Comodoro se impuso entre 22 participantes y representará a la ciudad en el festival.",
-   "cuerpo": [
-    "Luca Pereira ganó el Pre-Cosquín en la categoría solista de malambo, frente a otros 21 participantes. Lo venía intentando desde hacía cuatro temporadas.",
-    "Baila desde los cuatro años y el 12 de enero viajará a Cosquín con su equipo, Viento Sureño.",
-    "Para cubrir el viaje necesita la colaboración de vecinos y comercios."
-   ],
-   "arte": "escenario",
-   "tema": "Cosquín"
   }
  ]
 }
