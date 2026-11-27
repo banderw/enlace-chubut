@@ -20,6 +20,8 @@ Python: `python3 -X utf8`. Si al agregar notas falta Pillow (`No module named 'P
    - es **nueva**: no repite un hecho que ya está en el portal (si es la continuación de un tema, solo si hay un dato nuevo concreto);
    - tiene información suficiente para escribir al menos 2 párrafos.
 
+   Hay 8 fuentes (Jornada, ADNSUR, OPI Santa Cruz, El Chubut, El Diario Web, Madryn Ahora, Canal 12 y Cholila Online) y muchas veces **varios medios cuentan el mismo hecho**: publicalo **una sola vez** (podés combinar los datos de las distintas versiones) y poné en `origen` una de las URL y todas las demás en `descartadas`.
+
    **Nacionales**: además, se pueden publicar en la sección `nacionales` las noticias del país **más importantes** (decisiones del Congreso, del Gobierno nacional o de la Justicia de alcance nacional, economía, medidas que afectan a todo el país), **como máximo 2 por día**. El cupo que queda hoy viene en `cupo_nacionales_hoy` de `candidatas.json` (si es 0 no se publica ninguna). Elegí solo las de mayor impacto; las demás van a `descartadas`.
 
    Se descarta: política nacional menor o de otras provincias sin relación directa con Chubut (fuera del cupo de nacionales), internacionales, columnas de opinión, notas patrocinadas, horóscopo, recetas, chimentos, virales y notas sin datos.

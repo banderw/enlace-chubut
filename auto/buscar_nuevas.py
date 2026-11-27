@@ -12,8 +12,8 @@ AUTO = os.path.dirname(os.path.abspath(__file__))
 VISTAS = os.path.join(AUTO, "vistas.json")
 SALIDA = os.path.join(AUTO, "candidatas.json")
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) EnlaceChubutBot/1.0", "Accept-Language": "es-AR,es;q=0.9"}
-MAX_CANDIDATAS = 15
-MAX_POR_MEDIO = 5
+MAX_CANDIDATAS = 30
+MAX_POR_MEDIO = 4
 MAX_HORAS = 36  # las notas publicadas hace más tiempo se ignoran
 LUGARES_CHUBUT = re.compile(r"chubut|rawson|trelew|madryn|comodoro|esquel|trevelin|gaiman|dolavon|sarmiento|rada tilly|"
                             r"camarones|el maitén|el maiten|lago puelo|el hoyo|epuyén|epuyen|cholila|gobernador costa|"
@@ -22,7 +22,11 @@ LUGARES_CHUBUT = re.compile(r"chubut|rawson|trelew|madryn|comodoro|esquel|trevel
 
 def bajar(url):
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40) as r:
-        return r.read().decode("utf-8", "replace")
+        crudo = r.read()
+    try:
+        return crudo.decode("utf-8")
+    except UnicodeDecodeError:  # algunos sitios (Madryn Ahora) usan latin-1
+        return crudo.decode("cp1252", "replace")
 
 def limpiar(t):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", t))).strip()
@@ -34,9 +38,11 @@ def enlaces(pagina, base, patron):
         if href.startswith("/"):
             href = base + href
         href = href.split("?")[0]
-        if not re.search(patron, href) or href in vistos:
+        # La misma nota puede aparecer en dos secciones (El Chubut: /trelew/... y /nota/...): se compara la última parte
+        clave = href.rstrip("/").rsplit("/", 1)[-1]
+        if not re.search(patron, href) or clave in vistos:
             continue
-        vistos.add(href)
+        vistos.add(clave)
         res.append((href, texto))
     return res
 
@@ -53,7 +59,7 @@ def leer_nota(url):
     crudo = bajar(url)
     p = re.sub(r"<(script|style|noscript|svg)\b.*?</\1>", " ", crudo, flags=re.S | re.I)
     t = meta_tag(p, "og:title") or limpiar((re.search(r"<title>(.*?)</title>", p, re.S | re.I) or [None, ""])[1])
-    titulo = re.sub(r"\s*[-|—]\s*(ADNSUR|OPI Santa Cruz|Diario Jornada).*$", "", t)
+    titulo = re.sub(r"\s*[-|—]\s*(ADNSUR|OPI Santa Cruz|Diario Jornada|Diario El Chubut|El Chubut|El Diario Web|El Diario de Madryn|Madryn Ahora|Canal 12.*|Cholila Online|Últimas Noticias).*$", "", t)
     copete = meta_tag(p, "description") or meta_tag(p, "og:description")
     vistos, parrafos = set(), []
     for m in re.finditer(r"<p(?:\s[^>]*)?>(.*?)</p>", p, re.S | re.I):
@@ -79,6 +85,15 @@ FUENTES = [
     ("Diario Jornada", "https://www.diariojornada.com.ar/home", "https://www.diariojornada.com.ar", r"diariojornada\.com\.ar/\d{6}/[a-z]+/"),
     ("ADNSUR", "https://www.adnsur.com.ar/", "https://www.adnsur.com.ar", r"adnsur\.com\.ar/.+_a[0-9a-f]{20,}$"),
     ("OPI Santa Cruz", "https://www.opisantacruz.com.ar/", "https://www.opisantacruz.com.ar", r"opisantacruz\.com\.ar/20\d\d/\d\d/\d\d/[^/]+/?$"),
+    # Sumados el 27/11/2026 a pedido del usuario
+    ("El Chubut", "https://www.elchubut.com.ar/", "https://www.elchubut.com.ar",
+     r"elchubut\.com\.ar/(?!carta-del-lector|seccion|servicios)[a-z-]+/20\d\d-\d+-\d+-\d+-\d+-\d+-[a-z0-9-]+$"),
+    ("El Diario Web", "https://www.eldiarioweb.com/", "https://www.eldiarioweb.com", r"eldiarioweb\.com/20\d\d/\d\d/[a-z0-9-]+/?$"),
+    ("Madryn Ahora", "https://www.madrynahora.com/", "https://www.madrynahora.com",
+     r"madrynahora\.com/(puerto-madryn|chubut|argentina|deportes|policiales|politica|sociedad)/[a-z0-9-]{20,}/?$"),
+    ("Canal 12", "https://canal12web.com/", "https://canal12web.com",
+     r"canal12web\.com/(?!etiqueta|seccion|categoria|contacto|canal-12-web-en-vivo|radios-fm)[a-z0-9]+(-[a-z0-9]+){4,}/?$"),
+    ("Cholila Online", "https://cholilaonline.ar/", "https://cholilaonline.ar", r"cholilaonline\.ar/20\d\d/\d\d/[a-z0-9-]+\.html$"),
 ]
 
 GOB_API = "https://noticias.chubut.gob.ar/api/posts/?page={}"
