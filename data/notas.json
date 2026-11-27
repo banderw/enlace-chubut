@@ -77,6 +77,38 @@
  ],
  "notas": [
   {
+   "id": "ley-apuestas-online-menores-publicidad-camisetas",
+   "fecha": "2026-11-27T07:57:39-03:00",
+   "sec": "nacionales",
+   "ciudad": "Buenos Aires",
+   "titulo": "Es ley: prohíben las apuestas online para menores y la publicidad de casas de juego en las camisetas",
+   "bajada": "El Senado aprobó por unanimidad la norma contra la ludopatía y las ciberapuestas, que también restringe la promoción del juego en medios, redes sociales y vía pública.",
+   "cuerpo": [
+    "El Senado convirtió en ley el jueves por la noche el proyecto para combatir la ludopatía y las apuestas en línea. La norma, aprobada por unanimidad, prohíbe que los menores de edad jueguen en plataformas digitales y veda la publicidad, la promoción y el patrocinio de juegos de azar en la indumentaria deportiva.",
+    "La iniciativa llevaba dos años frenada y estaba por perder estado parlamentario. Se destrabó tras un acuerdo entre el peronismo y bloques aliados de La Libertad Avanza, con fuerte presión de la Iglesia, y sumó también el voto de legisladores libertarios como Agustín Coto y Luis Juez. El Gobierno nacional pretendía cambios y rechaza las restricciones a la publicidad, una postura que comparten la AFA y varios clubes que reciben aportes de empresas del sector.",
+    "La prohibición alcanza a la promoción en redes sociales, internet, medios gráficos, radiales, televisivos y audiovisuales, la publicidad exterior y el emplazamiento de productos, e incluso a nuevos medios que puedan surgir. Solo se permitirá publicidad dentro de casinos, bingos, hipódromos, casas de apuestas y agencias de lotería.",
+    "Uno de los puntos que más impacto tendrá es el fin del patrocinio de casas de apuestas en las camisetas, una práctica extendida entre los principales clubes del fútbol argentino. La ley también contempla penas de entre tres y ocho años de prisión."
+   ],
+   "arte": "cancha",
+   "tema": "Ludopatía"
+  },
+  {
+   "id": "comodoro-detenido-disparos-calle-saavedra",
+   "fecha": "2026-11-27T07:57:38-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: detuvieron a un hombre señalado por disparar un arma y le secuestraron una pistola Glock",
+   "bajada": "Una testigo lo identificó como quien habría efectuado disparos el miércoles por la tarde. Al ver a la Policía chocó con su camioneta contra un poste de luz en calle Saavedra.",
+   "cuerpo": [
+    "La Policía de Comodoro Rivadavia detuvo el miércoles 26 de noviembre a un hombre al que una testigo señaló como el autor de varios disparos con un arma de fuego. El aviso llegó por teléfono cerca de las 15:10 y describía a un hombre vestido de negro que se movía en una camioneta del mismo color.",
+    "Efectivos de la Comisaría Seccional Segunda fueron al lugar y, mientras hablaban con la testigo, apareció por calle Saavedra una Toyota Hilux. Al notar la presencia policial, el conductor hizo una maniobra y terminó golpeando la parte delantera derecha de la camioneta contra un poste de luz, a la altura del 1082. La mujer reconoció el vehículo y al conductor.",
+    "Los policías le pidieron que bajara y, durante el palpado preventivo, vieron desde afuera una pistola Glock sobre el asiento del conductor. Por orden del fiscal de turno, Cristian Ovalle, se inspeccionó la camioneta: además del arma se secuestraron dos vainas servidas calibre 9 milímetros, un cargador con 13 cartuchos y otro cartucho suelto.",
+    "En la requisa también apareció un envoltorio con una sustancia blanca. Personal de la División Drogas Peligrosas y Leyes Especiales determinó que eran 0,3 gramos de cocaína. La Hilux quedó secuestrada y el hombre fue trasladado a la dependencia policial, investigado por presunto abuso de armas y tenencia ilegal de arma de fuego."
+   ],
+   "arte": "ciudad",
+   "tema": "Seguridad"
+  },
+  {
    "id": "comodoro-25n-mural-caminata-costanera",
    "fecha": "2026-11-26T23:05:21-03:00",
    "sec": "cuenca",
@@ -1445,36 +1477,6 @@
    ],
    "arte": "noche",
    "tema": "Ataque en Madryn"
-  },
-  {
-   "id": "seguridad-madryn",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "policiales",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Comercios de Madryn y la Policía acordaron reforzar la seguridad para el verano",
-   "bajada": "Gestionarán cámaras en los accesos a la ciudad tras una serie de robos en el centro.",
-   "cuerpo": [
-    "La Cámara de Industria, Comercio, Producción y Turismo de Puerto Madryn (CAMAD) se reunió con la cúpula de la Policía del Chubut y autoridades municipales.",
-    "El encuentro se hizo después del robo con rotura de vidriera en un local recién inaugurado de la calle San Martín y de un intento de asalto a una joyería sobre 25 de Mayo.",
-    "Acordaron ajustar los protocolos de prevención para la temporada y avanzar con la instalación de cámaras de seguridad en los accesos a la ciudad."
-   ],
-   "arte": "noche",
-   "tema": "Seguridad"
-  },
-  {
-   "id": "escuela-esquel",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "policiales",
-   "ciudad": "Esquel",
-   "titulo": "Amenazaron a personal de una escuela de Esquel y cambiaron el protocolo de salida",
-   "bajada": "Hasta fin de año, los chicos de la Escuela 179 saldrán de forma escalonada y acompañados por docentes.",
-   "cuerpo": [
-    "Un hombre amenazó con agredir a trabajadores de la Escuela 179 de Esquel. No pasó a mayores, pero se avisó enseguida a Supervisión de Escuelas y a la Policía.",
-    "Por recomendación policial, los alumnos saldrán por la puerta principal de forma escalonada, por grado y sección, acompañados todo el tiempo por sus docentes.",
-    "La escuela informó la medida a las familias con una nota. Regirá hasta el final del ciclo lectivo."
-   ],
-   "arte": "escuela",
-   "tema": "Educación"
   }
  ]
 }
