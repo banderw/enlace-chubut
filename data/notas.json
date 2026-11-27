@@ -158,17 +158,20 @@
   },
   {
    "id": "chubut-pago-haberes-noviembre-2-y-3-diciembre",
-   "fecha": "2026-11-27T11:16:40-03:00",
+   "fecha": "2026-11-27T11:25:00-03:00",
    "sec": "politica",
    "ciudad": "Provincia",
-   "titulo": "Chubut paga los sueldos de noviembre: jubilados el miércoles 2 y activos el jueves 3 de diciembre",
-   "bajada": "El Ministerio de Economía de la provincia confirmó el cronograma de pago de los haberes de noviembre para la Administración Pública Provincial.",
+   "titulo": "Chubut deposita los sueldos de noviembre: el martes 1 a jubilados y el miércoles 2 a los estatales en actividad",
+   "bajada": "Los jubilados podrán cobrar desde el miércoles 2 y los trabajadores activos desde el jueves 3 de diciembre, por cajeros, ventanillas del Banco del Chubut y canales digitales.",
    "cuerpo": [
-    "El Gobierno del Chubut dio a conocer las fechas en que se depositarán los haberes correspondientes a noviembre para los empleados de la Administración Pública Provincial.",
-    "Según informó el Ministerio de Economía, los jubilados y pensionados (agentes pasivos) tendrán disponible su cobro el miércoles 2 de diciembre, mientras que los trabajadores en actividad lo recibirán al día siguiente, el jueves 3."
+    "El Gobierno del Chubut, a través del Ministerio de Economía, confirmó el cronograma de pago de los haberes de noviembre para la Administración Pública Provincial.",
+    "El martes 1 de diciembre se hará el depósito para los jubilados y pensionados de la provincia, que tendrán el dinero disponible al día siguiente, el miércoles 2.",
+    "El miércoles 2 será el turno de los trabajadores en actividad, que podrán cobrar desde el jueves 3 de diciembre.",
+    "En los dos casos, los fondos se podrán retirar por cajeros automáticos, en las ventanillas habilitadas del Banco del Chubut y a través de los canales digitales del banco."
    ],
    "arte": "banco",
-   "tema": "Sueldos estatales"
+   "tema": "Sueldos estatales",
+   "lugar": "lead"
   },
   {
    "id": "ley-apuestas-online-menores-publicidad-camisetas",
@@ -594,8 +597,7 @@
     "El albergue, de tres niveles, cuenta con más de once habitaciones para que los pacientes y sus familiares puedan quedarse durante los tratamientos. \"Van a poder acompañar a sus familiares mientras se alojan en una residencia con todas las comodidades\", dijo Torres, quien agregó que en la nueva sede los afiliados podrán hacer sus trámites \"sin que se le cobre un solo peso de coseguro a nadie\"."
    ],
    "arte": "ciudad",
-   "tema": "Seros",
-   "lugar": "lead"
+   "tema": "Seros"
   },
   {
    "id": "vitis-prebio-jugo-uva-criolla-dolavon",
