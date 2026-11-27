@@ -77,6 +77,36 @@
  ],
  "notas": [
   {
+   "id": "comodoro-25n-mural-caminata-costanera",
+   "fecha": "2026-11-26T23:05:21-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: con un mural y una caminata por la Costanera, el municipio cierra las actividades del 25N",
+   "bajada": "La Secretaría de la Mujer, Género, Juventud y Diversidad acompaña hoy a unas 400 mujeres y recordó que tiene guardia las 24 horas en Dorrego 732.",
+   "cuerpo": [
+    "La secretaria de la Mujer, Género, Juventud y Diversidad de Comodoro Rivadavia, María Cativa, repasó las actividades por el Día Internacional de la Eliminación de la Violencia contra la Mujer. Junto a las comisarías de la Mujer de zona norte y zona sur se pintó un mural conmemorativo en el Parque de la Ciudad, al lado del que ya muestra los números de guardia.",
+    "El cierre será el domingo 29 de noviembre desde las 14 con una caminata tranquila que saldrá de la ex Proveeduría y llegará al Paseo Costero. Allí habrá clases de zumba y de relajación, además de una muestra nacional de mujeres periodistas.",
+    "Cativa contó que el área municipal sigue actualmente a un promedio de 400 mujeres, entre consultas espontáneas, derivaciones de la Justicia y asistencias de emergencia. La Secretaría atiende con guardia permanente las 24 horas en su sede de Dorrego 732 y brinda acompañamiento legal, psicológico y social sin costo."
+   ],
+   "arte": "ciudad",
+   "tema": "25N"
+  },
+  {
+   "id": "madryn-brown-final-abech-juego-3",
+   "fecha": "2026-11-26T23:05:20-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Final de la ABECH: Deportivo Madryn y Guillermo Brown juegan el tercer partido con la serie 1 a 1",
+   "bajada": "El clásico madrynense se muda al Luján Barrientos este viernes a las 21:30, con el Aurinegro como local en el tercer y el cuarto juego.",
+   "cuerpo": [
+    "La final del Torneo Clausura de la Asociación de Básquet del Este del Chubut (ABECH) suma este viernes un nuevo capítulo: Deportivo Madryn recibirá a Guillermo Brown a partir de las 21:30 en el gimnasio Luján Barrientos, con la serie empatada 1 a 1.",
+    "Los dos primeros encuentros se jugaron en el gimnasio Benito García. En el primero, Madryn ganó como visitante por 91 a 84 y le quitó la localía a su rival. En el segundo, disputado el miércoles, Brown se recuperó y se impuso 101 a 91 después de dos tiempos suplementarios.",
+    "Ahora el Aurinegro será local tanto en el tercer como en el cuarto partido de la serie. Con todo igualado, el juego del viernes puede ser decisivo en una final marcada hasta ahora por la paridad, y se espera una gran convocatoria de público para el clásico de la ciudad."
+   ],
+   "arte": "cancha",
+   "tema": "Básquet ABECH"
+  },
+  {
    "id": "hantavirus-prevencion-verano-cordillera",
    "fecha": "2026-11-26T22:05:22-03:00",
    "sec": "ultimas",
@@ -1445,37 +1475,6 @@
    ],
    "arte": "escuela",
    "tema": "Educación"
-  },
-  {
-   "id": "incendio-guilford",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "policiales",
-   "ciudad": "Comodoro",
-   "titulo": "Se reavivó el fuego en la ex textil Guilford de Comodoro",
-   "bajada": "Los bomberos abrieron un boquete en el techo para liberar el calor acumulado entre telas e hilos.",
-   "cuerpo": [
-    "Un nuevo foco se encendió el martes a la mañana dentro de la ex fábrica textil Guilford, después del incendio del lunes que afectó un sector de unos 60 metros del predio.",
-    "El viento y el calor acumulado entre restos de hilos, telas y nylon volvieron a encender el material.",
-    "Los Bomberos Voluntarios subieron al primer piso y abrieron un boquete para ventilar la estructura y evitar que se repita."
-   ],
-   "arte": "humo",
-   "tema": "Incendio Guilford"
-  },
-  {
-   "id": "deportivo-madryn",
-   "fecha": "2026-11-25T19:00:00-03:00",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Deportivo Madryn recibe a Gimnasia de Jujuy y va por la remontada",
-   "bajada": "Juegan el sábado a las 20 en el Abel Sastre. Al Aurinegro le alcanza con igualar la serie.",
-   "cuerpo": [
-    "Deportivo Madryn recibe el sábado a las 20 a Gimnasia de Jujuy en el estadio Abel Sastre, por la vuelta de los cuartos de final del Reducido.",
-    "En la ida, en el estadio 23 de Agosto, ganó el Lobo 1 a 0 con gol de Joaquín Varela.",
-    "El equipo portuario tiene ventaja deportiva: si el resultado global termina igualado, pasa a semifinales. El plantel volvió sin lesionados y ya entrena para la revancha."
-   ],
-   "arte": "cancha",
-   "ancho": true,
-   "tema": "Deportivo Madryn"
   }
  ]
 }
