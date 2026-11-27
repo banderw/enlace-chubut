@@ -144,8 +144,11 @@ def main():
     # Recorte: se borran las notas más viejas sin lugar fijo en la portada (y sus fotos)
     datos["notas"].sort(key=lambda v: v.get("fecha", ""), reverse=True)
     borradas = []
+    # Las notas de los recuadros de datos (agenda) y del especial no se borran, para que sus enlaces sigan andando
+    protegidas = {a.get("nota") for a in datos.get("agenda", [])} | {(datos.get("especial") or {}).get("nota")}
     while len(datos["notas"]) > MAX_NOTAS:
-        idx = next((j for j in range(len(datos["notas"]) - 1, -1, -1) if not datos["notas"][j].get("lugar")), None)
+        idx = next((j for j in range(len(datos["notas"]) - 1, -1, -1)
+                    if not datos["notas"][j].get("lugar") and datos["notas"][j]["id"] not in protegidas), None)
         if idx is None:
             break
         vieja = datos["notas"].pop(idx)

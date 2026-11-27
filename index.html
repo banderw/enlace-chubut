@@ -384,7 +384,7 @@ window.usarIlustracion=usarIlustracion;
 const card=n=>`<article class="card${n.ancho?" wide":""}"><a href="${href(n)}">${pic(n)}<div class="card-txt">${meta(n)}<h3>${esc(n.titulo)}</h3></div></a></article>`;
 
 /* ---------- Portada ---------- */
-document.getElementById("agenda").innerHTML=AGENDA.map(d=>`<a class="dato" href="#nota-${d.nota}"><div class="k">${d.k}</div><div class="v">${d.v}</div><div class="n">${d.n}</div></a>`).join("");
+document.getElementById("agenda").innerHTML=AGENDA.map(d=>`<a class="dato" href="${byId[d.nota]?"#nota-"+d.nota:"#"}"><div class="k">${d.k}</div><div class="v">${d.v}</div><div class="n">${d.n}</div></a>`).join("");
 
 const lead=NOTAS.find(n=>n.lugar==="lead");
 const lado=NOTAS.filter(n=>n.lugar==="lado");
