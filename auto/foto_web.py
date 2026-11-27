@@ -18,7 +18,39 @@ def bajar(url, limite=8_000_000):
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
         return r.read(limite), r.headers.get("Content-Type", "")
 
+WIKI_UA = {"User-Agent": "EnlaceChubutBot/1.0 (https://enlacechubut.com.ar; EnlaceChubut@protonmail.com)"}
+
+def foto_wikipedia(url):
+    """Wikipedia bloquea a los navegadores falsos (error 429): se usa su API oficial con un User-Agent propio."""
+    m = re.match(r"https?://([a-z]+)\.(?:m\.)?wikipedia\.(?:org|com)/wiki/(.+)$", url)
+    titulo = m.group(2) if m else url.rstrip("/").rsplit("/", 1)[-1]
+    idiomas = [m.group(1)] if m and m.group(1) not in ("www",) else ["en", "es"]
+    import json
+    datos, error = None, None
+    for idioma in idiomas + [i for i in ("es", "en") if i not in idiomas]:
+        try:
+            api = f"https://{idioma}.wikipedia.org/api/rest_v1/page/summary/{titulo}"
+            with urllib.request.urlopen(urllib.request.Request(api, headers=WIKI_UA), timeout=30) as r:
+                datos = json.load(r)
+            break
+        except Exception as e:
+            error = e
+    if datos is None:
+        raise error
+    img = (datos.get("originalimage") or datos.get("thumbnail") or {}).get("source")
+    if not img:
+        raise ValueError("la página de Wikipedia no tiene foto")
+    if "/thumb/" not in img and (datos.get("originalimage") or {}).get("width", 0) > 1600 and datos.get("thumbnail"):
+        img = re.sub(r"/\d+px-", "/1280px-", datos["thumbnail"]["source"])
+    with urllib.request.urlopen(urllib.request.Request(img, headers=WIKI_UA), timeout=30) as r:
+        return img, r.read(8_000_000), r.headers.get("Content-Type", "")
+
 def foto_de_pagina(url):
+    if re.search(r"wikipedia\.(org|com)/wiki/", url):
+        return foto_wikipedia(url)
+    if "upload.wikimedia.org" in url:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=WIKI_UA), timeout=30) as r:
+            return url, r.read(8_000_000), r.headers.get("Content-Type", "")
     crudo, tipo = bajar(url, 3_000_000)
     if tipo.startswith("image/"):
         return url, crudo, tipo
