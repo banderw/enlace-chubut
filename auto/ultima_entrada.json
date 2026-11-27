@@ -1,38 +1,104 @@
 {
  "notas": [
   {
-   "id": "madryn-juro-nuevo-camarista-penal",
-   "sec": "policiales",
-   "ciudad": "Puerto Madryn",
-   "tema": "Justicia",
-   "titulo": "Francisco Orlando juró como nuevo integrante de la Cámara Penal de Puerto Madryn",
-   "bajada": "El hasta ahora juez penal fue puesto en funciones en un acto encabezado por el vicepresidente del Superior Tribunal de Justicia, Javier Raidan.",
+   "id": "el-maiten-frigorifico-categoria-3-matadero",
+   "sec": "ultimas",
+   "ciudad": "El Maitén",
+   "tema": "Producción",
+   "titulo": "El Maitén amplía su matadero para tener un frigorífico de categoría 3",
+   "bajada": "La obra, con una inversión de unos $ 1.800 millones del Plan Galina, apunta a distribuir carne ovina, vacuna y de cerdo en la Comarca Andina, Esquel y Trevelin.",
    "cuerpo": [
-    "El doctor Francisco Marcelo Orlando prestó juramento y quedó formalmente a cargo de un cargo en la Cámara Penal de la Circunscripción Judicial de Puerto Madryn. Hasta ahora se desempeñaba como juez penal en la ciudad.",
-    "El acto estuvo encabezado por el vicepresidente del Superior Tribunal de Justicia, ministro Javier Gastón Raidan, acompañado por la ministra Camila Lucía Banfi Saavedra. Orlando accedió al cargo mediante la Acordada N° 2749/26 del Consejo de la Magistratura, tras imponerse en el concurso público para cubrir la vacante.",
-    "Participaron el administrador general del STJ, Mariano Pardini; los camaristas penales Javier Allende y Diego Trad; las juezas penales Patricia Reyes, Alejandra Hernández y Marcela Pérez Bogado; el juez Horacio Daniel Yangüela y la directora de la Oficina Judicial, además de otros funcionarios judiciales."
+    "En El Maitén comenzó esta semana la ampliación y remodelación del matadero municipal, un proyecto que costará alrededor de $ 1.800 millones y se financia en buena parte con aportes del Gobierno provincial a través del Plan Galina. El intendente Oscar Currilén lo definió como \"la frutilla del postre\" porque permitirá contar con un frigorífico de categoría 3.",
+    "El jefe comunal contó que el ministro de la Producción, Julio Kresteff, recorrió la obra el miércoles. Se prevé una ampliación del 80 por ciento de la estructura actual, además de un criadero de cerdos y corrales. La Provincia ya habilitó $ 1.000 millones y el municipio desembolsó $ 300 millones.",
+    "Currilén anticipó que se comprarán un camión jaula y otro con refrigeración para repartir carne en la Comarca Andina, Esquel y Trevelin. La obra se calcula en unos 120 días, o después de la veda invernal de 2027.",
+    "También se planea una reunión con el gobernador, el ministro de Producción y la Sociedad Rural de Esquel para que pequeños productores usen las instalaciones hasta que se reactive el frigorífico de Trevelin. \"Hay urgencia, pero no queremos que se interprete que lo hacemos por una cuestión electoral\", sostuvo el intendente."
    ],
-   "foto": "justicia",
-   "arte": "ciudad",
-   "foto_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Madryn_001.JPG/3840px-Madryn_001.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "origen": "https://cholilaonline.ar/2026/11/camara-penal-de-puerto-madryn-juro-nuevo-juez-francisco-orlando.html"
+   "foto": "ovejas",
+   "arte": "campo",
+   "origen": "https://www.diariojornada.com.ar/427767/economia/el_maiten_construye_un_frigorifico_categoria_3"
+  },
+  {
+   "id": "comodoro-detenido-disparos-pistola-glock-hilux",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "tema": "Seguridad",
+   "titulo": "Comodoro: detuvieron a un hombre tras una denuncia por disparos y le secuestraron una pistola",
+   "bajada": "El sospechoso, de 39 años, chocó contra un poste al ver a la Policía. Le encontraron un arma, municiones, vainas servidas y cocaína.",
+   "cuerpo": [
+    "Un hombre de 39 años fue detenido en Comodoro Rivadavia luego de una denuncia por disparos de arma de fuego. El hecho ocurrió el 26 de noviembre, cerca de las 15:10, cuando personal de la Comisaría Seccional Segunda recibió un llamado sobre un hombre de negro que conducía una camioneta negra y habría efectuado detonaciones.",
+    "Al llegar los efectivos, una Toyota Hilux se aproximó por calle Saavedra, realizó una maniobra defensiva y chocó contra un poste de luz a la altura del 1082. Una testigo identificó el vehículo y a su conductor como los presuntos autores. Los policías vieron una pistola sobre el asiento del conductor.",
+    "El hombre fue trasladado a la dependencia policial por abuso de armas y tenencia ilegal de arma de fuego. Por orden del fiscal Cristian Ovalle se inspeccionó la camioneta y se secuestraron una pistola Glock, un cargador con 13 cartuchos, dos vainas servidas calibre 9 mm y un cartucho del mismo calibre.",
+    "Además, en el interior se halló un envoltorio con 0,3 gramos de clorhidrato de cocaína, por lo que intervino la División Drogas Peligrosas y Leyes Especiales."
+   ],
+   "foto": "policia",
+   "arte": "noche",
+   "origen": "https://www.elchubut.com.ar/policiales/2026-11-27-9-10-0-detuvieron-a-un-hombre-tras-una-denuncia-por-disparos-secuestraron-una-pistola-glock-y-cocaina"
+  },
+  {
+   "id": "hockey-primera-copa-campeones-chubut-diciembre",
+   "sec": "deportes",
+   "ciudad": "Provincia",
+   "tema": "Hockey",
+   "titulo": "Hockey: la primera Copa de Campeones Chubut se jugará el 13 y 14 de diciembre",
+   "bajada": "Reunirá en la zona del Valle a equipos de las asociaciones Austral y del Valle, desde Sub 14 hasta Primera, con la Copa Challenger en juego.",
+   "cuerpo": [
+    "El hockey chubutense tendrá en diciembre la primera edición de la Copa de Campeones Chubut, que reunirá a los mejores equipos de las asociaciones Austral y del Valle. Se disputará los días 13 y 14 en la zona del Valle.",
+    "Chubut Deportes confirmó su acompañamiento: la integrante del Directorio Alejandra Ibrahim recibió a Justo Padín y le entregó premios para la organización del certamen.",
+    "La programación incluye las categorías Sub 14 A y B, Sub 16 A y B, Sub 19, Mamis, Veteranas, Intermedia, Primera Damas, Primera Caballeros y Caballeros Menores.",
+    "El principal atractivo será la Copa Challenger, que reconocerá a la asociación que gane más campeonatos en las dos jornadas. La propuesta busca fortalecer los vínculos entre ambas asociaciones y consolidar el desarrollo de la disciplina en la provincia."
+   ],
+   "foto": "futbolinfantil",
+   "arte": "cancha",
+   "origen": "https://canal12web.com/la-primera-copa-de-campeones-reunira-al-hockey-de-chubut-en-diciembre/"
+  },
+  {
+   "id": "rawson-jardines-municipales-guardavidas-playa-union",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "tema": "Playa Unión",
+   "titulo": "Rawson: guardavidas enseñaron cuidados de verano a familias de los Jardines Municipales",
+   "bajada": "La jornada integró el proyecto \"Nos preparamos para el verano en Playa Unión\" y estuvo dirigida también a los adultos.",
+   "cuerpo": [
+    "Los Jardines Municipales de Rawson realizaron una nueva jornada del proyecto institucional \"Nos preparamos para el verano en Playa Unión\", con la participación del cuerpo de guardavidas de la playa, que dio información y recomendaciones de seguridad.",
+    "La directora de Jardines Municipales, Lidia Miguel, explicó que los contenidos se trabajan antes en las salas, pero que esta vez la propuesta apuntó especialmente a los adultos, \"responsables de que esto se cumpla\".",
+    "Entre los temas se abordaron el significado de las banderas y la identificación de sombrillas y paravientos por colores. También se explicó el posible reconocimiento de Playa Unión con la Bandera Azul, una distinción vinculada a la calidad ambiental y la gestión de playas.",
+    "Miguel destacó que el proyecto se renueva cada año con nuevos contenidos y que la actividad incluyó propuestas recreativas."
+   ],
+   "foto": "playa",
+   "arte": "playa",
+   "origen": "https://canal12web.com/rawson-jardines-municipales-realizaron-una-jornada-de-prevencion-junto-a-los-guardavidas-de-playa-union/"
+  },
+  {
+   "id": "abech-final-madryn-brown-pasa-al-domingo",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "tema": "Básquet",
+   "titulo": "Básquet: la final entre Madryn y Brown se juega el domingo a las 21",
+   "bajada": "La serie está 1 a 1 y el tercer partido pasó al Luján Barrientos. El domingo también arrancan las semifinales femeninas.",
+   "cuerpo": [
+    "El tercer punto de la final del Clausura de ABECh entre Deportivo Madryn y Guillermo Brown no se jugará este viernes: se disputará el domingo a las 21 en el estadio Luján Barrientos.",
+    "La serie está igualada. El primer partido fue para Madryn por 94 a 81 y el segundo para Brown, que ganó 101 a 91 tras dos suplementarios.",
+    "El cuarto juego será el miércoles 2 de diciembre y, de ser necesario, el quinto se jugará el sábado 5 en el estadio Benito García.",
+    "En el femenino, el domingo comienzan las semifinales al mejor de tres: Ferro con Huracán y el clásico Madryn-Brown. Los equipos locales tendrán la ventaja deportiva."
+   ],
+   "foto": "basquet",
+   "arte": "cancha",
+   "origen": "https://cholilaonline.ar/2026/11/final-de-madryn-y-brown-de-abech-paso-al-domingo-lujan-barrientos.html"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427833/magazine/la_cantidad_de_accidentes_viales_en_chubut_esta_en_la_media_del_pais",
-  "https://www.diariojornada.com.ar/427579/internacional/zelenski_reivindica_ataques_contra_dos_barcos_rusos_frente_a_la_costa_libia",
-  "https://www.diariojornada.com.ar/427578/internacional/la_mayoria_de_las_encuestas_anticipa_triunfo_de_la_derecha",
-  "https://www.diariojornada.com.ar/427822/economia/puma_cierra_una_fabrica_y_despide_a_decenas_de_trabajadores",
-  "https://www.elchubut.com.ar/espectaculos/2026-11-27-11-58-0-quienes-son-los-invitados-de-andy-en-ph-podemos-hablar-este-sabado-28-de-noviembre",
-  "https://www.elchubut.com.ar/espectaculos/2026-11-27-11-24-0-felipe-fort-mostro-como-cambio-su-fisico-al-modificar-sus-habitos-alimentarios",
-  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-11-24-0-puerto-madryn-se-prepara-para-vivir-la-7-edicion-de-las-torres-mtb",
-  "https://www.elchubut.com.ar/espectaculos/2026-11-27-10-49-0-netflix-sumo-tres-peliculas-para-disfrutar-durante-el-fin-de-semana",
-  "https://canal12web.com/el-tribunal-del-mar-resolvera-el-pedido-argentino-de-frenar-la-explotacion-petrolera-en-malvinas/",
-  "https://canal12web.com/a-una-decada-de-la-historica-consagracion-argentina-conquistaba-su-primera-copa-davis/",
-  "https://canal12web.com/rawson-se-prepara-la-cuarta-fiesta-de-la-hamburguesa-con-200-feriantes/",
-  "https://canal12web.com/pato-sardelli-de-airbag-y-jimmy-page-de-led-zeppelin-protagonizaron-un-encuentro-unico/",
-  "https://cholilaonline.ar/2026/11/el-bolson-cortes-transito-avenida-san-martin-mil-millas.html",
-  "https://cholilaonline.ar/2026/11/lali-esposito-en-encuentro-de-lideres-opositores-uba.html",
-  "https://cholilaonline.ar/2026/11/el-gobierno-definio-las-sesiones-extraordinarias-de-diciembre-con-el-presupuesto-2027-suspension-de-las-paso-y-defensa-de-la-soberania-nacional-como-ejes.html"
+  "https://www.diariojornada.com.ar/427829/economia/en_el_cierre_semanal_retroceden_el_riesgo_pais_y_el_dolar_oficial",
+  "https://www.diariojornada.com.ar/427809/economia/toto_caputo_ahora_cruzo_al_pelado_trebucq",
+  "https://www.diariojornada.com.ar/427750/economia/en_medio_de_las_turbulencias_economicas_lamelas_hablo_con_trump",
+  "https://www.elchubut.com.ar/internacionales/2026-11-27-15-48-0-francia-entra-tecnicamente-en-recesion-tras-dos-trimestres-consecutivos-de-caida-de-su-pib",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-13-50-0-dia-mundial-de-la-respuesta-al-vih-provincia-brindara-charlas-y-asesoramiento-para-fortalecer-la-prevencion",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-10-24-0-provincia-acompano-una-nueva-edicion-de-la-feria-del-libro-y-el-arte-de-rio-mayo",
+  "https://www.eldiarioweb.com/2026/11/madryn-confirman-prision-perpetua-por-femicidio-transversal-de-su-suegra/",
+  "https://www.eldiarioweb.com/2026/11/liberan-al-bioquimico-acusado-de-secuestrar-a-su-familia/",
+  "https://canal12web.com/18-anos-de-prision-a-un-hombre-por-abusar-de-un-menor-durante-casi-una-decada/",
+  "https://canal12web.com/kundalini-yoga-la-practica-que-invita-a-liberar-el-cuerpo-despertar-la-energia-y-transformar-la-mirada-interior/",
+  "https://cholilaonline.ar/2026/11/petroleo-en-malvinas-tribunal-del-mar-fallo-proyecto-sea-lion.html",
+  "https://cholilaonline.ar/2026/11/estallo-el-black-friday-2026-bancos-dan-hasta-30-cuotas-sin-interes.html",
+  "https://cholilaonline.ar/2026/11/night-run-5k-trelew-sabado-horarios-inscripciones.html"
  ]
 }

@@ -77,6 +77,86 @@
  ],
  "notas": [
   {
+   "id": "abech-final-madryn-brown-pasa-al-domingo",
+   "fecha": "2026-11-27T16:38:48-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Básquet: la final entre Madryn y Brown se juega el domingo a las 21",
+   "bajada": "La serie está 1 a 1 y el tercer partido pasó al Luján Barrientos. El domingo también arrancan las semifinales femeninas.",
+   "cuerpo": [
+    "El tercer punto de la final del Clausura de ABECh entre Deportivo Madryn y Guillermo Brown no se jugará este viernes: se disputará el domingo a las 21 en el estadio Luján Barrientos.",
+    "La serie está igualada. El primer partido fue para Madryn por 94 a 81 y el segundo para Brown, que ganó 101 a 91 tras dos suplementarios.",
+    "El cuarto juego será el miércoles 2 de diciembre y, de ser necesario, el quinto se jugará el sábado 5 en el estadio Benito García.",
+    "En el femenino, el domingo comienzan las semifinales al mejor de tres: Ferro con Huracán y el clásico Madryn-Brown. Los equipos locales tendrán la ventaja deportiva."
+   ],
+   "arte": "cancha",
+   "tema": "Básquet"
+  },
+  {
+   "id": "rawson-jardines-municipales-guardavidas-playa-union",
+   "fecha": "2026-11-27T16:38:47-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "Rawson: guardavidas enseñaron cuidados de verano a familias de los Jardines Municipales",
+   "bajada": "La jornada integró el proyecto \"Nos preparamos para el verano en Playa Unión\" y estuvo dirigida también a los adultos.",
+   "cuerpo": [
+    "Los Jardines Municipales de Rawson realizaron una nueva jornada del proyecto institucional \"Nos preparamos para el verano en Playa Unión\", con la participación del cuerpo de guardavidas de la playa, que dio información y recomendaciones de seguridad.",
+    "La directora de Jardines Municipales, Lidia Miguel, explicó que los contenidos se trabajan antes en las salas, pero que esta vez la propuesta apuntó especialmente a los adultos, \"responsables de que esto se cumpla\".",
+    "Entre los temas se abordaron el significado de las banderas y la identificación de sombrillas y paravientos por colores. También se explicó el posible reconocimiento de Playa Unión con la Bandera Azul, una distinción vinculada a la calidad ambiental y la gestión de playas.",
+    "Miguel destacó que el proyecto se renueva cada año con nuevos contenidos y que la actividad incluyó propuestas recreativas."
+   ],
+   "arte": "playa",
+   "tema": "Playa Unión"
+  },
+  {
+   "id": "hockey-primera-copa-campeones-chubut-diciembre",
+   "fecha": "2026-11-27T16:38:46-03:00",
+   "sec": "deportes",
+   "ciudad": "Provincia",
+   "titulo": "Hockey: la primera Copa de Campeones Chubut se jugará el 13 y 14 de diciembre",
+   "bajada": "Reunirá en la zona del Valle a equipos de las asociaciones Austral y del Valle, desde Sub 14 hasta Primera, con la Copa Challenger en juego.",
+   "cuerpo": [
+    "El hockey chubutense tendrá en diciembre la primera edición de la Copa de Campeones Chubut, que reunirá a los mejores equipos de las asociaciones Austral y del Valle. Se disputará los días 13 y 14 en la zona del Valle.",
+    "Chubut Deportes confirmó su acompañamiento: la integrante del Directorio Alejandra Ibrahim recibió a Justo Padín y le entregó premios para la organización del certamen.",
+    "La programación incluye las categorías Sub 14 A y B, Sub 16 A y B, Sub 19, Mamis, Veteranas, Intermedia, Primera Damas, Primera Caballeros y Caballeros Menores.",
+    "El principal atractivo será la Copa Challenger, que reconocerá a la asociación que gane más campeonatos en las dos jornadas. La propuesta busca fortalecer los vínculos entre ambas asociaciones y consolidar el desarrollo de la disciplina en la provincia."
+   ],
+   "arte": "cancha",
+   "tema": "Hockey"
+  },
+  {
+   "id": "comodoro-detenido-disparos-pistola-glock-hilux",
+   "fecha": "2026-11-27T16:38:45-03:00",
+   "sec": "policiales",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro: detuvieron a un hombre tras una denuncia por disparos y le secuestraron una pistola",
+   "bajada": "El sospechoso, de 39 años, chocó contra un poste al ver a la Policía. Le encontraron un arma, municiones, vainas servidas y cocaína.",
+   "cuerpo": [
+    "Un hombre de 39 años fue detenido en Comodoro Rivadavia luego de una denuncia por disparos de arma de fuego. El hecho ocurrió el 26 de noviembre, cerca de las 15:10, cuando personal de la Comisaría Seccional Segunda recibió un llamado sobre un hombre de negro que conducía una camioneta negra y habría efectuado detonaciones.",
+    "Al llegar los efectivos, una Toyota Hilux se aproximó por calle Saavedra, realizó una maniobra defensiva y chocó contra un poste de luz a la altura del 1082. Una testigo identificó el vehículo y a su conductor como los presuntos autores. Los policías vieron una pistola sobre el asiento del conductor.",
+    "El hombre fue trasladado a la dependencia policial por abuso de armas y tenencia ilegal de arma de fuego. Por orden del fiscal Cristian Ovalle se inspeccionó la camioneta y se secuestraron una pistola Glock, un cargador con 13 cartuchos, dos vainas servidas calibre 9 mm y un cartucho del mismo calibre.",
+    "Además, en el interior se halló un envoltorio con 0,3 gramos de clorhidrato de cocaína, por lo que intervino la División Drogas Peligrosas y Leyes Especiales."
+   ],
+   "arte": "noche",
+   "tema": "Seguridad"
+  },
+  {
+   "id": "el-maiten-frigorifico-categoria-3-matadero",
+   "fecha": "2026-11-27T16:38:44-03:00",
+   "sec": "ultimas",
+   "ciudad": "El Maitén",
+   "titulo": "El Maitén amplía su matadero para tener un frigorífico de categoría 3",
+   "bajada": "La obra, con una inversión de unos $ 1.800 millones del Plan Galina, apunta a distribuir carne ovina, vacuna y de cerdo en la Comarca Andina, Esquel y Trevelin.",
+   "cuerpo": [
+    "En El Maitén comenzó esta semana la ampliación y remodelación del matadero municipal, un proyecto que costará alrededor de $ 1.800 millones y se financia en buena parte con aportes del Gobierno provincial a través del Plan Galina. El intendente Oscar Currilén lo definió como \"la frutilla del postre\" porque permitirá contar con un frigorífico de categoría 3.",
+    "El jefe comunal contó que el ministro de la Producción, Julio Kresteff, recorrió la obra el miércoles. Se prevé una ampliación del 80 por ciento de la estructura actual, además de un criadero de cerdos y corrales. La Provincia ya habilitó $ 1.000 millones y el municipio desembolsó $ 300 millones.",
+    "Currilén anticipó que se comprarán un camión jaula y otro con refrigeración para repartir carne en la Comarca Andina, Esquel y Trevelin. La obra se calcula en unos 120 días, o después de la veda invernal de 2027.",
+    "También se planea una reunión con el gobernador, el ministro de Producción y la Sociedad Rural de Esquel para que pequeños productores usen las instalaciones hasta que se reactive el frigorífico de Trevelin. \"Hay urgencia, pero no queremos que se interprete que lo hacemos por una cuestión electoral\", sostuvo el intendente."
+   ],
+   "arte": "meseta",
+   "tema": "Producción"
+  },
+  {
    "id": "madryn-juro-nuevo-camarista-penal",
    "fecha": "2026-11-27T16:19:42-03:00",
    "sec": "policiales",
@@ -1399,81 +1479,6 @@
    ],
    "arte": "noche",
    "tema": "Violencia de género"
-  },
-  {
-   "id": "comodoro-escuela-723-ultima-corrida-egresados",
-   "fecha": "2026-11-26T13:42:44-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Último timbre y espuma: la Escuela 723 de Comodoro despidió a sus egresados con su clásica corrida",
-   "bajada": "En la escuela “Puerto Argentino”, de la zona sur, los alumnos que terminan la secundaria recorren los pasillos mientras los docentes los reciben con espuma y aplausos.",
-   "cuerpo": [
-    "La Escuela 723 “Puerto Argentino”, ubicada en avenida Lisandro de la Torre 3400, en la zona sur de Comodoro Rivadavia, volvió a cumplir con una tradición que repite cada fin de año: la última corrida de los estudiantes que terminan la secundaria.",
-    "Cuando suena el último timbre del último día de clases, los egresados salen corriendo por los pasillos y docentes y profesores los esperan con espuma, aplausos y gritos para acompañarlos. El momento quedó registrado en un video que circuló en redes sociales y mostró una despedida entre la alegría y la nostalgia de cerrar una etapa."
-   ],
-   "arte": "escuela",
-   "tema": "Egresados"
-  },
-  {
-   "id": "tarifaria-2027-trelew-modulo-30000",
-   "fecha": "2026-11-26T13:42:43-03:00",
-   "sec": "politica",
-   "ciudad": "Trelew",
-   "titulo": "Trelew vota la Tarifaria 2027: el módulo subirá de $26.000 a $30.000 en el primer semestre",
-   "bajada": "La ordenanza obtuvo despacho unánime en la Comisión de Hacienda y se tratará sobre tablas este viernes en el Concejo Deliberante. En la segunda mitad del año el módulo llegará a $32.000.",
-   "cuerpo": [
-    "El Concejo Deliberante de Trelew sesionará este viernes desde las 9 y votará sobre tablas la Ordenanza Tarifaria 2027, que salió con despacho favorable y por unanimidad de la Comisión de Hacienda después de dos semanas de análisis.",
-    "La propuesta prevé una suba escalonada del valor módulo: pasará de $26.000 a $30.000 en el primer semestre, un aumento del 15,38%, y a $32.000 en el segundo, un 6,67% más. Durante el debate en comisión, los concejales revisaron los distintos módulos y modificaron, entre otros, el de recolección de residuos.",
-    "Si se aprueba, la Tarifaria permitirá que en diciembre se apliquen los descuentos por pago anticipado de los impuestos municipales."
-   ],
-   "arte": "ciudad",
-   "tema": "Tarifaria 2027"
-  },
-  {
-   "id": "micro-esquel-trelew-incendio-ruta",
-   "fecha": "2026-11-26T13:42:42-03:00",
-   "sec": "policiales",
-   "ciudad": "Provincia",
-   "titulo": "Se prendió fuego un micro que iba de Esquel a Trelew: los 35 pasajeros salieron ilesos",
-   "bajada": "El colectivo quedó destruido por completo en la madrugada, cuando circulaba hacia la zona de El Molle. Los choferes vieron humo, frenaron y evacuaron la unidad.",
-   "cuerpo": [
-    "Un colectivo de la empresa 28 de Julio – Mar y Valle se incendió por completo entre la 1 y las 2 de la madrugada mientras viajaba hacia la zona de El Molle. La unidad había salido de Esquel a las 22 con destino a Trelew y llevaba unos 35 pasajeros, además de los choferes. Cuando advirtieron humo dentro del micro, los conductores detuvieron la marcha y todos pudieron bajar sin heridas.",
-    "“Lo importante es que están todos bien”, dijo la gerenta de la empresa, Sonia Rancho, quien explicó que todavía no se sabe qué originó el fuego y que esperan el regreso de los choferes para conocer los detalles. Los pasajeros continuaron el viaje en otra unidad enviada desde Esquel, que tenía previsto llegar cerca del mediodía.",
-    "Rancho señaló que no puede confirmar si se trató de una falla mecánica, aunque apuntó al mal estado de los caminos: “Las rutas están tan feas y son coches que no están preparados para andar en tierra. Se van aflojando las cosas y por ahí puede haber sido algún cable”. Agregó que las piedras y los pozos provocan pinchaduras frecuentes y complican sobre todo a los micros de doble piso."
-   ],
-   "arte": "ruta",
-   "tema": "Incendios"
-  },
-  {
-   "id": "condena-firme-matanza-pinguinos-punta-tombo",
-   "fecha": "2026-11-26T13:42:40-03:00",
-   "sec": "policiales",
-   "ciudad": "Rawson",
-   "titulo": "Quedó firme la condena por la matanza de pingüinos en Punta Clara, al norte de Punta Tombo",
-   "bajada": "El Superior Tribunal de Justicia rechazó la impugnación de la defensa y ratificó la pena de tres años de prisión en suspenso por la destrucción de nidos, huevos, pichones y pingüinos adultos.",
-   "cuerpo": [
-    "El Superior Tribunal de Justicia del Chubut confirmó la sentencia contra el hombre acusado de destruir nidos, huevos, pichones y ejemplares adultos de pingüinos de Magallanes en Punta Clara, un sector ubicado al norte de Punta Tombo, dentro del área Patagonia Azul, protegida por la UNESCO. Con ese fallo, el máximo tribunal rechazó la impugnación extraordinaria que había presentado la defensa y la condena quedó firme.",
-    "Los hechos ocurrieron entre agosto y diciembre de 2021, cuando desmontes, apertura de caminos y movimientos de suelo alcanzaron zonas con alta densidad de nidos. La investigación, iniciada por la fiscal Florencia Gómez el 26 de noviembre de 2021, fue reconocida como el primer caso de ecocidio y la primera en usar imágenes satelitales como prueba directa, junto con testimonios de especialistas de organizaciones internacionales.",
-    "En noviembre de 2024 un tribunal colegiado de Rawson condenó al acusado a tres años de prisión de ejecución condicional por tres hechos de daño agravado y uno de crueldad animal, y ordenó el decomiso de la retroexcavadora usada. En mayo de 2025 la Cámara Penal de Trelew confirmó el fallo, y en abril de 2026 se hizo la audiencia ante el Superior Tribunal, que ahora resolvió mantener lo decidido.",
-    "A partir de esta causa se triplicó la superficie del Área Natural Protegida Punta Clara - Punta Tombo y se creó la Unidad Fiscal Especializada en Ambiente y Delitos contra Animales."
-   ],
-   "arte": "mar",
-   "tema": "Ecocidio Punta Tombo"
-  },
-  {
-   "id": "consejo-personas-mayores-madryn",
-   "fecha": "2026-11-26T07:52:20-03:00",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Puerto Madryn recibe el plenario provincial de Personas Mayores, con la salud como tema central",
-   "bajada": "La reunión del Consejo Provincial sigue hasta el viernes. Esperan que PAMI traiga respuestas a los reclamos.",
-   "cuerpo": [
-    "Puerto Madryn es sede, desde el miércoles y hasta el viernes, de la tercera Reunión Anual Plenaria del Consejo Provincial de Personas Mayores de Chubut.",
-    "El eje del encuentro es la salud, por los problemas que atraviesan los adultos mayores en toda la provincia. Se espera que la representante de PAMI llegue con respuestas concretas a esos reclamos.",
-    "La apertura contó con la ministra de Desarrollo Humano, Florencia Papaiani, el intendente Gustavo Sastre y el presidente del Consejo, Oscar Furci. Papaiani destacó que los planteos del Consejo “son serios, responsables” y que sus integrantes recorren la provincia pueblo por pueblo."
-   ],
-   "arte": "ciudad",
-   "tema": "Personas mayores"
   },
   {
    "id": "eclipse",
