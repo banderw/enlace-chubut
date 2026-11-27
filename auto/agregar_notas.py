@@ -64,7 +64,7 @@ def falla(msg):
 def main():
     if not os.path.exists(ENTRADA):
         falla("no existe auto/nuevas.json")
-    entrada = json.load(open(ENTRADA, encoding="utf-8"))
+    entrada = json.load(open(ENTRADA, encoding="utf-8-sig"))  # acepta el archivo con o sin BOM
     datos = json.load(open(DATOS, encoding="utf-8"))
     secciones = {s["id"] for s in datos["secciones"]}
     ids = {n["id"] for n in datos["notas"]}
@@ -99,7 +99,13 @@ def main():
         # Foto: se copia del banco con el nombre de la nota. Si viene un tema ("policia"), se usa la variante menos usada.
         foto = n.get("foto")
         foto_url = n.get("foto_url")
-        if foto_url and bajar_foto(foto_url, os.path.join(FOTOS, nid + ".jpg")):
+        foto_archivo = n.get("foto_archivo")  # foto ya bajada y revisada con auto/foto_web.py
+        ruta_archivo = os.path.normpath(os.path.join(BASE, foto_archivo)) if foto_archivo else None
+        if ruta_archivo and ruta_archivo.startswith(os.path.join(AUTO, "fotos_candidatas")) and os.path.exists(ruta_archivo) \
+                and os.path.getsize(ruta_archivo) < 3_000_000:
+            shutil.copyfile(ruta_archivo, os.path.join(FOTOS, nid + ".jpg"))
+            foto = None
+        elif foto_url and bajar_foto(foto_url, os.path.join(FOTOS, nid + ".jpg")):
             foto = None  # se usó la foto oficial de la gacetilla
         elif foto_url and not foto:
             foto = "gobierno"

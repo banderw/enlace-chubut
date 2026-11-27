@@ -41,8 +41,13 @@ def foto_wikipedia(url):
     img = (datos.get("originalimage") or datos.get("thumbnail") or {}).get("source")
     if not img:
         raise ValueError("la página de Wikipedia no tiene foto")
-    if "/thumb/" not in img and (datos.get("originalimage") or {}).get("width", 0) > 1600 and datos.get("thumbnail"):
-        img = re.sub(r"/\d+px-", "/1280px-", datos["thumbnail"]["source"])
+    # Siempre la versión de 1280 px (las más grandes dan 429 o pesan demasiado)
+    original = datos.get("originalimage") or {}
+    if original.get("width", 0) > 1280:
+        base = datos.get("thumbnail", {}).get("source") or img
+        if "/thumb/" in base:
+            img = re.sub(r"/\d+px-", "/1280px-", base)
+    img = img.split("?")[0]
     with urllib.request.urlopen(urllib.request.Request(img, headers=WIKI_UA), timeout=30) as r:
         return img, r.read(8_000_000), r.headers.get("Content-Type", "")
 
@@ -93,7 +98,8 @@ def main():
             n += 1
             ruta = os.path.join(SALIDA, f"cand-{n}.{ext}")
             open(ruta, "wb").write(datos)
-            print(f"{ruta} | {medidas(datos)} | {len(datos)//1024} KB | foto_url: {img}")
+            rel = os.path.relpath(ruta, os.path.dirname(AUTO)).replace(os.sep, "/")
+            print(f"foto_archivo: {rel} | {medidas(datos)} | {len(datos)//1024} KB | origen: {img}")
         except Exception as e:
             print(f"[no se pudo] {url}: {e}")
 
