@@ -43,7 +43,9 @@ def bajar_foto(url, destino):
             from PIL import Image
         except Exception:
             # Sin Pillow (pasa en la nube): se guarda el archivo tal cual si es un JPG de tamaño razonable
-            if raw[:3] == b"\xff\xd8\xff" and len(raw) < 3_000_000:
+            # JPG, PNG o WEBP: los navegadores los muestran bien aunque el archivo se llame .jpg
+            es_imagen = raw[:3] == b"\xff\xd8\xff" or raw[:8] == b"\x89PNG\r\n\x1a\n" or (raw[:4] == b"RIFF" and raw[8:12] == b"WEBP")
+            if es_imagen and len(raw) < 3_000_000:
                 open(destino, "wb").write(raw)
                 return True
             raise
