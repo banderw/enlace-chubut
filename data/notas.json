@@ -77,6 +77,52 @@
  ],
  "notas": [
   {
+   "id": "hockey-regional-sub14-definiciones",
+   "fecha": "2026-11-28T08:07:31-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "Regional Sub 14 de hockey: este sábado se definen los finalistas en Trelew y Gaiman",
+   "bajada": "El torneo que reúne a 22 equipos patagónicos entra en su etapa decisiva, con cruces que dirán quiénes juegan las finales del domingo.",
+   "cuerpo": [
+    "El Campeonato Regional de Clubes Sub 14 Damas A, B y C ingresa en su etapa decisiva. Este sábado se disputarán cuadrangulares, semifinales y partidos de continuidad que definirán quiénes avanzan a las finales del domingo, cuando se conocerán las campeonas de cada categoría.",
+    "El certamen es organizado por la Confederación Argentina de Hockey junto a la Asociación de Hockey Valle del Chubut, y se juega en Trelew y Gaiman con 22 equipos de distintos puntos de la Patagonia.",
+    "También hay ascensos y descensos en juego: en la categoría A, el campeón obtendrá el ascenso al Campeonato Argentino B y habrá un descenso al Regional B."
+   ],
+   "arte": "cancha",
+   "tema": "Hockey",
+   "sinFoto": true
+  },
+  {
+   "id": "madryn-rabia-villa-padilla-vacunacion",
+   "fecha": "2026-11-28T08:07:30-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Rabia en Villa Padilla: vacunación gratuita de mascotas y recorridas casa por casa en Madryn",
+   "bajada": "Tras detectarse un caso positivo en el barrio, la Municipalidad activó el protocolo sanitario con vacunación antirrábica y monitoreo en un anillo epidemiológico.",
+   "cuerpo": [
+    "La Dirección de Veterinaria y Zoonosis de Puerto Madryn activó los protocolos por un caso positivo de rabia en Villa Padilla. Agentes municipales identificados recorrerán el sector comprendido entre Reconquista, Estivariz, Piedra Buena y 9 de Julio, en inmediaciones de la Escuela Nº 110, con visitas domiciliarias y vacunación de animales domésticos.",
+    "El operativo será el sábado 28 y el lunes 30 de noviembre y el martes 1 de diciembre de 8 a 16, y el domingo 29 de 10 a 12. Con el mismo cronograma se aplicará vacuna antirrábica gratuita en el Quirófano Móvil, ubicado en avenida Gales entre Colón y Rosales. La vacuna es obligatoria desde los tres meses de edad.",
+    "Como el equipo municipal estará abocado al operativo, las castraciones quedan suspendidas desde el sábado 28 de noviembre hasta el martes 2 de diciembre inclusive."
+   ],
+   "arte": "ciudad",
+   "tema": "Rabia en Madryn"
+  },
+  {
+   "id": "madryn-preparativos-temporada-verano",
+   "fecha": "2026-11-28T08:07:29-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Sastre: Madryn se prepara para la temporada de verano con más servicios y espacios",
+   "bajada": "El intendente de Puerto Madryn destacó el trabajo de planificación y coordinación del Municipio de cara a los meses de mayor movimiento turístico.",
+   "cuerpo": [
+    "El intendente Gustavo Sastre explicó que distintas áreas municipales trabajan en la organización de los servicios, el mantenimiento urbano, la limpieza, el cuidado de las playas y las acciones de prevención, ante el aumento de visitantes y el mayor uso de los espacios públicos durante el verano.",
+    "\"El verano representa uno de los momentos de mayor movimiento para Puerto Madryn y tenemos que estar preparados\", manifestó. Dijo que el objetivo es que los vecinos puedan disfrutar de la ciudad y que quienes la visitan encuentren una localidad ordenada y con servicios.",
+    "El jefe comunal remarcó la importancia del trabajo articulado entre las dependencias municipales, con refuerzo de tareas en espacios verdes, limpieza urbana, ordenamiento del tránsito y seguridad en los sectores de mayor concurrencia."
+   ],
+   "arte": "playa",
+   "tema": "Temporada de verano"
+  },
+  {
    "id": "uber-madryn-100-conductores-habilitacion",
    "fecha": "2026-11-28T07:06:59-03:00",
    "sec": "ultimas",
@@ -1294,53 +1340,6 @@
    ],
    "arte": "ciudad",
    "tema": "Elecciones 2027"
-  },
-  {
-   "id": "salma-antorena-tiradora-alto-rio-senguer-lima-2027",
-   "fecha": "2026-11-27T16:01:23-03:00",
-   "sec": "deportes",
-   "ciudad": "Alto Río Senguer",
-   "titulo": "Salma Antorena, la tiradora de Alto Río Senguer que apunta a Lima 2027 y Los Ángeles 2028",
-   "bajada": "La deportista chubutense tuvo una temporada destacada: bronce en el Sudamericano y oro nacional en rifle de aire mixto.",
-   "cuerpo": [
-    "La tiradora Salma Antorena, oriunda de Alto Río Senguer, tuvo una temporada de importantes resultados. Integró el seleccionado argentino en los Juegos Suramericanos de Santa Fe 2026, donde fue sexta en 50 metros rifle tres posiciones, y ganó la medalla de bronce en rifle de aire a 10 metros en el XXIII Campeonato Sudamericano de Tiro Deportivo. Además terminó sexta en carabina 3×20.",
-    "En el Campeonato Nacional de Aire, disputado en Chivilcoy, se quedó con el oro en rifle de aire 10 metros mixto junto a Marcelo Zoccali: sumaron 495 puntos y definieron por desempate, 21 a 19,3. En la final femenina individual fue quinta.",
-    "«Es un orgullo enorme representar a Argentina y a Chubut», expresó. Cuenta con el acompañamiento de Chubut Deportes a través del programa de becas deportivas y proyecta seguir creciendo para buscar la clasificación olímpica, con los Juegos Panamericanos de Lima 2027 y los de Los Ángeles 2028 en la mira."
-   ],
-   "arte": "cancha",
-   "tema": "Tiro deportivo"
-  },
-  {
-   "id": "trelew-base-aeronaval-puertas-abiertas-sabado-28",
-   "fecha": "2026-11-27T16:01:22-03:00",
-   "sec": "ultimas",
-   "ciudad": "Trelew",
-   "titulo": "Puertas abiertas en la Base Aeronaval Almirante Zar de Trelew este sábado",
-   "bajada": "La jornada será el sábado 28 de noviembre, de 14 a 18, con entrada libre y gratuita, muestra de aeronaves y propuestas para toda la familia.",
-   "cuerpo": [
-    "La Base Aeronaval Almirante Zar de Trelew abrirá sus puertas a la comunidad este sábado 28 de noviembre, de 14 a 18, con entrada libre y gratuita. Habrá recorridos por una unidad que habitualmente no está abierta al público, con propuestas para toda la familia.",
-    "Uno de los puntos centrales será la muestra estática de aeronaves de la Aviación Naval, incluidas unidades llegadas de otras bases del país. Se podrán ver aviones de instrucción de pilotos y los P-3 que operan desde Trelew en misiones de exploración y vigilancia marítima, además de recorrer el Taller Almirante Zar, donde se mantienen las aeronaves.",
-    "La Infantería de Marina hará exhibiciones de armamento y equipamiento y demostraciones de técnicas de enmascaramiento, y los chicos tendrán una pista de obstáculos recreativa. También participarán el Instituto Aeronaval, el Aeroclub Trelew y el Club de Autos Antiguos, junto con emprendedores, artesanos, puestos de comida y una banda de música. Habrá un stand de la Oficina de Incorporación de la Armada Argentina.",
-    "El capitán de navío Maximiliano Fenley, comandante de la Fuerza Aeronaval N.º 3, dijo que la meta es superar la convocatoria de la edición anterior. Recomiendan ir con tiempo: el estacionamiento quedará fuera de la base y en el encuentro pasado la gran afluencia provocó demoras y largas caminatas hasta el acceso."
-   ],
-   "arte": "ciudad",
-   "tema": "Agenda Trelew"
-  },
-  {
-   "id": "punta-tombo-superior-tribunal-condena-pinguinos",
-   "fecha": "2026-11-27T16:01:21-03:00",
-   "sec": "policiales",
-   "ciudad": "Rawson",
-   "titulo": "El Superior Tribunal confirmó la condena por la destrucción de la pingüinera de Punta Tombo",
-   "bajada": "El máximo tribunal provincial rechazó la impugnación de la defensa y ratificó la sentencia contra Ricardo Adolfo La Regina por el daño a la colonia de pingüinos de Magallanes.",
-   "cuerpo": [
-    "El Superior Tribunal de Justicia del Chubut ratificó la condena contra Ricardo Adolfo La Regina por la destrucción de nidos, huevos, pichones y ejemplares adultos de pingüinos de Magallanes. Con esa decisión rechazó la impugnación extraordinaria presentada por la defensa, tras la sentencia de primera instancia que ya había sido confirmada por la Cámara Penal.",
-    "Los hechos ocurrieron entre agosto y diciembre de 2021 en un sector de Punta Clara, al norte de Punta Tombo, un área de Patagonia Azul con protección internacional de la UNESCO. Los desmontes, la apertura de caminos y la remoción de suelo alcanzaron zonas de alta densidad de nidos donde los pingüinos se reproducen.",
-    "La investigación fue iniciada el 26 de noviembre de 2021 por la fiscal Florencia Gómez. Por primera vez en una causa penal se utilizaron imágenes satelitales y estudios cartográficos como prueba, junto con informes técnicos, inspecciones en el lugar y testimonios de especialistas de organizaciones nacionales e internacionales.",
-    "El caso tuvo repercusión nacional e internacional y fue reconocido como el primer caso de ecocidio de la región, por la magnitud del daño sobre la colonia de pingüinos de Magallanes más importante del mundo."
-   ],
-   "arte": "playa",
-   "tema": "Punta Tombo"
   },
   {
    "id": "torres-canadon-perdido-recuperacion-terciaria",

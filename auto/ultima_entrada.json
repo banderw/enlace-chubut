@@ -1,44 +1,60 @@
 {
  "notas": [
   {
-   "id": "encuentro-nacional-kayak-travesia-madryn",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "tema": "Kayak de travesía",
-   "titulo": "26 palistas de todo el país remaron 50 km en el Golfo Nuevo en un encuentro nacional de kayak",
-   "bajada": "La Agrupación de Kayakistas de Travesía realizó su cuarto encuentro nacional, con salida en Bahía Cracker y llegada a Playa Paraná.",
-   "cuerpo": [
-    "La Agrupación de Kayakistas de Travesía, integrada por miembros de Madryn, Trelew, Rawson y Playa Unión, llevó adelante el cuarto encuentro nacional. La organización estuvo a cargo de Milton Morala, Sergio Ricote, Sebastián Galarraga y Alberto Ristevich.",
-    "Este año se eligió una modalidad de travesía agreste: partieron de Bahía Cracker, cerca de la boca del Golfo Nuevo, y llegaron a Playa Paraná, en Puerto Madryn. Fueron unos 50 kilómetros repartidos en dos días de navegación, con dos noches de acampe en entornos naturales. Como novedad, se pidió a los participantes cierto nivel de capacidades físicas y técnicas para afrontar el recorrido.",
-    "Los organizadores contaron que participaron 26 palistas de distintos puntos del país, desde Rosario hasta Río Gallegos, y hubo incluso un participante colombiano que vive en Panamá, quien quedó fascinado con los paisajes y con la experiencia de remar en el mar chubutense.",
-    "Los organizadores agradecieron a los comercios y emprendimientos que colaboraron con donaciones, a la lancha de apoyo y a Prefectura Naval, que acompañó con una embarcación propia durante los dos días de navegación."
-   ],
-   "foto": "kayak",
-   "arte": "mar",
-   "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
-   "origen": "https://www.elchubut.com.ar/deportes/2026-11-27-20-7-0-se-realizo-encuentro-nacional-de-travesia-de-kayak"
-  },
-  {
-   "id": "uber-madryn-100-conductores-habilitacion",
+   "id": "madryn-preparativos-temporada-verano",
    "sec": "ultimas",
    "ciudad": "Puerto Madryn",
-   "tema": "Uber en Madryn",
-   "titulo": "Unos 100 conductores de Uber de Madryn están en proceso de habilitación",
-   "bajada": "Desde Tránsito y Transporte indicaron que todavía no hay vehículos de aplicación habilitados y que hay tiempo de regularizarse.",
+   "tema": "Temporada de verano",
+   "titulo": "Sastre: Madryn se prepara para la temporada de verano con más servicios y espacios",
+   "bajada": "El intendente de Puerto Madryn destacó el trabajo de planificación y coordinación del Municipio de cara a los meses de mayor movimiento turístico.",
    "cuerpo": [
-    "Conductores de Uber iniciaron los trámites en la Dirección de Transporte de Puerto Madryn para regularizar su situación. Su director, Gustavo Fernández, informó que unos 100 choferes están en proceso de habilitación.",
-    "Aunque las aplicaciones de transporte fueron aprobadas, todavía no hay ningún vehículo habilitado según la ordenanza vigente. \"Vamos por buen camino, calculamos que en los próximos días o en los próximos meses ya vamos a tener los primeros vehículos de aplicación habilitados\", indicó Fernández.",
-    "El plazo para regularizar la situación es de 180 días desde la aprobación de la ordenanza. Quienes no lo hagan pueden recibir multas de entre 750.000 y un millón de pesos, más costos de acarreo y estadía, y en algunos casos el secuestro del vehículo y de la licencia de conducir.",
-    "Sobre las áreas naturales protegidas, el funcionario recordó que rigen sus propias normas: a partir de cinco pasajeros se debe contar con un guía de turismo, igual que para cualquier otro transporte."
+    "El intendente Gustavo Sastre explicó que distintas áreas municipales trabajan en la organización de los servicios, el mantenimiento urbano, la limpieza, el cuidado de las playas y las acciones de prevención, ante el aumento de visitantes y el mayor uso de los espacios públicos durante el verano.",
+    "\"El verano representa uno de los momentos de mayor movimiento para Puerto Madryn y tenemos que estar preparados\", manifestó. Dijo que el objetivo es que los vecinos puedan disfrutar de la ciudad y que quienes la visitan encuentren una localidad ordenada y con servicios.",
+    "El jefe comunal remarcó la importancia del trabajo articulado entre las dependencias municipales, con refuerzo de tareas en espacios verdes, limpieza urbana, ordenamiento del tránsito y seguridad en los sectores de mayor concurrencia."
    ],
-   "foto": "taxi",
+   "foto": null,
+   "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
+   "arte": "playa",
+   "origen": "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-32-0-sastre-estamos-preparando-a-la-ciudad-para-recibir-una-nueva-temporada-de-verano-con-mas-servicios-y-espacios"
+  },
+  {
+   "id": "madryn-rabia-villa-padilla-vacunacion",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "tema": "Rabia en Madryn",
+   "titulo": "Rabia en Villa Padilla: vacunación gratuita de mascotas y recorridas casa por casa en Madryn",
+   "bajada": "Tras detectarse un caso positivo en el barrio, la Municipalidad activó el protocolo sanitario con vacunación antirrábica y monitoreo en un anillo epidemiológico.",
+   "cuerpo": [
+    "La Dirección de Veterinaria y Zoonosis de Puerto Madryn activó los protocolos por un caso positivo de rabia en Villa Padilla. Agentes municipales identificados recorrerán el sector comprendido entre Reconquista, Estivariz, Piedra Buena y 9 de Julio, en inmediaciones de la Escuela Nº 110, con visitas domiciliarias y vacunación de animales domésticos.",
+    "El operativo será el sábado 28 y el lunes 30 de noviembre y el martes 1 de diciembre de 8 a 16, y el domingo 29 de 10 a 12. Con el mismo cronograma se aplicará vacuna antirrábica gratuita en el Quirófano Móvil, ubicado en avenida Gales entre Colón y Rosales. La vacuna es obligatoria desde los tres meses de edad.",
+    "Como el equipo municipal estará abocado al operativo, las castraciones quedan suspendidas desde el sábado 28 de noviembre hasta el martes 2 de diciembre inclusive."
+   ],
+   "foto": "perro",
    "arte": "ciudad",
-   "foto_archivo": "auto/fotos_candidatas/cand-6.jpg",
-   "origen": "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-34-0-unos-100-conductores-de-uber-estan-en-proceso-de-habilitacion"
+   "origen": "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-31-0-habra-vacunacion-de-animales-en-caso-positivo-de-rabia"
+  },
+  {
+   "id": "hockey-regional-sub14-definiciones",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "tema": "Hockey",
+   "titulo": "Regional Sub 14 de hockey: este sábado se definen los finalistas en Trelew y Gaiman",
+   "bajada": "El torneo que reúne a 22 equipos patagónicos entra en su etapa decisiva, con cruces que dirán quiénes juegan las finales del domingo.",
+   "cuerpo": [
+    "El Campeonato Regional de Clubes Sub 14 Damas A, B y C ingresa en su etapa decisiva. Este sábado se disputarán cuadrangulares, semifinales y partidos de continuidad que definirán quiénes avanzan a las finales del domingo, cuando se conocerán las campeonas de cada categoría.",
+    "El certamen es organizado por la Confederación Argentina de Hockey junto a la Asociación de Hockey Valle del Chubut, y se juega en Trelew y Gaiman con 22 equipos de distintos puntos de la Patagonia.",
+    "También hay ascensos y descensos en juego: en la categoría A, el campeón obtendrá el ascenso al Campeonato Argentino B y habrá un descenso al Regional B."
+   ],
+   "foto": null,
+   "arte": "cancha",
+   "origen": "https://canal12web.com/el-regional-sub-14-entra-en-etapa-de-definiciones-el-sabado-se-conoceran-los-finalistas/"
   }
  ],
  "descartadas": [
-  "https://www.elchubut.com.ar/espectaculos/2026-11-27-10-3-0-el-casamiento-de-tini-stoessel-y-rodrigo-de-paul-acapara-redes-y-titulares",
-  "https://www.elchubut.com.ar/espectaculos/2026-11-27-0-37-0-quienes-seran-los-invitados-de-juana-viale-en-los-programas-del-fin-de-semana"
+  "https://www.diariojornada.com.ar/427866/politica/el_tribunal_del_mar_decide_hoy_si_frena_la_explotacion_petrolera_en_malvinas",
+  "https://www.diariojornada.com.ar/427865/policiales/allanaron_otra_propiedad_de_lujo_vinculada_al_entorno_de_la_afa",
+  "https://www.elchubut.com.ar/espectaculos/2026-11-27-12-50-0-quienes-llevaran-su-musica-este-domingo-a-la-pena-de-morfi",
+  "https://www.elchubut.com.ar/trelew/2026-11-27-8-23-0-caso-rodrigo-colihuinca-recapturaron-a-brian-huenchullan-munoz",
+  "https://canal12web.com/estudiantes-y-palmeiras-se-enfrentan-por-la-gloria-en-la-final-de-la-libertadores-2026/"
  ]
 }
