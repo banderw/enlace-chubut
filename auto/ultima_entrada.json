@@ -1,28 +1,44 @@
 {
  "notas": [
   {
-   "id": "telsen-cross-virgen-del-valle",
+   "id": "encuentro-nacional-kayak-travesia-madryn",
    "sec": "deportes",
-   "ciudad": "Telsen",
-   "tema": "Telsen 130 años",
-   "titulo": "Telsen estrena el Cross «Virgen del Valle» en el marco de su 130° aniversario",
-   "bajada": "La competencia se corre el 6 de diciembre, con distancias de 12 y 6 kilómetros, una caminata de 2.500 metros y corrida infantil gratuita.",
+   "ciudad": "Puerto Madryn",
+   "tema": "Kayak de travesía",
+   "titulo": "26 palistas de todo el país remaron 50 km en el Golfo Nuevo en un encuentro nacional de kayak",
+   "bajada": "La Agrupación de Kayakistas de Travesía realizó su cuarto encuentro nacional, con salida en Bahía Cracker y llegada a Playa Paraná.",
    "cuerpo": [
-    "Telsen vivirá el 6 de diciembre la primera edición del Cross «Virgen del Valle», una propuesta que une deporte, naturaleza e identidad local. Se realiza por los 130 años de la localidad y los 30 años de la Virgen del Valle.",
-    "Las distancias son de 12 y 6 kilómetros, más una caminata de 2.500 metros. También habrá corrida infantil en todas las categorías, con inscripción totalmente gratuita para los chicos. Al terminar la competencia se entregarán los premios.",
-    "La organización, encabezada por Tamara Sandoval, informó que ya se agotaron las inscripciones con remera, pero quedan disponibles las que no la incluyen, que se hacen por la cuenta de Instagram Telsen Oficial. Se estima una participación cercana a los 100 atletas de Playa Unión, Rawson, Trelew, Gaiman, Puerto Madryn y otros puntos de la provincia.",
-    "Quienes no tengan cómo llegar pueden acercarse a la oficina de «El Ñandú» en la Terminal de Ómnibus de Trelew para consultar costos y horarios de pasaje. Además, todavía queda lugar para alojarse sin costo en una escuela de la localidad.",
-    "El fin de semana tendrá más actividades: el 8 de diciembre la peregrinación, y el 9 el aniversario de Telsen, con jineteadas, baile, destreza criolla y fogones."
+    "La Agrupación de Kayakistas de Travesía, integrada por miembros de Madryn, Trelew, Rawson y Playa Unión, llevó adelante el cuarto encuentro nacional. La organización estuvo a cargo de Milton Morala, Sergio Ricote, Sebastián Galarraga y Alberto Ristevich.",
+    "Este año se eligió una modalidad de travesía agreste: partieron de Bahía Cracker, cerca de la boca del Golfo Nuevo, y llegaron a Playa Paraná, en Puerto Madryn. Fueron unos 50 kilómetros repartidos en dos días de navegación, con dos noches de acampe en entornos naturales. Como novedad, se pidió a los participantes cierto nivel de capacidades físicas y técnicas para afrontar el recorrido.",
+    "Los organizadores contaron que participaron 26 palistas de distintos puntos del país, desde Rosario hasta Río Gallegos, y hubo incluso un participante colombiano que vive en Panamá, quien quedó fascinado con los paisajes y con la experiencia de remar en el mar chubutense.",
+    "Los organizadores agradecieron a los comercios y emprendimientos que colaboraron con donaciones, a la lancha de apoyo y a Prefectura Naval, que acompañó con una embarcación propia durante los dos días de navegación."
    ],
-   "foto": "atletismo",
-   "foto_archivo": "auto/fotos_candidatas/cand-3.jpg",
-   "arte": "meseta",
-   "origen": "https://www.elchubut.com.ar/deportes/2026-11-27-20-13-0-telsen-hace-disputar-el-cross-virgen-del-valle"
+   "foto": "kayak",
+   "arte": "mar",
+   "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
+   "origen": "https://www.elchubut.com.ar/deportes/2026-11-27-20-7-0-se-realizo-encuentro-nacional-de-travesia-de-kayak"
+  },
+  {
+   "id": "uber-madryn-100-conductores-habilitacion",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "tema": "Uber en Madryn",
+   "titulo": "Unos 100 conductores de Uber de Madryn están en proceso de habilitación",
+   "bajada": "Desde Tránsito y Transporte indicaron que todavía no hay vehículos de aplicación habilitados y que hay tiempo de regularizarse.",
+   "cuerpo": [
+    "Conductores de Uber iniciaron los trámites en la Dirección de Transporte de Puerto Madryn para regularizar su situación. Su director, Gustavo Fernández, informó que unos 100 choferes están en proceso de habilitación.",
+    "Aunque las aplicaciones de transporte fueron aprobadas, todavía no hay ningún vehículo habilitado según la ordenanza vigente. \"Vamos por buen camino, calculamos que en los próximos días o en los próximos meses ya vamos a tener los primeros vehículos de aplicación habilitados\", indicó Fernández.",
+    "El plazo para regularizar la situación es de 180 días desde la aprobación de la ordenanza. Quienes no lo hagan pueden recibir multas de entre 750.000 y un millón de pesos, más costos de acarreo y estadía, y en algunos casos el secuestro del vehículo y de la licencia de conducir.",
+    "Sobre las áreas naturales protegidas, el funcionario recordó que rigen sus propias normas: a partir de cinco pasajeros se debe contar con un guía de turismo, igual que para cualquier otro transporte."
+   ],
+   "foto": "taxi",
+   "arte": "ciudad",
+   "foto_archivo": "auto/fotos_candidatas/cand-6.jpg",
+   "origen": "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-34-0-unos-100-conductores-de-uber-estan-en-proceso-de-habilitacion"
   }
  ],
  "descartadas": [
-  "https://www.elchubut.com.ar/deportes/2026-11-27-20-17-0-cuarta-y-ultima-fecha-del-provincial-de-canotaje",
-  "https://www.elchubut.com.ar/deportes/2026-11-27-20-12-0-estudiantes-va-por-el-titulo-de-la-copa-libertadores",
-  "https://www.elchubut.com.ar/deportes/2026-11-27-20-10-0-river-visita-a-instituto-por-el-pase-a-la-semifinal"
+  "https://www.elchubut.com.ar/espectaculos/2026-11-27-10-3-0-el-casamiento-de-tini-stoessel-y-rodrigo-de-paul-acapara-redes-y-titulares",
+  "https://www.elchubut.com.ar/espectaculos/2026-11-27-0-37-0-quienes-seran-los-invitados-de-juana-viale-en-los-programas-del-fin-de-semana"
  ]
 }

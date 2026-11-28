@@ -77,6 +77,38 @@
  ],
  "notas": [
   {
+   "id": "uber-madryn-100-conductores-habilitacion",
+   "fecha": "2026-11-28T07:06:59-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Unos 100 conductores de Uber de Madryn están en proceso de habilitación",
+   "bajada": "Desde Tránsito y Transporte indicaron que todavía no hay vehículos de aplicación habilitados y que hay tiempo de regularizarse.",
+   "cuerpo": [
+    "Conductores de Uber iniciaron los trámites en la Dirección de Transporte de Puerto Madryn para regularizar su situación. Su director, Gustavo Fernández, informó que unos 100 choferes están en proceso de habilitación.",
+    "Aunque las aplicaciones de transporte fueron aprobadas, todavía no hay ningún vehículo habilitado según la ordenanza vigente. \"Vamos por buen camino, calculamos que en los próximos días o en los próximos meses ya vamos a tener los primeros vehículos de aplicación habilitados\", indicó Fernández.",
+    "El plazo para regularizar la situación es de 180 días desde la aprobación de la ordenanza. Quienes no lo hagan pueden recibir multas de entre 750.000 y un millón de pesos, más costos de acarreo y estadía, y en algunos casos el secuestro del vehículo y de la licencia de conducir.",
+    "Sobre las áreas naturales protegidas, el funcionario recordó que rigen sus propias normas: a partir de cinco pasajeros se debe contar con un guía de turismo, igual que para cualquier otro transporte."
+   ],
+   "arte": "ciudad",
+   "tema": "Uber en Madryn"
+  },
+  {
+   "id": "encuentro-nacional-kayak-travesia-madryn",
+   "fecha": "2026-11-28T07:06:58-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "26 palistas de todo el país remaron 50 km en el Golfo Nuevo en un encuentro nacional de kayak",
+   "bajada": "La Agrupación de Kayakistas de Travesía realizó su cuarto encuentro nacional, con salida en Bahía Cracker y llegada a Playa Paraná.",
+   "cuerpo": [
+    "La Agrupación de Kayakistas de Travesía, integrada por miembros de Madryn, Trelew, Rawson y Playa Unión, llevó adelante el cuarto encuentro nacional. La organización estuvo a cargo de Milton Morala, Sergio Ricote, Sebastián Galarraga y Alberto Ristevich.",
+    "Este año se eligió una modalidad de travesía agreste: partieron de Bahía Cracker, cerca de la boca del Golfo Nuevo, y llegaron a Playa Paraná, en Puerto Madryn. Fueron unos 50 kilómetros repartidos en dos días de navegación, con dos noches de acampe en entornos naturales. Como novedad, se pidió a los participantes cierto nivel de capacidades físicas y técnicas para afrontar el recorrido.",
+    "Los organizadores contaron que participaron 26 palistas de distintos puntos del país, desde Rosario hasta Río Gallegos, y hubo incluso un participante colombiano que vive en Panamá, quien quedó fascinado con los paisajes y con la experiencia de remar en el mar chubutense.",
+    "Los organizadores agradecieron a los comercios y emprendimientos que colaboraron con donaciones, a la lancha de apoyo y a Prefectura Naval, que acompañó con una embarcación propia durante los dos días de navegación."
+   ],
+   "arte": "mar",
+   "tema": "Kayak de travesía"
+  },
+  {
    "id": "telsen-cross-virgen-del-valle",
    "fecha": "2026-11-28T06:06:28-03:00",
    "sec": "deportes",
@@ -1309,36 +1341,6 @@
    ],
    "arte": "playa",
    "tema": "Punta Tombo"
-  },
-  {
-   "id": "talleres-culturales-madryn-cierre-2026",
-   "fecha": "2026-11-27T15:40:45-03:00",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Puerto Madryn cierra los Talleres Culturales 2026 con una muestra gratuita el sábado",
-   "bajada": "Será de 14 a 18 en el Gimnasio Municipal N.º 1, con música en vivo, danza y artes plásticas.",
-   "cuerpo": [
-    "La Subsecretaría de Cultura de Puerto Madryn invitó al cierre anual de los Talleres Culturales 2026, el sábado 28 de noviembre de 14 a 18 en el Gimnasio Municipal N.º 1, con entrada libre y gratuita.",
-    "Habrá música en vivo, presentaciones de danza, muestras de artes plásticas y otras propuestas de los espacios formativos. Funcionan casi dos centenares de talleres, con más de 150 profesores y entre 2.500 y 3.000 participantes de todas las edades.",
-    "La oferta incluye danzas, tango, cerámica, literatura, teatro, pintura, historieta, guitarra, canto, piano, fotografía y desarrollo audiovisual, en la Casa de la Cultura, la Biblioteca Sarmiento, el Teatro del Muelle y centros culturales barriales."
-   ],
-   "arte": "escenario",
-   "tema": "Agenda Madryn"
-  },
-  {
-   "id": "kayakeada-madryn-8-diciembre",
-   "fecha": "2026-11-27T15:40:44-03:00",
-   "sec": "turismo",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Puerto Madryn vivirá la 11.ª Kayakeada en honor a la Virgen el 8 de diciembre",
-   "bajada": "La procesión náutica parte a las 19 desde la Bajada N.º 8; la inscripción está abierta hasta el 4 de diciembre.",
-   "cuerpo": [
-    "La Secretaría de Turismo de Puerto Madryn invitó a la 11.ª edición de la kayakeada en honor a la Inmaculada Concepción, patrona de la ciudad. Será el martes 8 de diciembre, desde las 19, en la Bajada N.º 8, cerca del Madryn Kayak Club.",
-    "La procesión trasladará la imagen de la Virgen desde la guardería del club hasta la fuente de la ciudad, en Avenida Roca y 28 de Julio. Se puede acompañar por tierra o por mar. La concentración empieza a las 17, con entrega de ofrendas y un momento de reflexión.",
-    "Los mayores de 18 que quieran remar deben inscribirse hasta el 4 de diciembre o hasta completar el cupo, y también pueden sumarse quienes practican stand up. Es obligatorio contar con elementos de seguridad y consultar la logística con el club."
-   ],
-   "arte": "mar",
-   "tema": "Agenda Madryn"
   },
   {
    "id": "torres-canadon-perdido-recuperacion-terciaria",
