@@ -77,6 +77,79 @@
  ],
  "notas": [
   {
+   "id": "trelew-encuentro-municipios-turisticos-bariloche",
+   "fecha": "2026-11-27T22:07:23-03:00",
+   "sec": "turismo",
+   "ciudad": "Trelew",
+   "titulo": "Trelew participó del Encuentro Nacional de Municipios Turísticos en Bariloche",
+   "bajada": "La secretaria de Producción, Comercio y Turismo, Andrea Rapetti, representó a la ciudad en el 33° encuentro.",
+   "cuerpo": [
+    "La Municipalidad de Trelew participó del 33° Encuentro de Municipios Turísticos y del 2° Encuentro de Legislación Turística, realizados el 26 y 27 de noviembre en San Carlos de Bariloche. La ciudad estuvo representada por la secretaria de Producción, Comercio y Turismo, Andrea Rapetti.",
+    "El encuentro reunió a autoridades, equipos técnicos y referentes del sector de distintos puntos del país para compartir experiencias de gestión, analizar problemáticas comunes y debatir herramientas para fortalecer los destinos. La primera jornada tuvo como eje la gobernanza, la inteligencia turística y la legislación."
+   ],
+   "arte": "ciudad",
+   "tema": "Turismo"
+  },
+  {
+   "id": "regional-hockey-sub14-trelew-gaiman",
+   "fecha": "2026-11-27T22:07:22-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "El Regional Sub 14 de hockey sigue en Trelew y Gaiman con 22 equipos",
+   "bajada": "El torneo de clubes damas reúne a equipos de la Patagonia en las categorías A, B y C.",
+   "cuerpo": [
+    "Trelew y Gaiman son sede del Campeonato Regional de Clubes Sub 14 Damas, en las categorías A, B y C, organizado por la Confederación Argentina de Hockey junto a la Asociación de Hockey Valle del Chubut. Participan 22 equipos de la Patagonia.",
+    "Este viernes se jugó la fase clasificatoria en distintas canchas de la región. El sábado seguirán los cuadrangulares y las semifinales, según cada categoría, y el domingo se disputarán las instancias decisivas y la coronación de campeones."
+   ],
+   "arte": "cancha",
+   "tema": "Hockey"
+  },
+  {
+   "id": "k9-aduana-puerto-madryn-pseudo-fentanilo",
+   "fecha": "2026-11-27T22:07:21-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Capacitaron en Puerto Madryn a equipos K9 para detectar pseudo-fentanilo",
+   "bajada": "Durante cinco días, personal de la Aduana trabajó con binomios de la Región Austral en técnicas de detección en puertos y espacios de alto tránsito.",
+   "cuerpo": [
+    "Puerto Madryn fue sede de una capacitación de cinco días para los equipos K9 de la Región Austral. Personal especializado de la Aduana Argentina incorporó el olor del pseudo-fentanilo al repertorio de detección de los perros.",
+    "También se perfeccionaron técnicas de búsqueda en escenarios complejos, como puertos y espacios de alto tránsito, y se hicieron ejercicios para mejorar la precisión de las alertas y fortalecer el trabajo conjunto entre guías y canes.",
+    "La formación permite ampliar las capacidades de detección y mejorar la respuesta operativa frente a la circulación de nuevas sustancias."
+   ],
+   "arte": "meseta",
+   "tema": "Aduana"
+  },
+  {
+   "id": "utilitario-incendio-doble-trocha-bajo-simpson",
+   "fecha": "2026-11-27T22:07:20-03:00",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Un utilitario se incendió por una falla mecánica en la Doble Trocha Trelew-Madryn",
+   "bajada": "El conductor, de 39 años, logró bajarse a tiempo y salió ileso; el vehículo quedó destruido.",
+   "cuerpo": [
+    "Un utilitario Renault Master quedó totalmente destruido por un incendio durante la madrugada del jueves en la Ruta 3, en la Doble Trocha, a la altura del Bajo Simpson, unos 15 kilómetros al sur de Puerto Madryn. Según la policía, el fuego se originó por una falla mecánica.",
+    "El vehículo circulaba presuntamente hacia Trelew cuando comenzó a prenderse fuego. Su conductor, un hombre de 39 años, detuvo la marcha, lo estacionó a un costado de la ruta y se bajó mientras llamaba a los bomberos. Salió ileso.",
+    "En pocos segundos las llamas consumieron el utilitario, que terminó completamente quemado."
+   ],
+   "arte": "humo",
+   "tema": "Incendio de vehículo"
+  },
+  {
+   "id": "ader-rawson-recorrida-diputados-proyectos-2027",
+   "fecha": "2026-11-27T22:07:19-03:00",
+   "sec": "politica",
+   "ciudad": "Rawson",
+   "titulo": "ADER mostró su producción y los proyectos que prepara para 2027",
+   "bajada": "El intendente Damián Biss y diputados provinciales del bloque Chubut Unido recorrieron la Agencia de Desarrollo Económico de Rawson.",
+   "cuerpo": [
+    "El intendente de Rawson, Damián Biss, junto a los diputados provinciales Mariela Tamame, Sergio González y Marcelo Rubia, recorrió las instalaciones de la Agencia de Desarrollo Económico de Rawson (ADER). Conocieron los procesos productivos del lugar y las iniciativas previstas para el próximo año.",
+    "La agencia produce insumos con impresión 3D para plantas pesqueras, cuenta con una adoquinera, cultivos hidropónicos y generación de energía solar. También ofrece formación y acompañamiento a vecinos y familias de la ciudad.",
+    "González destacó la diversidad de actividades que se desarrollan en el predio y consideró que la experiencia podría replicarse en otras localidades de la provincia."
+   ],
+   "arte": "ciudad",
+   "tema": "ADER Rawson"
+  },
+  {
    "id": "lorenzo-march-campeon-nacional-tenis-sub16",
    "fecha": "2026-11-27T21:07:24-03:00",
    "sec": "deportes",
@@ -1342,87 +1415,6 @@
    ],
    "arte": "ciudad",
    "tema": "Solidaridad"
-  },
-  {
-   "id": "comodoro-cuenta-solidaria-estafa-banco-devolvera-dinero",
-   "fecha": "2026-11-26T21:05:14-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: el banco devolverá los casi $10 millones robados de la cuenta solidaria para el tratamiento de un nene",
-   "bajada": "El Banco Nación confirmó que reintegrará el dinero que un estafador sacó de la cuenta abierta para costear la atención médica de un chico de 6 años en Boston. El responsable ya fue identificado.",
-   "cuerpo": [
-    "La familia de un nene de 6 años de Comodoro Rivadavia que necesita viajar a Estados Unidos para tratar dos enfermedades poco frecuentes recibió una buena noticia: el Banco Nación le informó que le devolverá el monto completo que le habían sustraído de la cuenta solidaria, cerca de $10 millones.",
-    "La cuenta había sido vaciada el lunes 24 por un estafador. Según contó la madre del chico en sus redes, el responsable ya está identificado; por razones legales solo difundió sus iniciales, M.J.R., y aclaró que las actuaciones quedarán en manos de la Justicia y de la Policía de la Ciudad de Buenos Aires.",
-    "La mujer destacó que el reintegro se logró después de más de 24 horas de gestiones, en un trámite que habitualmente puede demorar de 90 días a dos años. \"Nuestro caso fue tomado con prioridad, teniendo en cuenta la urgencia de los fondos\", explicó.",
-    "El dinero está destinado a cubrir la internación del nene en el Hospital de Niños de Boston, donde podría acceder a un ensayo clínico sobre enfermedades raras. En total, la familia necesita reunir unos $600 millones.",
-    "La madre agradeció al Banco Nación, al Banco Central y al personal de las sucursales de Almagro, en Buenos Aires, y de Comodoro Rivadavia. \"Esta noticia nos devuelve un poco de tranquilidad y nos permite seguir adelante\", escribió."
-   ],
-   "arte": "banco",
-   "tema": "Solidaridad"
-  },
-  {
-   "id": "diputados-ley-reforma-carta-organica-banco-central",
-   "fecha": "2026-11-26T20:12:22-03:00",
-   "sec": "nacionales",
-   "ciudad": "Buenos Aires",
-   "titulo": "Es ley la reforma del Banco Central: Diputados aceptó los cambios del Senado",
-   "bajada": "La nueva Carta Orgánica limita la misión del organismo a cuidar el valor de la moneda y fija la emisión cero. Se aprobó con 141 votos afirmativos y 99 abstenciones.",
-   "cuerpo": [
-    "La Cámara de Diputados convirtió en ley este jueves la reforma de la Carta Orgánica del Banco Central, al convalidar las modificaciones que había introducido el Senado. Hubo 141 votos a favor y 99 abstenciones de la oposición, que eligió abstenerse en lugar de votar en contra para que el oficialismo no pudiera insistir con el texto original aprobado en agosto.",
-    "La reforma era una prioridad para el presidente Javier Milei. Su objetivo es que la entidad se dedique solo a preservar el valor de la moneda, con el principio de emisión cero, y asegurar su independencia frente a futuros gobiernos.",
-    "La Libertad Avanza buscó volver a la versión inicial, que exigía dos tercios de los votos de ambas cámaras para remover a los directores del Banco Central, pero no lo consiguió. Quedó el criterio del Senado: alcanza con mayoría absoluta y la decisión queda solo en manos de esa cámara, sin intervención de Diputados.",
-    "Desde Unión por la Patria, la diputada Julia Strada advirtió que con la reforma \"se pueden usar las reservas como garantía para endeudar al Banco Central y eso pone en riesgo a los argentinos\". Del otro lado, el radical Diógenes González defendió la ley porque \"es importante tener un Banco Central independiente\"."
-   ],
-   "arte": "banco",
-   "tema": "Banco Central"
-  },
-  {
-   "id": "senado-aprobo-suspension-paso-ficha-limpia",
-   "fecha": "2026-11-26T20:12:21-03:00",
-   "sec": "nacionales",
-   "ciudad": "Buenos Aires",
-   "titulo": "El Senado aprobó la suspensión de las PASO y Ficha Limpia: ahora decide Diputados",
-   "bajada": "La reforma electoral obtuvo 43 votos a favor y 29 en contra. Entre quienes la acompañaron estuvieron los senadores que responden a los gobernadores aliados, incluido Ignacio Torres.",
-   "cuerpo": [
-    "El Senado de la Nación dio media sanción al proyecto de reforma electoral que suspende las Primarias Abiertas, Simultáneas y Obligatorias (PASO) e incorpora Ficha Limpia, la regla que impide que se postulen dirigentes con condenas en segunda instancia por delitos dolosos. La iniciativa pasa ahora a la Cámara de Diputados.",
-    "La votación terminó 43 a 29. A favor votaron los 21 senadores de La Libertad Avanza, los 10 de la UCR, tres del PRO y legisladores de bloques provinciales, entre ellos el monobloque Despierta Chubut. También acompañaron los senadores que responden a los gobernadores de Corrientes, Mendoza, Santa Fe, Chaco, Chubut, Córdoba, Neuquén, Misiones, Salta y Santa Cruz, los de Rogelio Frigerio (PRO) y los del jefe de Gobierno porteño, Jorge Macri.",
-    "En contra se pronunció el bloque Justicialista que preside José Mayans, con 22 integrantes, junto con el Frente Cívico de Santiago del Estero, el monobloque Justicia Federal Social, la senadora tucumana Beatriz Ávila y los tres legisladores de Convicción Federal.",
-    "El oficialismo consiguió los votos después del acuerdo entre el jefe de Gabinete, Diego Santilli, y los gobernadores, y de las negociaciones encabezadas por la jefa del bloque libertario, Patricia Bullrich. Si la reforma se convierte en ley, cada partido elegirá a sus candidatos según su carta orgánica y tendrá tiempo hasta el 30 de agosto para definirlos.",
-    "Durante el debate en particular se agregó la obligación de hacer un debate presidencial en caso de segunda vuelta, con sanciones para el candidato que no se presente."
-   ],
-   "arte": "ciudad",
-   "tema": "Reforma electoral"
-  },
-  {
-   "id": "rawson-ima-muestra-anual-cierre-2026",
-   "fecha": "2026-11-26T20:05:20-03:00",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "titulo": "El Instituto María Auxiliadora de Rawson cerró el año con su muestra anual",
-   "bajada": "Hubo juegos interactivos, un torneo de ajedrez, investigaciones sobre bullying y salud mental, trabajos de informática y producciones de los talleres extraprogramáticos.",
-   "cuerpo": [
-    "El Instituto María Auxiliadora de Rawson despidió el ciclo lectivo 2026 con su muestra anual, que se hizo en el SUM de la escuela con la participación de estudiantes, docentes, directivos y familias. La propuesta combinó contenidos de matemática, inglés y tecnología.",
-    "Desde matemática se organizaron juegos interactivos y un torneo de ajedrez, y también se presentaron investigaciones sobre bullying y salud mental en la adolescencia, pensadas para abrir el diálogo sobre lo que viven los chicos en la escuela y en la comunidad.",
-    "La directora del nivel secundario, Andrea Yaniez, destacó las páginas web y los programas del área de informática, los cuentos policiales escritos en lengua junto con inglés y los diarios de laboratorio e infografías científicas. Además, mostraron su trabajo los talleres de cocina, cerámica, música y producción de aceite de oliva, entre otros. Yaniez agradeció el acompañamiento de las familias."
-   ],
-   "arte": "escuela",
-   "tema": "Educación"
-  },
-  {
-   "id": "madryn-pami-tres-meses-sin-jefe",
-   "fecha": "2026-11-26T20:05:19-03:00",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Puerto Madryn lleva tres meses sin jefe en la delegación del PAMI y se demoran medicamentos y prótesis",
-   "bajada": "El Consejo Provincial de Adultos Mayores planteó el reclamo a las autoridades del PAMI en Chubut, que respondieron que el reemplazo ya está definido y solo falta la designación desde Nación.",
-   "cuerpo": [
-    "La falta de un titular en la delegación del PAMI de Puerto Madryn fue uno de los reclamos centrales del plenario del Consejo Provincial de Adultos Mayores. Según explicaron, la acefalía de tres meses obliga a que muchas autorizaciones de medicación y prótesis se tramiten a cientos de kilómetros de la ciudad.",
-    "\"La salud del adulto mayor no es una variable de ajuste fiscal\", dijo Oscar Furci, presidente del Consejo, tras la reunión con Vanessa Nievas, titular de la Unidad de Gestión Local del PAMI en Chubut. Furci contó que, según Nievas, \"está la persona, falta que llegue el nombramiento de Nación\".",
-    "Desde el Consejo sostuvieron que el problema se repite en toda la provincia, \"desde la comarca andina hasta la costa\". También cuestionaron la resolución 1.107, que pone un tope mensual a los turnos con especialistas: cuando el cupo se agota, los afiliados tienen que esperar al mes siguiente o pagar la consulta por su cuenta, algo que consideran crítico en áreas como cardiología.",
-    "Sobre el PROSATE, Furci valoró las medidas para acortar las filas por turnos, pero insistió en que hacen falta \"reformas estructurales de fondo\" y más profesionales. Al tratar los temas de salud, el plenario no contó con la presencia del secretario de Salud, Sergio Whisky, aunque sí hubo representantes de Seros y del PAMI."
-   ],
-   "arte": "mar",
-   "tema": "Personas mayores"
   },
   {
    "id": "comodoro-oca-retencion-salarios-adeudados",

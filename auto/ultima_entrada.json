@@ -1,113 +1,99 @@
 {
  "notas": [
   {
-   "id": "luz-y-fuerza-complejo-21-de-enero-obras",
-   "sec": "ultimas",
+   "id": "ader-rawson-recorrida-diputados-proyectos-2027",
+   "sec": "politica",
    "ciudad": "Rawson",
-   "tema": "Luz y Fuerza",
-   "titulo": "Luz y Fuerza avanza con la ampliación del Complejo 21 de Enero: salón para 350 personas y pileta climatizada",
-   "bajada": "Congresales del Sindicato Regional de Luz y Fuerza de la Patagonia recorrieron las obras de una de las mayores inversiones del gremio.",
+   "tema": "ADER Rawson",
+   "titulo": "ADER mostró su producción y los proyectos que prepara para 2027",
+   "bajada": "El intendente Damián Biss y diputados provinciales del bloque Chubut Unido recorrieron la Agencia de Desarrollo Económico de Rawson.",
    "cuerpo": [
-    "Durante la jornada del jueves, los congresales del Sindicato Regional de Luz y Fuerza de la Patagonia visitaron el Complejo 21 de Enero, acompañados por la secretaria de Hacienda y Finanzas, Sandra García, y la secretaria de Turismo, Analía Seba. El responsable de la obra explicó las características del proyecto, los avances y las etapas que faltan.",
-    "Uno de los proyectos contempla un salón de conferencias con capacidad para 350 personas y un restaurante para otras 350. La planta baja tendrá unos 860 metros cuadrados, de los cuales 580 corresponden al salón. Además se ampliarán la cocina y los fogones existentes, y se sumarán un hall de recepción, sanitarios, ascensor y otros espacios.",
-    "La planta baja registra un avance cercano al 80 por ciento, con la obra gruesa y la calefacción ejecutadas, mientras que en la planta alta ya se hicieron los principales trabajos estructurales. También se prevé incorporar una pileta climatizada. La inversión busca ampliar la capacidad de servicios y jerarquizar las instalaciones del establecimiento."
+    "El intendente de Rawson, Damián Biss, junto a los diputados provinciales Mariela Tamame, Sergio González y Marcelo Rubia, recorrió las instalaciones de la Agencia de Desarrollo Económico de Rawson (ADER). Conocieron los procesos productivos del lugar y las iniciativas previstas para el próximo año.",
+    "La agencia produce insumos con impresión 3D para plantas pesqueras, cuenta con una adoquinera, cultivos hidropónicos y generación de energía solar. También ofrece formación y acompañamiento a vecinos y familias de la ciudad.",
+    "González destacó la diversidad de actividades que se desarrollan en el predio y consideró que la experiencia podría replicarse en otras localidades de la provincia."
    ],
    "foto": "obra",
    "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
    "arte": "ciudad",
-   "origen": "https://www.diariojornada.com.ar/427846/magazine/luz_y_fuerza_de_la_patagonia_una_importante_transformacion_del_complejo_21_de_enero"
+   "origen": "https://www.elchubut.com.ar/rawson/2026-11-27-18-4-0-ader-mostro-su-capacidad-productiva-y-los-proyectos-que-prepara-para-2027"
   },
   {
-   "id": "condena-firme-nidos-pinguinos-punta-clara",
+   "id": "utilitario-incendio-doble-trocha-bajo-simpson",
    "sec": "policiales",
-   "ciudad": "Provincia",
-   "tema": "Pingüinos",
-   "titulo": "Quedó firme la condena de tres años en suspenso por destruir nidos de pingüinos en Punta Clara",
-   "bajada": "El Superior Tribunal de Justicia rechazó la impugnación de la defensa y ratificó la pena y el decomiso de la retroexcavadora.",
+   "ciudad": "Puerto Madryn",
+   "tema": "Incendio de vehículo",
+   "titulo": "Un utilitario se incendió por una falla mecánica en la Doble Trocha Trelew-Madryn",
+   "bajada": "El conductor, de 39 años, logró bajarse a tiempo y salió ileso; el vehículo quedó destruido.",
    "cuerpo": [
-    "El Superior Tribunal de Justicia del Chubut dejó firme la condena a tres años de prisión de ejecución condicional contra Ricardo Adolfo La Regina, por la destrucción de nidos, huevos, pichones y ejemplares adultos de pingüinos de Magallanes en Punta Clara, al norte de Punta Tombo. El máximo tribunal rechazó la impugnación extraordinaria de la defensa tras la audiencia del 21 de abril de 2026.",
-    "El fallo ratifica la sentencia del Tribunal Colegiado de Rawson, del 20 de noviembre de 2024, que además ordenó el decomiso de la retroexcavadora usada en los hechos, y la confirmación de la Cámara Penal de Trelew del 21 de mayo de 2025. La acusación comprendía tres hechos de daño agravado y uno de crueldad animal.",
-    "La investigación comenzó el 26 de noviembre de 2021 bajo la conducción de la fiscal general jefe Florencia Gómez. Se acreditó que entre agosto y diciembre de ese año se realizaron tareas de desmonte, apertura de caminos y remoción de suelo dentro del área de nidificación."
+    "Un utilitario Renault Master quedó totalmente destruido por un incendio durante la madrugada del jueves en la Ruta 3, en la Doble Trocha, a la altura del Bajo Simpson, unos 15 kilómetros al sur de Puerto Madryn. Según la policía, el fuego se originó por una falla mecánica.",
+    "El vehículo circulaba presuntamente hacia Trelew cuando comenzó a prenderse fuego. Su conductor, un hombre de 39 años, detuvo la marcha, lo estacionó a un costado de la ruta y se bajó mientras llamaba a los bomberos. Salió ileso.",
+    "En pocos segundos las llamas consumieron el utilitario, que terminó completamente quemado."
    ],
-   "foto": "pinguino",
-   "foto_archivo": "auto/fotos_candidatas/cand-2.webp",
-   "arte": "playa",
-   "origen": "https://www.opisantacruz.com.ar/2026/11/27/tres-anos-de-prision-condicional-por-destruir-nidos-de-pinguinos-en-chubut/"
+   "foto": "bomberos",
+   "foto_archivo": "auto/fotos_candidatas/cand-4.jpg",
+   "arte": "humo",
+   "origen": "https://www.elchubut.com.ar/policiales/2026-11-26-18-54-0-utilitario-fue-arrasado-por-las-llamas-de-un-incendio-en-la-doble-trocha-trelew-madryn"
   },
   {
-   "id": "cumbre-pj-rawson-sin-acuerdo",
-   "sec": "politica",
-   "ciudad": "Rawson",
-   "tema": "Elecciones 2027",
-   "titulo": "Cumbre del PJ en Rawson: sin acuerdo, los precandidatos a gobernador volverán a reunirse",
-   "bajada": "El peronismo debatió cómo definir su candidatura de cara a las elecciones provinciales del 21 de marzo de 2027, y no hubo definiciones.",
+   "id": "k9-aduana-puerto-madryn-pseudo-fentanilo",
+   "sec": "policiales",
+   "ciudad": "Puerto Madryn",
+   "tema": "Aduana",
+   "titulo": "Capacitaron en Puerto Madryn a equipos K9 para detectar pseudo-fentanilo",
+   "bajada": "Durante cinco días, personal de la Aduana trabajó con binomios de la Región Austral en técnicas de detección en puertos y espacios de alto tránsito.",
    "cuerpo": [
-    "Autoridades partidarias y militantes se reunieron este viernes por la tarde en la sede provincial del Partido Justicialista en Rawson. Hubo un encuentro reservado entre quienes aspiran a competir por la Gobernación y otro formal con el Consejo Provincial y la Mesa del Congreso partidario. Terminó sin acuerdo y los precandidatos volverán a juntarse.",
-    "Los tiempos son cortos: el gobernador Ignacio Torres convocó a elecciones provinciales para el 21 de marzo de 2027 y los candidatos deben presentarse el 15 de enero. Hubo coincidencias en la necesidad de construir una alternativa competitiva, pero aparecieron diferencias cuando se habló de estrategia.",
-    "Antes de definir quién encabezará la boleta, el justicialismo deberá resolver con qué partidos se alía; entre ellos se mencionan el Frente Renovados y el Socialismo Auténtico. Juan Pablo Luque dejó en claro que no pretende repetir el escenario de 2023 y su entorno considera que una interna que profundice las diferencias puede comprometer el acompañamiento en la elección general."
+    "Puerto Madryn fue sede de una capacitación de cinco días para los equipos K9 de la Región Austral. Personal especializado de la Aduana Argentina incorporó el olor del pseudo-fentanilo al repertorio de detección de los perros.",
+    "También se perfeccionaron técnicas de búsqueda en escenarios complejos, como puertos y espacios de alto tránsito, y se hicieron ejercicios para mejorar la precisión de las alertas y fortalecer el trabajo conjunto entre guías y canes.",
+    "La formación permite ampliar las capacidades de detección y mejorar la respuesta operativa frente a la circulación de nuevas sustancias."
    ],
-   "foto": "elecciones",
-   "arte": "ciudad",
-   "origen": "https://canal12web.com/cumbre-peronista-sin-acuerdo-los-precandidatos-volveran-a-juntarse/"
+   "foto": "perro",
+   "arte": "puerto",
+   "origen": "https://www.elchubut.com.ar/regionales/2026-11-27-18-7-0-se-capacito-al-equipo-de-k9-en-detencion-de-pseudo-fentanilo"
   },
   {
-   "id": "newcom-orgulloso-club-huergo-comodoro",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "tema": "Semana del Orgullo",
-   "titulo": "Comodoro realizó el 4º Torneo de Newcom Orgulloso en el Club Huergo",
-   "bajada": "La actividad formó parte de la Semana del Orgullo y reunió a grupos y equipos de distintos espacios municipales y organizaciones.",
-   "cuerpo": [
-    "La Municipalidad de Comodoro Rivadavia, a través de la Dirección de Diversidad LGBTIQ+ y Nuevas Mayorías de la Secretaría de la Mujer, realizó este viernes el 4º Torneo de Newcom Orgulloso en la cancha principal del Club Huergo. Se enmarca en las políticas de inclusión que impulsa el intendente Othar Macharashvili.",
-    "La directora general de Diversidad de Género, Daniela Andrade, valoró la continuidad del campeonato, que se organiza todos los años como resultado de un trabajo sostenido, y se mostró satisfecha con la convocatoria de esta cuarta edición.",
-    "Andrade destacó la importancia de fortalecer el vínculo con otras áreas municipales, en especial con el ámbito deportivo, para ampliar la participación. \"Pretendemos que otros sectores se puedan sumar y que puedan hacer deporte también. El deporte también es orgulloso\", afirmó."
-   ],
-   "foto": "futbol",
-   "foto_archivo": "auto/fotos_candidatas/cand-3.jpg",
-   "arte": "cancha",
-   "origen": "https://cholilaonline.ar/2026/11/comodoro-rivadavia-4-torneo-newcom-orgulloso-club-huergo.html"
-  },
-  {
-   "id": "corte-luz-playa-union-3-de-abril-sabado",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "tema": "Corte de luz",
-   "titulo": "Corte programado de luz el sábado en el norte de Playa Unión y el barrio 3 de Abril",
-   "bajada": "La interrupción será de 8 a 12 por tareas de mantenimiento en la Subestación Ramón Lista.",
-   "cuerpo": [
-    "El Servicio Eléctrico informó que este sábado 28 de noviembre, de 8:00 a 12:00, habrá un corte programado de energía para realizar tareas de mantenimiento en la Subestación Ramón Lista.",
-    "La interrupción afectará a la zona norte de Playa Unión y al barrio 3 de Abril."
-   ],
-   "foto": "electricidad",
-   "arte": "noche",
-   "origen": "https://www.diariojornada.com.ar/427844/magazine/corte_de_energia_luz_en_playa_union_y_b_3_de_abril"
-  },
-  {
-   "id": "lorenzo-march-campeon-nacional-tenis-sub16",
+   "id": "regional-hockey-sub14-trelew-gaiman",
    "sec": "deportes",
    "ciudad": "Trelew",
-   "tema": "Tenis",
-   "titulo": "El trelewense Lorenzo March ganó el Nacional de tenis Sub16 en Neuquén",
-   "bajada": "El jugador del Trelew Tennis Club se impuso en singles y también ganó el dobles junto a Juan Paolini.",
+   "tema": "Hockey",
+   "titulo": "El Regional Sub 14 de hockey sigue en Trelew y Gaiman con 22 equipos",
+   "bajada": "El torneo de clubes damas reúne a equipos de la Patagonia en las categorías A, B y C.",
    "cuerpo": [
-    "Lorenzo March, del Trelew Tennis Club, ganó el 6º Nacional del año en la categoría Sub16, disputado en el Neuquén Tennis Club. En la final venció a Santino Aranda, de La Pampa, por 6/3, 4/6 y 6/4. Además, se quedó con el dobles junto a Juan Paolini, de Río Negro, por 7/6 y 6/3.",
-    "En Sub14 damas, Agustina Viglione, de Trelew, y Delfina Marshall, de San Félix, fueron finalistas del dobles, que ganaron Delfina Koch e Inés Mardonez por 6/4, 4/6 y 10/5. Lucio Vulcano jugó en Sub14 varones y llegó hasta la segunda ronda.",
-    "Este sábado a las 13 comenzará en el Trelew Tennis Club el torneo de fin de año por equipos, abierto a tenistas de todas las edades. Cada equipo debe tener seis integrantes, tres damas y tres varones, y habrá premios, sorteos y pizza libre al final."
+    "Trelew y Gaiman son sede del Campeonato Regional de Clubes Sub 14 Damas, en las categorías A, B y C, organizado por la Confederación Argentina de Hockey junto a la Asociación de Hockey Valle del Chubut. Participan 22 equipos de la Patagonia.",
+    "Este viernes se jugó la fase clasificatoria en distintas canchas de la región. El sábado seguirán los cuadrangulares y las semifinales, según cada categoría, y el domingo se disputarán las instancias decisivas y la coronación de campeones."
    ],
-   "foto": "tenis",
+   "foto": "futbol",
    "arte": "cancha",
-   "origen": "https://www.elchubut.com.ar/nota/2026-11-27-20-47-0-lorenzo-march-se-corono-campeon-del-nacional-de-menores"
+   "origen": "https://canal12web.com/el-regional-sub-14-de-hockey-completo-otra-jornada-de-competencia-en-trelew-y-gaiman/"
+  },
+  {
+   "id": "trelew-encuentro-municipios-turisticos-bariloche",
+   "sec": "turismo",
+   "ciudad": "Trelew",
+   "tema": "Turismo",
+   "titulo": "Trelew participó del Encuentro Nacional de Municipios Turísticos en Bariloche",
+   "bajada": "La secretaria de Producción, Comercio y Turismo, Andrea Rapetti, representó a la ciudad en el 33° encuentro.",
+   "cuerpo": [
+    "La Municipalidad de Trelew participó del 33° Encuentro de Municipios Turísticos y del 2° Encuentro de Legislación Turística, realizados el 26 y 27 de noviembre en San Carlos de Bariloche. La ciudad estuvo representada por la secretaria de Producción, Comercio y Turismo, Andrea Rapetti.",
+    "El encuentro reunió a autoridades, equipos técnicos y referentes del sector de distintos puntos del país para compartir experiencias de gestión, analizar problemáticas comunes y debatir herramientas para fortalecer los destinos. La primera jornada tuvo como eje la gobernanza, la inteligencia turística y la legislación."
+   ],
+   "foto": "turistas",
+   "arte": "ciudad",
+   "origen": "https://cholilaonline.ar/2026/11/trelew-participo-del-encuentro-nacional-de-municipios-turisticos-en-bariloche.html"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427857/politica/cooperativas_electricas_bonaerenses_alertan_por_el_atraso_tarifario",
-  "https://www.diariojornada.com.ar/427845/deportes/estudiantes_y_palmeiras_se_enfrentan_en_la_gran_final_en_montevideo",
-  "https://www.opisantacruz.com.ar/2026/11/27/el-riesgo-pais-cayo-78-hasta-los-984-puntos-por-el-rebote-de-los-bonos/",
-  "https://www.elchubut.com.ar/regionales/2026-11-27-20-56-0-trelew-140-anos-descubri-los-27-fasciculos-de-una-coleccion-que-recupera-la-historia-de-la-ciudad",
-  "https://www.elchubut.com.ar/nota/2026-11-27-18-6-0-argentina-se-cruzara-con-mexico-en-los-16avos-del-mundial-sub-17",
-  "https://canal12web.com/la-final-de-madryn-brown-de-abech-paso-para-el-domingo/",
-  "https://canal12web.com/la-recaptura-del-acusado-por-el-crimen-de-colihuinca-reactivo-los-plazos-para-llegar-a-juicio/",
-  "https://canal12web.com/puerto-madryn-un-motociclista-sufrio-una-grave-lesion-tras-chocar-contra-una-camioneta/",
-  "https://cholilaonline.ar/2026/11/saavedra-intendente-matias-nebot-evito-destitucion-concejo.html"
+  "https://www.diariojornada.com.ar/427842/genero/instalaron_un_banco_rojo_y_realizaron_una_intervencion_de_zapatos_rojos",
+  "https://www.diariojornada.com.ar/427728/economia/la_produccion_industrial_cayo_un_3_interanual_en_octubre",
+  "https://www.diariojornada.com.ar/427727/economia/santander_la_bancaria_anuncio_un_paro_nacional_en_diciembre",
+  "https://www.diariojornada.com.ar/427723/economia/crecio_el_consumo_en_shoppings_y_bajo_en_supermercados",
+  "https://www.elchubut.com.ar/policiales/2026-11-26-17-32-0-sofocan-impresionante-incendio-en-una-chacra-que-casi-se-propaga-a-otro-establecimiento",
+  "https://www.madrynahora.com/puerto-madryn/sastre-estamos-preparando-a-la-ciudad-para-recibir-una-nueva-temporada-de-verano-con-mas-servicios-y-espacios/",
+  "https://www.madrynahora.com/argentina/preocupacion-por-luis-ventura-se-descompenso-antes-de-viajar-a-miami-y-fue-internado/",
+  "https://canal12web.com/santa-cruz-busca-recuperar-la-produccion-petrolera-convencional-y-apuesta-a-palermo-aike-y-sur-rio-deseado/",
+  "https://canal12web.com/franco-colapinto-pone-primera-en-el-gran-premio-de-qatar-de-formula-1/",
+  "https://canal12web.com/una-traffic-se-prendio-fuego-en-plena-ruta-3-y-termino-completamente-destruida/",
+  "https://cholilaonline.ar/2026/11/ader-mostro-su-capacidad-productiva-y-los-proyectos-que-prepara-para-2027.html",
+  "https://cholilaonline.ar/2026/11/la-municipalidad-acompanara-una-nueva-edicion-de-la-noche-magica-del-deporte.html",
+  "https://cholilaonline.ar/2026/11/comodoro-rivadavia-pymes-compre-local-cumbre-industrial.html"
  ]
 }
