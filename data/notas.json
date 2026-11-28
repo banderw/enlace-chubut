@@ -90,7 +90,8 @@
     "El ganador esperará en semifinales a Atlanta, mientras que Tristán Suárez y Colón ya definieron el otro cruce."
    ],
    "arte": "cancha",
-   "tema": "Deportivo Madryn"
+   "tema": "Deportivo Madryn",
+   "lugar": "lado"
   },
   {
    "id": "catalan-baja-candidatura-apoya-luque",
@@ -106,7 +107,8 @@
     "Entre sus planteos, pidió que Puerto Madryn tenga una representación efectiva en la futura Legislatura, junto con Trelew, Rawson, la Cordillera y el resto de las regiones."
    ],
    "arte": "ciudad",
-   "tema": "Elecciones 2027"
+   "tema": "Elecciones 2027",
+   "lugar": "lead"
   },
   {
    "id": "esquel-codigo-planeamiento-urbano",
@@ -168,7 +170,8 @@
     "Como el equipo municipal estará abocado al operativo, las castraciones quedan suspendidas desde el sábado 28 de noviembre hasta el martes 2 de diciembre inclusive."
    ],
    "arte": "ciudad",
-   "tema": "Rabia en Madryn"
+   "tema": "Rabia en Madryn",
+   "lugar": "lado"
   },
   {
    "id": "madryn-preparativos-temporada-verano",
@@ -1405,8 +1408,7 @@
     "En los dos casos, los fondos se podrán retirar por cajeros automáticos, en las ventanillas habilitadas del Banco del Chubut y a través de los canales digitales del banco."
    ],
    "arte": "banco",
-   "tema": "Sueldos estatales",
-   "lugar": "lead"
+   "tema": "Sueldos estatales"
   },
   {
    "id": "comodoro-oca-retencion-salarios-adeudados",
@@ -1422,8 +1424,7 @@
     "Los trabajadores indicaron que la firma atribuye la demora al conflicto que atraviesa a nivel nacional y condiciona una solución a la paritaria del sector, por lo que ratificaron que no volverán a las recorridas hasta cobrar todo lo adeudado."
    ],
    "arte": "ciudad",
-   "tema": "Conflicto OCA",
-   "lugar": "lado"
+   "tema": "Conflicto OCA"
   },
   {
    "id": "seros-nueva-sede-comodoro-albergue-derivados",
@@ -1456,7 +1457,6 @@
    ],
    "arte": "escuela",
    "tema": "Formación Profesional",
-   "lugar": "lado",
    "galeria": [
     "formacion-profesional-verano-2027-2.jpg",
     "formacion-profesional-verano-2027-3.jpg",
