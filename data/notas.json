@@ -77,6 +77,22 @@
  ],
  "notas": [
   {
+   "id": "ley-ludopatia-apuestas-clubes",
+   "fecha": "2026-11-28T00:06:29-03:00",
+   "sec": "nacionales",
+   "ciudad": "Nacional",
+   "titulo": "Ley de Ludopatía: qué cambia para los clubes y el fútbol argentino con la prohibición de publicidad de apuestas",
+   "bajada": "El Senado aprobó por unanimidad la ley que regula las apuestas en línea y prohíbe el patrocinio de casas de apuestas en el deporte. Falta la promulgación y la reglamentación.",
+   "cuerpo": [
+    "El Senado aprobó por unanimidad la Ley de Prevención de la Ludopatía y Regulación de los Juegos de Azar y Apuestas en Línea. La norma prohíbe, entre otras cosas, el patrocinio y la publicidad de casas de apuestas en el deporte, y alcanza a clubes, canales de televisión que transmiten los partidos, la AFA, la Liga Profesional y la Selección Argentina.",
+    "Hoy diez clubes de la Liga Profesional tienen casas de apuestas o casinos como sponsors en sus camisetas: Boca, River, Racing, Independiente, San Lorenzo, Rosario Central, Newell's, Independiente Rivadavia, Huracán y Argentinos Juniors. La Selección, que no lleva sponsor en la camiseta, también tiene acuerdos comerciales con firmas del rubro.",
+    "La prohibición se extiende además a futbolistas, entrenadores, exjugadores, árbitros, periodistas deportivos e influencers, que no podrán promocionar esta actividad.",
+    "Una vez promulgada por el Poder Ejecutivo, que tiene 10 días hábiles para hacerlo, la ley entrará en vigencia y no podrán firmarse nuevos acuerdos de este tipo. El Gobierno tendrá luego 120 días para reglamentarla y definir qué ocurre con los contratos ya vigentes. En Brasil, una medida más estricta ya obligó a los clubes a jugar sin los logos de las casas de apuestas en el pecho."
+   ],
+   "arte": "cancha",
+   "tema": "Ley de Ludopatía"
+  },
+  {
    "id": "my-way-musical-sinatra-puerto-madryn",
    "fecha": "2026-11-27T23:07:36-03:00",
    "sec": "ultimas",
@@ -1398,21 +1414,6 @@
    ],
    "arte": "ciudad",
    "tema": "Seguridad"
-  },
-  {
-   "id": "comodoro-25n-mural-caminata-costanera",
-   "fecha": "2026-11-26T23:05:21-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: con un mural y una caminata por la Costanera, el municipio cierra las actividades del 25N",
-   "bajada": "La Secretaría de la Mujer, Género, Juventud y Diversidad acompaña hoy a unas 400 mujeres y recordó que tiene guardia las 24 horas en Dorrego 732.",
-   "cuerpo": [
-    "La secretaria de la Mujer, Género, Juventud y Diversidad de Comodoro Rivadavia, María Cativa, repasó las actividades por el Día Internacional de la Eliminación de la Violencia contra la Mujer. Junto a las comisarías de la Mujer de zona norte y zona sur se pintó un mural conmemorativo en el Parque de la Ciudad, al lado del que ya muestra los números de guardia.",
-    "El cierre será el domingo 29 de noviembre desde las 14 con una caminata tranquila que saldrá de la ex Proveeduría y llegará al Paseo Costero. Allí habrá clases de zumba y de relajación, además de una muestra nacional de mujeres periodistas.",
-    "Cativa contó que el área municipal sigue actualmente a un promedio de 400 mujeres, entre consultas espontáneas, derivaciones de la Justicia y asistencias de emergencia. La Secretaría atiende con guardia permanente las 24 horas en su sede de Dorrego 732 y brinda acompañamiento legal, psicológico y social sin costo."
-   ],
-   "arte": "ciudad",
-   "tema": "25N"
   },
   {
    "id": "comodoro-oca-retencion-salarios-adeudados",

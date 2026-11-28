@@ -1,103 +1,39 @@
 {
  "notas": [
   {
-   "id": "seros-nueva-sede-comodoro-torres",
-   "sec": "politica",
-   "ciudad": "Comodoro Rivadavia",
-   "tema": "Seros",
-   "titulo": "Torres inauguró en Comodoro la nueva sede de Seros y un albergue para pacientes derivados",
-   "bajada": "El complejo, de unos 4.000 metros cubiertos, tiene 25 consultorios, quirófano para cirugías ambulatorias y una residencia para pacientes y acompañantes.",
+   "id": "ley-ludopatia-apuestas-clubes",
+   "sec": "nacionales",
+   "ciudad": "Nacional",
+   "tema": "Ley de Ludopatía",
+   "titulo": "Ley de Ludopatía: qué cambia para los clubes y el fútbol argentino con la prohibición de publicidad de apuestas",
+   "bajada": "El Senado aprobó por unanimidad la ley que regula las apuestas en línea y prohíbe el patrocinio de casas de apuestas en el deporte. Falta la promulgación y la reglamentación.",
    "cuerpo": [
-    "El gobernador Ignacio Torres, junto al presidente del ISSyS, Miguel Arnaudo, inauguró en Comodoro Rivadavia la nueva sede de Seros y el Albergue de Derivados, en el marco del Plan Galina. La obra se hizo con recursos provinciales y demandó una inversión superior a los 20 millones de dólares.",
-    "El edificio reúne en un mismo predio la atención administrativa, los servicios médicos ambulatorios y el alojamiento transitorio para pacientes derivados y sus acompañantes, una respuesta pensada para quienes deben viajar a Comodoro por tratamientos prolongados o de mayor complejidad.",
-    "La estructura tiene siete niveles. La planta baja y los dos primeros pisos concentran recepción, atención al público y oficinas administrativas; del tercero al quinto funcionan los 25 consultorios médicos y odontológicos, un vacunatorio y el sector de cirugía ambulatoria.",
-    "Torres afirmó que los afiliados \"se merecían\" una sede como esta, con consultorios, quirófano y más de once habitaciones en la residencia para que los familiares puedan acompañar a los pacientes."
+    "El Senado aprobó por unanimidad la Ley de Prevención de la Ludopatía y Regulación de los Juegos de Azar y Apuestas en Línea. La norma prohíbe, entre otras cosas, el patrocinio y la publicidad de casas de apuestas en el deporte, y alcanza a clubes, canales de televisión que transmiten los partidos, la AFA, la Liga Profesional y la Selección Argentina.",
+    "Hoy diez clubes de la Liga Profesional tienen casas de apuestas o casinos como sponsors en sus camisetas: Boca, River, Racing, Independiente, San Lorenzo, Rosario Central, Newell's, Independiente Rivadavia, Huracán y Argentinos Juniors. La Selección, que no lleva sponsor en la camiseta, también tiene acuerdos comerciales con firmas del rubro.",
+    "La prohibición se extiende además a futbolistas, entrenadores, exjugadores, árbitros, periodistas deportivos e influencers, que no podrán promocionar esta actividad.",
+    "Una vez promulgada por el Poder Ejecutivo, que tiene 10 días hábiles para hacerlo, la ley entrará en vigencia y no podrán firmarse nuevos acuerdos de este tipo. El Gobierno tendrá luego 120 días para reglamentarla y definir qué ocurre con los contratos ya vigentes. En Brasil, una medida más estricta ya obligó a los clubes a jugar sin los logos de las casas de apuestas en el pecho."
    ],
-   "foto": "hospital",
-   "arte": "ciudad",
+   "foto": null,
    "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
-   "gacetilla": false,
-   "origen": "https://www.elchubut.com.ar/regionales/2026-11-26-20-40-0-torres-inauguro-nueva-sede-de-seros-en-comodoro-con-25-consultorios-quirofano-propio-y-residencia-para-pacientes"
-  },
-  {
-   "id": "coros-municipales-madryn-concierto-fin-de-anio",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "tema": "Coros Municipales",
-   "titulo": "Los Coros Municipales de Puerto Madryn cierran el año con un concierto solidario",
-   "bajada": "Será el domingo 29 de noviembre a las 21.30 en la parroquia Sagrado Corazón de Jesús, con entrada libre.",
-   "cuerpo": [
-    "La Subsecretaría de Cultura de Puerto Madryn invita al Concierto de Fin de Año de los Coros Municipales, que reunirá a las tres agrupaciones en una noche de música, encuentro y solidaridad.",
-    "Se presentarán el Coro Infantil, dirigido por la licenciada Emilia Robles; el Coro de Jóvenes, a cargo de la licenciada Fabiana Solana, y el Coro Estable, con el profesor Diego Lacunza. El encuentro será en la parroquia Sagrado Corazón de Jesús, en Belgrano 292.",
-    "La entrada es libre y gratuita, aunque se pide a quienes asistan colaborar con elementos de higiene personal, que se destinarán a Hogares de Cristo."
-   ],
-   "foto": "musica",
-   "arte": "escenario",
-   "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
-   "origen": "https://www.diariojornada.com.ar/427839/espectaculos/los_coros_municipales_cerraran_el_ano"
-  },
-  {
-   "id": "musica-al-paso-costanera-madryn",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "tema": "Semana de la Música",
-   "titulo": "\"Música al paso\" llenó de música la costanera de Puerto Madryn",
-   "bajada": "La propuesta gratuita armó nueve estaciones musicales en un recorrido de 3,5 kilómetros, del Playón Recreativo al Parador de la Bajada 9.",
-   "cuerpo": [
-    "Puerto Madryn vivió el lunes 23 de noviembre una nueva edición de \"Música al paso\", dentro de la Semana de la Música. Entre las 17.30 y las 23.30, distintos puntos de la costanera funcionaron como escenarios al aire libre con artistas de la ciudad.",
-    "El público pudo recorrer caminando, trotando o en bicicleta las nueve estaciones, con estilos que fueron de la percusión y los ritmos brasileños al folklore, la música coral, el groove y la electrónica.",
-    "Participaron Volcán Activo, Matías Rodríguez, el Coro Estable Municipal dirigido por Diego Lacunza, la Orquesta Yayau, Groovefela y Samba Na Praia, junto a los DJ Pich, Doble Aa, Brian Kuhn y Nolbert."
-   ],
-   "foto": "musica",
-   "arte": "escenario",
-   "foto_archivo": "auto/fotos_candidatas/cand-3.jpg",
-   "origen": "https://www.diariojornada.com.ar/427854/espectaculos/la_costanera_tuvo_una_jornada_unica_con_musica_al_paso"
-  },
-  {
-   "id": "yoel-hernandez-republica-folklore",
-   "sec": "ultimas",
-   "ciudad": "El Maitén",
-   "tema": "Música",
-   "titulo": "El maitenense Yoel Hernández tocó en el República Folklore ante unas 70.000 personas",
-   "bajada": "El artista participó del festival que encabeza Soledad Pastorutti, el 21 y 22 de noviembre en el Parque de la Ciudad, en Buenos Aires.",
-   "cuerpo": [
-    "El músico de El Maitén Yoel Hernández se presentó en el República Folklore, realizado el 21 y 22 de noviembre en el Parque de la Ciudad, en Villa Soldati. El encuentro reunió a unas 70.000 personas, 35.000 por jornada.",
-    "El sábado 21 actuó en La Pulpeña, un sector con formato de peña y guitarreada, donde compartió bloque con los payadores Gaboto-Tokar e invitó a escena a Miguelito Ibáñez. Al día siguiente integró la programación central, en una grilla con Soledad Pastorutti, Abel Pintos y Cazzu.",
-    "Llegó al festival luego de estrenar su chamamé \"La lluvia en el fuego\" y de cerrar en Chubut su gira \"Uniendo Pueblos\", que lo llevó a lugares adonde no suelen ir artistas reconocidos."
-   ],
-   "foto": "folclore",
-   "arte": "escenario",
-   "foto_archivo": "auto/fotos_candidatas/cand-4.jpg",
-   "origen": "https://www.diariojornada.com.ar/427858/espectaculos/yoel_hernandez_presente_y_futuro_de_la_musica_patagonica"
-  },
-  {
-   "id": "my-way-musical-sinatra-puerto-madryn",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "tema": "Teatro",
-   "titulo": "\"My Way\", el musical sobre Frank Sinatra, se presenta este sábado en Puerto Madryn",
-   "bajada": "Más de 30 artistas de FAND participan del espectáculo dirigido por Nelson Coccalotto, en el Cine Teatro Auditorium a las 22.",
-   "cuerpo": [
-    "La vida de Frank Sinatra y sus grandes canciones llegan al escenario del Cine Teatro Auditorium con \"My Way\", un musical que recorre la historia del artista desde sus comienzos hasta sus últimos años. La función es este sábado 28 de noviembre, a las 22.",
-    "La obra fue escrita y dirigida por Nelson Coccalotto y reúne a más de 30 artistas de FAND, entre cantantes líricos, bailarines y actores. El elenco lo encabezan Román Coccalotto, distinguido con el Premio María Callas, y Anabella Carnevali, junto a Candela Ruiz, Sofía Rabolli, Salvador Antonucci Maspoli y Camilo Mendoza.",
-    "La puesta dura alrededor de una hora y media y combina canto en vivo, actuaciones, coreografías, iluminación y cambios escenográficos. Entre los personajes aparecen Sammy Davis Jr., Dean Martin, Ava Gardner, Marilyn Monroe y John F. Kennedy."
-   ],
-   "foto": "teatro",
-   "arte": "escenario",
-   "origen": "https://canal12web.com/my-way-llega-a-puerto-madryn-con-un-musical-que-recorre-la-vida-de-frank-sinatra/"
+   "arte": "cancha",
+   "origen": "https://www.diariojornada.com.ar/427864/deportes/se_aprobo_la_ley_de_ludopatia_como_impacta_en_boca_river_y_mas_clubes"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427860/politica/pj_chubut_hubo_debate_fraterno_pero_la_unidad_debe_esperar",
-  "https://www.elchubut.com.ar/puerto-madryn/2026-11-26-14-42-0-fue-detenido-el-segundo-sospechoso-por-el-ataque-a-un-hombre-con-arma-blanca",
-  "https://www.elchubut.com.ar/puerto-madryn/2026-11-26-14-41-0-detuvieron-a-un-joven-acusado-de-agredir-a-su-abuela",
-  "https://www.elchubut.com.ar/policiales/2026-11-26-12-45-0-comodoro-detuvieron-a-un-hombre-por-causar-danos-en-la-casa-de-su-expareja",
-  "https://canal12web.com/la-cosmovision-andina-llega-a-puerto-madryn-de-la-mano-de-elena-martinez-quispe/",
-  "https://canal12web.com/tras-varios-dias-profugo-detuvieron-al-acusado-por-el-homicidio-de-rodrigo-colihuinca/",
-  "https://canal12web.com/argentina-goleo-a-bahamas-y-quedo-a-un-paso-de-clasificarse-al-mundial-de-qatar-2027/",
-  "https://cholilaonline.ar/2026/11/aumentos-diciembre-colectivos-subte-alquileres-prepagas.html",
-  "https://cholilaonline.ar/2026/11/firma-investigada-tapia-toviggino-compro-otra-quinta-pilar-villa-rosa.html",
-  "https://cholilaonline.ar/2026/11/santa-cruz-nuevo-codigo-electoral-2027-boleta-unica-ficha-limpia-paso.html",
-  "https://cholilaonline.ar/2026/11/reforma-biocombustibles-extraordinarias-diciembre-presupuesto-2027.html"
+  "https://www.diariojornada.com.ar/427853/deportes/el_aurinegro_busca_dar_vuelta_la_historia_frente_al_lobo_jujeno",
+  "https://www.diariojornada.com.ar/427863/deportes/colon_y_tristan_suarez_se_metieron_en_las_semis",
+  "https://www.diariojornada.com.ar/427862/deportes/atlanta_perdio_con_bolivar_pero_sigue_en_carrera_en_el_reducido",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-21-6-0-torres-destaco-la-recuperacion-de-las-areas-abandonadas-que-dejo-ypf-y-el-regreso-de-las-perforaciones-y-las-inversiones",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-21-5-0-avila-mientras-yo-sea-secretario-general-del-sindicato-ypf-no-vuelve-mas-a-comodoro",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-21-4-0-el-concejo-deliberante-de-trelew-aprobo-la-ordenanza-tarifaria-2027",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-21-2-0-jubilados-de-provincia-cobran-el-miercoles-y-los-activos-el-jueves",
+  "https://canal12web.com/gran-incendio-de-pastizales-en-una-chacra-cercana-a-dolavon-las-llamas-amenazaron-un-campo-lindero/",
+  "https://canal12web.com/el-clima-en-chubut-este-viernes-calor-viento-y-cielo-parcialmente-nublado/",
+  "https://canal12web.com/el-regional-de-clubes-sub-14-se-juega-en-el-valle-y-este-viernes-tendra-una-intensa-jornada-de-hockey/",
+  "https://canal12web.com/conmocion-en-el-futbol-murio-ingvar-jonsson-el-arquero-de-islandia-que-habia-sido-homenajeado-antes-de-enfrentar-a-argentina/",
+  "https://cholilaonline.ar/2026/11/franco-colapinto-formula-1-dias-horarios-gran-premio-qatar.html",
+  "https://cholilaonline.ar/2026/11/certificado-mipyme-cooperativas-media-sancion-diputados-emergencia-pyme-criticas-gobierno.html",
+  "https://cholilaonline.ar/2026/11/gobierno-santa-cruz-administrara-estancias-lazaro-baez-orden-judicial.html",
+  "https://cholilaonline.ar/2026/11/juicio-abreviado-penas-dos-hombres-grave-ataque-comodoro-rivadavia.html"
  ]
 }
