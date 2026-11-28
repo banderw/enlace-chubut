@@ -251,16 +251,20 @@
    "fecha": "2026-11-28T10:07:03-03:00",
    "sec": "ultimas",
    "ciudad": "Provincia",
-   "titulo": "Casi 3 mil chicos recibieron anteojos en Chubut con el programa “Ver para Ser Libres”",
-   "bajada": "El operativo federal cerró con 3.324 controles oftalmológicos y 2.943 anteojos entregados a niños y adolescentes de entre 6 y 17 años.",
+   "titulo": "Casi 3 mil chicos y adolescentes de Chubut recibieron anteojos con el programa “Ver para Ser Libres”",
+   "bajada": "El operativo cerró este viernes con 3.324 controles oftalmológicos y 2.943 anteojos entregados a estudiantes de entre 6 y 17 años en ocho localidades de la provincia.",
    "cuerpo": [
-    "Entre el 3 y el 27 de noviembre, dos unidades móviles con tecnología oftalmológica y laboratorio óptico recorrieron ocho localidades de la provincia. El programa buscó garantizar el acceso a la salud visual de chicos y adolescentes de 6 a 17 años.",
-    "El operativo se hizo de forma articulada entre el Gobierno del Chubut, a través de los ministerios de Desarrollo Humano y de Educación y la Secretaría de Salud, el Ministerio de Capital Humano de la Nación y los municipios participantes.",
-    "Una de las características del programa es que todo el circuito se completa en el mismo lugar: la evaluación, la graduación y la fabricación y entrega de los anteojos durante la misma jornada. Así se busca detectar a tiempo problemas de visión que afecten el aprendizaje.",
-    "El recorrido empezó el 3 de noviembre en Río Senguer y Comodoro Rivadavia, siguió por Gobernador Costa, Trelew, Trevelin y Rawson, y terminó en Epuyén y Puerto Madryn."
+    "Con 3.324 controles oftalmológicos y 2.943 anteojos entregados, terminó este viernes en Chubut el operativo del programa federal “Ver para Ser Libres”, pensado para garantizar el acceso a la salud visual de chicos y adolescentes de 6 a 17 años, mejorar sus condiciones de aprendizaje y achicar las desigualdades en la atención oftalmológica.",
+    "Durante cuatro semanas, entre el 3 y el 27 de noviembre, dos unidades móviles equipadas con tecnología oftalmológica y laboratorio óptico recorrieron ocho localidades chubutenses, atendieron a los estudiantes y les entregaron anteojos a quienes los necesitaban.",
+    "El operativo se hizo de forma conjunta entre el Gobierno del Chubut, a través del Ministerio de Desarrollo Humano, el Ministerio de Educación y la Secretaría de Salud; el Ministerio de Capital Humano de la Nación, por medio de la Secretaría Nacional de Niñez, Adolescencia y Familia; y los municipios participantes.",
+    "Una de las claves del programa es que la atención se completa en el mismo lugar: la evaluación oftalmológica, la graduación, la fabricación y la entrega de los anteojos se hacen durante la misma jornada. Así se detectan a tiempo problemas de visión que pueden afectar el rendimiento escolar, sin que la distancia o la falta de especialistas sean una barrera.",
+    "El despliegue también llegó a chicos de pequeñas localidades y parajes cercanos a los centros donde se instalaron los móviles.",
+    "La primera semana, uno de los móviles atendió en el Gimnasio Municipal de Río Senguer, del 3 al 6 de noviembre, mientras el otro trabajó del 4 al 7 en el Hospital Diadema de Comodoro Rivadavia. Después los equipos pasaron por los gimnasios municipales de Gobernador Costa y Trelew.",
+    "Entre el 16 y el 20 de noviembre la atención siguió en Trevelin, Trelew y Rawson, y la última semana el operativo cerró en el Centro Cultural de Epuyén y en la Escuela de Pesca de Puerto Madryn."
    ],
    "arte": "escuela",
-   "tema": "Salud visual"
+   "tema": "Salud visual",
+   "lugar": "lead"
   },
   {
    "id": "deportivo-madryn-gimnasia-jujuy-reducido",
@@ -293,8 +297,7 @@
     "Entre sus planteos, pidió que Puerto Madryn tenga una representación efectiva en la futura Legislatura, junto con Trelew, Rawson, la Cordillera y el resto de las regiones."
    ],
    "arte": "ciudad",
-   "tema": "Elecciones 2027",
-   "lugar": "lead"
+   "tema": "Elecciones 2027"
   },
   {
    "id": "esquel-codigo-planeamiento-urbano",
