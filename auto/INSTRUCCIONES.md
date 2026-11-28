@@ -13,7 +13,8 @@ Python: `python3 -X utf8`. No hace falta instalar nada: si Pillow no anda, `agre
    Si dice `0 candidatas nuevas`, terminá ahí: no publiques nada e informá "Sin novedades".
    Si dice que no pudo leer los diarios por un error de red o de proxy en todas las fuentes, terminá e informá el error textual (en ese caso no hagas commit: si `git status` muestra cambios solo en `auto/vistas.json`, descartalos con `git checkout -- auto/vistas.json`).
 
-2. **Leer** `auto/candidatas.json`, los títulos y temas de las últimas 40 notas de `data/notas.json` (para no repetir) y `banco-fotos/indice.json` (temas de fotos).
+2. **Leer** `auto/candidatas.json`, los títulos y temas de **todas** las notas de `data/notas.json` (son unas 90; para no repetir), por ejemplo con `python3 -X utf8 -c "import json;[print(n['fecha'][:16],n['titulo']) for n in json.load(open('data/notas.json'))['notas']]"`, y `banco-fotos/indice.json` (temas de fotos).
+   **Antes de escribir cada nota, comprobá que el mismo hecho no esté ya publicado** (aunque tenga otro título o venga de otro medio: por ejemplo "Chubut paga los sueldos el 1 y 2 de diciembre" y "El Gobierno pagará los sueldos de noviembre" son el mismo hecho). Si ya está, va a `descartadas`.
 
 3. **Elegir qué publicar** (como máximo 6 por hora). Se publica solo si:
    - es una noticia **de Chubut**: hechos en la provincia o sus localidades, su gobierno, sus municipios, sus instituciones o sus clubes y deportistas;
