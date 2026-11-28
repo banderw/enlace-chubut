@@ -77,6 +77,38 @@
  ],
  "notas": [
   {
+   "id": "san-pablo-de-valdes-paneles-solares",
+   "fecha": "2026-11-28T04:08:20-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "La reserva San Pablo de Valdés ya funciona con energía solar",
+   "bajada": "Fundación Vida Silvestre Argentina instaló un sistema fotovoltaico en su reserva de Península Valdés para sostener las tareas de conservación, investigación y monitoreo.",
+   "cuerpo": [
+    "La Fundación Vida Silvestre Argentina anunció que su Reserva San Pablo de Valdés, en Península Valdés, cuenta desde ahora con un sistema de energía solar que garantiza un suministro eléctrico confiable para el trabajo que se hace en el área protegida.",
+    "La reserva abarca 7.360 hectáreas y desarrolla acciones de restauración ambiental, monitoreo científico y formación de guardaparques. La nueva instalación mejorará las condiciones de trabajo de guardaparques, investigadores y equipos técnicos.",
+    "«Contar con energía solar confiable nos permite fortalecer las tareas de conservación y monitoreo», señaló Sebastián Fermani, director de Conservación de la Fundación. La obra se hizo con el apoyo de WWF-Países Bajos, que acompaña la reserva desde sus inicios.",
+    "El proyecto se enmarca en una estrategia más amplia de incorporar energías renovables en los espacios de trabajo de la organización, que ya tiene paneles en sus oficinas de Buenos Aires."
+   ],
+   "arte": "mar",
+   "tema": "Península Valdés"
+  },
+  {
+   "id": "los-alerces-alambrados-huemul-puerto-cafe",
+   "fecha": "2026-11-28T04:08:19-03:00",
+   "sec": "ultimas",
+   "ciudad": "Esquel",
+   "titulo": "Los Alerces reconstruye alambrados afectados por el incendio con apoyo del Regimiento de Esquel",
+   "bajada": "Los trabajos en la zona norte del Parque Nacional buscan proteger sectores sensibles para la conservación del huemul, en el área del Cerro Riscoso.",
+   "cuerpo": [
+    "El Parque Nacional Los Alerces avanza con la reconstrucción de alambrados estratégicos en la zona norte del área protegida, que quedaron dañados por el incendio «Puerto Café» de 2025-2026.",
+    "Las tareas cuentan con el apoyo logístico del Regimiento de Caballería de Exploración 3 «Coraceros General Pacheco», de Esquel, que colaboró con el traslado de los materiales hacia sectores de difícil acceso.",
+    "El objetivo es resguardar zonas clave para el huemul en el Cerro Riscoso. Desde la Administración del Parque destacaron que la articulación entre instituciones es fundamental para seguir cuidando y recuperando el área.",
+    "La iniciativa forma parte de un proyecto desarrollado en el marco del Programa de Apoyo para el Desarrollo de Actividades Sustentables (PADAS)."
+   ],
+   "arte": "cordillera",
+   "tema": "Los Alerces"
+  },
+  {
    "id": "iset-815-charlas-abiertas-esquel-trevelin",
    "fecha": "2026-11-28T03:06:38-03:00",
    "sec": "ultimas",
@@ -1304,38 +1336,6 @@
    ],
    "arte": "ciudad",
    "tema": "Elecciones 2027"
-  },
-  {
-   "id": "bowen-reunion-socialismo-autentico",
-   "fecha": "2026-11-27T15:08:45-03:00",
-   "sec": "politica",
-   "ciudad": "Dolavon",
-   "titulo": "Bowen se reunió con el Socialismo Auténtico en su armado rumbo a la Gobernación",
-   "bajada": "El intendente de Dolavon dialogó con referentes del PSA–Unidad Socialista sobre una construcción política provincial de cara a las elecciones del 21 de marzo de 2027.",
-   "cuerpo": [
-    "El intendente de Dolavon y precandidato a gobernador, Dante Bowen, mantuvo una reunión con referentes del Partido Socialista Auténtico–Unidad Socialista, en el marco de su armado político para las elecciones.",
-    "Según indicaron desde su sector, hubo coincidencias sobre la necesidad de conformar una alternativa \"federal y con identidad chubutense\". Bowen ratificó así su voluntad de competir por la Gobernación el 21 de marzo de 2027.",
-    "En el encuentro se plantearon cuestionamientos al rumbo del Gobierno nacional de Javier Milei y a la gestión provincial de Ignacio Torres, en especial sobre el manejo de los recursos y el desarrollo de la provincia.",
-    "Ambos espacios acordaron mantener abiertas las conversaciones durante las próximas semanas, mientras avanzan las definiciones políticas."
-   ],
-   "arte": "valle",
-   "tema": "Elecciones 2027"
-  },
-  {
-   "id": "rawson-fiesta-hamburguesa-cuarta-edicion",
-   "fecha": "2026-11-27T15:08:44-03:00",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "titulo": "Rawson prepara la 4ª Fiesta de la Hamburguesa con 200 feriantes y espectáculos",
-   "bajada": "Cerró la inscripción general y solo quedan cupos para food trucks. La jornada arranca a las 18.",
-   "cuerpo": [
-    "El secretario de Cultura de Rawson, Daniel Tamame, confirmó que cerró la inscripción general de la 4ª Fiesta de la Hamburguesa tras cumplirse las metas: se anotaron 150 personas por el formulario web y 50 miembros de la Feria de la Costa Municipal. \"Tenemos ya 200 feriantes, artesanos y emprendedores que van a decir presente\", celebró.",
-    "Para food trucks el registro seguirá abierto la semana próxima, porque quedan cupos. Se puede gestionar en la Dirección de Comercio o de manera online.",
-    "La jornada empezará a las 18 con números artísticos y la apertura a cargo de escuelas. A las 19 subirá Baldo Circo con un show para chicos, con guiños a las fiestas de fin de año y la visita de Papá Noel. Desde las 20, el escenario principal tendrá música en vivo y espectáculos.",
-    "En paralelo, Cultura abrió un formulario de registro para artistas de distintos géneros con el fin de armar un banco de datos para la programación del verano en Playa Unión."
-   ],
-   "arte": "escenario",
-   "tema": "Agenda Rawson"
   },
   {
    "id": "torres-canadon-perdido-recuperacion-terciaria",

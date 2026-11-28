@@ -1,69 +1,51 @@
 {
  "notas": [
   {
-   "id": "trevelin-libro-fabio-arce-historias-valle",
-   "sec": "ultimas",
-   "ciudad": "Trevelin",
-   "tema": "Cultura",
-   "titulo": "Fabio Arce presentó en Trevelin su libro sobre las historias del Valle 16 de Octubre",
-   "bajada": "El docente e investigador presentó \"Trevelin, historias del Valle 16 de Octubre\" en la sala principal del Centro Cultural, ante un público numeroso.",
-   "cuerpo": [
-    "El docente e investigador Fabio Arce presentó su libro \"Trevelin, historias del Valle 16 de Octubre\" en el Centro Cultural de la localidad, cuya sala principal se llenó de vecinos. El autor explicó por qué decidió escribir y publicar la obra, cómo fue la metodología de trabajo y cuáles son las historias más destacadas que encontró en la investigación.",
-    "La apertura estuvo a cargo del docente Matías Jones, que colaboró con Arce en el trabajo. Antes, la concejala Diana Sbil Maripan leyó la declaración de interés que había aprobado el Concejo Deliberante.",
-    "\"El libro cuenta parte de nuestra historia desde los personajes que fueron muy importantes por los oficios o actividades productivas que desarrollaban y que casi nunca sus nombres aparecen en los libros\", sintetizó Arce.",
-    "Participaron el intendente Héctor Ingram y varios funcionarios municipales. También estuvo el escritor e historiador Jorge Fiori, que felicitó al autor e invitó a la comunidad a seguir generando trabajos que recopilen la historia de Trevelin y sus parajes."
-   ],
-   "foto": "libros",
-   "arte": "valle",
-   "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
-   "origen": "https://www.diariojornada.com.ar/427655/espectaculos/el_docente_e_investigador_fabio_arce_presento_su_libro"
-  },
-  {
-   "id": "animatre-14-edicion-balance-trelew",
-   "sec": "ultimas",
-   "ciudad": "Trelew",
-   "tema": "AnimaTre",
-   "titulo": "AnimaTre cerró su 14ª edición en Trelew con las tres jornadas a sala llena",
-   "bajada": "El Festival Internacional de Cine Animado proyectó 34 producciones de distintos países en el auditorio del Museo Paleontológico Egidio Feruglio.",
-   "cuerpo": [
-    "El domingo 22 de noviembre terminó la 14ª edición del AnimaTre, el Festival Internacional de Cine Animado de Trelew, con un balance muy positivo. Durante las tres jornadas, el auditorio del Museo Paleontológico Egidio Feruglio (MEF) estuvo lleno, y los organizadores señalaron que la convocatoria y la calidad de la programación superaron las expectativas.",
-    "Por segundo año consecutivo el festival se realizó en el MEF, en un trabajo conjunto entre la Municipalidad de Trelew y el museo. Se vieron 34 producciones de Argentina, América Latina, Europa y Estados Unidos, entre ellas \"Gilbert\", ganador del Premio Goya 2026 al Mejor Cortometraje de Animación, y \"Hugs\", seleccionado para el Festival de Sundance.",
-    "Una de las propuestas especiales fue la retrospectiva dedicada a la animadora Ada Güvenir, de origen turco y radicada en Bélgica, de quien se proyectaron tres cortometrajes.",
-    "La programación mostró técnicas muy variadas: animación tradicional, stop motion, pintura animada, recortes, arena y animación digital."
-   ],
-   "foto": "cine",
-   "arte": "escenario",
-   "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
-   "origen": "https://www.diariojornada.com.ar/427581/espectaculos/animatre_completo_su_14_edicion_con_tres_jornadas_a_sala_llena"
-  },
-  {
-   "id": "iset-815-charlas-abiertas-esquel-trevelin",
+   "id": "los-alerces-alambrados-huemul-puerto-cafe",
    "sec": "ultimas",
    "ciudad": "Esquel",
-   "tema": "Educación",
-   "titulo": "El ISET 815 hará charlas abiertas en Esquel y Trevelin para presentar sus tecnicaturas 2027",
-   "bajada": "Los encuentros serán el lunes 30 de noviembre y el martes 1 de diciembre. Las preinscripciones están abiertas hasta el 12 de febrero.",
+   "tema": "Los Alerces",
+   "titulo": "Los Alerces reconstruye alambrados afectados por el incendio con apoyo del Regimiento de Esquel",
+   "bajada": "Los trabajos en la zona norte del Parque Nacional buscan proteger sectores sensibles para la conservación del huemul, en el área del Cerro Riscoso.",
    "cuerpo": [
-    "El Instituto Superior de Educación Técnica (ISET) Nº 815 realizará charlas informativas abiertas en Esquel y Trevelin para dar a conocer sus carreras públicas y gratuitas del ciclo lectivo 2027. Los equipos docentes explicarán los planes de estudio y la salida laboral de las cinco tecnicaturas superiores que dicta la institución.",
-    "En Esquel, las charlas serán en la Escuela Nº 210 (Avenida Holdich 1051). El lunes 30 a las 18 se presentará Producción de Multimedios y a las 19, en simultáneo, Turismo y Construcción en Maderas. El martes 1 de diciembre a las 19 será el turno de Gestión de la Producción Agropecuaria.",
-    "En Trevelin, el lunes 30 a las 19, en la Escuela Nº 166 (AP Iwan 833), se hablará de la Tecnicatura en Producción Industrial de Alimentos.",
-    "Desde el instituto recordaron que las preinscripciones para el próximo año ya están habilitadas y seguirán abiertas hasta el 12 de febrero, a través de la plataforma DINO del Ministerio de Educación del Chubut."
+    "El Parque Nacional Los Alerces avanza con la reconstrucción de alambrados estratégicos en la zona norte del área protegida, que quedaron dañados por el incendio «Puerto Café» de 2025-2026.",
+    "Las tareas cuentan con el apoyo logístico del Regimiento de Caballería de Exploración 3 «Coraceros General Pacheco», de Esquel, que colaboró con el traslado de los materiales hacia sectores de difícil acceso.",
+    "El objetivo es resguardar zonas clave para el huemul en el Cerro Riscoso. Desde la Administración del Parque destacaron que la articulación entre instituciones es fundamental para seguir cuidando y recuperando el área.",
+    "La iniciativa forma parte de un proyecto desarrollado en el marco del Programa de Apoyo para el Desarrollo de Actividades Sustentables (PADAS)."
    ],
-   "foto": "escuela",
-   "arte": "escuela",
+   "foto": "bosque",
+   "arte": "cordillera",
    "foto_archivo": "auto/fotos_candidatas/cand-3.jpg",
-   "origen": "https://www.elchubut.com.ar/esquel/2026-11-27-20-42-0-iset-815-realizara-ciclo-de-charlas-abiertas-para-presentar-tecnicaturas"
+   "origen": "https://www.elchubut.com.ar/esquel/2026-11-27-20-41-0-los-alerces-con-apoyo-del-regimiento-de-esquel-reconstruyen-zona-afectada-por-incendio-puerto-cafe"
+  },
+  {
+   "id": "san-pablo-de-valdes-paneles-solares",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "tema": "Península Valdés",
+   "titulo": "La reserva San Pablo de Valdés ya funciona con energía solar",
+   "bajada": "Fundación Vida Silvestre Argentina instaló un sistema fotovoltaico en su reserva de Península Valdés para sostener las tareas de conservación, investigación y monitoreo.",
+   "cuerpo": [
+    "La Fundación Vida Silvestre Argentina anunció que su Reserva San Pablo de Valdés, en Península Valdés, cuenta desde ahora con un sistema de energía solar que garantiza un suministro eléctrico confiable para el trabajo que se hace en el área protegida.",
+    "La reserva abarca 7.360 hectáreas y desarrolla acciones de restauración ambiental, monitoreo científico y formación de guardaparques. La nueva instalación mejorará las condiciones de trabajo de guardaparques, investigadores y equipos técnicos.",
+    "«Contar con energía solar confiable nos permite fortalecer las tareas de conservación y monitoreo», señaló Sebastián Fermani, director de Conservación de la Fundación. La obra se hizo con el apoyo de WWF-Países Bajos, que acompaña la reserva desde sus inicios.",
+    "El proyecto se enmarca en una estrategia más amplia de incorporar energías renovables en los espacios de trabajo de la organización, que ya tiene paneles en sus oficinas de Buenos Aires."
+   ],
+   "foto": "lobos-marinos",
+   "arte": "mar",
+   "foto_archivo": "auto/fotos_candidatas/cand-9.jpg",
+   "origen": "https://www.diariojornada.com.ar/427552/sapiens/instalan_paneles_solares_en_la_reserva_san_pablo_de_valdes"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427633/espectaculos/tiago_pzk_y_la_joaqui_hicieron_dedo_en_la_ruta_cerca_de_esquel",
-  "https://www.diariojornada.com.ar/427603/espectaculos/se_cumplen_35_anos_de_la_muerte_de_freddie_mercury",
-  "https://www.elchubut.com.ar/regionales/2026-11-27-20-47-0-egresados-de-la-751-festejaron-en-el-chubut",
-  "https://www.elchubut.com.ar/regionales/2026-11-27-20-45-0-nuevos-tecnicos-en-entrenamiento-deportivo-celebraron-en-el-chubut",
-  "https://www.elchubut.com.ar/rawson/2026-11-27-20-44-0-el-paseo-de-la-mujer-en-playa-union-sumo-nuevo-banco-rojo-y-una-intervencion-de-zapatos-rojos",
-  "https://cholilaonline.ar/2026/11/como-estara-tiempo-sabado-comodoro-minima-13-maxima-25-viento-50.html",
-  "https://cholilaonline.ar/2026/11/informe-bcra-compra-dolares-bancos-3000-millones-octubre-turismo.html",
-  "https://cholilaonline.ar/2026/11/elecciones-espana-llamados-voto-masivo-referencias-argentina-cerraron-campanas.html",
-  "https://cholilaonline.ar/2026/11/reforma-electoral-senado-como-votaron-chubut-patagonia-suspension-paso.html"
+  "https://www.diariojornada.com.ar/427580/espectaculos/sorpresas_ausencias_y_gran_show_en_el_salon_de_la_fama_del_rock_2026",
+  "https://www.diariojornada.com.ar/427859/sapiens/el_inta_transforma_los_desechos_de_cerdo_en_un_bioproducto",
+  "https://www.diariojornada.com.ar/427612/sapiens/china_lanzara_la_nave_espacial_tripulada_shenzhou24",
+  "https://www.elchubut.com.ar/policiales/2026-11-27-20-40-0-liberan-al-bioquimico-acusado-de-mantener-cautiva-a-su-familia",
+  "https://www.elchubut.com.ar/policiales/2026-11-27-20-40-0-recapturaron-a-brian-emanuel-munoz-huenchullan-profugo-por-el-homicidio-de-rodrigo-colihuinca",
+  "https://www.elchubut.com.ar/policiales/2026-11-27-20-39-0-en-una-confusa-gresca-callejera-hieren-con-cuchillo-a-un-hombre",
+  "https://cholilaonline.ar/2026/11/stj-chubut-ratifico-condena-ricardo-la-regina-pinguinos-punta-clara.html",
+  "https://cholilaonline.ar/2026/11/alerta-apagones-el-gobierno-lanzo-un-plan-clave-para-sumar-energia.html",
+  "https://cholilaonline.ar/2026/11/estudiantes-palmeiras-libertadores-ranking-mundial-clubes.html"
  ]
 }
