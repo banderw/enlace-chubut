@@ -1,90 +1,51 @@
 {
  "notas": [
   {
-   "id": "ruta-40-bacheo-esquel-epuyen",
+   "id": "ver-para-ser-libres-anteojos-chubut",
    "sec": "ultimas",
-   "ciudad": "Esquel",
-   "tema": "Ruta 40",
-   "titulo": "Vialidad Nacional repara con asfalto caliente la Ruta 40 entre Esquel y Epuyén",
-   "bajada": "Una cuadrilla trabajó en el tramo entre los puentes de los arroyos Lepá y Leleque y seguirá con las tareas la semana próxima.",
+   "ciudad": "Provincia",
+   "tema": "Salud visual",
+   "titulo": "Casi 3 mil chicos recibieron anteojos en Chubut con el programa “Ver para Ser Libres”",
+   "bajada": "El operativo federal cerró con 3.324 controles oftalmológicos y 2.943 anteojos entregados a niños y adolescentes de entre 6 y 17 años.",
    "cuerpo": [
-    "Personal de Vialidad Nacional continuó este viernes con la reparación de la calzada de la Ruta Nacional 40, en el tramo que une Esquel con Epuyén. Los trabajos se concentraron entre los puentes de los arroyos Lepá y Leleque.",
-    "El bacheo se hizo con material asfáltico caliente sobre los sectores deteriorados, que luego fue compactado con un rodillo para completar la reparación y mejorar las condiciones de seguridad.",
-    "Desde el organismo anticiparon que las tareas continuarán durante la próxima semana en distintos puntos del tramo. Pidieron a los conductores circular con precaución, respetar la señalización y seguir las indicaciones de los banderilleros."
+    "Entre el 3 y el 27 de noviembre, dos unidades móviles con tecnología oftalmológica y laboratorio óptico recorrieron ocho localidades de la provincia. El programa buscó garantizar el acceso a la salud visual de chicos y adolescentes de 6 a 17 años.",
+    "El operativo se hizo de forma articulada entre el Gobierno del Chubut, a través de los ministerios de Desarrollo Humano y de Educación y la Secretaría de Salud, el Ministerio de Capital Humano de la Nación y los municipios participantes.",
+    "Una de las características del programa es que todo el circuito se completa en el mismo lugar: la evaluación, la graduación y la fabricación y entrega de los anteojos durante la misma jornada. Así se busca detectar a tiempo problemas de visión que afecten el aprendizaje.",
+    "El recorrido empezó el 3 de noviembre en Río Senguer y Comodoro Rivadavia, siguió por Gobernador Costa, Trelew, Trevelin y Rawson, y terminó en Epuyén y Puerto Madryn."
    ],
-   "foto": "ruta",
+   "foto": "escuela",
    "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
-   "arte": "ruta",
-   "origen": "https://www.elchubut.com.ar/regionales/2026-11-27-20-58-0-vialidad-nacional-realizo-trabajos-de-bacheo-en-ruta-40-entre-esquel-y-epuyen"
+   "arte": "escuela",
+   "origen": "https://www.diariojornada.com.ar/427872/politica/casi_3_mil_ninos_y_adolescentes_recibieron_anteojos_a_traves_del_programa_ver_para_ser_libres"
   },
   {
-   "id": "esquel-codigo-planeamiento-urbano",
-   "sec": "politica",
-   "ciudad": "Esquel",
-   "tema": "Planeamiento Esquel",
-   "titulo": "Taccetta envió al Concejo el proyecto para actualizar el Código de Planeamiento Urbano de Esquel",
-   "bajada": "La iniciativa busca adecuar las normas de crecimiento de la ciudad a las nuevas demandas habitacionales, productivas, turísticas y ambientales.",
-   "cuerpo": [
-    "El intendente de Esquel, Matías Taccetta, elevó al Concejo Deliberante un proyecto de ordenanza para actualizar de forma integral el Código de Planeamiento Urbano, vigente desde la Ordenanza 207/21.",
-    "La propuesta prevé nuevas herramientas para ordenar los loteos y las expansiones urbanas, fijar criterios para las actividades industriales y comerciales, y definir áreas de crecimiento turístico y recreativo. También busca mejorar la convivencia entre los distintos usos del suelo y evitar molestias en sectores residenciales.",
-    "Uno de los ejes es planificar el crecimiento según la disponibilidad de servicios y el cuidado de los recursos naturales: se incorporan estudios sobre captación de agua, drenajes, suelos, zonas inundables, mallines, laderas con riesgo y bosques nativos.",
-    "«Era un compromiso de nuestra gestión tener un código acorde a la proyección y planificación de la ciudad y pensando en las futuras generaciones», indicó Taccetta, que agradeció el aporte de las instituciones que participaron de la elaboración."
-   ],
-   "foto": null,
-   "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
-   "arte": "ciudad",
-   "origen": "https://www.elchubut.com.ar/esquel/2026-11-27-20-42-0-taccetta-envio-al-concejo-deliberante-el-proyecto-para-actualizar-y-modernizar-el-codigo-de-planeamiento-urbano"
-  },
-  {
-   "id": "catalan-baja-candidatura-apoya-luque",
-   "sec": "politica",
+   "id": "madryn-limpieza-presidente-peron-colonos-galeses",
+   "sec": "ultimas",
    "ciudad": "Puerto Madryn",
-   "tema": "Elecciones 2027",
-   "titulo": "Luis Catalán se baja de la candidatura a gobernador y respaldará a Juan Pablo Luque",
-   "bajada": "El dirigente justicialista dijo que da un paso al costado en favor de la unidad del peronismo provincial.",
+   "tema": "Limpieza barrial",
+   "titulo": "Puerto Madryn: la campaña de limpieza llega a Presidente Perón y Colonos Galeses",
+   "bajada": "El lunes será el turno del barrio Presidente Perón y el martes el de Colonos Galeses, con contenedores para residuos de gran tamaño.",
    "cuerpo": [
-    "Luis Catalán anunció que no competirá por la gobernación de Chubut dentro del Partido Justicialista y que acompañará a Juan Pablo Luque, con el objetivo de contribuir a la unidad del peronismo.",
-    "Explicó que el adelantamiento del calendario electoral cambió los tiempos previstos y abre una etapa de acuerdos. «Cuando se define el calendario electoral comienza una nueva etapa: el tiempo de la tregua, de la generosidad y de la unidad», afirmó.",
-    "Catalán contó que conversó con Luque y que hablaron de construir un espacio que contemple las distintas realidades territoriales, políticas y sociales de la provincia.",
-    "Entre sus planteos, pidió que Puerto Madryn tenga una representación efectiva en la futura Legislatura, junto con Trelew, Rawson, la Cordillera y el resto de las regiones."
+    "Los vecinos de Presidente Perón y Colonos Galeses tendrán una jornada en cada barrio para descartar residuos voluminosos. La Municipalidad recibirá chatarra, maderas, escombros, neumáticos y aparatos eléctricos o electrónicos en desuso.",
+    "Los contenedores se instalarán entre las 8 y las 10 de la mañana y se retirarán a medida que se llenen, por lo que el tiempo que permanezcan en cada cuadra dependerá de cuánto tarden en completarse."
    ],
-   "foto": null,
-   "foto_archivo": "auto/fotos_candidatas/cand-3.png",
+   "foto": "limpieza",
+   "foto_archivo": "auto/fotos_candidatas/cand-5.jpg",
    "arte": "ciudad",
-   "origen": "https://www.madrynahora.com/chubut/luis-catalan-se-bajo-de-la-candidatura-a-gobernador-y-respaldara-a-juan-pablo-luque/"
-  },
-  {
-   "id": "deportivo-madryn-gimnasia-jujuy-reducido",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "tema": "Deportivo Madryn",
-   "titulo": "Deportivo Madryn recibe a Gimnasia de Jujuy y busca revertir la serie del Reducido",
-   "bajada": "Juega este sábado a las 20 en el Abel Sastre, tras perder 1-0 en la ida, por un lugar en las semifinales de la Primera Nacional.",
-   "cuerpo": [
-    "Deportivo Madryn enfrenta este sábado, desde las 20 en el estadio Abel Sastre, a Gimnasia y Esgrima de Jujuy por la vuelta de los cuartos de final del Reducido de la Primera Nacional. El equipo chubutense viene de perder 1-0 en la ida.",
-    "El árbitro será Joaquín Gil, con Cristian Navarro y Diego Martín como asistentes y Lucas Cavallero como cuarto árbitro.",
-    "Si Madryn gana por un gol, la clasificación se definirá según el criterio de ventaja deportiva establecido para la instancia; si gana por dos o más, avanza directo. Si hay igualdad en puntos y diferencia de gol, pasará el mejor ubicado en la tabla general.",
-    "El ganador esperará en semifinales a Atlanta, mientras que Tristán Suárez y Colón ya definieron el otro cruce."
-   ],
-   "foto": "futbol",
-   "arte": "cancha",
-   "origen": "https://canal12web.com/deportivo-madryn-busca-dar-vuelta-la-serie-y-meterse-en-las-semifinales-del-reducido/"
+   "origen": "https://www.madrynahora.com/puerto-madryn/puerto-madryn-los-seis-puntos-donde-se-podran-dejar-escombros-neumaticos-y-electrodomesticos-en-desuso/"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427869/politica/el_estado_afronta_demandas_laborales_por_mas_de_67900_millones",
-  "https://www.diariojornada.com.ar/427866/politica/el_tribunal_del_mar_rechazo_el_pedido_argentino_para_frenar_la_explotacion_petrolera_en_malvinas",
-  "https://www.diariojornada.com.ar/427868/internacional/murieron_ocho_militares_al_estrellarse_un_helicoptero_en_peru",
-  "https://www.diariojornada.com.ar/427867/policiales/extraditaron_a_un_narcotraficante_vinculado_a_bebote_lvarez",
-  "https://www.elchubut.com.ar/regionales/2026-11-27-20-56-0-despedida-del-ano-escolar-en-el-instituto-maria-auxiliadora",
-  "https://www.elchubut.com.ar/rawson/2026-11-27-20-43-0-ader-mostro-su-capacidad-productiva",
-  "https://www.madrynahora.com/puerto-madryn/puerto-madryn-vacuna-casa-por-casa-en-villa-padilla-tras-detectar-un-murcielago-con-rabia/",
-  "https://canal12web.com/chubut-tendra-un-sabado-de-sol-y-temperaturas-cercanas-a-los-30c/",
-  "https://canal12web.com/chapecoense-a-diez-anos-de-una-de-las-tragedias-que-conmociono-al-futbol-mundial/",
-  "https://canal12web.com/river-visita-a-instituto-en-cordoba-con-la-clasificacion-a-semifinales-como-objetivo/",
-  "https://cholilaonline.ar/2026/11/jubilados-con-moratoria-en-diciembre-cuanto-cobran-anses.html",
-  "https://cholilaonline.ar/2026/11/bono-de-250000-en-diciembre-quienes-cobran-doble-deposito.html",
-  "https://cholilaonline.ar/2026/11/final-copa-libertadores-2026-estudiantes-palmeiras.html",
-  "https://cholilaonline.ar/2026/11/regional-sub-14-de-hockey-finalistas-trelew-gaiman.html"
+  "https://www.diariojornada.com.ar/427871/policiales/inauguro_su_local_y_lo_balearon_hay_tres_detenidos",
+  "https://www.diariojornada.com.ar/427870/internacional/denunciaron_a_vladimir_putin_en_la_justicia_argentina_por_crimenes_de_lesa_humanidad",
+  "https://www.elchubut.com.ar/nacionales/2026-11-28-9-9-0-malvinas-el-tribunal-del-mar-rechazo-el-pedido-argentino-para-frenar-la-explotacion-petrolera",
+  "https://www.elchubut.com.ar/historias/2026-11-28-9-33-0-homero-deconstruido-la-guerra-de-troya-a-la-manera-de-alessandro-baricco",
+  "https://www.elchubut.com.ar/deportes/2026-11-27-20-23-0-el-stick-patagonico-sub14-de-damas-entra-en-su-etapa-definitoria",
+  "https://www.elchubut.com.ar/deportes/2026-11-27-20-18-0-trelew-tiene-una-gran-jornada-para-disfrutar-de-la-night-run",
+  "https://www.madrynahora.com/puerto-madryn/puerto-madryn-una-foto-de-famularo-les-recordo-a-los-vecinos-como-vestian-a-sus-hijos/",
+  "https://canal12web.com/el-tribunal-del-mar-rechazo-el-pedido-argentino-para-frenar-la-explotacion-petrolera-de-sea-lion-en-malvinas/",
+  "https://canal12web.com/los-juicios-laborales-contra-el-estado-acumulan-reclamos-por-casi-68-000-millones/",
+  "https://canal12web.com/inter-miami-sufrio-una-eliminacion-agonica-cayo-ante-columbus-crew-y-se-despidio-de-la-mls/",
+  "https://canal12web.com/independiente-quiere-dar-el-golpe-ante-velez-y-meterse-en-semifinales/"
  ]
 }

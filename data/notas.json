@@ -77,6 +77,36 @@
  ],
  "notas": [
   {
+   "id": "madryn-limpieza-presidente-peron-colonos-galeses",
+   "fecha": "2026-11-28T10:07:04-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn: la campaña de limpieza llega a Presidente Perón y Colonos Galeses",
+   "bajada": "El lunes será el turno del barrio Presidente Perón y el martes el de Colonos Galeses, con contenedores para residuos de gran tamaño.",
+   "cuerpo": [
+    "Los vecinos de Presidente Perón y Colonos Galeses tendrán una jornada en cada barrio para descartar residuos voluminosos. La Municipalidad recibirá chatarra, maderas, escombros, neumáticos y aparatos eléctricos o electrónicos en desuso.",
+    "Los contenedores se instalarán entre las 8 y las 10 de la mañana y se retirarán a medida que se llenen, por lo que el tiempo que permanezcan en cada cuadra dependerá de cuánto tarden en completarse."
+   ],
+   "arte": "ciudad",
+   "tema": "Limpieza barrial"
+  },
+  {
+   "id": "ver-para-ser-libres-anteojos-chubut",
+   "fecha": "2026-11-28T10:07:03-03:00",
+   "sec": "ultimas",
+   "ciudad": "Provincia",
+   "titulo": "Casi 3 mil chicos recibieron anteojos en Chubut con el programa “Ver para Ser Libres”",
+   "bajada": "El operativo federal cerró con 3.324 controles oftalmológicos y 2.943 anteojos entregados a niños y adolescentes de entre 6 y 17 años.",
+   "cuerpo": [
+    "Entre el 3 y el 27 de noviembre, dos unidades móviles con tecnología oftalmológica y laboratorio óptico recorrieron ocho localidades de la provincia. El programa buscó garantizar el acceso a la salud visual de chicos y adolescentes de 6 a 17 años.",
+    "El operativo se hizo de forma articulada entre el Gobierno del Chubut, a través de los ministerios de Desarrollo Humano y de Educación y la Secretaría de Salud, el Ministerio de Capital Humano de la Nación y los municipios participantes.",
+    "Una de las características del programa es que todo el circuito se completa en el mismo lugar: la evaluación, la graduación y la fabricación y entrega de los anteojos durante la misma jornada. Así se busca detectar a tiempo problemas de visión que afecten el aprendizaje.",
+    "El recorrido empezó el 3 de noviembre en Río Senguer y Comodoro Rivadavia, siguió por Gobernador Costa, Trelew, Trevelin y Rawson, y terminó en Epuyén y Puerto Madryn."
+   ],
+   "arte": "escuela",
+   "tema": "Salud visual"
+  },
+  {
    "id": "deportivo-madryn-gimnasia-jujuy-reducido",
    "fecha": "2026-11-28T09:07:23-03:00",
    "sec": "deportes",
