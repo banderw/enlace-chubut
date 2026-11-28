@@ -77,6 +77,54 @@
  ],
  "notas": [
   {
+   "id": "trelew-tennis-club-torneo-equipos",
+   "fecha": "2026-11-28T16:07:22-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "El Trelew Tennis Club jugó la segunda edición de su Torneo por Equipos",
+   "bajada": "Seis equipos mixtos participaron de una competencia que busca consolidarse como cierre de temporada cada noviembre.",
+   "cuerpo": [
+    "El Trelew Tennis Club realizó la segunda edición de su Torneo por Equipos, una propuesta que crece y apunta a convertirse en una actividad tradicional de fin de temporada. Esta vez participaron seis equipos.",
+    "Cada equipo se integra con seis jugadores, tres caballeros y tres damas, y disputa tres modalidades de dobles: masculino, femenino y mixto, de modo que todos tienen participación en el resultado colectivo.",
+    "Mariano Hernández, organizador del certamen, valoró la respuesta de los jugadores. Además de los partidos hubo premios especiales a la vestimenta, la originalidad y las banderas de cada formación.",
+    "Hernández adelantó que la intención es repetir el torneo todos los años en noviembre, para que se transforme en un clásico de fin de año."
+   ],
+   "arte": "cancha",
+   "tema": "Tenis"
+  },
+  {
+   "id": "abrazoles-comodoro-inclusion-laboral",
+   "fecha": "2026-11-28T16:07:21-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Abrazoles, el centro de Comodoro que forma para el trabajo a personas con discapacidad, pide ayuda para seguir",
+   "bajada": "La institución mantiene talleres gratuitos, pero tiene dificultades para pagar los servicios y el alquiler y convoca a la comunidad a colaborar.",
+   "cuerpo": [
+    "El Centro de Formación Integral Abrazoles, de Comodoro Rivadavia, sigue con sus propuestas de capacitación e inclusión para personas con discapacidad y adultos en situación de vulnerabilidad, pero atraviesa dificultades para cubrir los gastos de funcionamiento. Sus integrantes piden la colaboración de la comunidad para afrontar servicios y alquiler.",
+    "Melanie Isarrigue explicó que el espacio busca acompañar a cada participante en distintas áreas de su vida, con herramientas que favorezcan su autonomía. \"Tratamos de fomentar un avance integral en la persona desde la parte recreativa, deportiva, la salud y también la inclusión laboral\", contó.",
+    "El centro funciona desde hace ocho años, fue fundado por Fabiana Alaníz y se sostiene con actividades autogestivas, donaciones y voluntarios. Ofrece talleres de yoga, folklore, deporte adaptado, huerta, cerámica, marketing digital, habilidades sociales, ritmos libres y mantenimiento y limpieza.",
+    "Huerta, cerámica y marketing digital trabajan de manera conjunta para que lo que producen los participantes pueda venderse. Luca Ríos, que dicta el taller de huerta, contó que con sus alumnos plantan, por ejemplo, cactus y suculentas."
+   ],
+   "arte": "ciudad",
+   "tema": "Discapacidad"
+  },
+  {
+   "id": "toninas-rawson-avistaje-puerto",
+   "fecha": "2026-11-28T16:07:20-03:00",
+   "sec": "turismo",
+   "ciudad": "Rawson",
+   "titulo": "Avistaje de toninas desde Puerto Rawson: un paseo que gana lugar entre locales y visitantes",
+   "bajada": "La salida en lancha desde la desembocadura del río Chubut permite ver de cerca a las toninas overas, que alcanzan los 60 kilómetros por hora.",
+   "cuerpo": [
+    "Embarcarse en Puerto Rawson y salir hacia las escolleras ofrece una postal que sorprende incluso a quienes conocen la costa chubutense: el movimiento de uno de los puertos pesqueros más activos del país se combina con la aparición casi inmediata de fauna marina, y la vista de Playa Unión desde el agua completa el recorrido.",
+    "Federico Simboli, gerente general del Ente Mixto Rawson Turístico (EMRaTur), destacó que se trata de una propuesta ideal para disfrutar en familia, que se consolida entre locales y turistas como una alternativa para conocer el mar de la región desde otra perspectiva.",
+    "Las protagonistas son las toninas overas. Los guías explican que en esta franja costera vive una comunidad estable estimada entre 300 y 500 ejemplares. Son animales curiosos y veloces, que se acercan a nadar junto a la embarcación y pueden alcanzar hasta 60 kilómetros por hora.",
+    "La cercanía permite observar sus saltos y su comportamiento, e incluso ver cómo abren el espiráculo, el orificio de la cabeza por el que exhalan aire al emerger. La primavera es uno de los momentos ideales para hacer el paseo."
+   ],
+   "arte": "mar",
+   "tema": "Toninas"
+  },
+  {
    "id": "madryn-cierre-talleres-culturales-2026",
    "fecha": "2026-11-28T15:07:06-03:00",
    "sec": "ultimas",
@@ -1320,54 +1368,6 @@
    ],
    "arte": "playa",
    "tema": "Guardavidas Pirámides"
-  },
-  {
-   "id": "abech-final-madryn-brown-pasa-al-domingo",
-   "fecha": "2026-11-27T16:38:48-03:00",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Básquet: la final entre Madryn y Brown se juega el domingo a las 21",
-   "bajada": "La serie está 1 a 1 y el tercer partido pasó al Luján Barrientos. El domingo también arrancan las semifinales femeninas.",
-   "cuerpo": [
-    "El tercer punto de la final del Clausura de ABECh entre Deportivo Madryn y Guillermo Brown no se jugará este viernes: se disputará el domingo a las 21 en el estadio Luján Barrientos.",
-    "La serie está igualada. El primer partido fue para Madryn por 94 a 81 y el segundo para Brown, que ganó 101 a 91 tras dos suplementarios.",
-    "El cuarto juego será el miércoles 2 de diciembre y, de ser necesario, el quinto se jugará el sábado 5 en el estadio Benito García.",
-    "En el femenino, el domingo comienzan las semifinales al mejor de tres: Ferro con Huracán y el clásico Madryn-Brown. Los equipos locales tendrán la ventaja deportiva."
-   ],
-   "arte": "cancha",
-   "tema": "Básquet"
-  },
-  {
-   "id": "rawson-jardines-municipales-guardavidas-playa-union",
-   "fecha": "2026-11-27T16:38:47-03:00",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "titulo": "Rawson: guardavidas enseñaron cuidados de verano a familias de los Jardines Municipales",
-   "bajada": "La jornada integró el proyecto \"Nos preparamos para el verano en Playa Unión\" y estuvo dirigida también a los adultos.",
-   "cuerpo": [
-    "Los Jardines Municipales de Rawson realizaron una nueva jornada del proyecto institucional \"Nos preparamos para el verano en Playa Unión\", con la participación del cuerpo de guardavidas de la playa, que dio información y recomendaciones de seguridad.",
-    "La directora de Jardines Municipales, Lidia Miguel, explicó que los contenidos se trabajan antes en las salas, pero que esta vez la propuesta apuntó especialmente a los adultos, \"responsables de que esto se cumpla\".",
-    "Entre los temas se abordaron el significado de las banderas y la identificación de sombrillas y paravientos por colores. También se explicó el posible reconocimiento de Playa Unión con la Bandera Azul, una distinción vinculada a la calidad ambiental y la gestión de playas.",
-    "Miguel destacó que el proyecto se renueva cada año con nuevos contenidos y que la actividad incluyó propuestas recreativas."
-   ],
-   "arte": "playa",
-   "tema": "Playa Unión"
-  },
-  {
-   "id": "hockey-primera-copa-campeones-chubut-diciembre",
-   "fecha": "2026-11-27T16:38:46-03:00",
-   "sec": "deportes",
-   "ciudad": "Provincia",
-   "titulo": "Hockey: la primera Copa de Campeones Chubut se jugará el 13 y 14 de diciembre",
-   "bajada": "Reunirá en la zona del Valle a equipos de las asociaciones Austral y del Valle, desde Sub 14 hasta Primera, con la Copa Challenger en juego.",
-   "cuerpo": [
-    "El hockey chubutense tendrá en diciembre la primera edición de la Copa de Campeones Chubut, que reunirá a los mejores equipos de las asociaciones Austral y del Valle. Se disputará los días 13 y 14 en la zona del Valle.",
-    "Chubut Deportes confirmó su acompañamiento: la integrante del Directorio Alejandra Ibrahim recibió a Justo Padín y le entregó premios para la organización del certamen.",
-    "La programación incluye las categorías Sub 14 A y B, Sub 16 A y B, Sub 19, Mamis, Veteranas, Intermedia, Primera Damas, Primera Caballeros y Caballeros Menores.",
-    "El principal atractivo será la Copa Challenger, que reconocerá a la asociación que gane más campeonatos en las dos jornadas. La propuesta busca fortalecer los vínculos entre ambas asociaciones y consolidar el desarrollo de la disciplina en la provincia."
-   ],
-   "arte": "cancha",
-   "tema": "Hockey"
   },
   {
    "id": "formacion-profesional-cursos-verano-2027",
