@@ -77,6 +77,54 @@
  ],
  "notas": [
   {
+   "id": "iset-815-charlas-abiertas-esquel-trevelin",
+   "fecha": "2026-11-28T03:06:38-03:00",
+   "sec": "ultimas",
+   "ciudad": "Esquel",
+   "titulo": "El ISET 815 hará charlas abiertas en Esquel y Trevelin para presentar sus tecnicaturas 2027",
+   "bajada": "Los encuentros serán el lunes 30 de noviembre y el martes 1 de diciembre. Las preinscripciones están abiertas hasta el 12 de febrero.",
+   "cuerpo": [
+    "El Instituto Superior de Educación Técnica (ISET) Nº 815 realizará charlas informativas abiertas en Esquel y Trevelin para dar a conocer sus carreras públicas y gratuitas del ciclo lectivo 2027. Los equipos docentes explicarán los planes de estudio y la salida laboral de las cinco tecnicaturas superiores que dicta la institución.",
+    "En Esquel, las charlas serán en la Escuela Nº 210 (Avenida Holdich 1051). El lunes 30 a las 18 se presentará Producción de Multimedios y a las 19, en simultáneo, Turismo y Construcción en Maderas. El martes 1 de diciembre a las 19 será el turno de Gestión de la Producción Agropecuaria.",
+    "En Trevelin, el lunes 30 a las 19, en la Escuela Nº 166 (AP Iwan 833), se hablará de la Tecnicatura en Producción Industrial de Alimentos.",
+    "Desde el instituto recordaron que las preinscripciones para el próximo año ya están habilitadas y seguirán abiertas hasta el 12 de febrero, a través de la plataforma DINO del Ministerio de Educación del Chubut."
+   ],
+   "arte": "escuela",
+   "tema": "Educación"
+  },
+  {
+   "id": "animatre-14-edicion-balance-trelew",
+   "fecha": "2026-11-28T03:06:37-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "AnimaTre cerró su 14ª edición en Trelew con las tres jornadas a sala llena",
+   "bajada": "El Festival Internacional de Cine Animado proyectó 34 producciones de distintos países en el auditorio del Museo Paleontológico Egidio Feruglio.",
+   "cuerpo": [
+    "El domingo 22 de noviembre terminó la 14ª edición del AnimaTre, el Festival Internacional de Cine Animado de Trelew, con un balance muy positivo. Durante las tres jornadas, el auditorio del Museo Paleontológico Egidio Feruglio (MEF) estuvo lleno, y los organizadores señalaron que la convocatoria y la calidad de la programación superaron las expectativas.",
+    "Por segundo año consecutivo el festival se realizó en el MEF, en un trabajo conjunto entre la Municipalidad de Trelew y el museo. Se vieron 34 producciones de Argentina, América Latina, Europa y Estados Unidos, entre ellas \"Gilbert\", ganador del Premio Goya 2026 al Mejor Cortometraje de Animación, y \"Hugs\", seleccionado para el Festival de Sundance.",
+    "Una de las propuestas especiales fue la retrospectiva dedicada a la animadora Ada Güvenir, de origen turco y radicada en Bélgica, de quien se proyectaron tres cortometrajes.",
+    "La programación mostró técnicas muy variadas: animación tradicional, stop motion, pintura animada, recortes, arena y animación digital."
+   ],
+   "arte": "escenario",
+   "tema": "AnimaTre"
+  },
+  {
+   "id": "trevelin-libro-fabio-arce-historias-valle",
+   "fecha": "2026-11-28T03:06:36-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trevelin",
+   "titulo": "Fabio Arce presentó en Trevelin su libro sobre las historias del Valle 16 de Octubre",
+   "bajada": "El docente e investigador presentó \"Trevelin, historias del Valle 16 de Octubre\" en la sala principal del Centro Cultural, ante un público numeroso.",
+   "cuerpo": [
+    "El docente e investigador Fabio Arce presentó su libro \"Trevelin, historias del Valle 16 de Octubre\" en el Centro Cultural de la localidad, cuya sala principal se llenó de vecinos. El autor explicó por qué decidió escribir y publicar la obra, cómo fue la metodología de trabajo y cuáles son las historias más destacadas que encontró en la investigación.",
+    "La apertura estuvo a cargo del docente Matías Jones, que colaboró con Arce en el trabajo. Antes, la concejala Diana Sbil Maripan leyó la declaración de interés que había aprobado el Concejo Deliberante.",
+    "\"El libro cuenta parte de nuestra historia desde los personajes que fueron muy importantes por los oficios o actividades productivas que desarrollaban y que casi nunca sus nombres aparecen en los libros\", sintetizó Arce.",
+    "Participaron el intendente Héctor Ingram y varios funcionarios municipales. También estuvo el escritor e historiador Jorge Fiori, que felicitó al autor e invitó a la comunidad a seguir generando trabajos que recopilen la historia de Trevelin y sus parajes."
+   ],
+   "arte": "valle",
+   "tema": "Cultura"
+  },
+  {
    "id": "sueldos-noviembre-estatales-chubut-fechas",
    "fecha": "2026-11-28T02:06:57-03:00",
    "sec": "politica",
@@ -1288,52 +1336,6 @@
    ],
    "arte": "escenario",
    "tema": "Agenda Rawson"
-  },
-  {
-   "id": "rawson-corte-energia-sabado-28-playa-union",
-   "fecha": "2026-11-27T15:08:43-03:00",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "titulo": "Rawson: corte programado de energía el sábado en el norte de Playa Unión y el barrio 3 de Abril",
-   "bajada": "La interrupción será de 8 a 12 por mantenimiento en la Subestación Ramón Lista y dependerá del clima.",
-   "cuerpo": [
-    "La Cooperativa de Servicios Públicos, Consumo y Vivienda de Rawson informó que este sábado 28 de noviembre habrá un corte programado de energía eléctrica para realizar tareas de mantenimiento en la Subestación Ramón Lista.",
-    "La interrupción está prevista entre las 8 y las 12 y afectará a la zona norte de Playa Unión y al barrio 3 de Abril. Desde la Cooperativa aclararon que los trabajos estarán sujetos a las condiciones climáticas."
-   ],
-   "arte": "noche",
-   "tema": "Corte de luz"
-  },
-  {
-   "id": "came-saladitas-feria-rawson",
-   "fecha": "2026-11-27T15:08:42-03:00",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "titulo": "CAME alertó por las \"saladitas\" y citó como ejemplo una feria que se montó en Rawson",
-   "bajada": "La entidad advirtió que estas ferias temporarias compiten en desigualdad con los comercios formales, justo antes de las fiestas de fin de año.",
-   "cuerpo": [
-    "La Confederación Argentina de la Mediana Empresa (CAME) expresó su preocupación por la proliferación de ferias de venta temporaria, conocidas como \"saladitas\", que se instalan por pocos días en distintas localidades. Según la entidad, compiten en condiciones desiguales con los comercios que trabajan dentro de la formalidad.",
-    "Como ejemplo mencionó una feria de venta masiva que funcionó en Rawson entre el viernes 20 y el lunes 23 de noviembre: la estructura se montó para esos días y se retiró al terminar, sin dejar un establecimiento radicado en la localidad.",
-    "CAME remarcó que los comercios habilitados deben afrontar impuestos, tasas, alquileres, servicios, salarios, habilitaciones municipales y controles, además de contratar personal registrado. El planteo llega en un escenario de retracción del consumo: las ventas minoristas pyme cayeron 1,6% interanual en octubre.",
-    "La organización propuso sumar herramientas tecnológicas para seguir la circulación de mercaderías, identificar a los operadores, rastrear los movimientos de dinero y verificar las normas de seguridad e higiene, de modo que los controles no se limiten al lugar de la venta."
-   ],
-   "arte": "ciudad",
-   "tema": "Comercio"
-  },
-  {
-   "id": "luque-presupuesto-2027-chubut-recursos",
-   "fecha": "2026-11-27T15:08:41-03:00",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "titulo": "Luque reclamó en Diputados que Nación destine a Chubut recursos acordes a lo que aporta",
-   "bajada": "Durante el debate del Presupuesto 2027, el diputado nacional advirtió que la provincia genera el 4% de las exportaciones del país y recibe el 1,5% de las transferencias.",
-   "cuerpo": [
-    "En el tratamiento del Presupuesto Nacional 2027, el diputado nacional Juan Pablo Luque cuestionó la desigualdad entre lo que Chubut aporta y lo que recibe de Nación, y reclamó inversión en infraestructura. \"Una provincia que da tanto y recibe tan poco no tiene mala suerte. Está siendo tratada como una caja\", sostuvo.",
-    "Recordó que Chubut fue la sexta provincia exportadora del país en el primer semestre, con 1.760 millones de dólares provenientes del aluminio, el petróleo y la pesca, un 60% más que el año anterior. Según indicó, genera el 4% de las exportaciones argentinas pero recibe apenas el 1,5% de los recursos que Nación transfiere a las provincias.",
-    "El legislador señaló que la pobreza en Comodoro Rivadavia y Rada Tilly pasó del 26,9% al 37,2% en un año, con 98 mil personas afectadas, y que en Rawson y Trelew llegó al 35%. Mencionó además la pérdida de más de 13 mil empleos privados registrados desde diciembre de 2023 y la desaparición de 720 empleadores, con una caída de uno de cada cuatro puestos en petróleo y construcción.",
-    "Cuestionó que el proyecto prevé una baja de un tercio en términos reales de la obra pública nacional en Chubut, con más de 700 kilómetros de rutas nacionales en estado crítico. \"Cuando la Nación se retira, alguien paga la cuenta. Y ese alguien son los vecinos de mi provincia\", afirmó."
-   ],
-   "arte": "ciudad",
-   "tema": "Presupuesto 2027"
   },
   {
    "id": "torres-canadon-perdido-recuperacion-terciaria",
