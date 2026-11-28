@@ -1,77 +1,18 @@
-{
- "notas": [
-  {
-   "id": "unpsjb-madryn-colacion-50-graduados",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "tema": "UNPSJB",
-   "titulo": "La UNPSJB entregó diplomas a 50 graduados en su sede de Puerto Madryn",
-   "bajada": "El acto se realizó en el Aula Magna “Aldo López Guidi” con familiares y amigos de los nuevos profesionales.",
-   "cuerpo": [
-    "La sede portuaria de la Universidad Nacional de la Patagonia San Juan Bosco realizó una nueva colación en la que 50 graduados recibieron sus diplomas de pregrado, grado y doctorado, ante un auditorio colmado.",
-    "Los títulos corresponden a las facultades de Ciencias Jurídicas, de Ingeniería y de Ciencias Naturales y de Ciencias de la Salud. Desde la Universidad y la Delegación Zonal felicitaron a los egresados y a sus familias.",
-    "La delegada zonal, Daniela Catena, recordó que en mayo hubo otra colación con egresados de todas las facultades, pero explicó que era importante hacer esta para no demorar la entrega del título, que es el paso hacia la inserción laboral.",
-    "Catena afirmó que en la sede portuaria el nivel de terminalidad “es alto” y destacó el trabajo de cada facultad, desde el diagnóstico hasta las acciones pedagógicas, para evitar el desgranamiento de los estudiantes en un contexto que calificó de adverso."
-   ],
-   "foto": "universidad",
-   "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
-   "arte": "escuela",
-   "origen": "https://www.diariojornada.com.ar/427880/magazine/cxcvii_acto_de_colacion_de_grado_de_la_unpsjb"
-  },
-  {
-   "id": "madryn-empleo-discapacidad-perfiles",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "tema": "Discapacidad",
-   "titulo": "Madryn: buscan definir perfiles laborales para sumar trabajadores con discapacidad",
-   "bajada": "El Consejo Municipal de Discapacidad y la Secretaría de Turismo trabajan junto a empleadores para mejorar el acceso al empleo antes de la temporada.",
-   "cuerpo": [
-    "La presidenta del Consejo Municipal de Discapacidad de Puerto Madryn, Xenia Gabella, describió una situación muy difícil para el empleo de las personas con discapacidad, en sintonía con la coyuntura laboral general.",
-    "La Subsecretaría de Empleo visitó alrededor de mil comercios locales para relevar la demanda y sensibilizar al sector privado. Según Gabella, cerca del 40% de ellos estaría dispuesto a incorporar personal con discapacidad, aunque los registros de postulantes todavía son acotados porque no todos se inscriben en las oficinas municipales.",
-    "Uno de los obstáculos es que los empleadores no suelen definir con precisión las tareas del puesto. Por eso el Consejo empezó a trabajar con la Secretaría de Turismo, que encabeza Pablo Tedesco, de cara a la temporada. “No es ‘necesito un empleado’, sino ‘necesito un mozo’, qué condiciones tiene que tener y qué cosas tiene que hacer”, explicó.",
-    "Gabella sostuvo que la capacitación por sí sola no alcanza si persisten los prejuicios: “Las barreras son sociales y están incorporadas en nuestras matrices comunitarias”."
-   ],
-   "foto": "reunion",
-   "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
-   "arte": "ciudad",
-   "origen": "https://www.diariojornada.com.ar/427877/magazine/buscan_derribar_prejuicios_y_definir_perfiles_para_sumar_trabajadores_con_discapacidad_al_sistema_laboral"
-  },
-  {
-   "id": "ley-medicos-guardias-rio-negro-santa-cruz",
-   "sec": "politica",
-   "ciudad": "Rawson",
-   "tema": "Salud pública",
-   "titulo": "La Legislatura habilitó que médicos cubran guardias en Chubut, Río Negro y Santa Cruz",
-   "bajada": "La ley exceptúa la prohibición de acumular cargos públicos y el requisito de residencia para especialistas de las tres provincias.",
-   "cuerpo": [
-    "La Legislatura del Chubut sancionó por mayoría una ley que autoriza a los médicos del sistema público provincial a desempeñar funciones en Río Negro y Santa Cruz, y permite de manera recíproca que profesionales de esas provincias trabajen en hospitales chubutenses. Hubo una única abstención, la del diputado Juan Aquino, del Frente de Izquierda.",
-    "La diputada Sandra Willatowski, de Despierta Chubut, explicó que el esquema apunta a cubrir la falta de pediatras, cardiólogos, traumatólogos y ginecólogos en el interior. Aprovecha la cercanía entre ciudades limítrofes, como Lago Puelo y El Bolsón, Comodoro Rivadavia y Caleta Olivia, o Gastre e Ingeniero Jacobacci.",
-    "Los profesionales deberán presentar una declaración jurada y acreditar que hay escasez comprobada de especialistas en la zona y que no se superponen los horarios de los cargos públicos.",
-    "El oficialista Sergio Ongarato dijo que el sistema de salud chubutense enfrenta una fuerte competencia por el recurso humano. El bloque Arriba Chubut acompañó la sanción, aunque advirtió que no resuelve el problema estructural del sistema sanitario."
-   ],
-   "foto": "medico",
-   "arte": "ciudad",
-   "origen": "https://www.opisantacruz.com.ar/2026/11/28/pediatras-y-cardiologos-de-santa-cruz-y-rio-negro-podran-cubrir-guardias-en-chubut/"
-  }
- ],
- "descartadas": [
-  "https://www.diariojornada.com.ar/427878/magazine/el_hospital_zonal_difundio_turnos_y_especialidades",
-  "https://www.diariojornada.com.ar/427879/magazine/la_morosidad_del_impuesto_inmobiliario_alcanza_el_60_",
-  "https://www.opisantacruz.com.ar/2026/11/28/los-bancos-pidieron-al-bcra-casi-us-200-millones-en-billetes-fisicos/",
-  "https://www.opisantacruz.com.ar/2026/11/28/al-menos-cuatro-mineros-atrapados-tras-derrumbe-en-colombia/",
-  "https://www.elchubut.com.ar/regionales/2026-11-28-10-23-0-cumbre-del-pj-chubut-sin-definiciones-los-precandidatos-a-gobernador-volveran-a-reunirse",
-  "https://www.elchubut.com.ar/espectaculos/2026-11-27-14-46-0-con-espiritu-navideno-y-un-impostor-en-juego-netflix-estrena-los-12-desafios-de-salish",
-  "https://www.elchubut.com.ar/espectaculos/2026-11-27-14-37-0-luisana-lopilato-sera-la-invitada-en-argentina-de-pelicula",
-  "https://www.elchubut.com.ar/espectaculos/2026-11-27-13-17-0-felicidades-la-nueva-comedia-negra-de-alex-de-la-iglesia-llega-a-netflix-el-18-de-diciembre",
-  "https://www.eldiarioweb.com/2026/11/luque-los-que-no-quieren-la-unidad-son-socios-de-torres/",
-  "https://www.eldiarioweb.com/2026/11/el-gobierno-oficializo-el-llamado-a-sesiones-extraordinarias/",
-  "https://www.eldiarioweb.com/2026/11/una-multitud-de-hinchas-de-estudiantes-viajo-a-montevideo-para-la-final-ante-palmeiras/",
-  "https://www.eldiarioweb.com/2026/11/los-coros-municipales-cerraran-el-ano-con-un-concierto-conjunto/",
-  "https://canal12web.com/sastre-hablo-de-figuras-elecciones-y-el-pj-somos-justicialistas-y-vamos-a-seguir-siendolo-toda-la-vida/",
-  "https://canal12web.com/comodoro-totalmente-borracho-manejaba-con-257-gramos-de-alcohol-y-termino-demorado/",
-  "https://cholilaonline.ar/2026/11/estudiantes-palmeiras-final-copa-libertadores-2026-probable-formacion-alexander-medina.html",
-  "https://cholilaonline.ar/2026/11/alcoholemia-positiva-en-comodoro-manejaba-con-2-57-gramos.html",
-  "https://cholilaonline.ar/2026/11/estudiantes-palmeiras-final-copa-libertadores-2026-por-que-no-juega-baltasar-rodriguez.html",
-  "https://cholilaonline.ar/2026/11/dolar-hoy-dolar-blue-oficial-paralelo-28-noviembre.html"
- ]
-}
+{"notas":[
+{"id":"upsap-proyecto-control-admision-madryn","sec":"politica","ciudad":"Puerto Madryn","tema":"Gremios","titulo":"UPSAP presentó en Madryn un proyecto para regular el control de admisión y permanencia","bajada":"El sindicato de seguridad privada propone una ordenanza con un piso de referencia salarial y un instituto municipal de capacitación y evaluación.","cuerpo":["La Unión del Personal de Seguridad Privada y Afines de la Patagonia Central (UPSAP) presentó durante la última semana ante el Concejo Deliberante de Puerto Madryn un proyecto de ordenanza para regular la actividad de Control de Admisión y Permanencia (CAP). La propuesta incluye además la creación de un Instituto Municipal de Capacitación y Evaluación.","Según el gremio, la iniciativa responde a reclamos de trabajadores del sector que denuncian irregularidades en la ciudad. Uno de los principales problemas es la desigualdad en lo que se paga por noche: en algunos locales se abonan entre 35 mil y 40 mil pesos, mientras que en otros se llega a 70 mil u 80 mil. Por eso propone un piso de referencia basado en las escalas del convenio colectivo 785/21, con valores actualizables.","Otra preocupación es la oferta de cursos que cobran por formaciones sin informar con claridad su alcance: el sindicato advirtió que en algunos casos se hace creer que quedan habilitados para trabajar en seguridad privada, cuando esa habilitación corresponde a la Policía del Chubut.","El instituto propuesto se articularía con el Ministerio de Educación, el municipio y la Secretaría de Trabajo, y se sumaría un registro municipal del personal debidamente capacitado y habilitado."],"foto":"trabajadores","arte":"ciudad","foto_archivo":"auto/fotos_candidatas/cand-2.jpg","origen":"https://www.diariojornada.com.ar/427876/magazine/upsap_presento_un_proyecto_para_regular_la_actividad_control_admision_y_permanencia"},
+{"id":"vida-silvestre-27-millones-brigadistas-chubut","sec":"ultimas","ciudad":"Provincia","tema":"Incendios forestales","titulo":"Reunieron 27 millones de pesos para equipar a los brigadistas de Chubut","bajada":"Fundación Vida Silvestre Argentina destinó lo recaudado en una campaña al Servicio Provincial de Manejo del Fuego.","cuerpo":["Fundación Vida Silvestre Argentina impulsó una campaña de recaudación para fortalecer a quienes protegen los bosques nativos de Chubut y logró reunir 27 millones de pesos, con aportes de empresas, organizaciones aliadas y miles de personas.","Los fondos se destinaron al Servicio Provincial de Manejo del Fuego, en una de las regiones más golpeadas por los incendios: los bosques andino patagónicos. El equipamiento adquirido permitirá que los brigadistas tengan más capacidad para actuar ante fuegos cada vez más intensos y complejos.","\"Solo en Chubut y durante 2026, se vieron afectadas más de 50 mil hectáreas\", señaló Manuel Jaramillo, director general de la fundación. Naranja X fue el aliado principal de la campaña, con aportes también de Chango Más, Santander y Zurich.","Estos bosques cumplen un rol clave para la biodiversidad, el almacenamiento de carbono y la provisión de agua."],"foto":"incendioforestal","arte":"humo","foto_archivo":"auto/fotos_candidatas/cand-3.jpg","origen":"https://www.eldiarioweb.com/2026/11/fundacion-vida-silvestre-argentina-fortalece-a-los-brigadistas-de-chubut-frente-a-los-incendios-forestales/"},
+{"id":"miradas-que-conectan-casa-del-chubut","sec":"ultimas","ciudad":"Rawson","tema":"Cultura","titulo":"\"Miradas que Conectan\" cerró en Rawson y viajará a la Casa del Chubut","bajada":"La muestra del Centro de Día NICADPI se inaugurará en Buenos Aires el miércoles 2 de diciembre.","cuerpo":["La Subsecretaría de Cultura y el Centro de Día NICADPI de Trelew cerraron en el Centro Cultural Provincial de Rawson las actividades de la muestra \"Miradas que Conectan\", con música, juegos y una última recorrida por las obras, tras casi dos meses de trabajo conjunto.","La exposición, inaugurada el 5 de octubre, reunió 17 obras realizadas por concurrentes del centro junto a los artistas Olga Crettón, Karen Nasuti, Diego Iberlucea, Diego Corso Muscia, Ezequiel Domínguez y Celia Gómez. Estaba prevista para octubre, pero la respuesta de la comunidad motivó que se extendiera hasta noviembre.","Durante ese período hubo talleres de expresión artística, cocina y plantines, encuentros musicales y una clase abierta de la Orquesta del Bicentenario \"Mariano Defea\" de Rawson.","La muestra continuará en la Casa del Chubut, en la Ciudad Autónoma de Buenos Aires, donde se inaugurará el miércoles 2 de diciembre."],"foto":"museo","arte":"escenario","foto_archivo":"auto/fotos_candidatas/cand-6.jpg","origen":"https://www.diariojornada.com.ar/427881/magazine/nicadpi_llevara_la_muestra_artistica_miradas_que_conectan_a_la_casa_del_chubut"},
+{"id":"mi-mundo-sos-vos-concierto-madryn","sec":"ultimas","ciudad":"Puerto Madryn","tema":"Cultura","titulo":"\"Mi mundo sos vos\": concierto de jóvenes solistas este sábado en Madryn","bajada":"Se presenta a las 20 en El Uno y la Belleza, con un recorrido musical por las culturas de distintos países.","cuerpo":["Este sábado a las 20, en El Uno y la Belleza de Puerto Madryn, se presentará el concierto \"Mi mundo sos vos\", un proyecto artístico, cultural y educativo interpretado por adolescentes. Propone un recorrido musical por las tradiciones y raíces de distintos pueblos.","La propuesta busca promover entre los jóvenes el respeto por la diversidad cultural, étnica y humana, y la valoración de las culturas originarias.","La dirección musical está a cargo de Patricia Martínez, de la Escuela de Jóvenes Solistas, creada en 2024 dentro de la plataforma de canto Sur a Sur para estudiantes secundarios. El grupo estable lleva dos años dando conciertos."],"foto":"musica","arte":"escenario","origen":"https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-24-0-hoy-se-presenta-el-concierto-mi-mundo-sos-vos"}
+],"descartadas":[
+"https://www.diariojornada.com.ar/427879/magazine/la_morosidad_del_impuesto_inmobiliario_alcanza_el_60",
+"https://www.eldiarioweb.com/2026/11/el-banco-del-chubut-y-el-superior-tribunal-de-justicia-fortalecen-el-trabajo-conjunto-frente-al-ciberdelito-financiero/",
+"https://www.eldiarioweb.com/2026/11/la-produccion-industrial-en-argentina-sigue-en-picada/",
+"https://www.eldiarioweb.com/2026/11/bautista-soria-el-nadador-de-comodoro-que-llego-a-la-seleccion/",
+"https://canal12web.com/sorpresivo-candidato-del-justicialismo-se-bajarian-varios-aspirantes-a-la-intendencia-de-trelew-para-apoyar-a-federico-massoni/",
+"https://canal12web.com/puerto-madryn-sera-sede-de-la-septima-edicion-de-las-torres-mtb/",
+"https://cholilaonline.ar/2026/11/hospital-zonal-de-trelew-turnos-especialidades-y-horarios.html",
+"https://cholilaonline.ar/2026/11/ciberataque-a-la-fuerza-aerea-de-eeuu-vulneraron-cloud-one.html",
+"https://cholilaonline.ar/2026/11/helicoptero-en-peru-murieron-ocho-militares-en-ayacucho.html",
+"https://cholilaonline.ar/2026/11/bioinsumo-del-inta-mycopel-desechos-porcinos-agricultura.html",
+"https://www.diariojornada.com.ar/427872/magazine/casi_3_mil_ninos_y_adolescentes_recibieron_anteojos_a_traves_del_programa_ver_para_ser_libres"
+]}

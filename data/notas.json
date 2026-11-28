@@ -77,6 +77,69 @@
  ],
  "notas": [
   {
+   "id": "mi-mundo-sos-vos-concierto-madryn",
+   "fecha": "2026-11-28T13:08:25-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "\"Mi mundo sos vos\": concierto de jóvenes solistas este sábado en Madryn",
+   "bajada": "Se presenta a las 20 en El Uno y la Belleza, con un recorrido musical por las culturas de distintos países.",
+   "cuerpo": [
+    "Este sábado a las 20, en El Uno y la Belleza de Puerto Madryn, se presentará el concierto \"Mi mundo sos vos\", un proyecto artístico, cultural y educativo interpretado por adolescentes. Propone un recorrido musical por las tradiciones y raíces de distintos pueblos.",
+    "La propuesta busca promover entre los jóvenes el respeto por la diversidad cultural, étnica y humana, y la valoración de las culturas originarias.",
+    "La dirección musical está a cargo de Patricia Martínez, de la Escuela de Jóvenes Solistas, creada en 2024 dentro de la plataforma de canto Sur a Sur para estudiantes secundarios. El grupo estable lleva dos años dando conciertos."
+   ],
+   "arte": "escenario",
+   "tema": "Cultura"
+  },
+  {
+   "id": "miradas-que-conectan-casa-del-chubut",
+   "fecha": "2026-11-28T13:08:24-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "\"Miradas que Conectan\" cerró en Rawson y viajará a la Casa del Chubut",
+   "bajada": "La muestra del Centro de Día NICADPI se inaugurará en Buenos Aires el miércoles 2 de diciembre.",
+   "cuerpo": [
+    "La Subsecretaría de Cultura y el Centro de Día NICADPI de Trelew cerraron en el Centro Cultural Provincial de Rawson las actividades de la muestra \"Miradas que Conectan\", con música, juegos y una última recorrida por las obras, tras casi dos meses de trabajo conjunto.",
+    "La exposición, inaugurada el 5 de octubre, reunió 17 obras realizadas por concurrentes del centro junto a los artistas Olga Crettón, Karen Nasuti, Diego Iberlucea, Diego Corso Muscia, Ezequiel Domínguez y Celia Gómez. Estaba prevista para octubre, pero la respuesta de la comunidad motivó que se extendiera hasta noviembre.",
+    "Durante ese período hubo talleres de expresión artística, cocina y plantines, encuentros musicales y una clase abierta de la Orquesta del Bicentenario \"Mariano Defea\" de Rawson.",
+    "La muestra continuará en la Casa del Chubut, en la Ciudad Autónoma de Buenos Aires, donde se inaugurará el miércoles 2 de diciembre."
+   ],
+   "arte": "escenario",
+   "tema": "Cultura"
+  },
+  {
+   "id": "vida-silvestre-27-millones-brigadistas-chubut",
+   "fecha": "2026-11-28T13:08:23-03:00",
+   "sec": "ultimas",
+   "ciudad": "Provincia",
+   "titulo": "Reunieron 27 millones de pesos para equipar a los brigadistas de Chubut",
+   "bajada": "Fundación Vida Silvestre Argentina destinó lo recaudado en una campaña al Servicio Provincial de Manejo del Fuego.",
+   "cuerpo": [
+    "Fundación Vida Silvestre Argentina impulsó una campaña de recaudación para fortalecer a quienes protegen los bosques nativos de Chubut y logró reunir 27 millones de pesos, con aportes de empresas, organizaciones aliadas y miles de personas.",
+    "Los fondos se destinaron al Servicio Provincial de Manejo del Fuego, en una de las regiones más golpeadas por los incendios: los bosques andino patagónicos. El equipamiento adquirido permitirá que los brigadistas tengan más capacidad para actuar ante fuegos cada vez más intensos y complejos.",
+    "\"Solo en Chubut y durante 2026, se vieron afectadas más de 50 mil hectáreas\", señaló Manuel Jaramillo, director general de la fundación. Naranja X fue el aliado principal de la campaña, con aportes también de Chango Más, Santander y Zurich.",
+    "Estos bosques cumplen un rol clave para la biodiversidad, el almacenamiento de carbono y la provisión de agua."
+   ],
+   "arte": "humo",
+   "tema": "Incendios forestales"
+  },
+  {
+   "id": "upsap-proyecto-control-admision-madryn",
+   "fecha": "2026-11-28T13:08:22-03:00",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "titulo": "UPSAP presentó en Madryn un proyecto para regular el control de admisión y permanencia",
+   "bajada": "El sindicato de seguridad privada propone una ordenanza con un piso de referencia salarial y un instituto municipal de capacitación y evaluación.",
+   "cuerpo": [
+    "La Unión del Personal de Seguridad Privada y Afines de la Patagonia Central (UPSAP) presentó durante la última semana ante el Concejo Deliberante de Puerto Madryn un proyecto de ordenanza para regular la actividad de Control de Admisión y Permanencia (CAP). La propuesta incluye además la creación de un Instituto Municipal de Capacitación y Evaluación.",
+    "Según el gremio, la iniciativa responde a reclamos de trabajadores del sector que denuncian irregularidades en la ciudad. Uno de los principales problemas es la desigualdad en lo que se paga por noche: en algunos locales se abonan entre 35 mil y 40 mil pesos, mientras que en otros se llega a 70 mil u 80 mil. Por eso propone un piso de referencia basado en las escalas del convenio colectivo 785/21, con valores actualizables.",
+    "Otra preocupación es la oferta de cursos que cobran por formaciones sin informar con claridad su alcance: el sindicato advirtió que en algunos casos se hace creer que quedan habilitados para trabajar en seguridad privada, cuando esa habilitación corresponde a la Policía del Chubut.",
+    "El instituto propuesto se articularía con el Ministerio de Educación, el municipio y la Secretaría de Trabajo, y se sumaría un registro municipal del personal debidamente capacitado y habilitado."
+   ],
+   "arte": "ciudad",
+   "tema": "Gremios"
+  },
+  {
    "id": "ley-medicos-guardias-rio-negro-santa-cruz",
    "fecha": "2026-11-28T12:07:26-03:00",
    "sec": "politica",
@@ -1303,21 +1366,6 @@
    "tema": "Vóley"
   },
   {
-   "id": "trelew-night-run-5k-14-edicion-2",
-   "fecha": "2026-11-27T16:12:57-03:00",
-   "sec": "deportes",
-   "ciudad": "Trelew",
-   "titulo": "Trelew vive el sábado la 14ª edición de la Night Run 5K",
-   "bajada": "La largada será a las 22 en la Confitería Bertolucci y ya hay cerca de 200 atletas anotados.",
-   "cuerpo": [
-    "Este sábado 28 de noviembre se correrá la 14ª Night Run 5K, una de las pruebas clásicas del calendario deportivo de Trelew. La organiza Eventos Deportivos Trelew con el acompañamiento del Municipio, con largada y llegada en la Confitería Bertolucci a las 22.",
-    "Habrá una prueba competitiva de 5 kilómetros y una caminata participativa de 2,5 kilómetros. Gerardo Haro, de la organización, confirmó que hay cerca de 200 atletas de distintas localidades, entre ellos el neuquino Luciano Galván y Juan Paz, de Sierra Grande.",
-    "La noche tendrá música y animación, con el DJ Agus y la locución de Vanshi Thomas y Lili Méndez. Las inscripciones siguen abiertas para ambas modalidades en la plataforma Cronometraje Instantáneo."
-   ],
-   "arte": "ciudad",
-   "tema": "Atletismo"
-  },
-  {
    "id": "formacion-profesional-cursos-verano-2027",
    "fecha": "2026-11-27T16:12:56-03:00",
    "sec": "ultimas",
@@ -1331,53 +1379,6 @@
    ],
    "arte": "escuela",
    "tema": "Formación laboral"
-  },
-  {
-   "id": "comodoro-othar-financiamiento-maquinaria-bice",
-   "fecha": "2026-11-27T16:08:49-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro gestiona en Nación un leasing para renovar la maquinaria vial",
-   "bajada": "El intendente Othar Macharashvili y el secretario de Economía, Fernando Barría, se reunieron en Buenos Aires con un subsecretario de Vicejefatura de Gabinete.",
-   "cuerpo": [
-    "El intendente Othar Macharashvili, junto al secretario de Economía, Fernando Barría, se reunió en Buenos Aires con el subsecretario de Relaciones con los Municipios, Carlos Marcelo D'Abate, para tratar herramientas de financiamiento y equipamiento.",
-    "Barría explicó que el esquema nacional no prevé transferencias directas, pero se abrió un canal con el BICE para un leasing con tasa o cuota bonificada para maquinaria vial.",
-    "También informó que la Subsecretaría confirmó que las rendiciones de programas anteriores están en orden, lo que ubicaría al Municipio en buena posición ante una eventual línea de crédito."
-   ],
-   "arte": "ciudad",
-   "tema": "Gestión municipal"
-  },
-  {
-   "id": "el-hoyo-sorteo-casa-fruta-fina-2027",
-   "fecha": "2026-11-27T16:08:48-03:00",
-   "sec": "ultimas",
-   "ciudad": "El Hoyo",
-   "titulo": "El Hoyo sorteará una casa en la Fiesta Nacional de la Fruta Fina 2027",
-   "bajada": "El Concejo Deliberante aceptó por unanimidad la donación de una vivienda modular de 28 metros cuadrados.",
-   "cuerpo": [
-    "Una casa prefabricada de 28 metros cuadrados, modelo \"Los Notros\", será el premio principal de un sorteo durante la Fiesta Nacional de la Fruta Fina 2027, en El Hoyo. La empresa VASTEK aportará materiales y mano de obra, sin costo para el Municipio, y se hará cargo de plazos y garantía.",
-    "Quien gane deberá afrontar gastos no incluidos, como la cimentación, la preparación del terreno y las conexiones de servicios.",
-    "En la misma sesión especial, con cinco ediles, el Concejo aceptó una camioneta Ford Ranger 4x4 donada por el IAC para el parque automotor municipal.",
-    "También ratificaron un aporte no reintegrable de $40.129.937 de la Secretaría de Infraestructura, Energía y Planificación del Chubut, destinado a instalar 200 luminarias en el alumbrado público."
-   ],
-   "arte": "valle",
-   "tema": "Fruta Fina"
-  },
-  {
-   "id": "las-torres-mtb-madryn-septima-edicion",
-   "fecha": "2026-11-27T16:08:47-03:00",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Las Torres MTB: 82 ciclistas correrán el domingo en Puerto Madryn",
-   "bajada": "La séptima edición de la prueba de mountain bike largará a las 9:30 desde la zona de las reservas de Servicoop.",
-   "cuerpo": [
-    "Puerto Madryn será escenario este domingo 29 de noviembre de la 7.ª edición de Las Torres MTB, con 82 ciclistas confirmados y el apoyo de Chubut Deportes. La largada es a las 9:30.",
-    "Días atrás, la directora de Chubut Deportes, Alejandra Ibrahim, se reunió con los organizadores Daniel Barchetta y Rubén Villarreal para ultimar detalles.",
-    "El circuito, al oeste de la ciudad, combina caminos rurales, senderos y rectas rápidas, con el viento patagónico como factor. La modalidad Promocional tendrá dos vueltas y la Competitiva, tres.",
-    "Habrá divisiones Promocionales, Menores, Elite, Sub 23 y Máster, en damas y caballeros."
-   ],
-   "arte": "cancha",
-   "tema": "Ciclismo"
   },
   {
    "id": "torres-canadon-perdido-recuperacion-terciaria",
