@@ -77,6 +77,95 @@
  ],
  "notas": [
   {
+   "id": "lorenzo-march-campeon-nacional-tenis-sub16",
+   "fecha": "2026-11-27T21:07:24-03:00",
+   "sec": "deportes",
+   "ciudad": "Trelew",
+   "titulo": "El trelewense Lorenzo March ganó el Nacional de tenis Sub16 en Neuquén",
+   "bajada": "El jugador del Trelew Tennis Club se impuso en singles y también ganó el dobles junto a Juan Paolini.",
+   "cuerpo": [
+    "Lorenzo March, del Trelew Tennis Club, ganó el 6º Nacional del año en la categoría Sub16, disputado en el Neuquén Tennis Club. En la final venció a Santino Aranda, de La Pampa, por 6/3, 4/6 y 6/4. Además, se quedó con el dobles junto a Juan Paolini, de Río Negro, por 7/6 y 6/3.",
+    "En Sub14 damas, Agustina Viglione, de Trelew, y Delfina Marshall, de San Félix, fueron finalistas del dobles, que ganaron Delfina Koch e Inés Mardonez por 6/4, 4/6 y 10/5. Lucio Vulcano jugó en Sub14 varones y llegó hasta la segunda ronda.",
+    "Este sábado a las 13 comenzará en el Trelew Tennis Club el torneo de fin de año por equipos, abierto a tenistas de todas las edades. Cada equipo debe tener seis integrantes, tres damas y tres varones, y habrá premios, sorteos y pizza libre al final."
+   ],
+   "arte": "cancha",
+   "tema": "Tenis"
+  },
+  {
+   "id": "corte-luz-playa-union-3-de-abril-sabado",
+   "fecha": "2026-11-27T21:07:23-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "Corte programado de luz el sábado en el norte de Playa Unión y el barrio 3 de Abril",
+   "bajada": "La interrupción será de 8 a 12 por tareas de mantenimiento en la Subestación Ramón Lista.",
+   "cuerpo": [
+    "El Servicio Eléctrico informó que este sábado 28 de noviembre, de 8:00 a 12:00, habrá un corte programado de energía para realizar tareas de mantenimiento en la Subestación Ramón Lista.",
+    "La interrupción afectará a la zona norte de Playa Unión y al barrio 3 de Abril."
+   ],
+   "arte": "noche",
+   "tema": "Corte de luz"
+  },
+  {
+   "id": "newcom-orgulloso-club-huergo-comodoro",
+   "fecha": "2026-11-27T21:07:22-03:00",
+   "sec": "cuenca",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Comodoro realizó el 4º Torneo de Newcom Orgulloso en el Club Huergo",
+   "bajada": "La actividad formó parte de la Semana del Orgullo y reunió a grupos y equipos de distintos espacios municipales y organizaciones.",
+   "cuerpo": [
+    "La Municipalidad de Comodoro Rivadavia, a través de la Dirección de Diversidad LGBTIQ+ y Nuevas Mayorías de la Secretaría de la Mujer, realizó este viernes el 4º Torneo de Newcom Orgulloso en la cancha principal del Club Huergo. Se enmarca en las políticas de inclusión que impulsa el intendente Othar Macharashvili.",
+    "La directora general de Diversidad de Género, Daniela Andrade, valoró la continuidad del campeonato, que se organiza todos los años como resultado de un trabajo sostenido, y se mostró satisfecha con la convocatoria de esta cuarta edición.",
+    "Andrade destacó la importancia de fortalecer el vínculo con otras áreas municipales, en especial con el ámbito deportivo, para ampliar la participación. \"Pretendemos que otros sectores se puedan sumar y que puedan hacer deporte también. El deporte también es orgulloso\", afirmó."
+   ],
+   "arte": "cancha",
+   "tema": "Semana del Orgullo"
+  },
+  {
+   "id": "cumbre-pj-rawson-sin-acuerdo",
+   "fecha": "2026-11-27T21:07:21-03:00",
+   "sec": "politica",
+   "ciudad": "Rawson",
+   "titulo": "Cumbre del PJ en Rawson: sin acuerdo, los precandidatos a gobernador volverán a reunirse",
+   "bajada": "El peronismo debatió cómo definir su candidatura de cara a las elecciones provinciales del 21 de marzo de 2027, y no hubo definiciones.",
+   "cuerpo": [
+    "Autoridades partidarias y militantes se reunieron este viernes por la tarde en la sede provincial del Partido Justicialista en Rawson. Hubo un encuentro reservado entre quienes aspiran a competir por la Gobernación y otro formal con el Consejo Provincial y la Mesa del Congreso partidario. Terminó sin acuerdo y los precandidatos volverán a juntarse.",
+    "Los tiempos son cortos: el gobernador Ignacio Torres convocó a elecciones provinciales para el 21 de marzo de 2027 y los candidatos deben presentarse el 15 de enero. Hubo coincidencias en la necesidad de construir una alternativa competitiva, pero aparecieron diferencias cuando se habló de estrategia.",
+    "Antes de definir quién encabezará la boleta, el justicialismo deberá resolver con qué partidos se alía; entre ellos se mencionan el Frente Renovados y el Socialismo Auténtico. Juan Pablo Luque dejó en claro que no pretende repetir el escenario de 2023 y su entorno considera que una interna que profundice las diferencias puede comprometer el acompañamiento en la elección general."
+   ],
+   "arte": "ciudad",
+   "tema": "Elecciones 2027"
+  },
+  {
+   "id": "condena-firme-nidos-pinguinos-punta-clara",
+   "fecha": "2026-11-27T21:07:20-03:00",
+   "sec": "policiales",
+   "ciudad": "Provincia",
+   "titulo": "Quedó firme la condena de tres años en suspenso por destruir nidos de pingüinos en Punta Clara",
+   "bajada": "El Superior Tribunal de Justicia rechazó la impugnación de la defensa y ratificó la pena y el decomiso de la retroexcavadora.",
+   "cuerpo": [
+    "El Superior Tribunal de Justicia del Chubut dejó firme la condena a tres años de prisión de ejecución condicional contra Ricardo Adolfo La Regina, por la destrucción de nidos, huevos, pichones y ejemplares adultos de pingüinos de Magallanes en Punta Clara, al norte de Punta Tombo. El máximo tribunal rechazó la impugnación extraordinaria de la defensa tras la audiencia del 21 de abril de 2026.",
+    "El fallo ratifica la sentencia del Tribunal Colegiado de Rawson, del 20 de noviembre de 2024, que además ordenó el decomiso de la retroexcavadora usada en los hechos, y la confirmación de la Cámara Penal de Trelew del 21 de mayo de 2025. La acusación comprendía tres hechos de daño agravado y uno de crueldad animal.",
+    "La investigación comenzó el 26 de noviembre de 2021 bajo la conducción de la fiscal general jefe Florencia Gómez. Se acreditó que entre agosto y diciembre de ese año se realizaron tareas de desmonte, apertura de caminos y remoción de suelo dentro del área de nidificación."
+   ],
+   "arte": "playa",
+   "tema": "Pingüinos"
+  },
+  {
+   "id": "luz-y-fuerza-complejo-21-de-enero-obras",
+   "fecha": "2026-11-27T21:07:19-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "Luz y Fuerza avanza con la ampliación del Complejo 21 de Enero: salón para 350 personas y pileta climatizada",
+   "bajada": "Congresales del Sindicato Regional de Luz y Fuerza de la Patagonia recorrieron las obras de una de las mayores inversiones del gremio.",
+   "cuerpo": [
+    "Durante la jornada del jueves, los congresales del Sindicato Regional de Luz y Fuerza de la Patagonia visitaron el Complejo 21 de Enero, acompañados por la secretaria de Hacienda y Finanzas, Sandra García, y la secretaria de Turismo, Analía Seba. El responsable de la obra explicó las características del proyecto, los avances y las etapas que faltan.",
+    "Uno de los proyectos contempla un salón de conferencias con capacidad para 350 personas y un restaurante para otras 350. La planta baja tendrá unos 860 metros cuadrados, de los cuales 580 corresponden al salón. Además se ampliarán la cocina y los fogones existentes, y se sumarán un hall de recepción, sanitarios, ascensor y otros espacios.",
+    "La planta baja registra un avance cercano al 80 por ciento, con la obra gruesa y la calefacción ejecutadas, mientras que en la planta alta ya se hicieron los principales trabajos estructurales. También se prevé incorporar una pileta climatizada. La inversión busca ampliar la capacidad de servicios y jerarquizar las instalaciones del establecimiento."
+   ],
+   "arte": "ciudad",
+   "tema": "Luz y Fuerza"
+  },
+  {
    "id": "hospital-margara-trelew-especialidades-turnos",
    "fecha": "2026-11-27T20:07:46-03:00",
    "sec": "ultimas",
@@ -1336,21 +1425,6 @@
    "tema": "Personas mayores"
   },
   {
-   "id": "esquel-corte-luz-domingo-29-noviembre",
-   "fecha": "2026-11-26T20:05:18-03:00",
-   "sec": "ultimas",
-   "ciudad": "Esquel",
-   "titulo": "Esquel se queda sin luz el domingo 29 por un mantenimiento en la red de alta tensión",
-   "bajada": "El corte será de 6 a 12 y podría estirarse hasta las 13 en algunos sectores. Alcanza a la ciudad y a las zonas rurales del ejido, pero no a Trevelin.",
-   "cuerpo": [
-    "La Cooperativa 16 de Octubre avisó que el domingo 29 de noviembre habrá un corte general de energía en Esquel y en sus zonas rurales entre las 6 y las 12. En algunos sectores el servicio podría volver recién a las 13, cuando terminen las maniobras para restablecerlo por completo.",
-    "La interrupción la dispuso TRANSPA S.A., que tiene que hacer trabajos de mantenimiento programado en las estaciones transformadoras Futaleufú y Esquel y en la línea de alta tensión de 132 kV que las une. El ejido de Trevelin no se verá afectado.",
-    "Como la falta de electricidad también puede complicar la distribución de agua potable en parte de la ciudad, la cooperativa pidió a los usuarios reducir al mínimo el consumo de agua durante esas horas."
-   ],
-   "arte": "cordillera",
-   "tema": "Corte de luz"
-  },
-  {
    "id": "comodoro-oca-retencion-salarios-adeudados",
    "fecha": "2026-11-26T20:05:17-03:00",
    "sec": "cuenca",
@@ -1366,84 +1440,6 @@
    "arte": "ciudad",
    "tema": "Conflicto OCA",
    "lugar": "lado"
-  },
-  {
-   "id": "trelew-agenda-fin-de-semana-27-29-noviembre",
-   "fecha": "2026-11-26T19:05:13-03:00",
-   "sec": "ultimas",
-   "ciudad": "Trelew",
-   "titulo": "Fin de semana en Trelew: orquestas, muestras, danza, corre caminata y la Base Zar abierta al público",
-   "bajada": "Del 27 al 29 de noviembre la ciudad tiene una agenda cargada de actividades culturales, deportivas y recreativas, muchas con entrada libre.",
-   "cuerpo": [
-    "La Municipalidad de Trelew difundió la agenda de actividades para este fin de semana. Jueves 26 y viernes 27, desde las 20, el Gimnasio Municipal N° 1 recibe un encuentro educativo y musical de la Orquesta Infanto Juvenil del Barrio INTA, con coros escolares y orquestas de la ciudad y la región. Las entradas, a 8.000 pesos y solo en efectivo, se consiguen en el Hotel Touring Club.",
-    "El viernes 27, desde las 17, la Escuela Municipal de Artesanías presenta su Muestra Anual 2026 en William Davies y Pasaje Santiago del Estero Norte. A las 19, el Instituto Superior de Formación Docente Artística N° 805 hace su primera gala musical, \"Cartografía Sonora\", en su auditorio de Roque González y José Berreta, con entrada libre. A las 20, el Centro Cultural Municipal (9 de Julio 655) recibe \"Encanto Comercialero\", un espacio de baile comercial sin límite de edad, y el sábado a la misma hora habrá un espectáculo de danzas árabes.",
-    "También se hará el cierre anual de los Centros Juveniles en la Chacra de la Universidad, sobre la Ruta Provincial 7, desde las 15.30, abierto al público y sin inscripción.",
-    "El sábado 28 a las 8 sale la segunda Corre Caminata de la Escuela N° 608, desde San Martín 951 hasta la Laguna Cacique Chiquichano, con una carrera de 4 kilómetros y una caminata recreativa. Ese mismo día, de 14 a 18, la Base Aeronaval Almirante Zar abre sus puertas con muestra de aeronaves, visitas y actividades comunitarias, con entrada libre y gratuita."
-   ],
-   "arte": "escenario",
-   "tema": "Agenda Trelew"
-  },
-  {
-   "id": "comodoro-aulas-vivas-cierre-invernaderos-escolares",
-   "fecha": "2026-11-26T19:05:12-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Aulas Vivas cerró el año: cuatro primarias de Comodoro mostraron lo que cultivaron en sus invernaderos",
-   "bajada": "Las escuelas 147, 146, 91 y 2 presentaron manuales, plantines y proyectos hechos durante 2026 en el programa de educación ambiental.",
-   "cuerpo": [
-    "El programa Aulas Vivas, que propone aprender a partir del contacto con la naturaleza, la producción sustentable y el cuidado del ambiente, tuvo su jornada de cierre en Comodoro Rivadavia con una muestra abierta de los trabajos hechos en los invernaderos escolares.",
-    "Este año participaron las escuelas primarias N° 147 de Astra, N° 146 de Km 3, N° 91 de Valle C y N° 2 Francisco Pietrobelli. Cada una armó un stand con manuales de trabajo, plantines y otras producciones del ciclo lectivo, y hubo un espacio de intercambio entre estudiantes y docentes.",
-    "La iniciativa la impulsan la Fundación Enfermeros Protagonistas y BRISA Salud y Bienestar, con el acompañamiento de Pan American Energy. La presidenta de la fundación, Leila Cura, señaló que el programa acerca a los chicos al aprendizaje \"mediante la observación, la experimentación y el contacto directo con la naturaleza\".",
-    "Horacio García, gerente de Relaciones Institucionales de Pan American Energy, afirmó que la propuesta \"demuestra el enorme potencial que tiene la educación cuando se complementa con experiencias prácticas\"."
-   ],
-   "arte": "escuela",
-   "tema": "Educación"
-  },
-  {
-   "id": "trelew-night-run-5k-14-edicion",
-   "fecha": "2026-11-26T19:05:11-03:00",
-   "sec": "deportes",
-   "ciudad": "Trelew",
-   "titulo": "Trelew corre de noche: el sábado se larga la 14.ª edición de la Night Run 5K",
-   "bajada": "La carrera nocturna saldrá a las 22 desde Confitería Bertolucci, con una prueba competitiva de 5 kilómetros y una caminata de 2,5. Ya hay cerca de 200 inscriptos.",
-   "cuerpo": [
-    "La Night Run 5K vuelve a las calles de Trelew este sábado 28 de noviembre con su 14.ª edición. La organiza Eventos Deportivos Trelew con el acompañamiento del Municipio, y la largada y la llegada estarán en Confitería Bertolucci, a partir de las 22.",
-    "Habrá dos opciones: una carrera competitiva de 5 kilómetros y una caminata participativa de 2,5 kilómetros para quienes quieran sumarse sin competir. Gerardo Haro, de la organización, dijo que ya son alrededor de 200 los atletas anotados, de distintas localidades, entre ellos Luciano Galván, de Neuquén, y Juan Paz, de Sierra Grande.",
-    "La noche tendrá música a cargo de DJ Agus y la locución de Vanshi Thomas y Lili Méndez. Las inscripciones siguen abiertas en la plataforma de Cronometraje Instantáneo, tanto para la carrera como para la caminata."
-   ],
-   "arte": "noche",
-   "tema": "Night Run 5K"
-  },
-  {
-   "id": "gimnasia-jujuy-baja-dematei-duda-molina-madryn",
-   "fecha": "2026-11-26T19:05:10-03:00",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Gimnasia de Jujuy llega a Madryn sin Dematei y con la duda de Francisco Molina",
-   "bajada": "El defensor jujeño sufrió un desgarro en el gemelo y no jugará la revancha de cuartos de final del sábado. El Aurinegro necesita ganar para seguir en carrera.",
-   "cuerpo": [
-    "Gimnasia de Jujuy tendrá al menos una ausencia para la vuelta de los cuartos de final ante Deportivo Madryn: su entrenador, Hernán Pellerano, confirmó que el defensor Nicolás Dematei quedó descartado por un desgarro en el gemelo que sufrió en el partido de ida, jugado en el estadio 23 de Agosto.",
-    "El cuerpo técnico jujeño también sigue la evolución de Francisco Molina, que terminó el primer encuentro con una molestia en el tobillo. Según contó Pellerano, el jugador entrenó el miércoles con zapatillas y el jueves volvería a usar botines para ver si llega en condiciones al sábado.",
-    "Gimnasia ganó 1 a 0 en Jujuy, por lo que le alcanza con un empate o una victoria para pasar a semifinales. El Aurinegro está obligado a ganar: con un gol de diferencia se clasifica por ventaja deportiva y con dos o más avanza por el resultado global.",
-    "El plantel de Madryn entrenó el jueves en la cancha Walter Casado, mientras Luis García define el equipo titular, en el que se espera al menos un cambio respecto de la ida. El partido se jugará el sábado 28 de noviembre a las 20, con arbitraje de Joaquín Gil, y las entradas se venden en la sede del club, en avenida Roca 516."
-   ],
-   "arte": "cancha",
-   "tema": "Deportivo Madryn"
-  },
-  {
-   "id": "comodoro-pareja-detenida-robo-vivienda-dorrego",
-   "fecha": "2026-11-26T18:05:19-03:00",
-   "sec": "policiales",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: detuvieron a una pareja acusada de robar pertenencias de una casa en calle Dorrego",
-   "bajada": "Un testigo los vio entrar a la vivienda y avisó a la Policía. El hombre intentó agredir a los agentes y escapó a pie, pero lo alcanzaron. Lo robado fue recuperado.",
-   "cuerpo": [
-    "Un hombre y una mujer fueron aprehendidos el miércoles 25 de noviembre en Comodoro Rivadavia, acusados de llevarse distintos objetos de una vivienda de calle Dorrego. Todo empezó cerca de las 12:47, cuando un testigo llamó a la Comisaría Seccional Segunda para avisar que los había visto entrar a la casa y salir con pertenencias.",
-    "Un móvil policial salió a buscarlos y los ubicó. Durante la intervención, el hombre habría intentado agredir a los efectivos y huyó a pie por 13 de Diciembre hacia avenida Rivadavia, por lo que se pidió apoyo a las seccionales Primera y Tercera.",
-    "Finalmente lo detuvieron en Pastor Schneider y avenida Rivadavia, mientras que la mujer quedó aprehendida en 13 de Diciembre y Rawson. Ambos se habían deshecho de lo que llevaban durante la fuga, pero los agentes recuperaron todo: un toallón, una credencial, un bastón de madera, una campera inflable, un buzo, cintas y pulseras y una botella de vino tinto."
-   ],
-   "arte": "ciudad",
-   "tema": "Seguridad"
   },
   {
    "id": "seros-nueva-sede-comodoro-albergue-derivados",
