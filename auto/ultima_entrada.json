@@ -1,60 +1,90 @@
 {
  "notas": [
   {
-   "id": "madryn-preparativos-temporada-verano",
+   "id": "ruta-40-bacheo-esquel-epuyen",
    "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "tema": "Temporada de verano",
-   "titulo": "Sastre: Madryn se prepara para la temporada de verano con más servicios y espacios",
-   "bajada": "El intendente de Puerto Madryn destacó el trabajo de planificación y coordinación del Municipio de cara a los meses de mayor movimiento turístico.",
+   "ciudad": "Esquel",
+   "tema": "Ruta 40",
+   "titulo": "Vialidad Nacional repara con asfalto caliente la Ruta 40 entre Esquel y Epuyén",
+   "bajada": "Una cuadrilla trabajó en el tramo entre los puentes de los arroyos Lepá y Leleque y seguirá con las tareas la semana próxima.",
    "cuerpo": [
-    "El intendente Gustavo Sastre explicó que distintas áreas municipales trabajan en la organización de los servicios, el mantenimiento urbano, la limpieza, el cuidado de las playas y las acciones de prevención, ante el aumento de visitantes y el mayor uso de los espacios públicos durante el verano.",
-    "\"El verano representa uno de los momentos de mayor movimiento para Puerto Madryn y tenemos que estar preparados\", manifestó. Dijo que el objetivo es que los vecinos puedan disfrutar de la ciudad y que quienes la visitan encuentren una localidad ordenada y con servicios.",
-    "El jefe comunal remarcó la importancia del trabajo articulado entre las dependencias municipales, con refuerzo de tareas en espacios verdes, limpieza urbana, ordenamiento del tránsito y seguridad en los sectores de mayor concurrencia."
+    "Personal de Vialidad Nacional continuó este viernes con la reparación de la calzada de la Ruta Nacional 40, en el tramo que une Esquel con Epuyén. Los trabajos se concentraron entre los puentes de los arroyos Lepá y Leleque.",
+    "El bacheo se hizo con material asfáltico caliente sobre los sectores deteriorados, que luego fue compactado con un rodillo para completar la reparación y mejorar las condiciones de seguridad.",
+    "Desde el organismo anticiparon que las tareas continuarán durante la próxima semana en distintos puntos del tramo. Pidieron a los conductores circular con precaución, respetar la señalización y seguir las indicaciones de los banderilleros."
    ],
-   "foto": null,
+   "foto": "ruta",
    "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
-   "arte": "playa",
-   "origen": "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-32-0-sastre-estamos-preparando-a-la-ciudad-para-recibir-una-nueva-temporada-de-verano-con-mas-servicios-y-espacios"
+   "arte": "ruta",
+   "origen": "https://www.elchubut.com.ar/regionales/2026-11-27-20-58-0-vialidad-nacional-realizo-trabajos-de-bacheo-en-ruta-40-entre-esquel-y-epuyen"
   },
   {
-   "id": "madryn-rabia-villa-padilla-vacunacion",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "tema": "Rabia en Madryn",
-   "titulo": "Rabia en Villa Padilla: vacunación gratuita de mascotas y recorridas casa por casa en Madryn",
-   "bajada": "Tras detectarse un caso positivo en el barrio, la Municipalidad activó el protocolo sanitario con vacunación antirrábica y monitoreo en un anillo epidemiológico.",
+   "id": "esquel-codigo-planeamiento-urbano",
+   "sec": "politica",
+   "ciudad": "Esquel",
+   "tema": "Planeamiento Esquel",
+   "titulo": "Taccetta envió al Concejo el proyecto para actualizar el Código de Planeamiento Urbano de Esquel",
+   "bajada": "La iniciativa busca adecuar las normas de crecimiento de la ciudad a las nuevas demandas habitacionales, productivas, turísticas y ambientales.",
    "cuerpo": [
-    "La Dirección de Veterinaria y Zoonosis de Puerto Madryn activó los protocolos por un caso positivo de rabia en Villa Padilla. Agentes municipales identificados recorrerán el sector comprendido entre Reconquista, Estivariz, Piedra Buena y 9 de Julio, en inmediaciones de la Escuela Nº 110, con visitas domiciliarias y vacunación de animales domésticos.",
-    "El operativo será el sábado 28 y el lunes 30 de noviembre y el martes 1 de diciembre de 8 a 16, y el domingo 29 de 10 a 12. Con el mismo cronograma se aplicará vacuna antirrábica gratuita en el Quirófano Móvil, ubicado en avenida Gales entre Colón y Rosales. La vacuna es obligatoria desde los tres meses de edad.",
-    "Como el equipo municipal estará abocado al operativo, las castraciones quedan suspendidas desde el sábado 28 de noviembre hasta el martes 2 de diciembre inclusive."
-   ],
-   "foto": "perro",
-   "arte": "ciudad",
-   "origen": "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-31-0-habra-vacunacion-de-animales-en-caso-positivo-de-rabia"
-  },
-  {
-   "id": "hockey-regional-sub14-definiciones",
-   "sec": "deportes",
-   "ciudad": "Trelew",
-   "tema": "Hockey",
-   "titulo": "Regional Sub 14 de hockey: este sábado se definen los finalistas en Trelew y Gaiman",
-   "bajada": "El torneo que reúne a 22 equipos patagónicos entra en su etapa decisiva, con cruces que dirán quiénes juegan las finales del domingo.",
-   "cuerpo": [
-    "El Campeonato Regional de Clubes Sub 14 Damas A, B y C ingresa en su etapa decisiva. Este sábado se disputarán cuadrangulares, semifinales y partidos de continuidad que definirán quiénes avanzan a las finales del domingo, cuando se conocerán las campeonas de cada categoría.",
-    "El certamen es organizado por la Confederación Argentina de Hockey junto a la Asociación de Hockey Valle del Chubut, y se juega en Trelew y Gaiman con 22 equipos de distintos puntos de la Patagonia.",
-    "También hay ascensos y descensos en juego: en la categoría A, el campeón obtendrá el ascenso al Campeonato Argentino B y habrá un descenso al Regional B."
+    "El intendente de Esquel, Matías Taccetta, elevó al Concejo Deliberante un proyecto de ordenanza para actualizar de forma integral el Código de Planeamiento Urbano, vigente desde la Ordenanza 207/21.",
+    "La propuesta prevé nuevas herramientas para ordenar los loteos y las expansiones urbanas, fijar criterios para las actividades industriales y comerciales, y definir áreas de crecimiento turístico y recreativo. También busca mejorar la convivencia entre los distintos usos del suelo y evitar molestias en sectores residenciales.",
+    "Uno de los ejes es planificar el crecimiento según la disponibilidad de servicios y el cuidado de los recursos naturales: se incorporan estudios sobre captación de agua, drenajes, suelos, zonas inundables, mallines, laderas con riesgo y bosques nativos.",
+    "«Era un compromiso de nuestra gestión tener un código acorde a la proyección y planificación de la ciudad y pensando en las futuras generaciones», indicó Taccetta, que agradeció el aporte de las instituciones que participaron de la elaboración."
    ],
    "foto": null,
+   "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
+   "arte": "ciudad",
+   "origen": "https://www.elchubut.com.ar/esquel/2026-11-27-20-42-0-taccetta-envio-al-concejo-deliberante-el-proyecto-para-actualizar-y-modernizar-el-codigo-de-planeamiento-urbano"
+  },
+  {
+   "id": "catalan-baja-candidatura-apoya-luque",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "tema": "Elecciones 2027",
+   "titulo": "Luis Catalán se baja de la candidatura a gobernador y respaldará a Juan Pablo Luque",
+   "bajada": "El dirigente justicialista dijo que da un paso al costado en favor de la unidad del peronismo provincial.",
+   "cuerpo": [
+    "Luis Catalán anunció que no competirá por la gobernación de Chubut dentro del Partido Justicialista y que acompañará a Juan Pablo Luque, con el objetivo de contribuir a la unidad del peronismo.",
+    "Explicó que el adelantamiento del calendario electoral cambió los tiempos previstos y abre una etapa de acuerdos. «Cuando se define el calendario electoral comienza una nueva etapa: el tiempo de la tregua, de la generosidad y de la unidad», afirmó.",
+    "Catalán contó que conversó con Luque y que hablaron de construir un espacio que contemple las distintas realidades territoriales, políticas y sociales de la provincia.",
+    "Entre sus planteos, pidió que Puerto Madryn tenga una representación efectiva en la futura Legislatura, junto con Trelew, Rawson, la Cordillera y el resto de las regiones."
+   ],
+   "foto": null,
+   "foto_archivo": "auto/fotos_candidatas/cand-3.png",
+   "arte": "ciudad",
+   "origen": "https://www.madrynahora.com/chubut/luis-catalan-se-bajo-de-la-candidatura-a-gobernador-y-respaldara-a-juan-pablo-luque/"
+  },
+  {
+   "id": "deportivo-madryn-gimnasia-jujuy-reducido",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "tema": "Deportivo Madryn",
+   "titulo": "Deportivo Madryn recibe a Gimnasia de Jujuy y busca revertir la serie del Reducido",
+   "bajada": "Juega este sábado a las 20 en el Abel Sastre, tras perder 1-0 en la ida, por un lugar en las semifinales de la Primera Nacional.",
+   "cuerpo": [
+    "Deportivo Madryn enfrenta este sábado, desde las 20 en el estadio Abel Sastre, a Gimnasia y Esgrima de Jujuy por la vuelta de los cuartos de final del Reducido de la Primera Nacional. El equipo chubutense viene de perder 1-0 en la ida.",
+    "El árbitro será Joaquín Gil, con Cristian Navarro y Diego Martín como asistentes y Lucas Cavallero como cuarto árbitro.",
+    "Si Madryn gana por un gol, la clasificación se definirá según el criterio de ventaja deportiva establecido para la instancia; si gana por dos o más, avanza directo. Si hay igualdad en puntos y diferencia de gol, pasará el mejor ubicado en la tabla general.",
+    "El ganador esperará en semifinales a Atlanta, mientras que Tristán Suárez y Colón ya definieron el otro cruce."
+   ],
+   "foto": "futbol",
    "arte": "cancha",
-   "origen": "https://canal12web.com/el-regional-sub-14-entra-en-etapa-de-definiciones-el-sabado-se-conoceran-los-finalistas/"
+   "origen": "https://canal12web.com/deportivo-madryn-busca-dar-vuelta-la-serie-y-meterse-en-las-semifinales-del-reducido/"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427866/politica/el_tribunal_del_mar_decide_hoy_si_frena_la_explotacion_petrolera_en_malvinas",
-  "https://www.diariojornada.com.ar/427865/policiales/allanaron_otra_propiedad_de_lujo_vinculada_al_entorno_de_la_afa",
-  "https://www.elchubut.com.ar/espectaculos/2026-11-27-12-50-0-quienes-llevaran-su-musica-este-domingo-a-la-pena-de-morfi",
-  "https://www.elchubut.com.ar/trelew/2026-11-27-8-23-0-caso-rodrigo-colihuinca-recapturaron-a-brian-huenchullan-munoz",
-  "https://canal12web.com/estudiantes-y-palmeiras-se-enfrentan-por-la-gloria-en-la-final-de-la-libertadores-2026/"
+  "https://www.diariojornada.com.ar/427869/politica/el_estado_afronta_demandas_laborales_por_mas_de_67900_millones",
+  "https://www.diariojornada.com.ar/427866/politica/el_tribunal_del_mar_rechazo_el_pedido_argentino_para_frenar_la_explotacion_petrolera_en_malvinas",
+  "https://www.diariojornada.com.ar/427868/internacional/murieron_ocho_militares_al_estrellarse_un_helicoptero_en_peru",
+  "https://www.diariojornada.com.ar/427867/policiales/extraditaron_a_un_narcotraficante_vinculado_a_bebote_lvarez",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-20-56-0-despedida-del-ano-escolar-en-el-instituto-maria-auxiliadora",
+  "https://www.elchubut.com.ar/rawson/2026-11-27-20-43-0-ader-mostro-su-capacidad-productiva",
+  "https://www.madrynahora.com/puerto-madryn/puerto-madryn-vacuna-casa-por-casa-en-villa-padilla-tras-detectar-un-murcielago-con-rabia/",
+  "https://canal12web.com/chubut-tendra-un-sabado-de-sol-y-temperaturas-cercanas-a-los-30c/",
+  "https://canal12web.com/chapecoense-a-diez-anos-de-una-de-las-tragedias-que-conmociono-al-futbol-mundial/",
+  "https://canal12web.com/river-visita-a-instituto-en-cordoba-con-la-clasificacion-a-semifinales-como-objetivo/",
+  "https://cholilaonline.ar/2026/11/jubilados-con-moratoria-en-diciembre-cuanto-cobran-anses.html",
+  "https://cholilaonline.ar/2026/11/bono-de-250000-en-diciembre-quienes-cobran-doble-deposito.html",
+  "https://cholilaonline.ar/2026/11/final-copa-libertadores-2026-estudiantes-palmeiras.html",
+  "https://cholilaonline.ar/2026/11/regional-sub-14-de-hockey-finalistas-trelew-gaiman.html"
  ]
 }

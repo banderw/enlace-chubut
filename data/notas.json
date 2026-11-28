@@ -77,6 +77,69 @@
  ],
  "notas": [
   {
+   "id": "deportivo-madryn-gimnasia-jujuy-reducido",
+   "fecha": "2026-11-28T09:07:23-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Deportivo Madryn recibe a Gimnasia de Jujuy y busca revertir la serie del Reducido",
+   "bajada": "Juega este sábado a las 20 en el Abel Sastre, tras perder 1-0 en la ida, por un lugar en las semifinales de la Primera Nacional.",
+   "cuerpo": [
+    "Deportivo Madryn enfrenta este sábado, desde las 20 en el estadio Abel Sastre, a Gimnasia y Esgrima de Jujuy por la vuelta de los cuartos de final del Reducido de la Primera Nacional. El equipo chubutense viene de perder 1-0 en la ida.",
+    "El árbitro será Joaquín Gil, con Cristian Navarro y Diego Martín como asistentes y Lucas Cavallero como cuarto árbitro.",
+    "Si Madryn gana por un gol, la clasificación se definirá según el criterio de ventaja deportiva establecido para la instancia; si gana por dos o más, avanza directo. Si hay igualdad en puntos y diferencia de gol, pasará el mejor ubicado en la tabla general.",
+    "El ganador esperará en semifinales a Atlanta, mientras que Tristán Suárez y Colón ya definieron el otro cruce."
+   ],
+   "arte": "cancha",
+   "tema": "Deportivo Madryn"
+  },
+  {
+   "id": "catalan-baja-candidatura-apoya-luque",
+   "fecha": "2026-11-28T09:07:22-03:00",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Luis Catalán se baja de la candidatura a gobernador y respaldará a Juan Pablo Luque",
+   "bajada": "El dirigente justicialista dijo que da un paso al costado en favor de la unidad del peronismo provincial.",
+   "cuerpo": [
+    "Luis Catalán anunció que no competirá por la gobernación de Chubut dentro del Partido Justicialista y que acompañará a Juan Pablo Luque, con el objetivo de contribuir a la unidad del peronismo.",
+    "Explicó que el adelantamiento del calendario electoral cambió los tiempos previstos y abre una etapa de acuerdos. «Cuando se define el calendario electoral comienza una nueva etapa: el tiempo de la tregua, de la generosidad y de la unidad», afirmó.",
+    "Catalán contó que conversó con Luque y que hablaron de construir un espacio que contemple las distintas realidades territoriales, políticas y sociales de la provincia.",
+    "Entre sus planteos, pidió que Puerto Madryn tenga una representación efectiva en la futura Legislatura, junto con Trelew, Rawson, la Cordillera y el resto de las regiones."
+   ],
+   "arte": "ciudad",
+   "tema": "Elecciones 2027"
+  },
+  {
+   "id": "esquel-codigo-planeamiento-urbano",
+   "fecha": "2026-11-28T09:07:21-03:00",
+   "sec": "politica",
+   "ciudad": "Esquel",
+   "titulo": "Taccetta envió al Concejo el proyecto para actualizar el Código de Planeamiento Urbano de Esquel",
+   "bajada": "La iniciativa busca adecuar las normas de crecimiento de la ciudad a las nuevas demandas habitacionales, productivas, turísticas y ambientales.",
+   "cuerpo": [
+    "El intendente de Esquel, Matías Taccetta, elevó al Concejo Deliberante un proyecto de ordenanza para actualizar de forma integral el Código de Planeamiento Urbano, vigente desde la Ordenanza 207/21.",
+    "La propuesta prevé nuevas herramientas para ordenar los loteos y las expansiones urbanas, fijar criterios para las actividades industriales y comerciales, y definir áreas de crecimiento turístico y recreativo. También busca mejorar la convivencia entre los distintos usos del suelo y evitar molestias en sectores residenciales.",
+    "Uno de los ejes es planificar el crecimiento según la disponibilidad de servicios y el cuidado de los recursos naturales: se incorporan estudios sobre captación de agua, drenajes, suelos, zonas inundables, mallines, laderas con riesgo y bosques nativos.",
+    "«Era un compromiso de nuestra gestión tener un código acorde a la proyección y planificación de la ciudad y pensando en las futuras generaciones», indicó Taccetta, que agradeció el aporte de las instituciones que participaron de la elaboración."
+   ],
+   "arte": "ciudad",
+   "tema": "Planeamiento Esquel"
+  },
+  {
+   "id": "ruta-40-bacheo-esquel-epuyen",
+   "fecha": "2026-11-28T09:07:20-03:00",
+   "sec": "ultimas",
+   "ciudad": "Esquel",
+   "titulo": "Vialidad Nacional repara con asfalto caliente la Ruta 40 entre Esquel y Epuyén",
+   "bajada": "Una cuadrilla trabajó en el tramo entre los puentes de los arroyos Lepá y Leleque y seguirá con las tareas la semana próxima.",
+   "cuerpo": [
+    "Personal de Vialidad Nacional continuó este viernes con la reparación de la calzada de la Ruta Nacional 40, en el tramo que une Esquel con Epuyén. Los trabajos se concentraron entre los puentes de los arroyos Lepá y Leleque.",
+    "El bacheo se hizo con material asfáltico caliente sobre los sectores deteriorados, que luego fue compactado con un rodillo para completar la reparación y mejorar las condiciones de seguridad.",
+    "Desde el organismo anticiparon que las tareas continuarán durante la próxima semana en distintos puntos del tramo. Pidieron a los conductores circular con precaución, respetar la señalización y seguir las indicaciones de los banderilleros."
+   ],
+   "arte": "ruta",
+   "tema": "Ruta 40"
+  },
+  {
    "id": "hockey-regional-sub14-definiciones",
    "fecha": "2026-11-28T08:07:31-03:00",
    "sec": "deportes",
@@ -1278,68 +1341,6 @@
    ],
    "arte": "playa",
    "tema": "Rabia"
-  },
-  {
-   "id": "seros-nueva-sede-comodoro-albergue-derivados-2",
-   "fecha": "2026-11-27T16:08:45-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Torres inauguró en Comodoro la nueva sede de Seros y un albergue para pacientes derivados",
-   "bajada": "El complejo, de unos 4.000 metros cubiertos y más de 20 millones de dólares de inversión, forma parte del Plan Galina.",
-   "cuerpo": [
-    "El gobernador Ignacio Torres encabezó este jueves en Comodoro Rivadavia la inauguración de la nueva sede de Seros y del Albergue de Derivados, junto al presidente del Instituto de Seguridad Social y Seguros, Miguel Arnaudo.",
-    "El edificio reúne en un mismo predio la gestión administrativa, la atención médica ambulatoria y el alojamiento transitorio para afiliados del interior que viajan a la ciudad por tratamientos prolongados o de alta complejidad. Tiene 25 consultorios, quirófano para cirugías ambulatorias y más de once habitaciones en la residencia para acompañantes.",
-    "El edificio central tiene siete niveles: los tres primeros concentran la atención al público y las oficinas, y los pisos superiores se dedican a consultorios médicos y odontológicos, vacunatorio y cirugía ambulatoria.",
-    "\"Los afiliados de Seros se merecían, en Comodoro Rivadavia y para toda la provincia, una sede administrativa y clínica como la que hoy estamos inaugurando\", dijo Torres, y aseguró que allí se podrán hacer todos los trámites sin cobrar coseguro."
-   ],
-   "arte": "ciudad",
-   "tema": "Seros"
-  },
-  {
-   "id": "unpsjb-madryn-colacion-40-egresados",
-   "fecha": "2026-11-27T16:01:26-03:00",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "titulo": "La UNPSJB entregó 40 títulos en la colación de grado de Puerto Madryn",
-   "bajada": "Se graduaron profesionales de Ciencias Jurídicas, Ingeniería y Ciencias Naturales, con la presencia del rector Gustavo Fleitas.",
-   "cuerpo": [
-    "La sede Puerto Madryn de la UNPSJB realizó la colación de grado, en la que 40 egresados recibieron su título. El acto se hizo en el Aula Magna y reunió a graduados, familias y autoridades académicas, con la presencia del rector Gustavo Fleitas y de decanos y vicedecanos de las facultades, tras haber encabezado el día anterior una colación similar en Trelew.",
-    "Recibieron diplomas egresados de Ciencias Jurídicas (abogados, técnicos universitarios en Criminalística y martilleros públicos), Ingeniería (analistas programadores universitarios y licenciados en Informática) y Ciencias Naturales (licenciados en Ciencias Naturales con Biología). Hubo una alta proporción de graduados de tecnicaturas que eligen seguir hacia una licenciatura.",
-    "Damián Gigliotti, de Bienestar Universitario y Prensa de la UNPSJB, destacó que muchos estudiantes son los primeros universitarios de sus familias. Por el espacio del Aula Magna, la asistencia presencial se limitó a dos familiares por egresado y el acto se transmitió por Instagram (unpsjb-madrin). Hubo presentaciones de la Orquesta Sinfónica de Comodoro Rivadavia y del Coro Universitario de Puerto Madryn."
-   ],
-   "arte": "escuela",
-   "tema": "Educación superior"
-  },
-  {
-   "id": "colectivo-mar-y-valle-incendio-el-molle",
-   "fecha": "2026-11-27T16:01:25-03:00",
-   "sec": "policiales",
-   "ciudad": "Esquel",
-   "titulo": "Se incendió un colectivo de larga distancia con 35 pasajeros cerca de El Molle: nadie resultó herido",
-   "bajada": "El micro viajaba de Esquel hacia la costa; pasajeros y choferes salieron ilesos y la unidad se perdió por completo.",
-   "cuerpo": [
-    "Un colectivo de doble piso de la empresa 28 de Julio – Mar y Valle se incendió por completo durante la madrugada de este jueves sobre la Ruta Nacional 25, a la altura de El Molle. Viajaban unos 35 pasajeros, además de los choferes, y todos lograron salir sin heridas.",
-    "La gerenta de la empresa, Sonia Rancho, explicó que el hecho ocurrió entre la 1 y las 2. El micro había partido de Esquel a las 22 del día anterior y, por causas que todavía no se establecieron, empezó a prenderse fuego durante el trayecto. «Lo importante es que están todos bien», dijo.",
-    "Las pérdidas materiales fueron totales. Los pasajeros fueron trasladados en otra unidad que salió desde Esquel, con llegada prevista alrededor del mediodía. La empresa aguarda el regreso de los conductores para conocer en detalle lo ocurrido."
-   ],
-   "arte": "ruta",
-   "tema": "Ruta 25"
-  },
-  {
-   "id": "trelew-pj-precandidatos-intendente-consenso",
-   "fecha": "2026-11-27T16:01:24-03:00",
-   "sec": "politica",
-   "ciudad": "Trelew",
-   "titulo": "Los cuatro precandidatos del PJ a intendente de Trelew buscarán un candidato de consenso",
-   "bajada": "El partido convocará en las próximas horas a Alejandra Vázquez, Juan Aguilar, Emanuel Coliñir y Nicanor Rodríguez, con elecciones adelantadas al 21 de marzo.",
-   "cuerpo": [
-    "El Partido Justicialista convocará en las próximas horas a los cuatro precandidatos a intendente de Trelew para avanzar hacia una candidatura de consenso, en un escenario marcado por el adelantamiento de las elecciones provinciales y municipales al 21 de marzo y los escasos tiempos para organizar una interna.",
-    "Lo confirmó Nicanor Rodríguez, precandidato por «Trelew Futuro», quien anticipó que el encuentro podría concretarse en 48 o 72 horas. Participarían además Alejandra Vázquez, Juan Aguilar y Emanuel Coliñir. Según explicó, la convocatoria inicial ya se hizo con las autoridades del PJ, pero falta la reunión entre los postulantes.",
-    "Rodríguez planteó que cualquier acuerdo debe surgir del diálogo y no de una imposición: «Que sea una mesa de conversación y no una mesa de imposición». Si no hay consenso, consideró que la definición debería quedar en manos de los afiliados mediante una elección interna.",
-    "El precandidato dijo que ya tiene conformada su lista de concejales, aunque no la hará pública hasta que se resuelva el escenario, y que sigue con recorridas y reuniones con vecinos."
-   ],
-   "arte": "ciudad",
-   "tema": "Elecciones 2027"
   },
   {
    "id": "torres-canadon-perdido-recuperacion-terciaria",
