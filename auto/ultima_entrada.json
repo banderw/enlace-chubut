@@ -1,6 +1,28 @@
-{"notas": [
-{"id":"danzas-dew-club-roca-cena-show","sec":"ultimas","ciudad":"Rawson","tema":"Danza","titulo":"La Escuela de Danzas Dew del Club Roca cerró el año con una cena show en Rawson","bajada":"Las alumnas se lucieron en el escenario y recibieron certificados del ciclo 2026; cuatro de ellas se diplomaron como Maestras de Danza Jazz.","cuerpo":["La Escuela de Danzas Dew del Club Roca de Rawson despidió el ciclo lectivo 2026 con su tradicional cena show de fin de año, acompañada por las familias de las alumnas. La propuesta estuvo a cargo de la profesora Rocío Soler.","Alumnas de distintas edades presentaron diversas coreografías con coloridos vestuarios y fueron las protagonistas de la velada, pensada para celebrar el trabajo y los aprendizajes de toda la temporada.","Uno de los momentos más emotivos fue la entrega de certificados del ciclo 2026 y de diplomas de Maestras de Danza Jazz a Ailín Carabajal, Samara Aguirre, Milagros Falcón y Sofía Dimundo.","Desde la escuela agradecieron a las familias, a los colaboradores, a las autoridades y a la comunidad que hicieron posible el evento."],"foto":"fiesta","foto_archivo":"auto/fotos_candidatas/cand-1.jpg","arte":"escenario","origen":"https://www.elchubut.com.ar/regionales/2026-11-27-20-38-0-la-escuela-de-danzas-dew-del-club-roca-despidio-el-ano-con-una-emotiva-cena-show"},
-{"id":"tehuelches-7-seven-de-la-republica-parana","sec":"deportes","ciudad":"Trelew","tema":"Rugby","titulo":"Tehuelches 7 debuta en el Seven de la República en busca del ascenso","bajada":"El seleccionado de la Unión de Rugby Valle del Chubut juega este fin de semana en Paraná, en la Zona Ascenso del torneo nacional.","cuerpo":["El seleccionado mayor de seven de la Unión de Rugby Valle del Chubut, Tehuelches 7, comienza este sábado su participación en la 42° edición del Seven de la República, que organiza la Unión Argentina de Rugby y se disputa durante todo el fin de semana en Paraná, Entre Ríos.","El equipo, que integra la Zona Ascenso, va por el ascenso a la Zona Campeonato. Viaja con 12 jugadores de clubes como Draig Goch, Bigornia, Patoruzú, Trelew RC y Puerto Madryn RC. El head coach es Mauro Pagani.","El fixture arranca el sábado 28 en el Paraná Rowing Club: a las 16:40 ante Austral y a las 19:40 frente a Formosa. El domingo 29, en el Club Atlético Estudiantes, jugará a las 9:40 contra Andina y a las 16:20 ante UER B."],"foto":"rugby","foto_archivo":"auto/fotos_candidatas/cand-2.jpg","arte":"rugby","origen":"https://www.elchubut.com.ar/deportes/2026-11-27-20-37-0-tehuelches-7-debuta-en-el-seven-de-la-republica-que-se-disputa-en-entre-rios"},
-{"id":"germinal-clausura-ultima-fecha-liga-valle","sec":"deportes","ciudad":"Rawson","tema":"Fútbol del Valle","titulo":"Germinal puede ser campeón del Clausura este sábado ante Brown","bajada":"Se juega la 17ª y última fecha del torneo de la Liga de Fútbol Valle del Chubut; el Fortín lidera con 33 puntos.","cuerpo":["Este sábado se disputa la 17ª y última fecha del Clausura de Primera División de la Liga de Fútbol Valle del Chubut. Germinal recibe a Brown en El Fortín a las 16 y, con solo empatar, sería campeón sin depender de nadie.","El líder suma 33 puntos, uno más que Madryn (32), que descansa en esta fecha. CEC, con 30, juega a la misma hora ante Racing. CEC solo podría ser campeón si gana por dos goles o más y Germinal pierde.","También juegan La Ribera, Roca, Gaiman e Independiente. El domingo, a las 17, se completa la fecha con Dolavon ante Alianza y Alumni frente a Rosas."],"foto":"futbol","arte":"cancha","origen":"https://www.elchubut.com.ar/deportes/2026-11-27-20-18-0-hoy-germinal-quiere-festejar-el-titulo-en-casa"}
-],
-"descartadas":["https://www.elchubut.com.ar/deportes/2026-11-27-20-35-0-lorenzo-march-es-campeon-del-nacional-de-menores-en-neuquen"]}
+{
+ "notas": [
+  {
+   "id": "telsen-cross-virgen-del-valle",
+   "sec": "deportes",
+   "ciudad": "Telsen",
+   "tema": "Telsen 130 años",
+   "titulo": "Telsen estrena el Cross «Virgen del Valle» en el marco de su 130° aniversario",
+   "bajada": "La competencia se corre el 6 de diciembre, con distancias de 12 y 6 kilómetros, una caminata de 2.500 metros y corrida infantil gratuita.",
+   "cuerpo": [
+    "Telsen vivirá el 6 de diciembre la primera edición del Cross «Virgen del Valle», una propuesta que une deporte, naturaleza e identidad local. Se realiza por los 130 años de la localidad y los 30 años de la Virgen del Valle.",
+    "Las distancias son de 12 y 6 kilómetros, más una caminata de 2.500 metros. También habrá corrida infantil en todas las categorías, con inscripción totalmente gratuita para los chicos. Al terminar la competencia se entregarán los premios.",
+    "La organización, encabezada por Tamara Sandoval, informó que ya se agotaron las inscripciones con remera, pero quedan disponibles las que no la incluyen, que se hacen por la cuenta de Instagram Telsen Oficial. Se estima una participación cercana a los 100 atletas de Playa Unión, Rawson, Trelew, Gaiman, Puerto Madryn y otros puntos de la provincia.",
+    "Quienes no tengan cómo llegar pueden acercarse a la oficina de «El Ñandú» en la Terminal de Ómnibus de Trelew para consultar costos y horarios de pasaje. Además, todavía queda lugar para alojarse sin costo en una escuela de la localidad.",
+    "El fin de semana tendrá más actividades: el 8 de diciembre la peregrinación, y el 9 el aniversario de Telsen, con jineteadas, baile, destreza criolla y fogones."
+   ],
+   "foto": "atletismo",
+   "foto_archivo": "auto/fotos_candidatas/cand-3.jpg",
+   "arte": "meseta",
+   "origen": "https://www.elchubut.com.ar/deportes/2026-11-27-20-13-0-telsen-hace-disputar-el-cross-virgen-del-valle"
+  }
+ ],
+ "descartadas": [
+  "https://www.elchubut.com.ar/deportes/2026-11-27-20-17-0-cuarta-y-ultima-fecha-del-provincial-de-canotaje",
+  "https://www.elchubut.com.ar/deportes/2026-11-27-20-12-0-estudiantes-va-por-el-titulo-de-la-copa-libertadores",
+  "https://www.elchubut.com.ar/deportes/2026-11-27-20-10-0-river-visita-a-instituto-por-el-pase-a-la-semifinal"
+ ]
+}

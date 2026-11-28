@@ -77,6 +77,23 @@
  ],
  "notas": [
   {
+   "id": "telsen-cross-virgen-del-valle",
+   "fecha": "2026-11-28T06:06:28-03:00",
+   "sec": "deportes",
+   "ciudad": "Telsen",
+   "titulo": "Telsen estrena el Cross «Virgen del Valle» en el marco de su 130° aniversario",
+   "bajada": "La competencia se corre el 6 de diciembre, con distancias de 12 y 6 kilómetros, una caminata de 2.500 metros y corrida infantil gratuita.",
+   "cuerpo": [
+    "Telsen vivirá el 6 de diciembre la primera edición del Cross «Virgen del Valle», una propuesta que une deporte, naturaleza e identidad local. Se realiza por los 130 años de la localidad y los 30 años de la Virgen del Valle.",
+    "Las distancias son de 12 y 6 kilómetros, más una caminata de 2.500 metros. También habrá corrida infantil en todas las categorías, con inscripción totalmente gratuita para los chicos. Al terminar la competencia se entregarán los premios.",
+    "La organización, encabezada por Tamara Sandoval, informó que ya se agotaron las inscripciones con remera, pero quedan disponibles las que no la incluyen, que se hacen por la cuenta de Instagram Telsen Oficial. Se estima una participación cercana a los 100 atletas de Playa Unión, Rawson, Trelew, Gaiman, Puerto Madryn y otros puntos de la provincia.",
+    "Quienes no tengan cómo llegar pueden acercarse a la oficina de «El Ñandú» en la Terminal de Ómnibus de Trelew para consultar costos y horarios de pasaje. Además, todavía queda lugar para alojarse sin costo en una escuela de la localidad.",
+    "El fin de semana tendrá más actividades: el 8 de diciembre la peregrinación, y el 9 el aniversario de Telsen, con jineteadas, baile, destreza criolla y fogones."
+   ],
+   "arte": "meseta",
+   "tema": "Telsen 130 años"
+  },
+  {
    "id": "germinal-clausura-ultima-fecha-liga-valle",
    "fecha": "2026-11-28T05:06:30-03:00",
    "sec": "deportes",
@@ -1322,21 +1339,6 @@
    ],
    "arte": "mar",
    "tema": "Agenda Madryn"
-  },
-  {
-   "id": "tehuelches-seven-republica-parana",
-   "fecha": "2026-11-27T15:40:43-03:00",
-   "sec": "deportes",
-   "ciudad": "Trelew",
-   "titulo": "Tehuelches viajó a Paraná al Seven de la República en busca de la permanencia y el ascenso",
-   "bajada": "El seleccionado del Valle juega la Zona Ascenso del torneo, que se disputa este fin de semana en Entre Ríos.",
-   "cuerpo": [
-    "El seleccionado Tehuelches partió a Paraná para disputar el Seven de la República 2026, que este fin de semana tendrá su 42.ª edición masculina y la 10.ª femenina, en las canchas de Estudiantes y del Paraná Rowing Club.",
-    "El equipo chubutense integra la Zona 6 de ascenso, junto a Austral, Andina, Formosa y Entre Ríos B. El plantel reúne jugadores de Patoruzú, Trelew RC, Bigornia, Puerto Madryn RC y Draig Goch, entre otros clubes, y mantiene el cuerpo técnico del año pasado, con Mauro Pagani como entrenador.",
-    "El año pasado Tehuelches jugó también en la Zona Ascenso y logró la permanencia con dos triunfos y tres derrotas. Este año el primer objetivo es sostener la categoría y, una vez conseguido, pelear por el ascenso."
-   ],
-   "arte": "rugby",
-   "tema": "Rugby"
   },
   {
    "id": "torres-canadon-perdido-recuperacion-terciaria",
