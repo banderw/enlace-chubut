@@ -1,52 +1,7 @@
-{
- "notas": [
-  {
-   "id": "blotta-lidero-entrenamiento-viedma",
-   "sec": "deportes",
-   "ciudad": "Comodoro Rivadavia",
-   "tema": "Turismo Nacional",
-   "titulo": "El comodorense Renzo Blotta fue el más veloz del último entrenamiento del TN en Viedma",
-   "bajada": "El piloto del Peugeot 208 marcó 1m38s973 en la Clase 2 y quedó apenas 4 milésimas por delante del líder del campeonato.",
-   "cuerpo": [
-    "Renzo Blotta se quedó con el segundo y último entrenamiento de la Clase 2 del Turismo Nacional en el autódromo de Viedma, en la previa de la 12ª y última fecha del Campeonato 2026. El piloto comodorense, que había sido 9º en la primera práctica, giró en 1m38s973 a 149,786 km/h.",
-    "Superó por solo 0s004 a Tomás Vitar (Nissan March), líder del campeonato. Exequiel Bastidas (Toyota Yaris), escolta en la tabla, fue 3º a 0s036, y Gastón Iansa (Peugeot 208) cuarto a 0s082 de Blotta.",
-    "Francisco Coltrinari (Peugeot 208), el candidato más relegado en la pelea por el título, fue 5º. Está a 27 puntos de Vitar con 63 en disputa. La categoría también informó que los autos involucrados en la definición de las Clases 2 y 3 tendrán una verificación técnica cruzada."
-   ],
-   "foto": null,
-   "arte": "ruta",
-   "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
-   "origen": "https://www.diariojornada.com.ar/427884/deportes/renzo_blotta_lidero_el_ultimo_entrenamiento"
-  },
-  {
-   "id": "tres-poderes-violencia-contra-las-mujeres",
-   "sec": "ultimas",
-   "ciudad": "Rawson",
-   "tema": "Violencia de género",
-   "titulo": "Los tres Poderes del Chubut renovaron su compromiso contra la violencia hacia las mujeres",
-   "bajada": "El acto central por el Día Internacional de la Eliminación de la Violencia contra las Mujeres se realizó en la Legislatura, con representantes de los Poderes Ejecutivo, Legislativo y Judicial.",
-   "cuerpo": [
-    "El Gobierno del Chubut, a través del Ministerio de Desarrollo Humano, realizó este viernes en la Legislatura provincial la jornada central por el Día Internacional de la Eliminación de la Violencia contra las Mujeres, con el objetivo de visibilizar las políticas de prevención, asistencia y abordaje integral de las violencias por motivos de género.",
-    "La mesa principal estuvo integrada por la ministra del Superior Tribunal de Justicia, Camila Banfi; la ministra de Desarrollo Humano, Florencia Papaiani; la secretaria General de Gobierno, Macarena Acuipil; la secretaria Legislativa, Ligia Pérez; y la directora general de Políticas de Género y Diversidad, Jazmín Verra. También participaron autoridades de gobiernos locales y equipos técnicos.",
-    "Papaiani sostuvo que \"es importante que cada año podamos renovar el compromiso\" y agradeció al personal de la Línea 137, que atiende las 24 horas todos los días del año. Remarcó la necesidad de abordar el tema de forma integral, con prevención, asistencia y oportunidades para que las mujeres construyan proyectos de vida autónomos."
-   ],
-   "foto": null,
-   "arte": "ciudad",
-   "foto_archivo": "auto/fotos_candidatas/cand-3.jpg",
-   "origen": "https://www.elchubut.com.ar/regionales/2026-11-28-13-38-0-chubut-reafirma-el-compromiso-de-los-tres-poderes-del-estado-en-la-lucha-contra-la-violencia-hacia-las-mujeres"
-  }
- ],
- "descartadas": [
-  "https://www.diariojornada.com.ar/427856/deportes/el_lolo_en_el_camino_del_mono",
-  "https://www.diariojornada.com.ar/427882/deportes/colapinto_fue_16_y_kimi_antonelli_domino_la_fp3_del_gran_premio_de_qatar",
-  "https://www.diariojornada.com.ar/427883/politica/un_pais_es_posible_y_es_este",
-  "https://www.adnsur.com.ar/ambiente-y-salud-/rio-negro--las-playas-con-mas-controles-ambientales-concentran-una-mayor-variedad-de-aves_a6b0ab3d70c00c3cae3e69e5c",
-  "https://www.elchubut.com.ar/regionales/2026-11-28-13-35-0-ver-para-ser-libres-2-943-anteojos-entregados-en-chubut-tras-cuatro-semanas-de-operativos",
-  "https://www.elchubut.com.ar/regionales/2026-11-28-13-45-0-miradas-que-conectan-provincia-y-nicadpi-llevaran-la-muestra-artistica-a-la-casa-del-chubut-en-buenos-aires",
-  "https://www.eldiarioweb.com/2026/11/educacion-secundaria-se-aprobo-la-reformulacion-del-cargo-de-profesor-de-orientacion-y-tutoria/",
-  "https://cholilaonline.ar/2026/11/tratamiento-del-lupus-nuevas-guias-latinoamericanas-gladel-panlar.html",
-  "https://cholilaonline.ar/2026/11/palmeiras-vs-estudiantes-final-copa-libertadores-2026-horario-tv-streaming-formaciones.html",
-  "https://cholilaonline.ar/2026/11/colapinto-en-la-f1-termino-16-practica-libre-3-gp-de-catar.html",
-  "https://cholilaonline.ar/2026/11/tragedia-de-chapecoense-diez-anos-del-accidente-aereo-medellin.html",
-  "https://noticias.chubut.gob.ar/gacetilla/5897"
- ]
-}
+{"notas":[
+{"id":"comodoro-nuevo-secretario-infraestructura-solohaga","sec":"cuenca","ciudad":"Comodoro Rivadavia","tema":"Gabinete municipal","titulo":"Marcelo Solohaga juró como nuevo secretario de Infraestructura de Comodoro","bajada":"El intendente Othar Macharashvili le tomó juramento tras la renuncia de Fernando Ostoich, con el objetivo de reforzar la presencia en los barrios.","cuerpo":["El intendente Othar Macharashvili tomó juramento a Marcelo Fabián Solohaga como nuevo secretario de Infraestructura, Obras y Servicios Públicos de Comodoro Rivadavia. La ceremonia contó con integrantes del gabinete municipal, familiares y amigos.","Durante el acto se leyó la Resolución N° 2524/26, que aceptó la renuncia de Fernando Andrés Ostoich a partir del 26 de noviembre y formalizó la designación de Solohaga desde el 27.","El flamante funcionario dijo que su tarea estará centrada en el trabajo en el territorio: \"Vamos a desarrollar un trabajo más cercano a la gente, tal como nos pidió el intendente\", remarcó.","Desde el Ejecutivo municipal indicaron que el cambio busca fortalecer la capacidad operativa de las áreas técnicas y acelerar las respuestas en mantenimiento urbano, infraestructura y servicios en los barrios."],"foto":"edificio","foto_archivo":"auto/fotos_candidatas/cand-3.jpg","arte":"ciudad","origen":"https://www.diariojornada.com.ar/427886/politica/othar_tomo_juramento_al_nuevo_secretario_de_infraestructura"},
+{"id":"comodoro-primer-vinedo-demostrativo","sec":"cuenca","ciudad":"Comodoro Rivadavia","tema":"Producción local","titulo":"Comodoro pone en marcha el primer viñedo demostrativo de la región","bajada":"La Municipalidad y Estancia Las Rosas implantaron 1.400 de las 2.800 vides previstas, de Pinot Noir y Chardonnay.","cuerpo":["La Municipalidad de Comodoro Rivadavia y Estancia Las Rosas pusieron en marcha el primer viñedo demostrativo de la región. El proyecto prevé 2.800 plantas de vid de las variedades Pinot Noir y Chardonnay.","En esta etapa inicial ya se implantaron 1.400 ejemplares, mientras que el resto quedará viverizado al aire libre y se sumará el año próximo, con el fin de evaluar la adaptación del cultivo al ambiente local.","El titular de Comodoro Conocimiento, Rubén Zárate, explicó que el espacio será \"de referencia para acercar experiencias prácticas a productores, emprendedores y personas interesadas en invertir en vitivinicultura\".","La agencia municipal aportará las plantas, el acompañamiento técnico y la capacitación, y Estancia Las Rosas, elegida por convocatoria pública, pondrá el terreno, la infraestructura y las tareas operativas. La iniciativa integra el Programa de Desarrollo Vitivinícola y Agroalimentos."],"foto":"chacra","arte":"valle","origen":"https://cholilaonline.ar/2026/11/convenio-estancia-las-rosas-comodoro-impulsa-primer-vinedo-demostrativo.html"},
+{"id":"pot-2027-inscripcion-secundaria-chubut","sec":"ultimas","ciudad":"Provincia","tema":"Educación","titulo":"Abre la inscripción POT 2027 para docentes del Nivel Secundario","bajada":"Será del 1 al 23 de diciembre, solo para quienes ya tengan legajo en la Junta de Clasificación Docente de Secundaria.","cuerpo":["El Ministerio de Educación del Chubut convocó a docentes a inscribirse en el listado de interinatos y suplencias para el cargo de Profesor de Orientación y Tutorías (POT) del Nivel Secundario, ciclo lectivo 2027. La inscripción será del 1 al 23 de diciembre, según la Resolución ME Nº 740/26.","Se trata de una convocatoria excepcional y complementaria del proceso ordinario, que habitualmente se abre desde junio. Pueden participar únicamente quienes ya cuentan con legajo en la Junta de Clasificación Docente de Educación Secundaria (JCDES).","Están habilitados quienes tengan título docente para el nivel o alcance D, además de profesionales con licenciaturas en Psicología, Psicopedagogía, Historia, Trabajo Social, Comunicación Social, Filosofía, Sociología, Ciencias de la Educación y otras carreras afines.","El trámite se hace solo a través de la plataforma de inscripción de la Junta. Las consultas pueden hacerse en su sede o por correo electrónico a inscripciones.jcdes@educaciónvirtual.chubut.edu.ar."],"foto":"escuela","arte":"escuela","origen":"https://cholilaonline.ar/2026/11/inscripcion-pot-2027-nivel-secundario-chubut-listado-docentes.html"},
+{"id":"madryn-cierre-talleres-culturales-2026","sec":"ultimas","ciudad":"Puerto Madryn","tema":"Cultura","titulo":"Puerto Madryn cierra los Talleres Culturales 2026 con una jornada abierta","bajada":"Será este sábado de 14 a 18 en el Gimnasio Municipal Nº 1, con entrada libre y gratuita.","cuerpo":["La Subsecretaría de Cultura de Puerto Madryn invita a la comunidad al cierre anual de los Talleres Culturales 2026. Será este sábado 28 de noviembre, de 14 a 18 horas, en el Gimnasio Municipal Nº 1, con entrada libre y gratuita.","La programación incluirá música en vivo, presentaciones de danza, muestras de artes plásticas y propuestas de los distintos espacios formativos. Antes hubo cierres parciales en los centros culturales de los barrios San Miguel y Quemú.","Funcionan casi dos centenares de talleres a cargo de más de 150 profesores, con entre 2.500 y 3.000 participantes de todas las edades, en disciplinas como danzas, tango, cerámica, literatura, teatro, pintura, guitarra, canto, fotografía y desarrollo audiovisual."],"foto":"musica","arte":"escenario","origen":"https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-24-0-los-talleres-culturales-tendran-hoy-su-cierre"}
+],
+"descartadas":["https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-33-0-la-semana-proxima-habra-nueva-audiencia-entre-el-stia-y-la-empresa-pesquera-para-definir-la-situacion-de-los-trabajadores-de-temporada","https://cholilaonline.ar/2026/11/nuevo-secretario-de-infraestructura-en-comodoro-rivadavia-solohaga.html","https://cholilaonline.ar/2026/11/comodoro-rivadavia-othar-macharashvili-juramento-marcelo-fabian-solohaga-infraestructura-obras.html"]}
