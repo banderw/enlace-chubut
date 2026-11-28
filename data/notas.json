@@ -77,6 +77,51 @@
  ],
  "notas": [
   {
+   "id": "banco-naranja-comisaria-mujer-madryn",
+   "fecha": "2026-11-28T11:07:04-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Inauguraron un Banco Naranja en la Comisaría de la Mujer de Puerto Madryn",
+   "bajada": "El acto se realizó por el Día Internacional de la Eliminación de la Violencia contra las Mujeres.",
+   "cuerpo": [
+    "Se inauguró un Banco Naranja en las instalaciones de la Comisaría de la Mujer de Puerto Madryn, en el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres. El banco es un símbolo para visibilizar la problemática y reafirmar el compromiso de la comunidad y las instituciones con la prevención.",
+    "Participó personal de la Agencia de Violencia de Género y Delitos Sexuales del Ministerio Público Fiscal de Puerto Madryn y del SAVD.",
+    "La Comisaría de la Mujer funciona sobre Fontana 56, abierta las 24 horas, todos los días. El teléfono es +54 9 280 472-5388."
+   ],
+   "arte": "ciudad",
+   "tema": "Violencia de género"
+  },
+  {
+   "id": "vih-madryn-campana-elegi-saber",
+   "fecha": "2026-11-28T11:07:03-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Campaña “Elegí saber”: testeos gratuitos de VIH en La Rambla de Puerto Madryn",
+   "bajada": "Una referente local advirtió que crecen los diagnósticos, sobre todo después de los 40 años, y destacó la importancia de la prevención y la confidencialidad.",
+   "cuerpo": [
+    "En el marco de la campaña “Elegí saber”, Puerto Madryn tendrá jornadas gratuitas y confidenciales de testeo de VIH en La Rambla, un lugar de gran circulación, para acercar esta herramienta a la comunidad.",
+    "Awad, activista y referente local en VIH/ITS, señaló que el aumento de nuevos diagnósticos se observa a nivel nacional y también en distintas localidades de Chubut, y que hay más casos en personas mayores de 40 años.",
+    "Explicó además que Nación dejó de comprar y enviar preservativos, insumos para testeos y medicamentos antirretrovirales, por lo que la provincia debió hacerse cargo de adquirirlos para sostener las prestaciones. “Es un momento crítico en el cual tenemos que reflexionar sobre lo que está pasando”, sostuvo."
+   ],
+   "arte": "ciudad",
+   "tema": "Salud"
+  },
+  {
+   "id": "correcaminata-educacion-adultos-trelew",
+   "fecha": "2026-11-28T11:07:02-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "Más de 70 corredores participaron de la 2da Correcaminata por la Educación para Adultos en Trelew",
+   "bajada": "La actividad se realizó en la Laguna Chiquichano por el Día de la Educación para Adultos y fue organizada por la Escuela 608.",
+   "cuerpo": [
+    "Este sábado por la mañana se realizó en Trelew la segunda Correcaminata por el Día de la Educación para Adultos, una propuesta deportiva y recreativa que reunió a más de 70 participantes en la Laguna Chiquichano.",
+    "La iniciativa fue impulsada por la Escuela Primaria de Jóvenes y Adultos N.º 608, que hoy tiene unos 200 alumnos, con la colaboración de la Escuela 615. También se sumó la Escuela para Jóvenes y Adultos N.º 617 de Puerto Madryn.",
+    "En esta segunda edición, alumnos, docentes e integrantes de las instituciones compartieron una jornada de encuentro y participación al aire libre."
+   ],
+   "arte": "ciudad",
+   "tema": "Educación de adultos"
+  },
+  {
    "id": "madryn-limpieza-presidente-peron-colonos-galeses",
    "fecha": "2026-11-28T10:07:04-03:00",
    "sec": "ultimas",

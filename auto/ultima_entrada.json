@@ -1,51 +1,65 @@
 {
  "notas": [
   {
-   "id": "ver-para-ser-libres-anteojos-chubut",
+   "id": "correcaminata-educacion-adultos-trelew",
    "sec": "ultimas",
-   "ciudad": "Provincia",
-   "tema": "Salud visual",
-   "titulo": "Casi 3 mil chicos recibieron anteojos en Chubut con el programa “Ver para Ser Libres”",
-   "bajada": "El operativo federal cerró con 3.324 controles oftalmológicos y 2.943 anteojos entregados a niños y adolescentes de entre 6 y 17 años.",
+   "ciudad": "Trelew",
+   "tema": "Educación de adultos",
+   "titulo": "Más de 70 corredores participaron de la 2da Correcaminata por la Educación para Adultos en Trelew",
+   "bajada": "La actividad se realizó en la Laguna Chiquichano por el Día de la Educación para Adultos y fue organizada por la Escuela 608.",
    "cuerpo": [
-    "Entre el 3 y el 27 de noviembre, dos unidades móviles con tecnología oftalmológica y laboratorio óptico recorrieron ocho localidades de la provincia. El programa buscó garantizar el acceso a la salud visual de chicos y adolescentes de 6 a 17 años.",
-    "El operativo se hizo de forma articulada entre el Gobierno del Chubut, a través de los ministerios de Desarrollo Humano y de Educación y la Secretaría de Salud, el Ministerio de Capital Humano de la Nación y los municipios participantes.",
-    "Una de las características del programa es que todo el circuito se completa en el mismo lugar: la evaluación, la graduación y la fabricación y entrega de los anteojos durante la misma jornada. Así se busca detectar a tiempo problemas de visión que afecten el aprendizaje.",
-    "El recorrido empezó el 3 de noviembre en Río Senguer y Comodoro Rivadavia, siguió por Gobernador Costa, Trelew, Trevelin y Rawson, y terminó en Epuyén y Puerto Madryn."
+    "Este sábado por la mañana se realizó en Trelew la segunda Correcaminata por el Día de la Educación para Adultos, una propuesta deportiva y recreativa que reunió a más de 70 participantes en la Laguna Chiquichano.",
+    "La iniciativa fue impulsada por la Escuela Primaria de Jóvenes y Adultos N.º 608, que hoy tiene unos 200 alumnos, con la colaboración de la Escuela 615. También se sumó la Escuela para Jóvenes y Adultos N.º 617 de Puerto Madryn.",
+    "En esta segunda edición, alumnos, docentes e integrantes de las instituciones compartieron una jornada de encuentro y participación al aire libre."
    ],
-   "foto": "escuela",
-   "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
-   "arte": "escuela",
-   "origen": "https://www.diariojornada.com.ar/427872/politica/casi_3_mil_ninos_y_adolescentes_recibieron_anteojos_a_traves_del_programa_ver_para_ser_libres"
+   "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
+   "foto": "corredores",
+   "arte": "ciudad",
+   "origen": "https://cholilaonline.ar/2026/11/educacion-para-adultos-en-trelew-segunda-correcaminata-chiquichano.html"
   },
   {
-   "id": "madryn-limpieza-presidente-peron-colonos-galeses",
+   "id": "vih-madryn-campana-elegi-saber",
    "sec": "ultimas",
    "ciudad": "Puerto Madryn",
-   "tema": "Limpieza barrial",
-   "titulo": "Puerto Madryn: la campaña de limpieza llega a Presidente Perón y Colonos Galeses",
-   "bajada": "El lunes será el turno del barrio Presidente Perón y el martes el de Colonos Galeses, con contenedores para residuos de gran tamaño.",
+   "tema": "Salud",
+   "titulo": "Campaña “Elegí saber”: testeos gratuitos de VIH en La Rambla de Puerto Madryn",
+   "bajada": "Una referente local advirtió que crecen los diagnósticos, sobre todo después de los 40 años, y destacó la importancia de la prevención y la confidencialidad.",
    "cuerpo": [
-    "Los vecinos de Presidente Perón y Colonos Galeses tendrán una jornada en cada barrio para descartar residuos voluminosos. La Municipalidad recibirá chatarra, maderas, escombros, neumáticos y aparatos eléctricos o electrónicos en desuso.",
-    "Los contenedores se instalarán entre las 8 y las 10 de la mañana y se retirarán a medida que se llenen, por lo que el tiempo que permanezcan en cada cuadra dependerá de cuánto tarden en completarse."
+    "En el marco de la campaña “Elegí saber”, Puerto Madryn tendrá jornadas gratuitas y confidenciales de testeo de VIH en La Rambla, un lugar de gran circulación, para acercar esta herramienta a la comunidad.",
+    "Awad, activista y referente local en VIH/ITS, señaló que el aumento de nuevos diagnósticos se observa a nivel nacional y también en distintas localidades de Chubut, y que hay más casos en personas mayores de 40 años.",
+    "Explicó además que Nación dejó de comprar y enviar preservativos, insumos para testeos y medicamentos antirretrovirales, por lo que la provincia debió hacerse cargo de adquirirlos para sostener las prestaciones. “Es un momento crítico en el cual tenemos que reflexionar sobre lo que está pasando”, sostuvo."
    ],
-   "foto": "limpieza",
-   "foto_archivo": "auto/fotos_candidatas/cand-5.jpg",
+   "foto": "hospital",
    "arte": "ciudad",
-   "origen": "https://www.madrynahora.com/puerto-madryn/puerto-madryn-los-seis-puntos-donde-se-podran-dejar-escombros-neumaticos-y-electrodomesticos-en-desuso/"
+   "origen": "https://www.diariojornada.com.ar/427874/genero/hiv_hay_mas_diagnosticos_despues_de_los_40_anos"
+  },
+  {
+   "id": "banco-naranja-comisaria-mujer-madryn",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "tema": "Violencia de género",
+   "titulo": "Inauguraron un Banco Naranja en la Comisaría de la Mujer de Puerto Madryn",
+   "bajada": "El acto se realizó por el Día Internacional de la Eliminación de la Violencia contra las Mujeres.",
+   "cuerpo": [
+    "Se inauguró un Banco Naranja en las instalaciones de la Comisaría de la Mujer de Puerto Madryn, en el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres. El banco es un símbolo para visibilizar la problemática y reafirmar el compromiso de la comunidad y las instituciones con la prevención.",
+    "Participó personal de la Agencia de Violencia de Género y Delitos Sexuales del Ministerio Público Fiscal de Puerto Madryn y del SAVD.",
+    "La Comisaría de la Mujer funciona sobre Fontana 56, abierta las 24 horas, todos los días. El teléfono es +54 9 280 472-5388."
+   ],
+   "foto": "mujeres",
+   "arte": "ciudad",
+   "origen": "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-29-0-inauguraron-un-banco-naranja-en-la-comisaria-de-la-mujer"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427871/policiales/inauguro_su_local_y_lo_balearon_hay_tres_detenidos",
-  "https://www.diariojornada.com.ar/427870/internacional/denunciaron_a_vladimir_putin_en_la_justicia_argentina_por_crimenes_de_lesa_humanidad",
-  "https://www.elchubut.com.ar/nacionales/2026-11-28-9-9-0-malvinas-el-tribunal-del-mar-rechazo-el-pedido-argentino-para-frenar-la-explotacion-petrolera",
-  "https://www.elchubut.com.ar/historias/2026-11-28-9-33-0-homero-deconstruido-la-guerra-de-troya-a-la-manera-de-alessandro-baricco",
-  "https://www.elchubut.com.ar/deportes/2026-11-27-20-23-0-el-stick-patagonico-sub14-de-damas-entra-en-su-etapa-definitoria",
-  "https://www.elchubut.com.ar/deportes/2026-11-27-20-18-0-trelew-tiene-una-gran-jornada-para-disfrutar-de-la-night-run",
-  "https://www.madrynahora.com/puerto-madryn/puerto-madryn-una-foto-de-famularo-les-recordo-a-los-vecinos-como-vestian-a-sus-hijos/",
-  "https://canal12web.com/el-tribunal-del-mar-rechazo-el-pedido-argentino-para-frenar-la-explotacion-petrolera-de-sea-lion-en-malvinas/",
-  "https://canal12web.com/los-juicios-laborales-contra-el-estado-acumulan-reclamos-por-casi-68-000-millones/",
-  "https://canal12web.com/inter-miami-sufrio-una-eliminacion-agonica-cayo-ante-columbus-crew-y-se-despidio-de-la-mls/",
-  "https://canal12web.com/independiente-quiere-dar-el-golpe-ante-velez-y-meterse-en-semifinales/"
+  "https://www.diariojornada.com.ar/427866/politica/malvinas_el_tribunal_del_mar_rechazo_el_pedido_argentino",
+  "https://www.diariojornada.com.ar/427873/magazine/un_puma_ciego_adopto_a_dos_zorritos_huerfanos",
+  "https://www.adnsur.com.ar/nam/el-postre-navideno-en-vasitos-que-se-arma-en-diez-minutos-sin-horno_a6b0948621af8333314b93abf",
+  "https://www.elchubut.com.ar/trelew/2026-11-28-10-14-0-las-epja-celebran-en-trelew-la-2da-correcaminata-por-la-educacion-para-adultos",
+  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-31-0-francisco-marcelo-orlando-presto-juramento-de-ley-y-fue-puesto-en-funciones-por-el-vicepresidente-del-stj",
+  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-29-0-egresados-40-anos",
+  "https://www.eldiarioweb.com/2026/11/el-tribunal-del-mar-rechazo-el-pedido-argentino-para-frenar-la-explotacion-petrolera-en-malvinas/",
+  "https://cholilaonline.ar/2026/11/pablo-quirno-fallo-tribunal-mar-malvinas-disputa-soberania.html",
+  "https://cholilaonline.ar/2026/11/inter-miami-quedo-eliminado-de-la-mls-ante-columbus-crew.html",
+  "https://cholilaonline.ar/2026/11/juicios-laborales-contra-el-estado-acumulan-casi-68000-millones.html"
  ]
 }
