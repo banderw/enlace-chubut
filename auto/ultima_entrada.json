@@ -1,116 +1,108 @@
 {
  "notas": [
   {
-   "id": "unpsjb-trelew-colacion-99-graduados",
+   "id": "teatro-muelle-madryn-fin-de-semana",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "tema": "Teatro del Muelle",
+   "titulo": "Música, teatro y danza llenan el fin de semana del Teatro del Muelle",
+   "bajada": "La Subsecretaría de Cultura de Puerto Madryn anunció tres propuestas para el último fin de semana de noviembre en la sala de Avenida Rawson 60.",
+   "cuerpo": [
+    "El viernes 27 a las 20 se realizó el cierre anual del ciclo Músicos Emergentes, con entrada libre y gratuita sujeta a la capacidad de la sala. El grupo estable, integrado por Juan Pablo Solco, Martín Martínez, Gustavo Gelpi, Gody Corominas, Néstor Alfaro y Gustavo Mari, compartió escenario con distintas voces invitadas.",
+    "El sábado 28 a las 20, la Asociación Civil Cultivando Sueños presenta al grupo de teatro Los Chimuelos con la comedia musical «El Monstruo de la Laguna», dirigida por las profesoras Natalia Quintero e Iara Gornatti. La función cierra además los talleres 2026 de la institución, entre ellos el de Música a cargo del profesor Ramiro Hernández. Las entradas cuestan $10.000."
+   ],
+   "foto": "teatro",
+   "foto_archivo": "auto/fotos_candidatas/cand-4.jpg",
+   "arte": "escenario",
+   "origen": "https://www.diariojornada.com.ar/427790/espectaculos/musica_en_vivo_artes_escenicas_y_danzas_en_el_teatro_del_muelle"
+  },
+  {
+   "id": "talleres-culturales-madryn-cierre-2026",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "tema": "Talleres Culturales",
+   "titulo": "Los Talleres Culturales de Puerto Madryn cierran el año con una muestra abierta",
+   "bajada": "Este sábado 28, de 14 a 18 en el Gimnasio Municipal 1, habrá música, danza y arte con entrada libre y gratuita.",
+   "cuerpo": [
+    "La Subsecretaría de Cultura de la Municipalidad invita a la comunidad al cierre anual de los Talleres Culturales 2026, después de una serie de cierres parciales en los centros culturales de los barrios San Miguel y Quemú. La programación incluirá música en vivo, presentaciones de danza y muestras de artes plásticas.",
+    "En total funcionan casi dos centenares de talleres a cargo de más de 150 profesores, que acompañan a entre 2.500 y 3.000 participantes de todas las edades. La oferta abarca danzas clásicas, folclóricas y contemporáneas, tango, cerámica, literatura, teatro, pintura, historieta, guitarra, canto, piano, fotografía y desarrollo audiovisual, entre otras disciplinas."
+   ],
+   "foto": "musica",
+   "arte": "escenario",
+   "origen": "https://www.diariojornada.com.ar/427715/espectaculos/los_talleres_culturales_tendran_su_cierre_el_sabado"
+  },
+  {
+   "id": "escuela-744-trelew-anfiteatro-loteria",
    "sec": "ultimas",
    "ciudad": "Trelew",
-   "tema": "Universidad",
-   "titulo": "La UNPSJB entregó diplomas a 99 graduados en el Teatro Español de Trelew",
-   "bajada": "La sede Trelew de la Universidad de la Patagonia San Juan Bosco realizó la 196ª Colación de Grado y la 86ª de Posgrado.",
+   "tema": "Educación",
+   "titulo": "La Escuela 744 de Trelew inauguró su anfiteatro con fondos de Lotería del Chubut",
+   "bajada": "La obra del barrio Planta de Gas se financió con el premio de un concurso sobre juego responsable ganado por los alumnos.",
    "cuerpo": [
-    "La Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB), sede Trelew, hizo este jueves por la tarde el acto de colación en el Teatro Español. Recibieron sus diplomas 95 graduados de carreras de grado y pregrado y cuatro de posgrado.",
-    "Por facultad, 38 egresados son de Ciencias Económicas, 26 de Ciencias Jurídicas, 18 de Humanidades y Ciencias Sociales, 11 de Ingeniería y dos de Ciencias Naturales y Ciencias de la Salud. En posgrado, uno correspondió a Ciencias Económicas y tres a Humanidades y Ciencias Sociales.",
-    "Hablaron el delegado zonal, Gabriel Yapur, el rector Rubén Gustavo Fleitas y los decanos de cada facultad, que destacaron la importancia de la formación universitaria. También hubo mensajes de los propios graduados y un momento musical en su honor."
+    "En el cierre del ciclo lectivo 2026, la comunidad educativa de la Escuela 744 «Ernesto Sábato» inauguró el anfiteatro del establecimiento, ubicado en el barrio Planta de Gas. La obra se hizo con aportes de Lotería del Chubut.",
+    "El premio corresponde a un concurso sobre juego responsable impulsado el año pasado, que ganaron los alumnos con la propuesta «Experiencia Telebingo». Las obras forman parte del proyecto «Conec-arte», llevado adelante por los estudiantes del último curso.",
+    "El acto de fin de curso se realizó a las 10, el anfiteatro se inauguró a las 11 y la jornada terminó con una hamburgueseada."
    ],
-   "foto": "universidad",
-   "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
+   "foto": "escuela",
    "arte": "escuela",
-   "origen": "https://www.elchubut.com.ar/regionales/2026-11-27-21-0-0-la-universidad-san-juan-bosco-entrego-diplomas-a-99-graduados-en-emotivo-acto"
+   "origen": "https://www.elchubut.com.ar/regionales/2026-11-27-20-54-0-acto-de-fin-de-curso-e-inauguracion-del-anfiteatro-en-la-escuela-744-de-trelew"
   },
   {
-   "id": "senadoras-chubut-suspension-paso-media-sancion",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "tema": "Elecciones 2027",
-   "titulo": "Terenzi y Cristina votaron a favor de suspender las PASO; Linares, en contra",
-   "bajada": "El Senado aprobó por 43 votos a 29 la reforma electoral del Gobierno nacional, que ahora pasa a Diputados.",
-   "cuerpo": [
-    "En la votación del Senado por la suspensión de las PASO, las senadoras chubutenses Edith Terenzi y Andrea Cristina acompañaron la reforma electoral impulsada por La Libertad Avanza. El justicialista Carlos Linares votó en contra.",
-    "La iniciativa obtuvo media sanción con 43 votos afirmativos y 29 negativos. El proyecto suspende las PASO para 2027, mantiene la Boleta Única de Papel, incorpora la opción de votar una lista completa y modifica el esquema de publicidad electoral en medios audiovisuales.",
-    "El respaldo de las dos senadoras se leyó como sintonía con la estrategia del gobernador Ignacio Torres, que en los últimos meses profundizó el diálogo institucional con la administración de Javier Milei. Ahora el oficialismo buscará convertir la reforma en ley en la Cámara de Diputados, antes del inicio del proceso electoral de 2027."
-   ],
-   "foto": "elecciones",
-   "arte": "ciudad",
-   "origen": "https://canal12web.com/las-chubutenses-terenzi-y-cristina-respaldaron-la-suspension-de-las-paso/"
-  },
-  {
-   "id": "rawson-controles-camiones-pesqueros-temporada",
+   "id": "corredores-inmobiliarios-chubut-trinadori",
    "sec": "ultimas",
-   "ciudad": "Rawson",
-   "tema": "Puerto Rawson",
-   "titulo": "Rawson intensifica los controles a camiones pesqueros para evitar derrames y olores",
-   "bajada": "Inspectores ambientales verifican el sellado de los vehículos durante la temporada de pesca; las pérdidas se sancionan con infracciones.",
-   "cuerpo": [
-    "La Municipalidad de Rawson inició una nueva etapa de controles ambientales al transporte de cargas, en el marco de la temporada de pesca en Puerto Rawson. Los operativos están a cargo de la Dirección General de Inspecciones Ambientales y se hacen en distintos accesos a la ciudad.",
-    "Los camiones deben tener estanqueidad, sistemas de reserva de líquidos y un sellado correcto para no perder residuos en el trayecto. Si se detectan derrames o filtraciones, los inspectores pueden labrar infracciones ambientales.",
-    "El secretario de Ambiente y Desarrollo Sustentable, Miguel Larrauri, explicó que estos procedimientos se repiten cada temporada para evitar que los líquidos caigan dentro del ejido urbano y generen malos olores. Los controles se concentrarán sobre la avenida Libertad y seguirán mientras dure la temporada pesquera."
-   ],
-   "foto": "pesca",
-   "arte": "mar",
-   "origen": "https://canal12web.com/rawson-intensifica-los-controles-a-camiones-pesqueros-para-prevenir-derrames-y-malos-olores/"
-  },
-  {
-   "id": "colectivo-incendiado-ruta-25-el-molle-pasajeros",
-   "sec": "policiales",
    "ciudad": "Provincia",
-   "tema": "Ruta 25",
-   "titulo": "Se incendió un micro Esquel-Madryn en la Ruta 25: los 35 pasajeros salieron ilesos",
-   "bajada": "Un padre relató que sus hijos esperaron más de tres horas a la intemperie, con frío, hasta recibir asistencia.",
+   "tema": "Corredores inmobiliarios",
+   "titulo": "Aldo Trinadori es el nuevo presidente del Colegio de Corredores Inmobiliarios del Chubut",
+   "bajada": "Por primera vez compitieron dos listas en las elecciones de la institución, que tiene nueve años.",
    "cuerpo": [
-    "Un colectivo que cubría el trayecto entre Esquel y Puerto Madryn se incendió cerca de las 2 de la madrugada en la Ruta 25, a la altura de El Molle. Los 35 pasajeros lograron bajar sin heridas.",
-    "La responsable de la empresa Mar y Valle, Sonia Rancho, contó que los choferes advirtieron humo dentro de la unidad, frenaron de inmediato e intentaron apagar las llamas con un matafuegos, pero el fuego se propagó y afectó gran parte del micro.",
-    "José Moggiano, padre de pasajeros, relató en Facebook que sus hijos pasaron \"más de tres horas de frío\" esperando asistencia en plena madrugada. El episodio reavivó la preocupación por el resguardo de los pasajeros durante las esperas en la ruta."
+    "El jueves por la noche se realizó el acto eleccionario para renovar autoridades del Colegio de Corredores Inmobiliarios de la Provincia del Chubut. Por primera vez se presentaron dos listas: la Verde, encabezada por Erica Lewis, y la Azul, por Aldo Trinadori.",
+    "Votó el 50% de un padrón de 250 asociados. Las urnas de Rawson, Madryn, Comodoro y Esquel fueron recibidas en Trelew para el recuento final, que consagró a Trinadori como nuevo titular. Sucede en el cargo a Martín Frisson."
    ],
-   "foto": "colectivo",
+   "foto": "edificio",
    "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
-   "arte": "ruta",
-   "origen": "https://cholilaonline.ar/2026/11/incendio-colectivo-ruta-25-35-pasajeros-ilesos-reclamo-espera.html"
+   "arte": "ciudad",
+   "origen": "https://www.elchubut.com.ar/regionales/2026-11-27-20-54-0-aldo-trinadori-es-el-nuevo-presidente-de-los-corredores-inmobiliarios"
   },
   {
-   "id": "torres-canadon-perdido-pecom-reactivacion",
-   "sec": "politica",
-   "ciudad": "Comodoro Rivadavia",
-   "tema": "Petróleo",
-   "titulo": "Torres recorrió Cañadón Perdido, donde se perforó por primera vez en más de seis décadas",
-   "bajada": "PECOM invirtió 35 millones de dólares en el primer tramo de un proyecto de recuperación terciaria que busca pasar de 450 a 2.500 barriles diarios.",
+   "id": "ciclismo-montana-las-torres-madryn-2026",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "tema": "Ciclismo",
+   "titulo": "82 ciclistas compiten este domingo en «Las Torres», el mountain bike de Puerto Madryn",
+   "bajada": "La carrera parte a las 9:30 desde el sector de las reservas de Servicoop, con el respaldo de Chubut Deportes.",
    "cuerpo": [
-    "El gobernador Ignacio Torres recorrió este viernes las operaciones que PECOM desarrolla en la Cuenca del Golfo San Jorge, ante cientos de trabajadores, en Campamento Central–Cañadón Perdido, a pocos kilómetros de Comodoro Rivadavia. Allí no se perforaba desde hacía más de seis décadas.",
-    "Con una inversión de 35 millones de dólares, la empresa puso en marcha la primera fase del proyecto: 28 pozos (nueve inyectores y 19 productores) y una planta de inyección de polímeros. Se prevé elevar la producción del área de 450 a 2.500 barriles diarios, con potencial para otros 80 pozos en etapas futuras.",
-    "\"Hoy el resultado es claro y concreto: aumentó la producción, hay un compromiso de inversión que va a ser cada vez mayor y hay trabajo\", expresó Torres, que destacó también las inversiones previstas para 2027 en áreas maduras transferidas por YPF.",
-    "Lo acompañaron el diputado nacional y titular del sindicato petrolero, Jorge \"Loma\" Ávila, el ministro de Hidrocarburos, Federico Ponce, y la presidenta de Petrominera, Irene Carrizo."
+    "Con 82 corredores confirmados, la competencia se pone en marcha este domingo 29 de noviembre a las 9:30. La directora de Chubut Deportes, Alejandra Ibrahim, se reunió con Daniel Barchetta y Rubén Villarreal, referentes de la organización, que ajustan los detalles logísticos.",
+    "El trazado se arma hacia el oeste de la ciudad y combina caminos rurales, senderos, tramos sinuosos y rectas veloces, con el viento patagónico como un rival más. Hay dos modalidades: la Promocional, de dos vueltas al circuito, y la Competitiva, de tres."
    ],
-   "foto": "petroleo",
-   "foto_archivo": "auto/fotos_candidatas/cand-3.jpg",
-   "arte": "petroleo",
-   "origen": "https://cholilaonline.ar/2026/11/la-reactivacion-de-canadon-perdido-abre-una-nueva-etapa-para-la-produccion-petrolera-en-chubut.html"
+   "foto": "ciclismo",
+   "foto_archivo": "auto/fotos_candidatas/cand-6.jpg",
+   "arte": "ruta",
+   "origen": "https://cholilaonline.ar/2026/11/ciclismo-de-montana-en-puerto-madryn-las-torres-2026-circuito.html"
   },
   {
-   "id": "riesgo-pais-bajo-1000-dolar-baja",
-   "sec": "nacionales",
-   "ciudad": "Buenos Aires",
-   "tema": "Economía",
-   "titulo": "El riesgo país volvió a perforar los mil puntos y el dólar oficial bajó",
-   "bajada": "El indicador cayó 121 unidades hasta 946 puntos básicos, con bonos y acciones en alza.",
+   "id": "sueldos-noviembre-estatales-chubut-fechas",
+   "sec": "politica",
+   "ciudad": "Provincia",
+   "tema": "Sueldos estatales",
+   "titulo": "El Gobierno del Chubut pagará los sueldos de noviembre el 1 y el 2 de diciembre",
+   "bajada": "Los jubilados cobrarán desde el miércoles 2 y los trabajadores activos desde el jueves 3.",
    "cuerpo": [
-    "El riesgo país cedió 121 unidades y quedó en 946 puntos básicos, por debajo del piso psicológico de los mil. Los bonos soberanos subieron hasta 2,4% y el índice Merval avanzó 2,6%, con ADRs de hasta 6% de suba.",
-    "El Banco Nación bajó el dólar oficial a $1.570 para la compra y $1.620 para la venta, $10 menos que el techo de $1.630 del jueves.",
-    "Influyeron el giro económico de Brasil, la licitación del Tesoro que renovó $25 billones en vencimientos y el anticipo del ministro Luis Caputo sobre la activación de un tramo del swap con China para afrontar pagos de 2027."
+    "El Ministerio de Economía informó que el martes 1º de diciembre depositará los haberes de noviembre a los agentes pasivos de la Administración Pública Provincial, y el miércoles 2 hará lo propio con los trabajadores en actividad.",
+    "Los fondos estarán disponibles para los jubilados el miércoles 2, en cajeros automáticos, ventanillas habilitadas del Banco del Chubut y canales digitales. Los empleados públicos activos podrán retirarlos el jueves 3."
    ],
    "foto": "banco",
    "arte": "banco",
-   "origen": "https://cholilaonline.ar/2026/11/alivio-en-los-mercados-perforo-los-1-000-puntos-el-riesgo-pais-y-baja-el-dolar.html"
+   "origen": "https://cholilaonline.ar/2026/11/provincia-deposita-el-martes-1o-de-diciembre-los-sueldos-a-jubilados-y-el-miercoles-2-a-los-trabajadores-en-actividad.html"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427861/deportes/argentina_enfrentara_a_mexico_en_los_16avos_de_final",
-  "https://www.diariojornada.com.ar/427848/deportes/velez_e_independiente_definen_al_primer_semifinalista",
-  "https://www.diariojornada.com.ar/427850/deportes/river_visita_a_instituto_para_seguir_en_carrera",
-  "https://www.diariojornada.com.ar/427813/espectaculos/confirmado_habra_una_cuarta_temporada_de_el_senor_de_los_anillos",
-  "https://www.elchubut.com.ar/regionales/2026-11-27-21-2-0-banco-del-chubut-y-stj-capacitaron-sobre-prevencion-del-ciberdelito-financiero",
-  "https://www.elchubut.com.ar/regionales/2026-11-27-21-1-0-la-mesa-chubutense-de-victimas-viales-presento-su-plan-de-trabajo-2027-2029",
-  "https://www.elchubut.com.ar/regionales/2026-11-27-20-58-0-educacion-aprobo-reformulacion-del-cargo-de-profesor-de-orientacion-y-tutoria",
-  "https://canal12web.com/cae-la-inflacion-esperada-para-los-proximos-12-meses/",
-  "https://canal12web.com/chubut-reglamento-el-buceo-turistico-con-lobos-marinos-tras-11-anos/",
-  "https://cholilaonline.ar/2026/11/ruta-historica-desde-ezeiza-arrancan-los-vuelos-directos-a-tel-aviv.html"
+  "https://www.diariojornada.com.ar/427791/espectaculos/division_palermo_gano_otro_premio_emmy_como_mejor_serie_de_comedia",
+  "https://www.diariojornada.com.ar/427708/espectaculos/castro_mostrar_la_pelicula_en_comodoro_es_volver_a_las_raices",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-20-53-0-encuentro-cultural-y-de-salud-vihsibles",
+  "https://www.elchubut.com.ar/regionales/2026-11-27-20-48-0-los-flamantes-profesionales-siguen-festejando-en-el-chubut",
+  "https://canal12web.com/el-senado-rechazo-tratar-el-proyecto-para-penalizar-los-desnudos-falsos-creados-con-inteligencia-artificial/",
+  "https://canal12web.com/normas-de-confidencialidad-y-privacidad/",
+  "https://cholilaonline.ar/2026/11/alerta-boca-river-estudiantes-gana-libertadores-mundial-clubes-2029.html",
+  "https://cholilaonline.ar/2026/11/produccion-petrolera-en-santa-cruz-palermo-aike-sur-rio-deseado.html"
  ]
 }

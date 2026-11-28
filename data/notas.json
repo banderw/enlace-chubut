@@ -77,6 +77,91 @@
  ],
  "notas": [
   {
+   "id": "sueldos-noviembre-estatales-chubut-fechas",
+   "fecha": "2026-11-28T02:06:57-03:00",
+   "sec": "politica",
+   "ciudad": "Provincia",
+   "titulo": "El Gobierno del Chubut pagará los sueldos de noviembre el 1 y el 2 de diciembre",
+   "bajada": "Los jubilados cobrarán desde el miércoles 2 y los trabajadores activos desde el jueves 3.",
+   "cuerpo": [
+    "El Ministerio de Economía informó que el martes 1º de diciembre depositará los haberes de noviembre a los agentes pasivos de la Administración Pública Provincial, y el miércoles 2 hará lo propio con los trabajadores en actividad.",
+    "Los fondos estarán disponibles para los jubilados el miércoles 2, en cajeros automáticos, ventanillas habilitadas del Banco del Chubut y canales digitales. Los empleados públicos activos podrán retirarlos el jueves 3."
+   ],
+   "arte": "banco",
+   "tema": "Sueldos estatales"
+  },
+  {
+   "id": "ciclismo-montana-las-torres-madryn-2026",
+   "fecha": "2026-11-28T02:06:56-03:00",
+   "sec": "deportes",
+   "ciudad": "Puerto Madryn",
+   "titulo": "82 ciclistas compiten este domingo en «Las Torres», el mountain bike de Puerto Madryn",
+   "bajada": "La carrera parte a las 9:30 desde el sector de las reservas de Servicoop, con el respaldo de Chubut Deportes.",
+   "cuerpo": [
+    "Con 82 corredores confirmados, la competencia se pone en marcha este domingo 29 de noviembre a las 9:30. La directora de Chubut Deportes, Alejandra Ibrahim, se reunió con Daniel Barchetta y Rubén Villarreal, referentes de la organización, que ajustan los detalles logísticos.",
+    "El trazado se arma hacia el oeste de la ciudad y combina caminos rurales, senderos, tramos sinuosos y rectas veloces, con el viento patagónico como un rival más. Hay dos modalidades: la Promocional, de dos vueltas al circuito, y la Competitiva, de tres."
+   ],
+   "arte": "ruta",
+   "tema": "Ciclismo"
+  },
+  {
+   "id": "corredores-inmobiliarios-chubut-trinadori",
+   "fecha": "2026-11-28T02:06:55-03:00",
+   "sec": "ultimas",
+   "ciudad": "Provincia",
+   "titulo": "Aldo Trinadori es el nuevo presidente del Colegio de Corredores Inmobiliarios del Chubut",
+   "bajada": "Por primera vez compitieron dos listas en las elecciones de la institución, que tiene nueve años.",
+   "cuerpo": [
+    "El jueves por la noche se realizó el acto eleccionario para renovar autoridades del Colegio de Corredores Inmobiliarios de la Provincia del Chubut. Por primera vez se presentaron dos listas: la Verde, encabezada por Erica Lewis, y la Azul, por Aldo Trinadori.",
+    "Votó el 50% de un padrón de 250 asociados. Las urnas de Rawson, Madryn, Comodoro y Esquel fueron recibidas en Trelew para el recuento final, que consagró a Trinadori como nuevo titular. Sucede en el cargo a Martín Frisson."
+   ],
+   "arte": "ciudad",
+   "tema": "Corredores inmobiliarios"
+  },
+  {
+   "id": "escuela-744-trelew-anfiteatro-loteria",
+   "fecha": "2026-11-28T02:06:54-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "La Escuela 744 de Trelew inauguró su anfiteatro con fondos de Lotería del Chubut",
+   "bajada": "La obra del barrio Planta de Gas se financió con el premio de un concurso sobre juego responsable ganado por los alumnos.",
+   "cuerpo": [
+    "En el cierre del ciclo lectivo 2026, la comunidad educativa de la Escuela 744 «Ernesto Sábato» inauguró el anfiteatro del establecimiento, ubicado en el barrio Planta de Gas. La obra se hizo con aportes de Lotería del Chubut.",
+    "El premio corresponde a un concurso sobre juego responsable impulsado el año pasado, que ganaron los alumnos con la propuesta «Experiencia Telebingo». Las obras forman parte del proyecto «Conec-arte», llevado adelante por los estudiantes del último curso.",
+    "El acto de fin de curso se realizó a las 10, el anfiteatro se inauguró a las 11 y la jornada terminó con una hamburgueseada."
+   ],
+   "arte": "escuela",
+   "tema": "Educación"
+  },
+  {
+   "id": "talleres-culturales-madryn-cierre-2026-2",
+   "fecha": "2026-11-28T02:06:53-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Los Talleres Culturales de Puerto Madryn cierran el año con una muestra abierta",
+   "bajada": "Este sábado 28, de 14 a 18 en el Gimnasio Municipal 1, habrá música, danza y arte con entrada libre y gratuita.",
+   "cuerpo": [
+    "La Subsecretaría de Cultura de la Municipalidad invita a la comunidad al cierre anual de los Talleres Culturales 2026, después de una serie de cierres parciales en los centros culturales de los barrios San Miguel y Quemú. La programación incluirá música en vivo, presentaciones de danza y muestras de artes plásticas.",
+    "En total funcionan casi dos centenares de talleres a cargo de más de 150 profesores, que acompañan a entre 2.500 y 3.000 participantes de todas las edades. La oferta abarca danzas clásicas, folclóricas y contemporáneas, tango, cerámica, literatura, teatro, pintura, historieta, guitarra, canto, piano, fotografía y desarrollo audiovisual, entre otras disciplinas."
+   ],
+   "arte": "escenario",
+   "tema": "Talleres Culturales"
+  },
+  {
+   "id": "teatro-muelle-madryn-fin-de-semana",
+   "fecha": "2026-11-28T02:06:52-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Música, teatro y danza llenan el fin de semana del Teatro del Muelle",
+   "bajada": "La Subsecretaría de Cultura de Puerto Madryn anunció tres propuestas para el último fin de semana de noviembre en la sala de Avenida Rawson 60.",
+   "cuerpo": [
+    "El viernes 27 a las 20 se realizó el cierre anual del ciclo Músicos Emergentes, con entrada libre y gratuita sujeta a la capacidad de la sala. El grupo estable, integrado por Juan Pablo Solco, Martín Martínez, Gustavo Gelpi, Gody Corominas, Néstor Alfaro y Gustavo Mari, compartió escenario con distintas voces invitadas.",
+    "El sábado 28 a las 20, la Asociación Civil Cultivando Sueños presenta al grupo de teatro Los Chimuelos con la comedia musical «El Monstruo de la Laguna», dirigida por las profesoras Natalia Quintero e Iara Gornatti. La función cierra además los talleres 2026 de la institución, entre ellos el de Música a cargo del profesor Ramiro Hernández. Las entradas cuestan $10.000."
+   ],
+   "arte": "escenario",
+   "tema": "Teatro del Muelle"
+  },
+  {
    "id": "riesgo-pais-bajo-1000-dolar-baja",
    "fecha": "2026-11-28T01:07:56-03:00",
    "sec": "nacionales",
@@ -1251,68 +1336,6 @@
    "tema": "Presupuesto 2027"
   },
   {
-   "id": "medicos-santa-cruz-rio-negro-trabajar-chubut",
-   "fecha": "2026-11-27T15:08:40-03:00",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "titulo": "Ley habilita a médicos de Santa Cruz y Río Negro a trabajar en el sistema público de Chubut",
-   "bajada": "La Legislatura sancionó una norma que fija excepciones a la acumulación de cargos y al requisito de residencia para atender la falta de especialistas, sobre todo en el interior.",
-   "cuerpo": [
-    "La Legislatura aprobó una ley que permite que profesionales que se desempeñan en Santa Cruz y Río Negro también ejerzan en el sistema público de salud de Chubut, y viceversa para los médicos de la provincia. Las excepciones a la acumulación de cargos y al requisito de residencia están contempladas en el artículo 67 de la Constitución provincial.",
-    "La norma tuvo el acompañamiento de la mayoría de los bloques. El diputado del Frente de Izquierda Juan Aquino fue el único que se abstuvo.",
-    "La diputada Sandra Willatowski (Despierta Chubut) explicó que la ley responde a la falta de especialistas como pediatras, cardiólogos, traumatólogos y ginecólogos. Planteó aprovechar la cercanía entre localidades, como Lago Puelo y El Bolsón o Caleta Olivia y Comodoro Rivadavia, para que un especialista de una provincia vecina pueda trabajar en Chubut a contraturno.",
-    "Aclaró que no cambian los requisitos para obtener la matrícula ni las condiciones laborales ni los convenios colectivos. La acumulación de cargos se permite si hay escasez de profesionales en la zona, no hay superposición horaria y el profesional presenta la declaración correspondiente. Además, la ley faculta al Poder Ejecutivo a firmar convenios con otras provincias.",
-    "Desde Arriba Chubut, la diputada Vanesa Abril acompañó la iniciativa por la necesidad de contar con especialistas de Río Negro, pero hizo observaciones para atender la cuestión de fondo del sistema de salud."
-   ],
-   "arte": "escuela",
-   "tema": "Salud"
-  },
-  {
-   "id": "trelew-vihsibles-fest-plaza-independencia",
-   "fecha": "2026-11-27T14:42:16-03:00",
-   "sec": "ultimas",
-   "ciudad": "Trelew",
-   "titulo": "Trelew: el sábado habrá testeos gratuitos de VIH y sífilis en el VIHsibles Fest",
-   "bajada": "El evento será en la Plaza Independencia desde las 17, por el Día Mundial de la Respuesta al VIH.",
-   "cuerpo": [
-    "El Ministerio de Salud del Chubut, junto con el Municipio de Trelew y el Hospital Zonal «Dr. Adolfo Margara», realizará este sábado el VIHsibles Fest en la Plaza Independencia, desde las 17, en el marco del Día Mundial de la Respuesta al VIH, que se conmemora el 1 de diciembre.",
-    "Habrá danza y música en vivo, feria de emprendedores, stands de salud con charlas y asesoramiento sobre prevención de infecciones de transmisión sexual, y una carpa de testeos gratuitos.",
-    "El personal de salud hará testeos rápidos de VIH y sífilis con una pequeña punción en el dedo. Los resultados se obtienen en unos 15 minutos y se comunican de forma privada y confidencial."
-   ],
-   "arte": "ciudad",
-   "tema": "Salud"
-  },
-  {
-   "id": "trelew-limpieza-profunda-laguna-chiquichano",
-   "fecha": "2026-11-27T14:42:15-03:00",
-   "sec": "ultimas",
-   "ciudad": "Trelew",
-   "titulo": "Trelew hizo una limpieza profunda en la laguna Chiquichano antes del verano",
-   "bajada": "Es la segunda intervención del año para sacar residuos del borde del espejo de agua, donde no llega la limpieza diaria.",
-   "cuerpo": [
-    "Cuadrillas de Servicios Públicos de Trelew realizaron una limpieza profunda en la laguna Chiquichano, con botas de goma y guantes para trabajar sobre el borde del agua. Es la segunda de este tipo en lo que va del año.",
-    "La coordinadora de Ambiente, Erica Colombani, explicó que el operativo permite llegar a sectores inaccesibles en la rutina diaria, donde el viento y las corrientes concentran desechos. «Hace falta de vez en cuando hacer este tipo de limpiezas para mantener el espejo de agua en condiciones», dijo.",
-    "Con la cercanía del verano se espera más público en el paseo. Desde Ambiente pidieron a los visitantes depositar los residuos en los cestos diferenciados para húmedos y secos que hay en todo el perímetro y en el sector de los carritos gastronómicos."
-   ],
-   "arte": "valle",
-   "tema": "Ambiente"
-  },
-  {
-   "id": "diputados-aprobo-presupuesto-2027",
-   "fecha": "2026-11-27T14:42:14-03:00",
-   "sec": "nacionales",
-   "ciudad": "Nacional",
-   "titulo": "Diputados aprobó el Presupuesto 2027 por 136 votos a 112",
-   "bajada": "El oficialismo perdió las votaciones de los capítulos sobre universidades y ciencia, que quedaron con el texto de la oposición.",
-   "cuerpo": [
-    "La Cámara de Diputados aprobó el Presupuesto 2027 con 136 votos positivos, 112 negativos y 3 abstenciones, tras un debate de más de 12 horas en el que hablaron más de 70 oradores.",
-    "En la votación en particular, el oficialismo perdió dos capítulos: el II, referido a lo universitario, y el IV, sobre ciencia, que quedaron con los términos del dictamen de la oposición.",
-    "Es el segundo presupuesto de la gestión de Javier Milei, que durante sus dos primeros años gobernó con la prórroga del plan de gastos y recursos de 2023. La sesión se dio en un clima de negociaciones hasta último momento con aliados y bloques dialoguistas."
-   ],
-   "arte": "ciudad",
-   "tema": "Presupuesto 2027"
-  },
-  {
    "id": "torres-canadon-perdido-recuperacion-terciaria",
    "fecha": "2026-11-27T14:42:13-03:00",
    "sec": "politica",
@@ -1362,22 +1385,6 @@
    "tema": "Tarifaria 2027"
   },
   {
-   "id": "trevelin-bioquimico-libertad-prohibicion-acercamiento",
-   "fecha": "2026-11-27T13:05:00-03:00",
-   "sec": "policiales",
-   "ciudad": "Trevelin",
-   "titulo": "Trevelin: liberaron al bioquímico acusado de privar de la libertad a su esposa y sus hijos",
-   "bajada": "El juez José Luis Ennis le levantó la prisión domiciliaria al hombre de 71 años, pero durante 45 días no podrá acercarse ni contactar a su familia.",
-   "cuerpo": [
-    "Un bioquímico de 71 años de Trevelin, denunciado por sus vecinos por la presunta privación ilegítima de la libertad de su esposa y sus tres hijos, recuperó la libertad tras una audiencia de una hora realizada este viernes en los Tribunales de Esquel.",
-    "El hombre había pasado diez días detenido en la Comisaría de Trevelin y luego cumplió 30 días de prisión domiciliaria en esa localidad. Al vencer ese plazo, el juez José Luis Ennis decidió atenuar la medida: por 45 días tendrá prohibido acercarse y comunicarse con las víctimas y, desde el 30 de noviembre, deberá presentarse todos los lunes en la comisaría. Podrá moverse libremente dentro de su chacra.",
-    "La defensa pidió la libertad con el argumento de que el acusado necesita trabajar, y el juez lo tuvo en cuenta junto con su edad y con la pena que podría recibir, que sería en suspenso.",
-    "La fiscal jefe María Bottini explicó que esperan las pericias del cuerpo forense interdisciplinario para definir cómo seguirá la investigación. \"Para nosotras hubo cosas nuevas\", dijo, aunque el juez consideró que no alcanzaban para mantenerlo detenido."
-   ],
-   "arte": "cordillera",
-   "tema": "Justicia"
-  },
-  {
    "id": "chubut-pago-haberes-noviembre-2-y-3-diciembre",
    "fecha": "2026-11-27T11:25:00-03:00",
    "sec": "politica",
@@ -1393,22 +1400,6 @@
    "arte": "banco",
    "tema": "Sueldos estatales",
    "lugar": "lead"
-  },
-  {
-   "id": "luz-y-fuerza-congreso-madryn-mercado-electrico-provincial",
-   "fecha": "2026-11-27T11:21:27-03:00",
-   "sec": "politica",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Luz y Fuerza discute en Madryn un Mercado Eléctrico Mayorista Provincial y un Observatorio de Tarifas",
-   "bajada": "La Fundación Patagonia Tercer Milenio presentó sus propuestas energéticas, educativas y culturales en el congreso de delegados del Sindicato Regional de Luz y Fuerza de la Patagonia, que sesiona hasta este viernes.",
-   "cuerpo": [
-    "El Sindicato Regional de Luz y Fuerza de la Patagonia realiza en Puerto Madryn su 48.º Congreso General Ordinario de Delegados, que termina este viernes. En ese marco, la Fundación Patagonia Tercer Milenio, encabezada por Gustavo Monesterolo, expuso sus líneas de trabajo para los próximos años.",
-    "El eje central fue la energía. Eugenio Krämer y Fernando Carmona plantearon discutir un modelo energético federal que tenga en cuenta las diferencias entre regiones en costos e infraestructura. Para Chubut propusieron una reforma estructural del servicio público de electricidad: un diagnóstico de los distintos sistemas de prestación, un plan de acción regulatorio y técnico, la creación de un Mercado Eléctrico Mayorista Provincial y un nuevo marco regulatorio.",
-    "También se presentó la creación de un Observatorio de Tarifas para seguir la situación de los servicios públicos, y propuestas de capacitación y formación superior para los trabajadores del sector. Otro punto fue la ampliación de los sistemas de interconexión eléctrica en la Patagonia.",
-    "En lo cultural, Leonardo Mezzetti y Gastón Siriczman repasaron la actividad del Multi Espacio Cultural (MEC) que la Fundación tiene en Trelew, con muestras de artes visuales y fotografía, presentaciones de libros, charlas, proyecciones y talleres."
-   ],
-   "arte": "molino",
-   "tema": "Energía"
   },
   {
    "id": "comodoro-oca-retencion-salarios-adeudados",

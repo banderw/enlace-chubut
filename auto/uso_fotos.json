@@ -39,12 +39,12 @@
 "bomberos-2": 1,
 "accidente-1": 1,
 "corredores-1": 2,
-"escuela-4": 1,
+"escuela-4": 2,
 "fiesta-1": 1,
 "trabajadores-2": 1,
 "electricidad-1": 4,
 "mayores-2": 1,
-"banco-1": 4,
+"banco-1": 5,
 "barrio-1": 1,
 "gobierno-2": 2,
 "cordillera-1": 1,
@@ -76,5 +76,6 @@
 "futbol-4": 1,
 "turistas-1": 1,
 "teatro-1": 1,
-"pesca-2": 1
+"pesca-2": 1,
+"musica-2": 1
 }
