@@ -77,6 +77,97 @@
  ],
  "notas": [
   {
+   "id": "riesgo-pais-bajo-1000-dolar-baja",
+   "fecha": "2026-11-28T01:07:56-03:00",
+   "sec": "nacionales",
+   "ciudad": "Buenos Aires",
+   "titulo": "El riesgo país volvió a perforar los mil puntos y el dólar oficial bajó",
+   "bajada": "El indicador cayó 121 unidades hasta 946 puntos básicos, con bonos y acciones en alza.",
+   "cuerpo": [
+    "El riesgo país cedió 121 unidades y quedó en 946 puntos básicos, por debajo del piso psicológico de los mil. Los bonos soberanos subieron hasta 2,4% y el índice Merval avanzó 2,6%, con ADRs de hasta 6% de suba.",
+    "El Banco Nación bajó el dólar oficial a $1.570 para la compra y $1.620 para la venta, $10 menos que el techo de $1.630 del jueves.",
+    "Influyeron el giro económico de Brasil, la licitación del Tesoro que renovó $25 billones en vencimientos y el anticipo del ministro Luis Caputo sobre la activación de un tramo del swap con China para afrontar pagos de 2027."
+   ],
+   "arte": "banco",
+   "tema": "Economía"
+  },
+  {
+   "id": "torres-canadon-perdido-pecom-reactivacion",
+   "fecha": "2026-11-28T01:07:55-03:00",
+   "sec": "politica",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Torres recorrió Cañadón Perdido, donde se perforó por primera vez en más de seis décadas",
+   "bajada": "PECOM invirtió 35 millones de dólares en el primer tramo de un proyecto de recuperación terciaria que busca pasar de 450 a 2.500 barriles diarios.",
+   "cuerpo": [
+    "El gobernador Ignacio Torres recorrió este viernes las operaciones que PECOM desarrolla en la Cuenca del Golfo San Jorge, ante cientos de trabajadores, en Campamento Central–Cañadón Perdido, a pocos kilómetros de Comodoro Rivadavia. Allí no se perforaba desde hacía más de seis décadas.",
+    "Con una inversión de 35 millones de dólares, la empresa puso en marcha la primera fase del proyecto: 28 pozos (nueve inyectores y 19 productores) y una planta de inyección de polímeros. Se prevé elevar la producción del área de 450 a 2.500 barriles diarios, con potencial para otros 80 pozos en etapas futuras.",
+    "\"Hoy el resultado es claro y concreto: aumentó la producción, hay un compromiso de inversión que va a ser cada vez mayor y hay trabajo\", expresó Torres, que destacó también las inversiones previstas para 2027 en áreas maduras transferidas por YPF.",
+    "Lo acompañaron el diputado nacional y titular del sindicato petrolero, Jorge \"Loma\" Ávila, el ministro de Hidrocarburos, Federico Ponce, y la presidenta de Petrominera, Irene Carrizo."
+   ],
+   "arte": "petroleo",
+   "tema": "Petróleo"
+  },
+  {
+   "id": "colectivo-incendiado-ruta-25-el-molle-pasajeros",
+   "fecha": "2026-11-28T01:07:54-03:00",
+   "sec": "policiales",
+   "ciudad": "Provincia",
+   "titulo": "Se incendió un micro Esquel-Madryn en la Ruta 25: los 35 pasajeros salieron ilesos",
+   "bajada": "Un padre relató que sus hijos esperaron más de tres horas a la intemperie, con frío, hasta recibir asistencia.",
+   "cuerpo": [
+    "Un colectivo que cubría el trayecto entre Esquel y Puerto Madryn se incendió cerca de las 2 de la madrugada en la Ruta 25, a la altura de El Molle. Los 35 pasajeros lograron bajar sin heridas.",
+    "La responsable de la empresa Mar y Valle, Sonia Rancho, contó que los choferes advirtieron humo dentro de la unidad, frenaron de inmediato e intentaron apagar las llamas con un matafuegos, pero el fuego se propagó y afectó gran parte del micro.",
+    "José Moggiano, padre de pasajeros, relató en Facebook que sus hijos pasaron \"más de tres horas de frío\" esperando asistencia en plena madrugada. El episodio reavivó la preocupación por el resguardo de los pasajeros durante las esperas en la ruta."
+   ],
+   "arte": "ruta",
+   "tema": "Ruta 25"
+  },
+  {
+   "id": "rawson-controles-camiones-pesqueros-temporada",
+   "fecha": "2026-11-28T01:07:53-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "Rawson intensifica los controles a camiones pesqueros para evitar derrames y olores",
+   "bajada": "Inspectores ambientales verifican el sellado de los vehículos durante la temporada de pesca; las pérdidas se sancionan con infracciones.",
+   "cuerpo": [
+    "La Municipalidad de Rawson inició una nueva etapa de controles ambientales al transporte de cargas, en el marco de la temporada de pesca en Puerto Rawson. Los operativos están a cargo de la Dirección General de Inspecciones Ambientales y se hacen en distintos accesos a la ciudad.",
+    "Los camiones deben tener estanqueidad, sistemas de reserva de líquidos y un sellado correcto para no perder residuos en el trayecto. Si se detectan derrames o filtraciones, los inspectores pueden labrar infracciones ambientales.",
+    "El secretario de Ambiente y Desarrollo Sustentable, Miguel Larrauri, explicó que estos procedimientos se repiten cada temporada para evitar que los líquidos caigan dentro del ejido urbano y generen malos olores. Los controles se concentrarán sobre la avenida Libertad y seguirán mientras dure la temporada pesquera."
+   ],
+   "arte": "mar",
+   "tema": "Puerto Rawson"
+  },
+  {
+   "id": "senadoras-chubut-suspension-paso-media-sancion",
+   "fecha": "2026-11-28T01:07:52-03:00",
+   "sec": "politica",
+   "ciudad": "Provincia",
+   "titulo": "Terenzi y Cristina votaron a favor de suspender las PASO; Linares, en contra",
+   "bajada": "El Senado aprobó por 43 votos a 29 la reforma electoral del Gobierno nacional, que ahora pasa a Diputados.",
+   "cuerpo": [
+    "En la votación del Senado por la suspensión de las PASO, las senadoras chubutenses Edith Terenzi y Andrea Cristina acompañaron la reforma electoral impulsada por La Libertad Avanza. El justicialista Carlos Linares votó en contra.",
+    "La iniciativa obtuvo media sanción con 43 votos afirmativos y 29 negativos. El proyecto suspende las PASO para 2027, mantiene la Boleta Única de Papel, incorpora la opción de votar una lista completa y modifica el esquema de publicidad electoral en medios audiovisuales.",
+    "El respaldo de las dos senadoras se leyó como sintonía con la estrategia del gobernador Ignacio Torres, que en los últimos meses profundizó el diálogo institucional con la administración de Javier Milei. Ahora el oficialismo buscará convertir la reforma en ley en la Cámara de Diputados, antes del inicio del proceso electoral de 2027."
+   ],
+   "arte": "ciudad",
+   "tema": "Elecciones 2027"
+  },
+  {
+   "id": "unpsjb-trelew-colacion-99-graduados",
+   "fecha": "2026-11-28T01:07:51-03:00",
+   "sec": "ultimas",
+   "ciudad": "Trelew",
+   "titulo": "La UNPSJB entregó diplomas a 99 graduados en el Teatro Español de Trelew",
+   "bajada": "La sede Trelew de la Universidad de la Patagonia San Juan Bosco realizó la 196ª Colación de Grado y la 86ª de Posgrado.",
+   "cuerpo": [
+    "La Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB), sede Trelew, hizo este jueves por la tarde el acto de colación en el Teatro Español. Recibieron sus diplomas 95 graduados de carreras de grado y pregrado y cuatro de posgrado.",
+    "Por facultad, 38 egresados son de Ciencias Económicas, 26 de Ciencias Jurídicas, 18 de Humanidades y Ciencias Sociales, 11 de Ingeniería y dos de Ciencias Naturales y Ciencias de la Salud. En posgrado, uno correspondió a Ciencias Económicas y tres a Humanidades y Ciencias Sociales.",
+    "Hablaron el delegado zonal, Gabriel Yapur, el rector Rubén Gustavo Fleitas y los decanos de cada facultad, que destacaron la importancia de la formación universitaria. También hubo mensajes de los propios graduados y un momento musical en su honor."
+   ],
+   "arte": "escuela",
+   "tema": "Universidad"
+  },
+  {
    "id": "ley-ludopatia-apuestas-clubes",
    "fecha": "2026-11-28T00:06:29-03:00",
    "sec": "nacionales",
@@ -1318,102 +1409,6 @@
    ],
    "arte": "molino",
    "tema": "Energía"
-  },
-  {
-   "id": "comodoro-egresada-epja-se-queda-sin-trabajo",
-   "fecha": "2026-11-27T11:16:44-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: terminó el secundario a los 36 años y el mismo día le avisaron que se queda sin trabajo",
-   "bajada": "Eda, de origen paraguayo, egresó del EPJA 764 tras tres años de cursada nocturna. Durante los festejos le comunicaron que desde enero dejará su empleo en una empresa de limpieza.",
-   "cuerpo": [
-    "Eda tiene 36 años, nació en Paraguay y este año cumplió una meta que tenía pendiente desde hacía mucho: terminar la escuela secundaria en Comodoro Rivadavia. Lo logró en el EPJA 764, que funciona en el turno noche de la Escuela 723.",
-    "La alegría del egreso, sin embargo, llegó acompañada de una mala noticia. En plena celebración contó que trabaja en una empresa de limpieza y que ese mismo día le informaron que a partir de enero se quedará sin empleo.",
-    "\"Está mal la situación y bueno, es así, no es culpa de nadie, es la situación. Pero también estoy feliz porque hoy me egresé\", dijo.",
-    "Pese a todo, eligió destacar el esfuerzo de los últimos tres años y dejó un mensaje para quienes todavía tienen pendiente retomar los estudios: \"Fue duro, pero lo logramos. Ese es el mensaje: se puede\"."
-   ],
-   "arte": "escuela",
-   "tema": "Educación"
-  },
-  {
-   "id": "comodoro-mosconi-pareja-detenida-robo-almacen",
-   "fecha": "2026-11-27T11:16:43-03:00",
-   "sec": "policiales",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: vecinos ayudaron a detener a una pareja que robó hamburguesas y queso de un almacén",
-   "bajada": "Pasó el jueves a la tarde en un comercio de calle Mirco Michunovich, en el barrio General Mosconi. La mujer rompió de un piedrazo un vidrio del local al ser descubierta.",
-   "cuerpo": [
-    "Un hombre y una mujer fueron detenidos el jueves por la tarde en el barrio General Mosconi de Comodoro Rivadavia, acusados de llevarse mercadería de un almacén ubicado sobre calle Mirco Michunovich.",
-    "La pareja entró al comercio y escondió paquetes de hamburguesas y queso por un valor de poco más de 30 mil pesos. Cuando la dueña los descubrió y les pidió que devolvieran los productos, la mujer salió a la vereda y tiró una piedra contra el frente del local, que rompió un vidrio.",
-    "La comerciante avisó a los vecinos, que salieron a buscarlos. El hombre intentó escapar hacia unas casas cercanas, pero lo alcanzaron y lo retuvieron a unas dos cuadras; terminó con lesiones por el forcejeo. Al mismo tiempo, efectivos de la Comisaría Mosconi encontraron a la mujer cuando intentaba cambiarse de ropa y recuperaron toda la mercadería.",
-    "Los dos quedaron alojados en la comisaría a la espera de la audiencia de control de detención."
-   ],
-   "arte": "ciudad",
-   "tema": "Seguridad"
-  },
-  {
-   "id": "abech-final-juego-3-reprogramado-domingo",
-   "fecha": "2026-11-27T11:16:42-03:00",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Final de la ABECH: el tercer juego entre Deportivo Madryn y Brown pasó para el domingo a las 21",
-   "bajada": "La asociación volvió a cambiar el cronograma de la serie, que está 1 a 1. El cuarto partido será el miércoles 2 de diciembre y un eventual quinto, el sábado 5.",
-   "cuerpo": [
-    "La final del Torneo Clausura de la Asociación de Básquet del Este del Chubut (ABECH) tuvo un nuevo cambio de fechas: el tercer partido entre Deportivo Madryn y Guillermo Brown, que estaba previsto para este viernes a las 21:30 en el gimnasio Luján Barrientos, se jugará el domingo desde las 21.",
-    "La serie está igualada. Madryn ganó el primer juego como visitante por 91 a 84 y Brown respondió el miércoles con un triunfo por 101 a 91, en un partido que se definió en dos suplementarios.",
-    "El Aurinegro será local en el tercer y el cuarto encuentro; este último quedó fijado para el miércoles 2 de diciembre. Si hace falta un quinto partido, se disputará el sábado 5 en el gimnasio Benito García, ya que Brown tiene la ventaja deportiva por haber ganado la fase regular.",
-    "La ABECH informó que la reprogramación se decidió de común acuerdo con los dos clubes."
-   ],
-   "arte": "cancha",
-   "tema": "Básquet ABECH"
-  },
-  {
-   "id": "comodoro-la-floresta-detenido-pistola-cuchillo",
-   "fecha": "2026-11-27T11:16:41-03:00",
-   "sec": "policiales",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: un hombre tiró una pistola mientras huía de la Policía y después los enfrentó con un cuchillo",
-   "bajada": "Ocurrió el jueves a la noche en el barrio La Floresta. El sospechoso, de 41 años, quedó imputado por portación ilegal de arma y resistencia a la autoridad.",
-   "cuerpo": [
-    "Un hombre de 41 años fue aprehendido el jueves cerca de las 21:30 en el barrio La Floresta de Comodoro Rivadavia, en inmediaciones de calle Misiones al 3100, después de que los efectivos lo vieran caminando por la calle con un arma de fuego en la mano.",
-    "Al notar la presencia policial escapó a pie y, durante la persecución, se deshizo de la pistola. Luego salió de su casa con un cuchillo para enfrentar a los agentes del Grupo de Respuesta Inmediata Motorizada (GRIM) y de la Comisaría Cuarta, que finalmente lo redujeron.",
-    "En el patio donde había arrojado el arma, los policías encontraron una pistola Bersa calibre 9 milímetros y un teléfono celular, que quedaron a disposición de la División Policía Científica para las pericias.",
-    "El detenido quedó imputado por tenencia y portación ilegal de arma de fuego, y por atentado y resistencia a la autoridad."
-   ],
-   "arte": "noche",
-   "tema": "Seguridad"
-  },
-  {
-   "id": "ley-apuestas-online-menores-publicidad-camisetas",
-   "fecha": "2026-11-27T07:57:39-03:00",
-   "sec": "nacionales",
-   "ciudad": "Buenos Aires",
-   "titulo": "Es ley: prohíben las apuestas online para menores y la publicidad de casas de juego en las camisetas",
-   "bajada": "El Senado aprobó por unanimidad la norma contra la ludopatía y las ciberapuestas, que también restringe la promoción del juego en medios, redes sociales y vía pública.",
-   "cuerpo": [
-    "El Senado convirtió en ley el jueves por la noche el proyecto para combatir la ludopatía y las apuestas en línea. La norma, aprobada por unanimidad, prohíbe que los menores de edad jueguen en plataformas digitales y veda la publicidad, la promoción y el patrocinio de juegos de azar en la indumentaria deportiva.",
-    "La iniciativa llevaba dos años frenada y estaba por perder estado parlamentario. Se destrabó tras un acuerdo entre el peronismo y bloques aliados de La Libertad Avanza, con fuerte presión de la Iglesia, y sumó también el voto de legisladores libertarios como Agustín Coto y Luis Juez. El Gobierno nacional pretendía cambios y rechaza las restricciones a la publicidad, una postura que comparten la AFA y varios clubes que reciben aportes de empresas del sector.",
-    "La prohibición alcanza a la promoción en redes sociales, internet, medios gráficos, radiales, televisivos y audiovisuales, la publicidad exterior y el emplazamiento de productos, e incluso a nuevos medios que puedan surgir. Solo se permitirá publicidad dentro de casinos, bingos, hipódromos, casas de apuestas y agencias de lotería.",
-    "Uno de los puntos que más impacto tendrá es el fin del patrocinio de casas de apuestas en las camisetas, una práctica extendida entre los principales clubes del fútbol argentino. La ley también contempla penas de entre tres y ocho años de prisión."
-   ],
-   "arte": "cancha",
-   "tema": "Ludopatía"
-  },
-  {
-   "id": "comodoro-detenido-disparos-calle-saavedra",
-   "fecha": "2026-11-27T07:57:38-03:00",
-   "sec": "policiales",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: detuvieron a un hombre señalado por disparar un arma y le secuestraron una pistola Glock",
-   "bajada": "Una testigo lo identificó como quien habría efectuado disparos el miércoles por la tarde. Al ver a la Policía chocó con su camioneta contra un poste de luz en calle Saavedra.",
-   "cuerpo": [
-    "La Policía de Comodoro Rivadavia detuvo el miércoles 26 de noviembre a un hombre al que una testigo señaló como el autor de varios disparos con un arma de fuego. El aviso llegó por teléfono cerca de las 15:10 y describía a un hombre vestido de negro que se movía en una camioneta del mismo color.",
-    "Efectivos de la Comisaría Seccional Segunda fueron al lugar y, mientras hablaban con la testigo, apareció por calle Saavedra una Toyota Hilux. Al notar la presencia policial, el conductor hizo una maniobra y terminó golpeando la parte delantera derecha de la camioneta contra un poste de luz, a la altura del 1082. La mujer reconoció el vehículo y al conductor.",
-    "Los policías le pidieron que bajara y, durante el palpado preventivo, vieron desde afuera una pistola Glock sobre el asiento del conductor. Por orden del fiscal de turno, Cristian Ovalle, se inspeccionó la camioneta: además del arma se secuestraron dos vainas servidas calibre 9 milímetros, un cargador con 13 cartuchos y otro cartucho suelto.",
-    "En la requisa también apareció un envoltorio con una sustancia blanca. Personal de la División Drogas Peligrosas y Leyes Especiales determinó que eran 0,3 gramos de cocaína. La Hilux quedó secuestrada y el hombre fue trasladado a la dependencia policial, investigado por presunto abuso de armas y tenencia ilegal de arma de fuego."
-   ],
-   "arte": "ciudad",
-   "tema": "Seguridad"
   },
   {
    "id": "comodoro-oca-retencion-salarios-adeudados",

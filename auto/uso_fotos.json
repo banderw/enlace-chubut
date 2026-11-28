@@ -29,7 +29,7 @@
 "edificio-1": 2,
 "trabajadores-1": 2,
 "ruta-1": 1,
-"elecciones-1": 7,
+"elecciones-1": 8,
 "hospital-1": 2,
 "pesca-1": 1,
 "trevelin-1": 1,
@@ -44,7 +44,7 @@
 "trabajadores-2": 1,
 "electricidad-1": 4,
 "mayores-2": 1,
-"banco-1": 3,
+"banco-1": 4,
 "barrio-1": 1,
 "gobierno-2": 2,
 "cordillera-1": 1,
@@ -75,5 +75,6 @@
 "perro-2": 1,
 "futbol-4": 1,
 "turistas-1": 1,
-"teatro-1": 1
+"teatro-1": 1,
+"pesca-2": 1
 }
