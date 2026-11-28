@@ -1,99 +1,103 @@
 {
  "notas": [
   {
-   "id": "ader-rawson-recorrida-diputados-proyectos-2027",
+   "id": "seros-nueva-sede-comodoro-torres",
    "sec": "politica",
-   "ciudad": "Rawson",
-   "tema": "ADER Rawson",
-   "titulo": "ADER mostró su producción y los proyectos que prepara para 2027",
-   "bajada": "El intendente Damián Biss y diputados provinciales del bloque Chubut Unido recorrieron la Agencia de Desarrollo Económico de Rawson.",
+   "ciudad": "Comodoro Rivadavia",
+   "tema": "Seros",
+   "titulo": "Torres inauguró en Comodoro la nueva sede de Seros y un albergue para pacientes derivados",
+   "bajada": "El complejo, de unos 4.000 metros cubiertos, tiene 25 consultorios, quirófano para cirugías ambulatorias y una residencia para pacientes y acompañantes.",
    "cuerpo": [
-    "El intendente de Rawson, Damián Biss, junto a los diputados provinciales Mariela Tamame, Sergio González y Marcelo Rubia, recorrió las instalaciones de la Agencia de Desarrollo Económico de Rawson (ADER). Conocieron los procesos productivos del lugar y las iniciativas previstas para el próximo año.",
-    "La agencia produce insumos con impresión 3D para plantas pesqueras, cuenta con una adoquinera, cultivos hidropónicos y generación de energía solar. También ofrece formación y acompañamiento a vecinos y familias de la ciudad.",
-    "González destacó la diversidad de actividades que se desarrollan en el predio y consideró que la experiencia podría replicarse en otras localidades de la provincia."
+    "El gobernador Ignacio Torres, junto al presidente del ISSyS, Miguel Arnaudo, inauguró en Comodoro Rivadavia la nueva sede de Seros y el Albergue de Derivados, en el marco del Plan Galina. La obra se hizo con recursos provinciales y demandó una inversión superior a los 20 millones de dólares.",
+    "El edificio reúne en un mismo predio la atención administrativa, los servicios médicos ambulatorios y el alojamiento transitorio para pacientes derivados y sus acompañantes, una respuesta pensada para quienes deben viajar a Comodoro por tratamientos prolongados o de mayor complejidad.",
+    "La estructura tiene siete niveles. La planta baja y los dos primeros pisos concentran recepción, atención al público y oficinas administrativas; del tercero al quinto funcionan los 25 consultorios médicos y odontológicos, un vacunatorio y el sector de cirugía ambulatoria.",
+    "Torres afirmó que los afiliados \"se merecían\" una sede como esta, con consultorios, quirófano y más de once habitaciones en la residencia para que los familiares puedan acompañar a los pacientes."
    ],
-   "foto": "obra",
+   "foto": "hospital",
+   "arte": "ciudad",
    "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
-   "arte": "ciudad",
-   "origen": "https://www.elchubut.com.ar/rawson/2026-11-27-18-4-0-ader-mostro-su-capacidad-productiva-y-los-proyectos-que-prepara-para-2027"
+   "gacetilla": false,
+   "origen": "https://www.elchubut.com.ar/regionales/2026-11-26-20-40-0-torres-inauguro-nueva-sede-de-seros-en-comodoro-con-25-consultorios-quirofano-propio-y-residencia-para-pacientes"
   },
   {
-   "id": "utilitario-incendio-doble-trocha-bajo-simpson",
-   "sec": "policiales",
+   "id": "coros-municipales-madryn-concierto-fin-de-anio",
+   "sec": "ultimas",
    "ciudad": "Puerto Madryn",
-   "tema": "Incendio de vehículo",
-   "titulo": "Un utilitario se incendió por una falla mecánica en la Doble Trocha Trelew-Madryn",
-   "bajada": "El conductor, de 39 años, logró bajarse a tiempo y salió ileso; el vehículo quedó destruido.",
+   "tema": "Coros Municipales",
+   "titulo": "Los Coros Municipales de Puerto Madryn cierran el año con un concierto solidario",
+   "bajada": "Será el domingo 29 de noviembre a las 21.30 en la parroquia Sagrado Corazón de Jesús, con entrada libre.",
    "cuerpo": [
-    "Un utilitario Renault Master quedó totalmente destruido por un incendio durante la madrugada del jueves en la Ruta 3, en la Doble Trocha, a la altura del Bajo Simpson, unos 15 kilómetros al sur de Puerto Madryn. Según la policía, el fuego se originó por una falla mecánica.",
-    "El vehículo circulaba presuntamente hacia Trelew cuando comenzó a prenderse fuego. Su conductor, un hombre de 39 años, detuvo la marcha, lo estacionó a un costado de la ruta y se bajó mientras llamaba a los bomberos. Salió ileso.",
-    "En pocos segundos las llamas consumieron el utilitario, que terminó completamente quemado."
+    "La Subsecretaría de Cultura de Puerto Madryn invita al Concierto de Fin de Año de los Coros Municipales, que reunirá a las tres agrupaciones en una noche de música, encuentro y solidaridad.",
+    "Se presentarán el Coro Infantil, dirigido por la licenciada Emilia Robles; el Coro de Jóvenes, a cargo de la licenciada Fabiana Solana, y el Coro Estable, con el profesor Diego Lacunza. El encuentro será en la parroquia Sagrado Corazón de Jesús, en Belgrano 292.",
+    "La entrada es libre y gratuita, aunque se pide a quienes asistan colaborar con elementos de higiene personal, que se destinarán a Hogares de Cristo."
    ],
-   "foto": "bomberos",
+   "foto": "musica",
+   "arte": "escenario",
+   "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
+   "origen": "https://www.diariojornada.com.ar/427839/espectaculos/los_coros_municipales_cerraran_el_ano"
+  },
+  {
+   "id": "musica-al-paso-costanera-madryn",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "tema": "Semana de la Música",
+   "titulo": "\"Música al paso\" llenó de música la costanera de Puerto Madryn",
+   "bajada": "La propuesta gratuita armó nueve estaciones musicales en un recorrido de 3,5 kilómetros, del Playón Recreativo al Parador de la Bajada 9.",
+   "cuerpo": [
+    "Puerto Madryn vivió el lunes 23 de noviembre una nueva edición de \"Música al paso\", dentro de la Semana de la Música. Entre las 17.30 y las 23.30, distintos puntos de la costanera funcionaron como escenarios al aire libre con artistas de la ciudad.",
+    "El público pudo recorrer caminando, trotando o en bicicleta las nueve estaciones, con estilos que fueron de la percusión y los ritmos brasileños al folklore, la música coral, el groove y la electrónica.",
+    "Participaron Volcán Activo, Matías Rodríguez, el Coro Estable Municipal dirigido por Diego Lacunza, la Orquesta Yayau, Groovefela y Samba Na Praia, junto a los DJ Pich, Doble Aa, Brian Kuhn y Nolbert."
+   ],
+   "foto": "musica",
+   "arte": "escenario",
+   "foto_archivo": "auto/fotos_candidatas/cand-3.jpg",
+   "origen": "https://www.diariojornada.com.ar/427854/espectaculos/la_costanera_tuvo_una_jornada_unica_con_musica_al_paso"
+  },
+  {
+   "id": "yoel-hernandez-republica-folklore",
+   "sec": "ultimas",
+   "ciudad": "El Maitén",
+   "tema": "Música",
+   "titulo": "El maitenense Yoel Hernández tocó en el República Folklore ante unas 70.000 personas",
+   "bajada": "El artista participó del festival que encabeza Soledad Pastorutti, el 21 y 22 de noviembre en el Parque de la Ciudad, en Buenos Aires.",
+   "cuerpo": [
+    "El músico de El Maitén Yoel Hernández se presentó en el República Folklore, realizado el 21 y 22 de noviembre en el Parque de la Ciudad, en Villa Soldati. El encuentro reunió a unas 70.000 personas, 35.000 por jornada.",
+    "El sábado 21 actuó en La Pulpeña, un sector con formato de peña y guitarreada, donde compartió bloque con los payadores Gaboto-Tokar e invitó a escena a Miguelito Ibáñez. Al día siguiente integró la programación central, en una grilla con Soledad Pastorutti, Abel Pintos y Cazzu.",
+    "Llegó al festival luego de estrenar su chamamé \"La lluvia en el fuego\" y de cerrar en Chubut su gira \"Uniendo Pueblos\", que lo llevó a lugares adonde no suelen ir artistas reconocidos."
+   ],
+   "foto": "folclore",
+   "arte": "escenario",
    "foto_archivo": "auto/fotos_candidatas/cand-4.jpg",
-   "arte": "humo",
-   "origen": "https://www.elchubut.com.ar/policiales/2026-11-26-18-54-0-utilitario-fue-arrasado-por-las-llamas-de-un-incendio-en-la-doble-trocha-trelew-madryn"
+   "origen": "https://www.diariojornada.com.ar/427858/espectaculos/yoel_hernandez_presente_y_futuro_de_la_musica_patagonica"
   },
   {
-   "id": "k9-aduana-puerto-madryn-pseudo-fentanilo",
-   "sec": "policiales",
+   "id": "my-way-musical-sinatra-puerto-madryn",
+   "sec": "ultimas",
    "ciudad": "Puerto Madryn",
-   "tema": "Aduana",
-   "titulo": "Capacitaron en Puerto Madryn a equipos K9 para detectar pseudo-fentanilo",
-   "bajada": "Durante cinco días, personal de la Aduana trabajó con binomios de la Región Austral en técnicas de detección en puertos y espacios de alto tránsito.",
+   "tema": "Teatro",
+   "titulo": "\"My Way\", el musical sobre Frank Sinatra, se presenta este sábado en Puerto Madryn",
+   "bajada": "Más de 30 artistas de FAND participan del espectáculo dirigido por Nelson Coccalotto, en el Cine Teatro Auditorium a las 22.",
    "cuerpo": [
-    "Puerto Madryn fue sede de una capacitación de cinco días para los equipos K9 de la Región Austral. Personal especializado de la Aduana Argentina incorporó el olor del pseudo-fentanilo al repertorio de detección de los perros.",
-    "También se perfeccionaron técnicas de búsqueda en escenarios complejos, como puertos y espacios de alto tránsito, y se hicieron ejercicios para mejorar la precisión de las alertas y fortalecer el trabajo conjunto entre guías y canes.",
-    "La formación permite ampliar las capacidades de detección y mejorar la respuesta operativa frente a la circulación de nuevas sustancias."
+    "La vida de Frank Sinatra y sus grandes canciones llegan al escenario del Cine Teatro Auditorium con \"My Way\", un musical que recorre la historia del artista desde sus comienzos hasta sus últimos años. La función es este sábado 28 de noviembre, a las 22.",
+    "La obra fue escrita y dirigida por Nelson Coccalotto y reúne a más de 30 artistas de FAND, entre cantantes líricos, bailarines y actores. El elenco lo encabezan Román Coccalotto, distinguido con el Premio María Callas, y Anabella Carnevali, junto a Candela Ruiz, Sofía Rabolli, Salvador Antonucci Maspoli y Camilo Mendoza.",
+    "La puesta dura alrededor de una hora y media y combina canto en vivo, actuaciones, coreografías, iluminación y cambios escenográficos. Entre los personajes aparecen Sammy Davis Jr., Dean Martin, Ava Gardner, Marilyn Monroe y John F. Kennedy."
    ],
-   "foto": "perro",
-   "arte": "puerto",
-   "origen": "https://www.elchubut.com.ar/regionales/2026-11-27-18-7-0-se-capacito-al-equipo-de-k9-en-detencion-de-pseudo-fentanilo"
-  },
-  {
-   "id": "regional-hockey-sub14-trelew-gaiman",
-   "sec": "deportes",
-   "ciudad": "Trelew",
-   "tema": "Hockey",
-   "titulo": "El Regional Sub 14 de hockey sigue en Trelew y Gaiman con 22 equipos",
-   "bajada": "El torneo de clubes damas reúne a equipos de la Patagonia en las categorías A, B y C.",
-   "cuerpo": [
-    "Trelew y Gaiman son sede del Campeonato Regional de Clubes Sub 14 Damas, en las categorías A, B y C, organizado por la Confederación Argentina de Hockey junto a la Asociación de Hockey Valle del Chubut. Participan 22 equipos de la Patagonia.",
-    "Este viernes se jugó la fase clasificatoria en distintas canchas de la región. El sábado seguirán los cuadrangulares y las semifinales, según cada categoría, y el domingo se disputarán las instancias decisivas y la coronación de campeones."
-   ],
-   "foto": "futbol",
-   "arte": "cancha",
-   "origen": "https://canal12web.com/el-regional-sub-14-de-hockey-completo-otra-jornada-de-competencia-en-trelew-y-gaiman/"
-  },
-  {
-   "id": "trelew-encuentro-municipios-turisticos-bariloche",
-   "sec": "turismo",
-   "ciudad": "Trelew",
-   "tema": "Turismo",
-   "titulo": "Trelew participó del Encuentro Nacional de Municipios Turísticos en Bariloche",
-   "bajada": "La secretaria de Producción, Comercio y Turismo, Andrea Rapetti, representó a la ciudad en el 33° encuentro.",
-   "cuerpo": [
-    "La Municipalidad de Trelew participó del 33° Encuentro de Municipios Turísticos y del 2° Encuentro de Legislación Turística, realizados el 26 y 27 de noviembre en San Carlos de Bariloche. La ciudad estuvo representada por la secretaria de Producción, Comercio y Turismo, Andrea Rapetti.",
-    "El encuentro reunió a autoridades, equipos técnicos y referentes del sector de distintos puntos del país para compartir experiencias de gestión, analizar problemáticas comunes y debatir herramientas para fortalecer los destinos. La primera jornada tuvo como eje la gobernanza, la inteligencia turística y la legislación."
-   ],
-   "foto": "turistas",
-   "arte": "ciudad",
-   "origen": "https://cholilaonline.ar/2026/11/trelew-participo-del-encuentro-nacional-de-municipios-turisticos-en-bariloche.html"
+   "foto": "teatro",
+   "arte": "escenario",
+   "origen": "https://canal12web.com/my-way-llega-a-puerto-madryn-con-un-musical-que-recorre-la-vida-de-frank-sinatra/"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427842/genero/instalaron_un_banco_rojo_y_realizaron_una_intervencion_de_zapatos_rojos",
-  "https://www.diariojornada.com.ar/427728/economia/la_produccion_industrial_cayo_un_3_interanual_en_octubre",
-  "https://www.diariojornada.com.ar/427727/economia/santander_la_bancaria_anuncio_un_paro_nacional_en_diciembre",
-  "https://www.diariojornada.com.ar/427723/economia/crecio_el_consumo_en_shoppings_y_bajo_en_supermercados",
-  "https://www.elchubut.com.ar/policiales/2026-11-26-17-32-0-sofocan-impresionante-incendio-en-una-chacra-que-casi-se-propaga-a-otro-establecimiento",
-  "https://www.madrynahora.com/puerto-madryn/sastre-estamos-preparando-a-la-ciudad-para-recibir-una-nueva-temporada-de-verano-con-mas-servicios-y-espacios/",
-  "https://www.madrynahora.com/argentina/preocupacion-por-luis-ventura-se-descompenso-antes-de-viajar-a-miami-y-fue-internado/",
-  "https://canal12web.com/santa-cruz-busca-recuperar-la-produccion-petrolera-convencional-y-apuesta-a-palermo-aike-y-sur-rio-deseado/",
-  "https://canal12web.com/franco-colapinto-pone-primera-en-el-gran-premio-de-qatar-de-formula-1/",
-  "https://canal12web.com/una-traffic-se-prendio-fuego-en-plena-ruta-3-y-termino-completamente-destruida/",
-  "https://cholilaonline.ar/2026/11/ader-mostro-su-capacidad-productiva-y-los-proyectos-que-prepara-para-2027.html",
-  "https://cholilaonline.ar/2026/11/la-municipalidad-acompanara-una-nueva-edicion-de-la-noche-magica-del-deporte.html",
-  "https://cholilaonline.ar/2026/11/comodoro-rivadavia-pymes-compre-local-cumbre-industrial.html"
+  "https://www.diariojornada.com.ar/427860/politica/pj_chubut_hubo_debate_fraterno_pero_la_unidad_debe_esperar",
+  "https://www.elchubut.com.ar/puerto-madryn/2026-11-26-14-42-0-fue-detenido-el-segundo-sospechoso-por-el-ataque-a-un-hombre-con-arma-blanca",
+  "https://www.elchubut.com.ar/puerto-madryn/2026-11-26-14-41-0-detuvieron-a-un-joven-acusado-de-agredir-a-su-abuela",
+  "https://www.elchubut.com.ar/policiales/2026-11-26-12-45-0-comodoro-detuvieron-a-un-hombre-por-causar-danos-en-la-casa-de-su-expareja",
+  "https://canal12web.com/la-cosmovision-andina-llega-a-puerto-madryn-de-la-mano-de-elena-martinez-quispe/",
+  "https://canal12web.com/tras-varios-dias-profugo-detuvieron-al-acusado-por-el-homicidio-de-rodrigo-colihuinca/",
+  "https://canal12web.com/argentina-goleo-a-bahamas-y-quedo-a-un-paso-de-clasificarse-al-mundial-de-qatar-2027/",
+  "https://cholilaonline.ar/2026/11/aumentos-diciembre-colectivos-subte-alquileres-prepagas.html",
+  "https://cholilaonline.ar/2026/11/firma-investigada-tapia-toviggino-compro-otra-quinta-pilar-villa-rosa.html",
+  "https://cholilaonline.ar/2026/11/santa-cruz-nuevo-codigo-electoral-2027-boleta-unica-ficha-limpia-paso.html",
+  "https://cholilaonline.ar/2026/11/reforma-biocombustibles-extraordinarias-diciembre-presupuesto-2027.html"
  ]
 }

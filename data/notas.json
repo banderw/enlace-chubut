@@ -77,6 +77,82 @@
  ],
  "notas": [
   {
+   "id": "my-way-musical-sinatra-puerto-madryn",
+   "fecha": "2026-11-27T23:07:36-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "\"My Way\", el musical sobre Frank Sinatra, se presenta este sábado en Puerto Madryn",
+   "bajada": "Más de 30 artistas de FAND participan del espectáculo dirigido por Nelson Coccalotto, en el Cine Teatro Auditorium a las 22.",
+   "cuerpo": [
+    "La vida de Frank Sinatra y sus grandes canciones llegan al escenario del Cine Teatro Auditorium con \"My Way\", un musical que recorre la historia del artista desde sus comienzos hasta sus últimos años. La función es este sábado 28 de noviembre, a las 22.",
+    "La obra fue escrita y dirigida por Nelson Coccalotto y reúne a más de 30 artistas de FAND, entre cantantes líricos, bailarines y actores. El elenco lo encabezan Román Coccalotto, distinguido con el Premio María Callas, y Anabella Carnevali, junto a Candela Ruiz, Sofía Rabolli, Salvador Antonucci Maspoli y Camilo Mendoza.",
+    "La puesta dura alrededor de una hora y media y combina canto en vivo, actuaciones, coreografías, iluminación y cambios escenográficos. Entre los personajes aparecen Sammy Davis Jr., Dean Martin, Ava Gardner, Marilyn Monroe y John F. Kennedy."
+   ],
+   "arte": "escenario",
+   "tema": "Teatro"
+  },
+  {
+   "id": "yoel-hernandez-republica-folklore",
+   "fecha": "2026-11-27T23:07:35-03:00",
+   "sec": "ultimas",
+   "ciudad": "El Maitén",
+   "titulo": "El maitenense Yoel Hernández tocó en el República Folklore ante unas 70.000 personas",
+   "bajada": "El artista participó del festival que encabeza Soledad Pastorutti, el 21 y 22 de noviembre en el Parque de la Ciudad, en Buenos Aires.",
+   "cuerpo": [
+    "El músico de El Maitén Yoel Hernández se presentó en el República Folklore, realizado el 21 y 22 de noviembre en el Parque de la Ciudad, en Villa Soldati. El encuentro reunió a unas 70.000 personas, 35.000 por jornada.",
+    "El sábado 21 actuó en La Pulpeña, un sector con formato de peña y guitarreada, donde compartió bloque con los payadores Gaboto-Tokar e invitó a escena a Miguelito Ibáñez. Al día siguiente integró la programación central, en una grilla con Soledad Pastorutti, Abel Pintos y Cazzu.",
+    "Llegó al festival luego de estrenar su chamamé \"La lluvia en el fuego\" y de cerrar en Chubut su gira \"Uniendo Pueblos\", que lo llevó a lugares adonde no suelen ir artistas reconocidos."
+   ],
+   "arte": "escenario",
+   "tema": "Música"
+  },
+  {
+   "id": "musica-al-paso-costanera-madryn",
+   "fecha": "2026-11-27T23:07:34-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "\"Música al paso\" llenó de música la costanera de Puerto Madryn",
+   "bajada": "La propuesta gratuita armó nueve estaciones musicales en un recorrido de 3,5 kilómetros, del Playón Recreativo al Parador de la Bajada 9.",
+   "cuerpo": [
+    "Puerto Madryn vivió el lunes 23 de noviembre una nueva edición de \"Música al paso\", dentro de la Semana de la Música. Entre las 17.30 y las 23.30, distintos puntos de la costanera funcionaron como escenarios al aire libre con artistas de la ciudad.",
+    "El público pudo recorrer caminando, trotando o en bicicleta las nueve estaciones, con estilos que fueron de la percusión y los ritmos brasileños al folklore, la música coral, el groove y la electrónica.",
+    "Participaron Volcán Activo, Matías Rodríguez, el Coro Estable Municipal dirigido por Diego Lacunza, la Orquesta Yayau, Groovefela y Samba Na Praia, junto a los DJ Pich, Doble Aa, Brian Kuhn y Nolbert."
+   ],
+   "arte": "escenario",
+   "tema": "Semana de la Música"
+  },
+  {
+   "id": "coros-municipales-madryn-concierto-fin-de-anio",
+   "fecha": "2026-11-27T23:07:33-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Los Coros Municipales de Puerto Madryn cierran el año con un concierto solidario",
+   "bajada": "Será el domingo 29 de noviembre a las 21.30 en la parroquia Sagrado Corazón de Jesús, con entrada libre.",
+   "cuerpo": [
+    "La Subsecretaría de Cultura de Puerto Madryn invita al Concierto de Fin de Año de los Coros Municipales, que reunirá a las tres agrupaciones en una noche de música, encuentro y solidaridad.",
+    "Se presentarán el Coro Infantil, dirigido por la licenciada Emilia Robles; el Coro de Jóvenes, a cargo de la licenciada Fabiana Solana, y el Coro Estable, con el profesor Diego Lacunza. El encuentro será en la parroquia Sagrado Corazón de Jesús, en Belgrano 292.",
+    "La entrada es libre y gratuita, aunque se pide a quienes asistan colaborar con elementos de higiene personal, que se destinarán a Hogares de Cristo."
+   ],
+   "arte": "escenario",
+   "tema": "Coros Municipales"
+  },
+  {
+   "id": "seros-nueva-sede-comodoro-torres",
+   "fecha": "2026-11-27T23:07:32-03:00",
+   "sec": "politica",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "Torres inauguró en Comodoro la nueva sede de Seros y un albergue para pacientes derivados",
+   "bajada": "El complejo, de unos 4.000 metros cubiertos, tiene 25 consultorios, quirófano para cirugías ambulatorias y una residencia para pacientes y acompañantes.",
+   "cuerpo": [
+    "El gobernador Ignacio Torres, junto al presidente del ISSyS, Miguel Arnaudo, inauguró en Comodoro Rivadavia la nueva sede de Seros y el Albergue de Derivados, en el marco del Plan Galina. La obra se hizo con recursos provinciales y demandó una inversión superior a los 20 millones de dólares.",
+    "El edificio reúne en un mismo predio la atención administrativa, los servicios médicos ambulatorios y el alojamiento transitorio para pacientes derivados y sus acompañantes, una respuesta pensada para quienes deben viajar a Comodoro por tratamientos prolongados o de mayor complejidad.",
+    "La estructura tiene siete niveles. La planta baja y los dos primeros pisos concentran recepción, atención al público y oficinas administrativas; del tercero al quinto funcionan los 25 consultorios médicos y odontológicos, un vacunatorio y el sector de cirugía ambulatoria.",
+    "Torres afirmó que los afiliados \"se merecían\" una sede como esta, con consultorios, quirófano y más de once habitaciones en la residencia para que los familiares puedan acompañar a los pacientes."
+   ],
+   "arte": "ciudad",
+   "tema": "Seros"
+  },
+  {
    "id": "trelew-encuentro-municipios-turisticos-bariloche",
    "fecha": "2026-11-27T22:07:23-03:00",
    "sec": "turismo",
@@ -1337,84 +1413,6 @@
    ],
    "arte": "ciudad",
    "tema": "25N"
-  },
-  {
-   "id": "madryn-brown-final-abech-juego-3",
-   "fecha": "2026-11-26T23:05:20-03:00",
-   "sec": "deportes",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Final de la ABECH: Deportivo Madryn y Guillermo Brown juegan el tercer partido con la serie 1 a 1",
-   "bajada": "El clásico madrynense se muda al Luján Barrientos este viernes a las 21:30, con el Aurinegro como local en el tercer y el cuarto juego.",
-   "cuerpo": [
-    "La final del Torneo Clausura de la Asociación de Básquet del Este del Chubut (ABECH) suma este viernes un nuevo capítulo: Deportivo Madryn recibirá a Guillermo Brown a partir de las 21:30 en el gimnasio Luján Barrientos, con la serie empatada 1 a 1.",
-    "Los dos primeros encuentros se jugaron en el gimnasio Benito García. En el primero, Madryn ganó como visitante por 91 a 84 y le quitó la localía a su rival. En el segundo, disputado el miércoles, Brown se recuperó y se impuso 101 a 91 después de dos tiempos suplementarios.",
-    "Ahora el Aurinegro será local tanto en el tercer como en el cuarto partido de la serie. Con todo igualado, el juego del viernes puede ser decisivo en una final marcada hasta ahora por la paridad, y se espera una gran convocatoria de público para el clásico de la ciudad."
-   ],
-   "arte": "cancha",
-   "tema": "Básquet ABECH"
-  },
-  {
-   "id": "hantavirus-prevencion-verano-cordillera",
-   "fecha": "2026-11-26T22:05:22-03:00",
-   "sec": "ultimas",
-   "ciudad": "Provincia",
-   "titulo": "Hantavirus: Salud de Chubut repasa los cuidados antes del verano en la Cordillera",
-   "bajada": "Con la temporada estival y el aumento de las actividades al aire libre y las tareas en chacras, la Secretaría de Salud recordó cómo prevenir el contagio.",
-   "cuerpo": [
-    "La Secretaría de Salud del Chubut, a través del Departamento Provincial de Zooantroponosis, difundió una serie de recomendaciones para prevenir el hantavirus, ante la llegada del verano y el crecimiento de las actividades al aire libre y de las tareas frutihortícolas en la zona cordillerana.",
-    "Para vecinos y turistas, la cartera sanitaria aconseja ventilar galpones, cabañas, caballerizas y otros lugares que hayan estado cerrados mucho tiempo, y mojar el piso antes de barrer para no levantar polvillo. Si aparece un ratón muerto, hay que usar guantes, rociarlo con lavandina, ponerlo en doble bolsa y enterrarlo o quemarlo, y después lavarse bien las manos.",
-    "En las casas se recomienda desmalezar el patio, tapar los agujeros con materiales resistentes, guardar los alimentos en envases herméticos, tirar la basura en recipientes con tapa y proteger las fuentes de agua. Si hay rastros de roedores, antes de limpiar se debe rociar la zona con abundante agua con lavandina, y la leña conviene juntarla con guantes.",
-    "Para las tareas rurales o de jardinería se indica usar calzado cerrado, ropa que cubra todo el cuerpo, guantes y barbijo, y luego cambiarse y ventilar la ropa. Quienes salgan a acampar deben elegir lugares sin malezas, andar por senderos habilitados, tomar solo agua segura, mantener la basura cerrada y evitar juntar frutos silvestres u hongos donde haya señales de roedores."
-   ],
-   "arte": "cordillera",
-   "tema": "Hantavirus"
-  },
-  {
-   "id": "comodoro-abrasoles-rifa-alquiler-servicios",
-   "fecha": "2026-11-26T22:05:21-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: Abrasoles, el centro de formación laboral para personas con discapacidad, lanzó una rifa para pagar el alquiler",
-   "bajada": "La institución atraviesa una situación económica delicada por la suba del alquiler de su sede y de los servicios, y pide la ayuda de los vecinos.",
-   "cuerpo": [
-    "El Centro de Formación Laboral para personas con discapacidad Abrasoles, de Comodoro Rivadavia, puso en marcha una rifa solidaria abierta a toda la comunidad para juntar el dinero que necesita para cubrir el alquiler de su sede y las boletas de los servicios básicos.",
-    "Melanie Izaguirre, referente de la entidad, explicó que el aumento constante de los costos fijos complicó las cuentas de la institución y pidió la colaboración de los vecinos para que no se vea afectado el funcionamiento diario del espacio, al que concurren decenas de jóvenes y adultos junto a sus familias.",
-    "Abrasoles dicta talleres de formación, organiza actividades de integración comunitaria y brinda capacitación orientada a la inserción laboral de personas con discapacidad. Desde la organización aclararon que todo lo que se recaude con la venta de los números irá directamente al pago del alquiler y de los servicios, para garantizar que las actividades continúen."
-   ],
-   "arte": "ciudad",
-   "tema": "Solidaridad"
-  },
-  {
-   "id": "gobernador-costa-jornada-igj-1-diciembre",
-   "fecha": "2026-11-26T21:05:16-03:00",
-   "sec": "ultimas",
-   "ciudad": "Gobernador Costa",
-   "titulo": "La Inspección General de Justicia atenderá en Gobernador Costa el martes 1 de diciembre",
-   "bajada": "Habrá atención y asesoramiento de 9 a 13 en el Auditorio Municipal para asociaciones civiles, fundaciones, sociedades comerciales y otras entidades.",
-   "cuerpo": [
-    "El Gobierno del Chubut, por medio del Ministerio de Gobierno y la Inspección General de Justicia (IGJ), hará una jornada de atención y asesoramiento en Gobernador Costa para acercar los servicios del organismo a los vecinos e instituciones de la zona.",
-    "La actividad será el martes 1 de diciembre, de 9 a 13, en el Auditorio Municipal. Allí, personal de la IGJ atenderá de manera personalizada a quienes necesiten hacer trámites, consultar dudas o recibir orientación sobre la normativa vigente.",
-    "La convocatoria apunta a representantes de asociaciones civiles, fundaciones, sociedades comerciales y otras entidades. La propuesta es parte del trabajo territorial del organismo para que los interesados no tengan que viajar a otras ciudades para hacer sus consultas."
-   ],
-   "arte": "meseta",
-   "tema": "Trámites"
-  },
-  {
-   "id": "comodoro-merendero-barrio-san-juan-colecta-navidad",
-   "fecha": "2026-11-26T21:05:15-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: un merendero del barrio San Juan arma una colecta navideña y pide leche, azúcar y harina",
-   "bajada": "El espacio de Kilómetro 12 ya recibe a más de 25 chicos por día y busca donaciones para sostener las meriendas y organizar una cena comunitaria de Nochebuena.",
-   "cuerpo": [
-    "El merendero y ropero comunitario del barrio San Juan, en la zona de Kilómetro 12 de Comodoro Rivadavia, lanzó una campaña abierta a la comunidad para juntar alimentos, golosinas y juguetes para las fiestas, y además pide ayuda urgente para no cortar las meriendas diarias.",
-    "Su referente, Daniela García, contó que el espacio arrancó hace tres años con entre 5 y 10 chicos y que hoy la asistencia supera los 25 por día. \"Atrás de esos nenes hay familias que se quedaron sin trabajo\", dijo, y agregó que también se acercan madres y padres a pedir alimentos.",
-    "El merendero funciona de lunes a viernes desde las 17 y le faltan insumos básicos como leche, azúcar y harina para preparar panificados. El ropero abre sábados y domingos de 14 a 18 y asiste también a familias de los barrios San Martín, Stella Maris y Máximo Abásolo.",
-    "Para Navidad planean una cena comunitaria y regalos para los chicos, por lo que reciben pan dulce, turrones, alimentos no perecederos, golosinas y juguetes en buen estado. \"Todo suma, así sea un paquete de harina, un turrón o una pelotita\", remarcó García.",
-    "Quienes quieran colaborar pueden llamar al 2975385246 para coordinar la entrega en el barrio San Juan o en un punto de encuentro, ya que el merendero no tiene vehículo para retirar donaciones."
-   ],
-   "arte": "ciudad",
-   "tema": "Solidaridad"
   },
   {
    "id": "comodoro-oca-retencion-salarios-adeudados",
