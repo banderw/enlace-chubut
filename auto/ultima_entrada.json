@@ -1,65 +1,77 @@
 {
  "notas": [
   {
-   "id": "correcaminata-educacion-adultos-trelew",
+   "id": "unpsjb-madryn-colacion-50-graduados",
    "sec": "ultimas",
-   "ciudad": "Trelew",
-   "tema": "Educación de adultos",
-   "titulo": "Más de 70 corredores participaron de la 2da Correcaminata por la Educación para Adultos en Trelew",
-   "bajada": "La actividad se realizó en la Laguna Chiquichano por el Día de la Educación para Adultos y fue organizada por la Escuela 608.",
+   "ciudad": "Puerto Madryn",
+   "tema": "UNPSJB",
+   "titulo": "La UNPSJB entregó diplomas a 50 graduados en su sede de Puerto Madryn",
+   "bajada": "El acto se realizó en el Aula Magna “Aldo López Guidi” con familiares y amigos de los nuevos profesionales.",
    "cuerpo": [
-    "Este sábado por la mañana se realizó en Trelew la segunda Correcaminata por el Día de la Educación para Adultos, una propuesta deportiva y recreativa que reunió a más de 70 participantes en la Laguna Chiquichano.",
-    "La iniciativa fue impulsada por la Escuela Primaria de Jóvenes y Adultos N.º 608, que hoy tiene unos 200 alumnos, con la colaboración de la Escuela 615. También se sumó la Escuela para Jóvenes y Adultos N.º 617 de Puerto Madryn.",
-    "En esta segunda edición, alumnos, docentes e integrantes de las instituciones compartieron una jornada de encuentro y participación al aire libre."
+    "La sede portuaria de la Universidad Nacional de la Patagonia San Juan Bosco realizó una nueva colación en la que 50 graduados recibieron sus diplomas de pregrado, grado y doctorado, ante un auditorio colmado.",
+    "Los títulos corresponden a las facultades de Ciencias Jurídicas, de Ingeniería y de Ciencias Naturales y de Ciencias de la Salud. Desde la Universidad y la Delegación Zonal felicitaron a los egresados y a sus familias.",
+    "La delegada zonal, Daniela Catena, recordó que en mayo hubo otra colación con egresados de todas las facultades, pero explicó que era importante hacer esta para no demorar la entrega del título, que es el paso hacia la inserción laboral.",
+    "Catena afirmó que en la sede portuaria el nivel de terminalidad “es alto” y destacó el trabajo de cada facultad, desde el diagnóstico hasta las acciones pedagógicas, para evitar el desgranamiento de los estudiantes en un contexto que calificó de adverso."
    ],
+   "foto": "universidad",
+   "foto_archivo": "auto/fotos_candidatas/cand-1.jpg",
+   "arte": "escuela",
+   "origen": "https://www.diariojornada.com.ar/427880/magazine/cxcvii_acto_de_colacion_de_grado_de_la_unpsjb"
+  },
+  {
+   "id": "madryn-empleo-discapacidad-perfiles",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "tema": "Discapacidad",
+   "titulo": "Madryn: buscan definir perfiles laborales para sumar trabajadores con discapacidad",
+   "bajada": "El Consejo Municipal de Discapacidad y la Secretaría de Turismo trabajan junto a empleadores para mejorar el acceso al empleo antes de la temporada.",
+   "cuerpo": [
+    "La presidenta del Consejo Municipal de Discapacidad de Puerto Madryn, Xenia Gabella, describió una situación muy difícil para el empleo de las personas con discapacidad, en sintonía con la coyuntura laboral general.",
+    "La Subsecretaría de Empleo visitó alrededor de mil comercios locales para relevar la demanda y sensibilizar al sector privado. Según Gabella, cerca del 40% de ellos estaría dispuesto a incorporar personal con discapacidad, aunque los registros de postulantes todavía son acotados porque no todos se inscriben en las oficinas municipales.",
+    "Uno de los obstáculos es que los empleadores no suelen definir con precisión las tareas del puesto. Por eso el Consejo empezó a trabajar con la Secretaría de Turismo, que encabeza Pablo Tedesco, de cara a la temporada. “No es ‘necesito un empleado’, sino ‘necesito un mozo’, qué condiciones tiene que tener y qué cosas tiene que hacer”, explicó.",
+    "Gabella sostuvo que la capacitación por sí sola no alcanza si persisten los prejuicios: “Las barreras son sociales y están incorporadas en nuestras matrices comunitarias”."
+   ],
+   "foto": "reunion",
    "foto_archivo": "auto/fotos_candidatas/cand-2.jpg",
-   "foto": "corredores",
    "arte": "ciudad",
-   "origen": "https://cholilaonline.ar/2026/11/educacion-para-adultos-en-trelew-segunda-correcaminata-chiquichano.html"
+   "origen": "https://www.diariojornada.com.ar/427877/magazine/buscan_derribar_prejuicios_y_definir_perfiles_para_sumar_trabajadores_con_discapacidad_al_sistema_laboral"
   },
   {
-   "id": "vih-madryn-campana-elegi-saber",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "tema": "Salud",
-   "titulo": "Campaña “Elegí saber”: testeos gratuitos de VIH en La Rambla de Puerto Madryn",
-   "bajada": "Una referente local advirtió que crecen los diagnósticos, sobre todo después de los 40 años, y destacó la importancia de la prevención y la confidencialidad.",
+   "id": "ley-medicos-guardias-rio-negro-santa-cruz",
+   "sec": "politica",
+   "ciudad": "Rawson",
+   "tema": "Salud pública",
+   "titulo": "La Legislatura habilitó que médicos cubran guardias en Chubut, Río Negro y Santa Cruz",
+   "bajada": "La ley exceptúa la prohibición de acumular cargos públicos y el requisito de residencia para especialistas de las tres provincias.",
    "cuerpo": [
-    "En el marco de la campaña “Elegí saber”, Puerto Madryn tendrá jornadas gratuitas y confidenciales de testeo de VIH en La Rambla, un lugar de gran circulación, para acercar esta herramienta a la comunidad.",
-    "Awad, activista y referente local en VIH/ITS, señaló que el aumento de nuevos diagnósticos se observa a nivel nacional y también en distintas localidades de Chubut, y que hay más casos en personas mayores de 40 años.",
-    "Explicó además que Nación dejó de comprar y enviar preservativos, insumos para testeos y medicamentos antirretrovirales, por lo que la provincia debió hacerse cargo de adquirirlos para sostener las prestaciones. “Es un momento crítico en el cual tenemos que reflexionar sobre lo que está pasando”, sostuvo."
+    "La Legislatura del Chubut sancionó por mayoría una ley que autoriza a los médicos del sistema público provincial a desempeñar funciones en Río Negro y Santa Cruz, y permite de manera recíproca que profesionales de esas provincias trabajen en hospitales chubutenses. Hubo una única abstención, la del diputado Juan Aquino, del Frente de Izquierda.",
+    "La diputada Sandra Willatowski, de Despierta Chubut, explicó que el esquema apunta a cubrir la falta de pediatras, cardiólogos, traumatólogos y ginecólogos en el interior. Aprovecha la cercanía entre ciudades limítrofes, como Lago Puelo y El Bolsón, Comodoro Rivadavia y Caleta Olivia, o Gastre e Ingeniero Jacobacci.",
+    "Los profesionales deberán presentar una declaración jurada y acreditar que hay escasez comprobada de especialistas en la zona y que no se superponen los horarios de los cargos públicos.",
+    "El oficialista Sergio Ongarato dijo que el sistema de salud chubutense enfrenta una fuerte competencia por el recurso humano. El bloque Arriba Chubut acompañó la sanción, aunque advirtió que no resuelve el problema estructural del sistema sanitario."
    ],
-   "foto": "hospital",
+   "foto": "medico",
    "arte": "ciudad",
-   "origen": "https://www.diariojornada.com.ar/427874/genero/hiv_hay_mas_diagnosticos_despues_de_los_40_anos"
-  },
-  {
-   "id": "banco-naranja-comisaria-mujer-madryn",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "tema": "Violencia de género",
-   "titulo": "Inauguraron un Banco Naranja en la Comisaría de la Mujer de Puerto Madryn",
-   "bajada": "El acto se realizó por el Día Internacional de la Eliminación de la Violencia contra las Mujeres.",
-   "cuerpo": [
-    "Se inauguró un Banco Naranja en las instalaciones de la Comisaría de la Mujer de Puerto Madryn, en el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres. El banco es un símbolo para visibilizar la problemática y reafirmar el compromiso de la comunidad y las instituciones con la prevención.",
-    "Participó personal de la Agencia de Violencia de Género y Delitos Sexuales del Ministerio Público Fiscal de Puerto Madryn y del SAVD.",
-    "La Comisaría de la Mujer funciona sobre Fontana 56, abierta las 24 horas, todos los días. El teléfono es +54 9 280 472-5388."
-   ],
-   "foto": "mujeres",
-   "arte": "ciudad",
-   "origen": "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-29-0-inauguraron-un-banco-naranja-en-la-comisaria-de-la-mujer"
+   "origen": "https://www.opisantacruz.com.ar/2026/11/28/pediatras-y-cardiologos-de-santa-cruz-y-rio-negro-podran-cubrir-guardias-en-chubut/"
   }
  ],
  "descartadas": [
-  "https://www.diariojornada.com.ar/427866/politica/malvinas_el_tribunal_del_mar_rechazo_el_pedido_argentino",
-  "https://www.diariojornada.com.ar/427873/magazine/un_puma_ciego_adopto_a_dos_zorritos_huerfanos",
-  "https://www.adnsur.com.ar/nam/el-postre-navideno-en-vasitos-que-se-arma-en-diez-minutos-sin-horno_a6b0948621af8333314b93abf",
-  "https://www.elchubut.com.ar/trelew/2026-11-28-10-14-0-las-epja-celebran-en-trelew-la-2da-correcaminata-por-la-educacion-para-adultos",
-  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-31-0-francisco-marcelo-orlando-presto-juramento-de-ley-y-fue-puesto-en-funciones-por-el-vicepresidente-del-stj",
-  "https://www.elchubut.com.ar/puerto-madryn/2026-11-27-19-29-0-egresados-40-anos",
-  "https://www.eldiarioweb.com/2026/11/el-tribunal-del-mar-rechazo-el-pedido-argentino-para-frenar-la-explotacion-petrolera-en-malvinas/",
-  "https://cholilaonline.ar/2026/11/pablo-quirno-fallo-tribunal-mar-malvinas-disputa-soberania.html",
-  "https://cholilaonline.ar/2026/11/inter-miami-quedo-eliminado-de-la-mls-ante-columbus-crew.html",
-  "https://cholilaonline.ar/2026/11/juicios-laborales-contra-el-estado-acumulan-casi-68000-millones.html"
+  "https://www.diariojornada.com.ar/427878/magazine/el_hospital_zonal_difundio_turnos_y_especialidades",
+  "https://www.diariojornada.com.ar/427879/magazine/la_morosidad_del_impuesto_inmobiliario_alcanza_el_60_",
+  "https://www.opisantacruz.com.ar/2026/11/28/los-bancos-pidieron-al-bcra-casi-us-200-millones-en-billetes-fisicos/",
+  "https://www.opisantacruz.com.ar/2026/11/28/al-menos-cuatro-mineros-atrapados-tras-derrumbe-en-colombia/",
+  "https://www.elchubut.com.ar/regionales/2026-11-28-10-23-0-cumbre-del-pj-chubut-sin-definiciones-los-precandidatos-a-gobernador-volveran-a-reunirse",
+  "https://www.elchubut.com.ar/espectaculos/2026-11-27-14-46-0-con-espiritu-navideno-y-un-impostor-en-juego-netflix-estrena-los-12-desafios-de-salish",
+  "https://www.elchubut.com.ar/espectaculos/2026-11-27-14-37-0-luisana-lopilato-sera-la-invitada-en-argentina-de-pelicula",
+  "https://www.elchubut.com.ar/espectaculos/2026-11-27-13-17-0-felicidades-la-nueva-comedia-negra-de-alex-de-la-iglesia-llega-a-netflix-el-18-de-diciembre",
+  "https://www.eldiarioweb.com/2026/11/luque-los-que-no-quieren-la-unidad-son-socios-de-torres/",
+  "https://www.eldiarioweb.com/2026/11/el-gobierno-oficializo-el-llamado-a-sesiones-extraordinarias/",
+  "https://www.eldiarioweb.com/2026/11/una-multitud-de-hinchas-de-estudiantes-viajo-a-montevideo-para-la-final-ante-palmeiras/",
+  "https://www.eldiarioweb.com/2026/11/los-coros-municipales-cerraran-el-ano-con-un-concierto-conjunto/",
+  "https://canal12web.com/sastre-hablo-de-figuras-elecciones-y-el-pj-somos-justicialistas-y-vamos-a-seguir-siendolo-toda-la-vida/",
+  "https://canal12web.com/comodoro-totalmente-borracho-manejaba-con-257-gramos-de-alcohol-y-termino-demorado/",
+  "https://cholilaonline.ar/2026/11/estudiantes-palmeiras-final-copa-libertadores-2026-probable-formacion-alexander-medina.html",
+  "https://cholilaonline.ar/2026/11/alcoholemia-positiva-en-comodoro-manejaba-con-2-57-gramos.html",
+  "https://cholilaonline.ar/2026/11/estudiantes-palmeiras-final-copa-libertadores-2026-por-que-no-juega-baltasar-rodriguez.html",
+  "https://cholilaonline.ar/2026/11/dolar-hoy-dolar-blue-oficial-paralelo-28-noviembre.html"
  ]
 }

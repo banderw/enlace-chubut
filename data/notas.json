@@ -77,6 +77,54 @@
  ],
  "notas": [
   {
+   "id": "ley-medicos-guardias-rio-negro-santa-cruz",
+   "fecha": "2026-11-28T12:07:26-03:00",
+   "sec": "politica",
+   "ciudad": "Rawson",
+   "titulo": "La Legislatura habilitó que médicos cubran guardias en Chubut, Río Negro y Santa Cruz",
+   "bajada": "La ley exceptúa la prohibición de acumular cargos públicos y el requisito de residencia para especialistas de las tres provincias.",
+   "cuerpo": [
+    "La Legislatura del Chubut sancionó por mayoría una ley que autoriza a los médicos del sistema público provincial a desempeñar funciones en Río Negro y Santa Cruz, y permite de manera recíproca que profesionales de esas provincias trabajen en hospitales chubutenses. Hubo una única abstención, la del diputado Juan Aquino, del Frente de Izquierda.",
+    "La diputada Sandra Willatowski, de Despierta Chubut, explicó que el esquema apunta a cubrir la falta de pediatras, cardiólogos, traumatólogos y ginecólogos en el interior. Aprovecha la cercanía entre ciudades limítrofes, como Lago Puelo y El Bolsón, Comodoro Rivadavia y Caleta Olivia, o Gastre e Ingeniero Jacobacci.",
+    "Los profesionales deberán presentar una declaración jurada y acreditar que hay escasez comprobada de especialistas en la zona y que no se superponen los horarios de los cargos públicos.",
+    "El oficialista Sergio Ongarato dijo que el sistema de salud chubutense enfrenta una fuerte competencia por el recurso humano. El bloque Arriba Chubut acompañó la sanción, aunque advirtió que no resuelve el problema estructural del sistema sanitario."
+   ],
+   "arte": "ciudad",
+   "tema": "Salud pública"
+  },
+  {
+   "id": "madryn-empleo-discapacidad-perfiles",
+   "fecha": "2026-11-28T12:07:25-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Madryn: buscan definir perfiles laborales para sumar trabajadores con discapacidad",
+   "bajada": "El Consejo Municipal de Discapacidad y la Secretaría de Turismo trabajan junto a empleadores para mejorar el acceso al empleo antes de la temporada.",
+   "cuerpo": [
+    "La presidenta del Consejo Municipal de Discapacidad de Puerto Madryn, Xenia Gabella, describió una situación muy difícil para el empleo de las personas con discapacidad, en sintonía con la coyuntura laboral general.",
+    "La Subsecretaría de Empleo visitó alrededor de mil comercios locales para relevar la demanda y sensibilizar al sector privado. Según Gabella, cerca del 40% de ellos estaría dispuesto a incorporar personal con discapacidad, aunque los registros de postulantes todavía son acotados porque no todos se inscriben en las oficinas municipales.",
+    "Uno de los obstáculos es que los empleadores no suelen definir con precisión las tareas del puesto. Por eso el Consejo empezó a trabajar con la Secretaría de Turismo, que encabeza Pablo Tedesco, de cara a la temporada. “No es ‘necesito un empleado’, sino ‘necesito un mozo’, qué condiciones tiene que tener y qué cosas tiene que hacer”, explicó.",
+    "Gabella sostuvo que la capacitación por sí sola no alcanza si persisten los prejuicios: “Las barreras son sociales y están incorporadas en nuestras matrices comunitarias”."
+   ],
+   "arte": "ciudad",
+   "tema": "Discapacidad"
+  },
+  {
+   "id": "unpsjb-madryn-colacion-50-graduados",
+   "fecha": "2026-11-28T12:07:24-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "La UNPSJB entregó diplomas a 50 graduados en su sede de Puerto Madryn",
+   "bajada": "El acto se realizó en el Aula Magna “Aldo López Guidi” con familiares y amigos de los nuevos profesionales.",
+   "cuerpo": [
+    "La sede portuaria de la Universidad Nacional de la Patagonia San Juan Bosco realizó una nueva colación en la que 50 graduados recibieron sus diplomas de pregrado, grado y doctorado, ante un auditorio colmado.",
+    "Los títulos corresponden a las facultades de Ciencias Jurídicas, de Ingeniería y de Ciencias Naturales y de Ciencias de la Salud. Desde la Universidad y la Delegación Zonal felicitaron a los egresados y a sus familias.",
+    "La delegada zonal, Daniela Catena, recordó que en mayo hubo otra colación con egresados de todas las facultades, pero explicó que era importante hacer esta para no demorar la entrega del título, que es el paso hacia la inserción laboral.",
+    "Catena afirmó que en la sede portuaria el nivel de terminalidad “es alto” y destacó el trabajo de cada facultad, desde el diagnóstico hasta las acciones pedagógicas, para evitar el desgranamiento de los estudiantes en un contexto que calificó de adverso."
+   ],
+   "arte": "escuela",
+   "tema": "UNPSJB"
+  },
+  {
    "id": "banco-naranja-comisaria-mujer-madryn",
    "fecha": "2026-11-28T11:07:04-03:00",
    "sec": "ultimas",
@@ -1332,22 +1380,6 @@
    "tema": "Ciclismo"
   },
   {
-   "id": "rabia-murcielago-puerto-madryn-villa-padilla",
-   "fecha": "2026-11-27T16:08:46-03:00",
-   "sec": "ultimas",
-   "ciudad": "Puerto Madryn",
-   "titulo": "Rabia en Puerto Madryn: vacunan mascotas en Villa Padilla tras un caso en un murciélago",
-   "bajada": "La Municipalidad armó un anillo epidemiológico alrededor de la Escuela N.º 110 y vacunará gratis a perros y gatos desde este sábado.",
-   "cuerpo": [
-    "Tras confirmarse un caso positivo de rabia en un murciélago hallado cerca de la Escuela N.º 110, en el barrio Villa Padilla, la Dirección de Veterinaria y Zoonosis de Puerto Madryn activó un protocolo sanitario y delimitó un anillo epidemiológico.",
-    "Agentes municipales identificados recorrerán las casas ubicadas entre las calles Reconquista, Estivariz, Piedra Buena y 9 de Julio para vacunar a las mascotas. El cronograma es el sábado 28 y el lunes 30 de noviembre y el martes 1 de diciembre, de 8 a 16, y el domingo 29, de 10 a 12.",
-    "Con el mismo horario, el Quirófano Móvil estará en la avenida Gales, entre Colón y Rosales, para aplicar la vacuna antirrábica gratuita. Es obligatoria desde los tres meses de edad.",
-    "Como todo el equipo estará dedicado al operativo, las castraciones quedan suspendidas desde el sábado 28 hasta el martes 2 de diciembre inclusive. Desde Zoonosis recomiendan no tocar mamíferos silvestres y, si hay un murciélago muerto o con movimientos erráticos, cubrirlo con un recipiente y avisar al 103 de Protección Civil."
-   ],
-   "arte": "playa",
-   "tema": "Rabia"
-  },
-  {
    "id": "torres-canadon-perdido-recuperacion-terciaria",
    "fecha": "2026-11-27T14:42:13-03:00",
    "sec": "politica",
@@ -1413,22 +1445,6 @@
    "tema": "Sueldos estatales"
   },
   {
-   "id": "comodoro-oca-retencion-salarios-adeudados",
-   "fecha": "2026-11-26T20:05:17-03:00",
-   "sec": "cuenca",
-   "ciudad": "Comodoro Rivadavia",
-   "titulo": "Comodoro: trabajadores de OCA frenaron los repartos porque les deben la mitad del sueldo de octubre",
-   "bajada": "La retención de servicios es por tiempo indeterminado y alcanza a unas 60 familias entre empleados de planta y fleteros. En la sucursal se acumulan cartas y paquetes sin entregar.",
-   "cuerpo": [
-    "Los empleados de la sucursal de OCA en Comodoro Rivadavia dejaron de distribuir correspondencia y encomiendas en la ciudad y mantienen una retención de servicios sin fecha de finalización. El reclamo es por el 50 % del salario de octubre, que todavía no cobraron, y por la falta de certezas sobre el sueldo de noviembre y el medio aguinaldo de diciembre.",
-    "Según contaron, la empresa ni siquiera cumplió con el compromiso de pagar un 25 % el viernes pasado. El atraso afecta a más de 50 trabajadores de planta y a alrededor de 10 fleteros. \"Nos están arruinando la vida. Todos estamos con recargos de los bancos, cortes de luz, de gas y de tarjetas de crédito\", dijo Gustavo Gallardo, que trabaja hace 26 años en la sede local.",
-    "Mientras dure la medida, el depósito de la sucursal sigue lleno de envíos sin repartir. Gallardo aseguró que la entrega se normalizará en cuanto se salde la deuda: \"Apenas nos paguen, vamos a salir a trabajar y a entregar todo lo que hay ahí acumulado\".",
-    "Los trabajadores indicaron que la firma atribuye la demora al conflicto que atraviesa a nivel nacional y condiciona una solución a la paritaria del sector, por lo que ratificaron que no volverán a las recorridas hasta cobrar todo lo adeudado."
-   ],
-   "arte": "ciudad",
-   "tema": "Conflicto OCA"
-  },
-  {
    "id": "seros-nueva-sede-comodoro-albergue-derivados",
    "fecha": "2026-11-26T17:46:17-03:00",
    "sec": "cuenca",
@@ -1443,28 +1459,6 @@
    ],
    "arte": "ciudad",
    "tema": "Seros"
-  },
-  {
-   "id": "formacion-profesional-verano-2027",
-   "fecha": "2026-11-26T14:12:26-03:00",
-   "sec": "ultimas",
-   "ciudad": "Provincia",
-   "titulo": "Formación Profesional de Verano: Chubut ofrecerá más de 20 cursos gratuitos de oficios y tecnología",
-   "bajada": "La preinscripción es del 30 de noviembre al 11 de diciembre por WhatsApp, a través de DINO. Las clases empiezan el 4 de enero.",
-   "cuerpo": [
-    "El Gobierno del Chubut, a través del Ministerio de Educación y la Dirección de Formación Profesional, prepara una nueva edición de Formación Profesional de Verano: más de 23 capacitaciones gratuitas para jóvenes y adultos, pensadas para conseguir trabajo, trabajar por cuenta propia o armar un emprendimiento.",
-    "Los cursos se dictarán en los Centros de Formación Profesional de Rawson, Trelew, Comodoro Rivadavia, Sarmiento, Río Mayo, Trevelin, Epuyén y Lago Puelo, con actividades también en El Hoyo. En Rawson habrá Aulas Talleres Móviles del CFP Nº 662, y en Playa Unión se prevén cursos cortos de gastronomía pensados para la temporada turística.",
-    "La oferta incluye instalaciones eléctricas domiciliarias, construcción en seco, elaboración de alimentos, asistente administrativo, diseño de rejas metálicas, herramientas digitales para emprendedores, informática multimedial, dibujo asistido por computadora, impresoras 3D, electricidad del automotor, carpintería, corte y confección, operador de PC, instalaciones sanitarias y de gas, apicultura y primeros auxilios en ambientes agrestes. Los cursos duran entre 50 y 180 horas.",
-    "La preinscripción se hace por DINO, el asistente virtual del Gobierno, escribiendo por WhatsApp al 280 460-3466, del 30 de noviembre al 11 de diciembre. Ese mismo día se informarán los resultados y las clases comenzarán a partir del 4 de enero de 2027."
-   ],
-   "arte": "escuela",
-   "tema": "Formación Profesional",
-   "galeria": [
-    "formacion-profesional-verano-2027-2.jpg",
-    "formacion-profesional-verano-2027-3.jpg",
-    "formacion-profesional-verano-2027-4.jpg"
-   ],
-   "gacetilla": true
   }
  ],
  "especial": {
