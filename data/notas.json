@@ -77,6 +77,36 @@
  ],
  "notas": [
   {
+   "id": "tres-poderes-violencia-contra-las-mujeres",
+   "fecha": "2026-11-28T14:06:57-03:00",
+   "sec": "ultimas",
+   "ciudad": "Rawson",
+   "titulo": "Los tres Poderes del Chubut renovaron su compromiso contra la violencia hacia las mujeres",
+   "bajada": "El acto central por el Día Internacional de la Eliminación de la Violencia contra las Mujeres se realizó en la Legislatura, con representantes de los Poderes Ejecutivo, Legislativo y Judicial.",
+   "cuerpo": [
+    "El Gobierno del Chubut, a través del Ministerio de Desarrollo Humano, realizó este viernes en la Legislatura provincial la jornada central por el Día Internacional de la Eliminación de la Violencia contra las Mujeres, con el objetivo de visibilizar las políticas de prevención, asistencia y abordaje integral de las violencias por motivos de género.",
+    "La mesa principal estuvo integrada por la ministra del Superior Tribunal de Justicia, Camila Banfi; la ministra de Desarrollo Humano, Florencia Papaiani; la secretaria General de Gobierno, Macarena Acuipil; la secretaria Legislativa, Ligia Pérez; y la directora general de Políticas de Género y Diversidad, Jazmín Verra. También participaron autoridades de gobiernos locales y equipos técnicos.",
+    "Papaiani sostuvo que \"es importante que cada año podamos renovar el compromiso\" y agradeció al personal de la Línea 137, que atiende las 24 horas todos los días del año. Remarcó la necesidad de abordar el tema de forma integral, con prevención, asistencia y oportunidades para que las mujeres construyan proyectos de vida autónomos."
+   ],
+   "arte": "ciudad",
+   "tema": "Violencia de género"
+  },
+  {
+   "id": "blotta-lidero-entrenamiento-viedma",
+   "fecha": "2026-11-28T14:06:56-03:00",
+   "sec": "deportes",
+   "ciudad": "Comodoro Rivadavia",
+   "titulo": "El comodorense Renzo Blotta fue el más veloz del último entrenamiento del TN en Viedma",
+   "bajada": "El piloto del Peugeot 208 marcó 1m38s973 en la Clase 2 y quedó apenas 4 milésimas por delante del líder del campeonato.",
+   "cuerpo": [
+    "Renzo Blotta se quedó con el segundo y último entrenamiento de la Clase 2 del Turismo Nacional en el autódromo de Viedma, en la previa de la 12ª y última fecha del Campeonato 2026. El piloto comodorense, que había sido 9º en la primera práctica, giró en 1m38s973 a 149,786 km/h.",
+    "Superó por solo 0s004 a Tomás Vitar (Nissan March), líder del campeonato. Exequiel Bastidas (Toyota Yaris), escolta en la tabla, fue 3º a 0s036, y Gastón Iansa (Peugeot 208) cuarto a 0s082 de Blotta.",
+    "Francisco Coltrinari (Peugeot 208), el candidato más relegado en la pelea por el título, fue 5º. Está a 27 puntos de Vitar con 63 en disputa. La categoría también informó que los autos involucrados en la definición de las Clases 2 y 3 tendrán una verificación técnica cruzada."
+   ],
+   "arte": "ruta",
+   "tema": "Turismo Nacional"
+  },
+  {
    "id": "mi-mundo-sos-vos-concierto-madryn",
    "fecha": "2026-11-28T13:08:25-03:00",
    "sec": "ultimas",
@@ -1337,36 +1367,6 @@
    ],
    "arte": "escuela",
    "tema": "Cultura"
-  },
-  {
-   "id": "esquel-licitacion-18-cuadras-cordon-cuneta-adoquinado",
-   "fecha": "2026-11-27T16:12:59-03:00",
-   "sec": "ultimas",
-   "ciudad": "Esquel",
-   "titulo": "Esquel licitará 18 cuadras de cordón cuneta y adoquinado en tres barrios",
-   "bajada": "Las obras llegarán a Malvinas Argentinas, Jorge Newbery y Belgrano, con un presupuesto oficial de $530,6 millones y 240 días de plazo.",
-   "cuerpo": [
-    "La Municipalidad de Esquel licitará la construcción de 18 cuadras: seis en el barrio Malvinas Argentinas, ocho en el Jorge Newbery y cuatro en el Belgrano. El proyecto incluye cordones cuneta de hormigón, badenes, estructuras complementarias y acondicionamiento del suelo.",
-    "El intendente Matías Taccetta dijo que se trata de \"un plan de infraestructura vial que tiene como objetivo mejorar la calidad de vida de los vecinos\" y que el municipio trabaja \"con planificación y recursos municipales\" para llegar a barrios que esperaban estas mejoras.",
-    "El plazo de ejecución es de 240 días corridos. El presupuesto oficial es de $530.630.866,78 y la garantía de oferta se fijó en $5.306.308,67. Los pliegos se consultan y adquieren en la Dirección de Compras municipal."
-   ],
-   "arte": "ruta",
-   "tema": "Obras en Esquel"
-  },
-  {
-   "id": "esquel-copa-voley-antonio-anselmo-2026",
-   "fecha": "2026-11-27T16:12:58-03:00",
-   "sec": "deportes",
-   "ciudad": "Esquel",
-   "titulo": "Esquel recibe la Copa de vóley \"Antonio Anselmo\" con trece equipos de siete ciudades",
-   "bajada": "El torneo se juega del viernes 27 al domingo 29 de noviembre en el Gimnasio Municipal \"León Camilo Catena\", con entrada libre.",
-   "cuerpo": [
-    "La Copa Esquel 2026 reúne a trece planteles de Esquel, Bariloche, Trelew, El Bolsón, El Maitén, Epuyén y Corcovado, en las ramas masculina y femenina. La organiza la Asociación Civil Cordillerana de Vóley y la entrada es abierta, con servicio de buffet.",
-    "El viernes a las 19 comienzan los cruces en dos canchas. El sábado habrá fase de grupos de 9 a 21 y a las 18.45 se hará el acto inaugural con autoridades. El domingo desde las 9 se juegan cuartos y semifinales.",
-    "Las finales se disputarán en cancha única: la femenina a las 16.30 y la masculina a las 18, y a las 20.30 será la entrega de premios."
-   ],
-   "arte": "cancha",
-   "tema": "Vóley"
   },
   {
    "id": "formacion-profesional-cursos-verano-2027",
