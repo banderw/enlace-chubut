@@ -77,6 +77,53 @@
  ],
  "notas": [
   {
+   "id": "sastre-elecciones-21-marzo-madryn",
+   "fecha": "2026-11-28T17:07:09-03:00",
+   "sec": "politica",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Sastre confirmó que Puerto Madryn votará el 21 de marzo junto con la provincia",
+   "bajada": "El intendente ratificó que la ciudad acompañará el cronograma electoral provincial y mencionó nombres de su espacio para la sucesión.",
+   "cuerpo": [
+    "Durante el cierre anual de los talleres deportivos y culturales municipales, el intendente Gustavo Sastre ratificó que Puerto Madryn adherirá a la fecha electoral de Chubut, el 21 de marzo. Explicó que había evaluado unificar los comicios en octubre, pero que la decisión del Gobierno provincial reordenó el escenario y ya trabajan en la organización local.",
+    "Sobre la continuidad política en el municipio, destacó la amplitud de su armado y mencionó al viceintendente Martín Ebene, a la secretaria de Gobierno Leila Zanette y a Hernán Tórtola, ex titular de Infraestructura del Chubut.",
+    "Además adelantó que antes del próximo fin de semana se presentará la programación de verano, con propuestas deportivas, culturales y educativas, espectáculos en el escenario mayor y un dispositivo especial de seguridad para vecinos y turistas."
+   ],
+   "arte": "ciudad",
+   "tema": "Elecciones 2027"
+  },
+  {
+   "id": "semana-discapacidad-madryn-sin-barreras",
+   "fecha": "2026-11-28T17:07:08-03:00",
+   "sec": "ultimas",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Comenzó en Puerto Madryn la Semana de la Discapacidad con doce jornadas de actividades",
+   "bajada": "Bajo el lema “Sin Barreras es Mejor”, el Consejo Municipal de Discapacidad organiza talleres, deportes adaptados, espectáculos y reconocimientos al empleo inclusivo.",
+   "cuerpo": [
+    "Con motivo del Día Internacional y Nacional de las Personas con Discapacidad, que se conmemora el 3 de diciembre, el Consejo de Discapacidad de Puerto Madryn organizó una agenda para visibilizar derechos, promover la accesibilidad universal y eliminar barreras sociales y del entorno.",
+    "A lo largo de doce jornadas habrá talleres técnicos, actividades deportivas adaptadas, espectáculos culturales, capacitaciones en salud, mapeos urbanos participativos y actos institucionales. El trabajo es coordinado entre el Estado, instituciones sanitarias, establecimientos educativos y organizaciones comunitarias.",
+    "Este sábado 28 hay cierre de los talleres de deportes accesibles en la zona de playa del centro, de 10 a 12, y a las 20 la comedia musical «El Monstruo de la Laguna» en el Teatro del Muelle. El 2 de diciembre, a las 11, se distinguirá a empleadores inclusivos en la Usina de la CAMAD.",
+    "El jueves 3 se realizará el acto oficial en el Bingo Municipal, a las 10, y a las 11 se celebrará el 10° aniversario del buffet «Cocinando Sueños» en el ingreso del hospital Andrés Isola."
+   ],
+   "arte": "ciudad",
+   "tema": "Discapacidad"
+  },
+  {
+   "id": "kayakeada-madryn-virgen-11-edicion",
+   "fecha": "2026-11-28T17:07:07-03:00",
+   "sec": "turismo",
+   "ciudad": "Puerto Madryn",
+   "titulo": "Puerto Madryn vivirá el 8 de diciembre la 11° Kayakeada en honor a la Virgen",
+   "bajada": "La procesión náutica saldrá a las 19 desde la Bajada N° 8 y ya están abiertas las inscripciones para kayakistas y aficionados a la náutica.",
+   "cuerpo": [
+    "La Secretaría de Turismo de Puerto Madryn invita a la undécima edición de la kayakeada en honor a la Inmaculada Concepción, patrona de la ciudad. Se hará el martes 8 de diciembre, Día de la Virgen, desde la Bajada N° 8, cerca del Madryn Kayak Club.",
+    "La procesión trasladará la imagen de la Virgen desde la guardería del club hasta la fuente de la ciudad, en avenida Roca y 28 de Julio. La concentración arrancará a las 17 en el club, con entrega de ofrendas, preparación del equipamiento y un momento de reflexión junto a integrantes de la Iglesia Sagrada Familia.",
+    "Pueden inscribirse las personas mayores de 18 años hasta el 4 de diciembre o hasta completar el cupo, y también podrán sumarse quienes practiquen stand up. Es obligatorio contar con los elementos de seguridad y comunicarse con el club para conocer la logística.",
+    "La propuesta, que desde hace siete años cuenta con la bendición del Papa Francisco, refuerza el turismo religioso de la ciudad junto con el Vía Crucis Submarino de Semana Santa."
+   ],
+   "arte": "mar",
+   "tema": "Kayakeada"
+  },
+  {
    "id": "trelew-tennis-club-torneo-equipos",
    "fecha": "2026-11-28T16:07:22-03:00",
    "sec": "deportes",
@@ -1321,53 +1368,6 @@
    ],
    "arte": "cancha",
    "tema": "Fútbol Liga del Valle"
-  },
-  {
-   "id": "educacion-secundaria-pot-resolucion-740",
-   "fecha": "2026-11-27T17:07:57-03:00",
-   "sec": "ultimas",
-   "ciudad": "Provincia",
-   "titulo": "Educación Secundaria: aprobaron la reformulación del cargo de Profesor de Orientación y Tutoría",
-   "bajada": "La Resolución 740/2026 fija nuevas condiciones de acceso, puntaje y carga horaria para los cargos de POT desde el ciclo lectivo 2027.",
-   "cuerpo": [
-    "El Ministerio de Educación y los cinco gremios docentes de la provincia acordaron reformular el cargo de Profesor de Orientación y Tutoría (POT) de Secundaria. La Resolución ME Nº 740/2026, firmada el 24 de noviembre, formaliza lo trabajado durante 2026 en las Mesas Técnicas.",
-    "Desde 2027, los cargos se cubrirán con un listado específico por orden de puntaje de la Junta de Clasificación Docente. Podrán integrarlo docentes con título para el nivel secundario y categoría D, y profesionales de disciplinas como Psicología, Psicopedagogía, Historia, Trabajo Social, Comunicación Social, Filosofía, Sociología o Ciencias de la Educación.",
-    "Se sumarán 0,10 puntos por año de antigüedad en el cargo, hasta 3, y hasta 6 puntos por capacitaciones específicas de más de 200 horas cátedra. Los cargos tendrán 25 horas reloj en un turno, con una valoración de 1,4616 en el Nomenclador Docente, y cada POT atenderá hasta tres secciones.",
-    "En las escuelas técnicas se incorporará de forma progresiva un POT por turno y por ciclo en los talleres durante 2027."
-   ],
-   "arte": "escuela",
-   "tema": "Educación"
-  },
-  {
-   "id": "banco-chubut-stj-capacitacion-ciberdelito",
-   "fecha": "2026-11-27T17:07:56-03:00",
-   "sec": "politica",
-   "ciudad": "Provincia",
-   "titulo": "El Banco del Chubut y el Superior Tribunal capacitaron sobre ciberdelito financiero",
-   "bajada": "La jornada reunió a profesionales de los ámbitos financiero, tecnológico y judicial para analizar la prevención del fraude y la investigación de delitos informáticos.",
-   "cuerpo": [
-    "El Banco del Chubut realizó este jueves 26 de noviembre la jornada \"Ciberdelito financiero: una mirada integral desde la tecnología, el fraude y la justicia\", en el marco del convenio de cooperación que mantiene con el Superior Tribunal de Justicia de la provincia. La actividad contó con el auspicio de la Escuela de Capacitación del Tribunal.",
-    "Se trataron temas como la seguridad de dispositivos, credenciales y canales digitales, la prevención de fraudes financieros, el tratamiento de la evidencia digital, la trazabilidad y los procesos de investigación judicial.",
-    "Participaron el presidente del Banco, Paulino Caballero; el gerente general, Gustavo González; y el ministro del Superior Tribunal, Mario Vivas. Entre los disertantes estuvieron Francisco Faiella, de la Unidad Fiscal Especializada en Ciberdelincuencia (UFECI), Joaquín Alfieri, del Banco de Neuquén, y Leandro Balbi, de Red Link."
-   ],
-   "arte": "banco",
-   "tema": "Ciberdelito"
-  },
-  {
-   "id": "piramides-guardavidas-denuncia-operativo-policial",
-   "fecha": "2026-11-27T17:07:55-03:00",
-   "sec": "ultimas",
-   "ciudad": "Puerto Pirámides",
-   "titulo": "Guardavidas de Pirámides denuncian un operativo policial y precarización laboral",
-   "bajada": "El gremio SUGARA cuestionó el despliegue de policías durante la evaluación de postulantes y el cambio de modalidad de contratación para la temporada de verano.",
-   "cuerpo": [
-    "El conflicto entre el Ejecutivo municipal de Puerto Pirámides y los guardavidas sumó un nuevo capítulo. El Sindicato Único de Guardavidas y Afines de la República Argentina (SUGARA) denunció un fuerte despliegue policial durante la instancia de evaluación para conformar el cuerpo que trabajará en la próxima temporada.",
-    "Según el gremio, la mesa evaluadora estuvo integrada por representantes del Municipio, del Concejo Deliberante y un profesional convocado desde Puerto Madryn. Tras la evaluación habrían quedado seleccionados ocho postulantes, de los cuales cinco no serían residentes de la localidad.",
-    "SUGARA también cuestionó que, mientras hasta la temporada pasada los guardavidas trabajaban bajo el convenio colectivo, ahora pasarían a hacerlo como monotributistas. Sostuvo que el conflicto lleva casi un año y que las decisiones del Ejecutivo desconocen ordenanzas aprobadas por el Concejo Deliberante.",
-    "En su comunicado, el sindicato responsabilizó al intendente Jorge Perversi y a la secretaria de Gobierno, María Flores, por cualquier situación que pudiera ocurrir con bañistas y trabajadores durante la temporada 2026/27."
-   ],
-   "arte": "playa",
-   "tema": "Guardavidas Pirámides"
   },
   {
    "id": "formacion-profesional-cursos-verano-2027",
